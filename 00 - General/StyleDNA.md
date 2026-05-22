@@ -1,84 +1,84 @@
-# Stil-DNA: Centerline
+# Stil-DNA: Uncommon Courtesy
 
-*Dieses Dokument extrahiert die wiederholbaren Stilmerkmale aus dem Manuskript, um konsistente Kapitel zu erstellen.*
+*Generelle Stilregeln für das Gesamtmanuskript. Charakterspezifische Stimmen werden in den jeweiligen Charaktersheets definiert und haben Vorrang vor diesen allgemeinen Regeln.*
 
 ---
 
-## 1. Kurzprofil (3–5 Sätze)
+## 1. Kurzprofil
 
-Centerline ist eine dual-timeline Martial-Arts-Erzählung mit enger dritter Person, die zwischen dem historischen China der 1800er-Jahre (Huang Ming) und dem modernen Seattle (Hao Moreau) wechselt. Der Stil kombiniert prägnante, körperlich verankerte Action-Prosa mit introspektiven Passagen, die das Innenleben der Figuren durch Kürze und Wiederholung enthüllen. Dialoge sind sparsam getaggt, oft unterschwellig, und treiben den Konflikt vorwärts. Wiederkehrende Motive (Hunger, Pendant, Siegelring, Schatten) schaffen narrative Echos zwischen den Zeitlinien. Die Prosa vermeidet Ausschmückung zugunsten von Rhythmus und Wirkung.
+Uncommon Courtesy ist eine Suburban Slice-of-Life Action Comedy mit ausschließlich Fremd-POV (Ausnahme: Prolog und Epilog). Die Prosa ist sauber, beobachtend und geerdet in der konkreten Materialität einer amerikanischen Vorstadt. Komik entsteht durch Kontrast — nie durch Lampshading, nie durch den Protagonisten selbst. Die Erzählstimme passt sich dem jeweiligen POV-Charakter an; der Grundton ist ruhig, aufmerksam und leicht lakonisch. Spannung baut sich durch Weglassen auf, nicht durch Anspannung.
 
 ---
 
 ## 2. Perspektive (POV)
 
-**Typ:** Enge dritte Person, limitiert  
-**Fokuswechsel:** Nur an Kapitelgrenzen, markiert durch Timeline (Ming = 1-X-XX, Hao = 2-X-XX, 3-X-XX)
+**Typ:** Enge dritte Person, limitiert, wechselnd  
+**Fokuswechsel:** An Kapitelgrenzen. Ein POV pro Kapitel.
 
 ### POV-Regeln:
-- Die Kamera bleibt strikt im Kopf der Perspektivfigur
-- Andere Charaktere werden nur durch äußere Handlungen und Dialog wahrgenommen
-- Innere Gedanken sind direkt zugänglich, aber gefiltert durch den Charakter-Verstand
-- Keine allwissenden Einschübe oder Informationen, die der POV-Charakter nicht kennen kann
+- Die Kamera bleibt strikt im Kopf der POV-Figur
+- Aldric wird nur von außen gesehen — seine Gedanken, Gefühle und Motive bleiben dem Leser verschlossen
+- Andere Nebenfiguren werden ebenfalls nur durch Handlung und Dialog wahrgenommen (Standard-POV-Disziplin)
+- Keine allwissenden Einschübe
+- **Ausnahmen:** Prolog (Aldrics Ankunft) und Epilog (Metallkiste/Foto) – die einzigen Szenen aus Aldrics Sicht
 
-### Charakterspezifische Stimme:
-- **Ming:** Formeller, archaisch angehaucht, Hunger- und Kampf-Metaphorik, wachsende Kälte
-- **Hao:** Modern, selbstkritisch, Reichtum-vs-Verdienst-Spannung, Echos aus Ming-Erinnerungen
+### Konsequenz:
+Was die POV-Figur nicht weiß, weiß der Leser nicht. Was die POV-Figur falsch interpretiert, interpretiert der Leser falsch — bis ein anderer POV korrigiert.
 
 ---
 
 ## 3. Ton & emotionaler Bereich
 
-**Grundton:** Kontrolliert, distanziert, mit unterdrückter Intensität
+**Grundton:** Ruhig, beobachtend, mit trockenem Humor unter der Oberfläche
 
 ### Emotionales Spektrum:
 | Emotion | Darstellung |
 |---------|-------------|
-| Wut | Körperliche Manifestation (Kieferanspannung, kalte Hände), keine Ausrufezeichen |
-| Angst | Sensorische Details (Kupfergeschmack, Herzschlag), Zeit verlangsamt sich |
-| Triumph | Gedämpft, sofort von Zweifel oder Kosten gefolgt |
-| Trauer | Stille, Abwesenheit, was *nicht* gesagt wird |
-| Zuneigung | Handlungen statt Worte, kleine Gesten |
+| Komik | Kontrast zwischen Erwartung und Realität. Nie lampshaded. |
+| Unbehagen | Kleine Details, die *fast* stimmen. Etwas fehlt oder ist zu viel. |
+| Bedrohung | Abwesenheit — das Lächeln ist weg, die Höflichkeit stoppt |
+| Wärme | Handlungen statt Deklarationen. Rosa macht mehr Essen. Aldric wäscht Schüsseln. |
+| Trauer | Was *nicht* da ist. Der leere Rahmen. Das fehlende Foto. |
+| Spannung | Dehnung. Stille. Was andere Figuren im Raum *spüren*, ohne es benennen zu können. |
 
 ### Verbotene Töne:
-- Melodrama oder Sentimentalität
-- Übertriebene Begeisterung
-- Sarkasmus als Bewältigungsmechanismus (außer bei Nebenfiguren)
+- Melodrama
+- Sentimentalität
+- Übertriebene Begeisterung (außer als POV-Stimme, z.B. Sandra)
+- Zynismus vom Erzähler
 
 ---
 
 ## 4. Satzbau
 
 ### Grundrhythmus:
-- **Action-Sequenzen:** Kurze Sätze. Fragmentiert. Punch-Rhythmus.
-- **Introspektive Passagen:** Längere, fließende Sätze mit Einschüben
-- **Übergang:** Mittellange Sätze als Brücke
+- **Mounty-Szenen:** Mittellange Sätze, entspannt, beobachtend. Gelegentlich ein kurzer Satz als Pointe.
+- **Punisher-Szenen:** Kurz. Kürzer. Dann Stille. Absätze werden kürzer, je näher der Schalter kommt.
+- **Slice-of-Life:** Natürlich fließend, leicht mäandernd — wie Gedanken beim Rasen mähen.
 
 ### Signatur-Muster:
 
-**Zählender Rhythmus (Kampf):**
+**Die trockene Pointe (Mounty-Komik):**
 ```
-*Eins.*
-*Zwei.*
-*Drei.*
+Aldric verbeugte sich leicht, bedankte sich für die Hilfe, lobte die Qualität des Gartenschlauchs und fragte, ob er den Hersteller erfahren dürfe. Sein Ärmel brannte noch.
 ```
 
-**Dreier-Struktur:**
+**Die fallende Eskalation (Punisher):**
 ```
-Satz. Satz. Überraschung im dritten Satz.
+Er stellte die Tasse hin.
+Das war alles.
 ```
 
-**Echoende Wiederholung:**
+**Die Beobachtung mit Nachgedanke (POV-Standard):**
 ```
-Wieder.
-Und wieder.
-Und wieder.
+Dave sah ihm nach. Da war etwas. Er wusste nicht was. Er dachte nicht weiter darüber nach.
 ```
 
 ### Durchschnittliche Satzlänge:
-- Action: 5–12 Wörter
-- Introspektiv: 15–25 Wörter
-- Dialog: 3–15 Wörter
+- Komödienszenen: 12–20 Wörter
+- Punisher-Szenen: 4–10 Wörter
+- Alltag/Slice-of-Life: 10–18 Wörter
+- Dialog: 3–12 Wörter
 
 ---
 
@@ -87,286 +87,316 @@ Und wieder.
 ### Allgemeine Prinzipien:
 - Konkret vor abstrakt
 - Spezifisch vor allgemein
-- Körperteil-spezifisch in Kämpfen (Handgelenk, Ellbogen, Tempel, nicht "Arm")
+- Alltäglich vor literarisch — das ist eine Vorstadt, kein Gedicht
+- Materialität: Sachen haben Markennamen, Farben, Gewicht
 
-### Bevorzugte Verben:
-| Statt | Benutze |
-|-------|---------|
-| ging | bewegte sich, trat, schritt |
-| schlug | traf, landete, knallte |
-| sah | beobachtete, musterte, fixierte |
-| sagte | (minimale Tags, oft weglassen) |
+### Aldrics Sprache (von außen wahrgenommen):
+- Formell, präzise, vollständige Sätze
+- Nie Slang, nie Abkürzungen
+- Höflichkeitsformen, die in den USA ungewöhnlich wirken
+- Seine Wortwahl ist selbst ein Stilmittel — sie fällt auf, ohne kommentiert zu werden
 
 ### Verbotene Wörter/Phrasen:
-- "plötzlich"
-- "irgendwie"
-- "buchstäblich"
-- "sehr" (außer in Dialog als Charakterisierung)
-- Adverbien auf "-weise"
-- "Er/Sie fühlte, dass..." (stattdessen zeigen)
+- "plötzlich" (zeig es durch Struktur)
+- "irgendwie" / "somehow"
+- "literally"
+- "very" (außer in Dialog)
+- "he felt that..." (zeig es)
+- "as if" als Krücke für Metaphern (sparsam erlaubt, nie in Serie)
+- "seemed to" wenn die POV-Figur es klar sehen kann
 
-### Timeline-spezifisches Vokabular:
-- **Ming-Kapitel:** Formeller, keine Kontraktionen, gelegentlich chinesische Begriffe (Sifu, Dit Da Jow, Qi)
-- **Hao-Kapitel:** Modern, Kontraktionen erlaubt, tech-aware
+### Vorstadtvokabular (Verankerung):
+- Picket fences, Briefkästen, Einfahrten, Blumenkästen
+- Marken: Volvo, John Deere, Weber Grill, Pyrex-Schüsseln
+- Gerüche: frisch gemähter Rasen, Grillkohle, Auflauf, Kaffee
+- Geräusche: Sprinkler, Rasenmäher in der Ferne, Hundebellen
 
 ---
 
 ## 6. Dialogstil
 
 ### Tag-Regeln:
-- **Bevorzugt:** "sagte" oder kein Tag
-- **Sparsam:** "fragte", "antwortete"
-- **Nie:** Kreative Tags (flüsterte, zischte, rief – außer bei echtem Flüstern/Zischen/Rufen)
+- **Bevorzugt:** "said" oder kein Tag
+- **Sparsam:** "asked"
+- **Nie:** Kreative Tags — kein "hissed", "growled", "exclaimed"
+- **Ausnahme:** Wenn die physische Aktion tatsächlich passiert ("whispered" bei echtem Flüstern)
 
 ### Struktur:
-```markdown
-"Dialog." Charakter tat etwas Physisches. "Mehr Dialog."
+```
+"Dialog." Action-Beat. "Mehr Dialog."
 ```
 
-### Beat-Platzierung:
-- Action-Beat vor Dialog = Charakter spricht zuerst
-- Action-Beat nach Dialog = Wirkung zeigen
-- Mitte unterbrechen für Pause/Spannung
+### Aldrics Dialog-Signatur:
+- Vollständige Sätze, nie Fragment
+- Höflichkeitsfloskeln, die über das Normale hinausgehen
+- Aufrichtige Fragen, die andere nicht erwarten
+- Er unterbricht nie
 
-### Subtext-Regel:
+### Subtext-Regeln:
 - Charaktere sagen selten direkt, was sie meinen
-- Emotionale Wahrheit liegt in dem, was *nicht* gesagt wird
-- Dialog treibt Konflikt; Exposition wird vermieden
-
-### Beispiel:
-```markdown
-"Ich werde es reparieren."
-"Wie?"
-Hao verstummte. Er hatte keinen Plan.
-"Ich werde sie vergessen lassen."
-```
+- Aldric sagt *immer* genau was er meint — und genau das macht es unlesbar
+- Emotionale Wahrheit liegt in dem, was *nach* dem Dialog passiert
+- Keine Exposition im Dialog
 
 ---
 
 ## 7. Gedanken & innerer Monolog
 
+### Grundregel:
+POV-Figuren denken. Aldric nicht (außer Prolog/Epilog). Die Gedanken der POV-Figur sind das Hauptwerkzeug für Humor und Spannung.
+
 ### Formatierung:
-- Kursiv mit Asterisken: `*So formatiert*`
-- Gegenwart für unmittelbare Gedanken
-- Vergangenheit für reflektierte Gedanken
+- Kursiv: `*So formatiert*`
+- Nur für prägnante, pointierte Gedanken
+- Fließende Gedanken werden in die Erzählung integriert (free indirect speech)
 
-### Häufigkeit:
-- Sparsam in Action-Szenen (höchstens ein Gedanke pro Absatz)
-- Häufiger in ruhigen Momenten
-- Oft als Kontrast zu äußerer Handlung
-
-### Stimme:
-- Muss zum Charakter passen
-- Ming: Formeller, philosophischer
-- Hao: Selbstkritisch, modernere Syntax
-
-### Verbindung zu Erinnerungen:
-```markdown
-*Die Worte kamen aus einem Ort tiefer als sein übliches Selbstmitleid—aus dem Teil von ihm, der sich erinnerte, jemand anderes gewesen zu sein.*
-```
-
----
-
-## 8. Action-Szenen
-
-### Choreografie-Prinzipien:
-1. **Klarheit vor Stil:** Der Leser muss verstehen, was passiert
-2. **Körperteil-Spezifität:** Handgelenk, nicht Hand; Schläfe, nicht Kopf
-3. **Konsequenzen zeigen:** Jeder Treffer hat Wirkung
-4. **Zählen bei mehreren Gegnern:** *Eins. Zwei. Drei.*
-
-### Tempo-Regeln:
-- Kurze Sätze = schnelle Aktion
-- Längere Sätze = Verlangsamung, Taktik
-- Einzelne Wörter = Wirkung maximieren
-
-### Struktur eines Kampfes:
-```
-Aufbau → Eröffnung → Eskalation → Wendepunkt → Auflösung/Kosten
-```
-
-### Signatur-Elemente:
-- **"Minus"-Zählung:** Bei erlittenem Schaden: "Minus eins. Minus zwei."
-- **Körperliche Kosten:** Erschöpfung, Blut, Schmerz werden nicht ignoriert
-- **Atemrhythmus:** Als Taktgeber
+### Funktion:
+| Situation | Gedanken-Einsatz |
+|-----------|-----------------|
+| Aldric tut etwas Seltsames | POV-Figur versucht es einzuordnen — scheitert |
+| Aldric tut etwas Bedrohliches | POV-Figur spürt es, kann es nicht benennen |
+| Komik-Moment | POV-Figur denkt das Offensichtliche, das Aldric nicht sagt |
+| Punisher-Szene | Gedanken werden kürzer, fragmentierter |
 
 ### Beispiel:
-```markdown
-Er parierte den ersten Schlag, lenkte den zweiten ab, nahm den dritten am Unterarm—*Minus eins*—und antwortete mit einem Ellbogen zur Schläfe. Der Mann ging zu Boden.
-*Eins.*
-Keine Zeit zum Nachdenken.
+```
+Aldric smiled at the man who had just threatened his neighbor. It was a perfectly pleasant smile. Dave had seen that smile a hundred times.
+
+*This one's different,* he thought. He couldn't say why.
 ```
 
 ---
 
-## 9. Beschreibung & Setting
+## 8. Komik-Mechanik
 
-### Prinzip: Funktionale Beschreibung
-- Jedes beschriebene Detail muss eine Funktion haben:
-  - Atmosphäre etablieren
-  - Charakterstimmung spiegeln
-  - Plot-Relevanz vorbereiten
-  - Sensorische Verankerung
+### Das Grundprinzip:
+Komik entsteht aus **Kontrast** — nicht aus Witz. Aldric ist nie lustig. Die Situation ist lustig. Der POV-Charakter bemerkt die Absurdität. Aldric nicht.
 
-### Sinne-Hierarchie:
-1. Visuell (primär)
-2. Taktil (wichtig für Kampf)
-3. Auditiv (selektiv)
-4. Olfaktorisch (Signatur-Momente: Dit Da Jow, Blut)
-5. Gustatorisch (selten, aber wirkungsvoll: Kupfergeschmack bei Angst)
+### Die vier Komikquellen:
 
-### Setting-Kontraste:
-| Ming-Welt | Hao-Welt |
-|-----------|----------|
-| Naturelemente (Wind, Stein, Wasser) | Urbane Elemente (Beton, Glas, Metall) |
-| Organische Texturen | Industrielle Oberflächen |
-| Weite, offene Räume | Enge Gassen, Innenräume |
+**1. Unangemessene Angemessenheit**
+Aldric reagiert formell korrekt in einem Kontext, der das nicht verdient.
 
-### Wetter als Stimmung:
-- Regen = Reinigung oder Bedrohung
-- Grau = Unsicherheit
-- Klarer Himmel = Klarheit oder falscher Frieden
+**2. Aufrichtige Fehlleitung**
+Seine Logik ist einwandfrei — aber aus einem fremden Koordinatensystem.
+
+**3. Kompetenz-Komik**
+Er ist zu gut in dem, was er tut. Das ist komisch, weil niemand versteht, woher es kommt.
+
+**4. Reaktions-Komik**
+Nicht was Aldric tut ist lustig, sondern wie andere darauf reagieren.
+
+### Timing:
+- Der Witz kommt *nach* Aldrics Handlung — als Reaktion der Umgebung
+- Nie die Pointe ankündigen, nie erklären
+- Zwei bis drei Komikmomente pro Kapitel. Nicht mehr. Abstumpfung ist der Tod.
+
+### Verboten:
+- Aldric weiß, dass er komisch wirkt
+- Meta-Humor oder Lampshading
+- Slapstick
+- Wortspiele
 
 ---
 
-## 10. Signatur-Stilelemente
+## 9. Punisher-Szenen
+
+### Stil-Shift:
+Wenn Aldric den Schalter umlegt, ändert sich die Prosa:
+
+| Element | Mounty-Modus | Punisher-Modus |
+|---------|-------------|----------------|
+| Satzlänge | 12–20 Wörter | 4–10 Wörter |
+| Absatzlänge | 3–5 Sätze | 1–2 Sätze |
+| Adjektive | Normal | Fast keine |
+| Tempo | Entspannt | Komprimiert |
+| Fokus | Beobachtung | Handlung/Ergebnis |
+| POV-Gedanken | Frei fließend | Fragment, Angst |
+
+### Choreografie:
+- Keine Schritt-für-Schritt-Kampfbeschreibung. Es geht zu schnell.
+- Zeige den *Moment davor* und das *Ergebnis danach*.
+- Zwischenraum: die POV-Figur versteht nicht, was passiert ist.
+
+### Die Stille schreiben:
+```
+Aldric put down his cup.
+
+Nothing happened.
+
+That was the worst part — the nothing. The way the air in the room changed 
+without anything changing at all.
+```
+
+### Außenperspektive erzwingen:
+Der Leser erlebt Punisher-Szenen *immer* durch die Augen einer anderen Figur. Keine Innenperspektive, kein Zugang zu Aldrics Motivation. Die Wirkung entsteht durch Nicht-Verstehen.
+
+---
+
+## 10. Beschreibung & Setting
+
+### Prinzip: Mundane Präzision
+Die Vorstadt ist real, materiell, konkret. Keine poetische Überhöhung. Die Normalität *ist* das Setting — und der Kontrast zu Aldric.
+
+### Sinne-Hierarchie:
+1. Visuell (primär — was sieht die POV-Figur?)
+2. Auditiv (Vorstadt-Geräusche: Sprinkler, Rasenmäher, Kinderlachen)
+3. Olfaktorisch (Auflauf, frischer Rasen, Kaffee — das Geruchsprofil der Straße)
+4. Taktil (Hitze des Asphalts, Kondenswasser am Glas)
+5. Gustatorisch (selten, aber: der Kuchen den Aldric bringt)
+
+### Wetter/Licht als Taktgeber:
+- Morgens = Routine, Normalität
+- Nachmittags = Begegnungen, Slice-of-Life
+- Abends = Intimität, Gespräche auf der Veranda
+- Nachts = Geralds Notizen, Geheimnisse, Metallkiste
+
+### Was NIE beschrieben wird:
+- Aldrics Innenleben durch Körpersprache "verraten" (kein "his jaw tightened, revealing...")
+- Die Metallkiste — nur ihre Existenz, nie ihr Inhalt
+- Seine Vergangenheit — nie direkt, nur durch Kompetenz-Implikation
+
+---
+
+## 11. Signatur-Stilelemente
 
 ### Kapitelstruktur:
-- **Titel:** Ein Wort, thematisch
-- **Epigraph:** Kursiv, philosophisch, oft Vorahnung (*So formatiert*)
-- **Trennlinien:** `---` für Szenenwechsel
-- **Keine Kapitelzahlen** im Text selbst
+- **POV-Wechsel** an Kapitelgrenzen, klar markiert
+- **Trennlinien:** `---` für Szenenwechsel innerhalb eines Kapitels
+- **Kein Prolog-Label** — der Prolog beginnt einfach mit Aldrics Ankunft
+- **Kishōtenketsu pro Kapitel:** Ki → Shō → Ten → Ketsu (keine erzwungene Konfliktsteigerung)
 
 ### Wiederkehrende Motive:
 | Motiv | Bedeutung |
 |-------|-----------|
-| Pendant | Verbindung zu Vater/Vergangenheit, Mings Vermächtnis |
-| Siegelring | Haos altes Selbst, oberflächlicher Status |
-| Hunger/Leere | Antrieb, der zur Dunkelheit führen kann |
-| Schatten | Verborgene Bedrohung, unterdrücktes Selbst |
-| Dit Da Jow | Heilung, Training, Verbindung zwischen Zeitlinien |
-| Besen | Demut, Grundlagen, Meisterschaft durch Wiederholung |
+| Der leere Bilderrahmen | Verlust. Einsamkeit als Disziplin. |
+| Die verschlossene Metallkiste | Vergangenheit. Was er mitgebracht hat. |
+| Der Volvo | Zuverlässigkeit. Kontrolle. Kein Rost. |
+| Tee (angeboten) | Normalität, Deeskalation, Freundlichkeit |
+| Tee (nicht angeboten) | Warnung |
+| Der Hund, der nicht bellt | Intuitives Urteil. Bestätigung. |
+| Geralds Notizen | Obsession. Falsche Fragen. |
+| Weiße Zäune | Konformität — und was sie verbirgt |
 
-### Echo-Technik:
-Wörter, Phrasen oder Bilder aus Ming-Kapiteln erscheinen in Hao-Kapiteln wieder:
-```markdown
-Ming: "Die Gabe kann außergewöhnlich werden. Oder schrecklich."
-Hao: [Jahre später] Die Worte hallten nach—etwas, das ein Meister Huang Ming vor Jahrhunderten gesagt hatte.
-```
+### Die Konto-Metapher:
+Aldrics Gerechtigkeitsprinzip wird nie als "System" erklärt — aber die Sprache der POV-Figuren nähert sich der Buchhaltungsmetaphorik an, wenn sie sein Verhalten beschreiben. Das passiert organisch, nicht erzwungen.
 
 ---
 
-## 11. Do-Regeln (10+)
+## 12. Do-Regeln
 
-1. **Verwende körperliche Details für Emotionen.** Kein "er war wütend" – zeige den angespannten Kiefer, die kalten Hände.
+1. **Zeige Aldric durch Handlungen, nie durch Erklärung.** Er wäscht Schüsseln — das *ist* sein innerer Monolog.
 
-2. **Halte Dialog-Tags minimal.** "Sagte" oder gar kein Tag. Action-Beats statt kreativer Tags.
+2. **Halte Dialog-Tags minimal.** "Said" oder weglassen. Action-Beats transportieren den Rest.
 
-3. **Zähle in Kämpfen.** Bei mehreren Gegnern: *Eins. Zwei. Drei.* Bei Verletzungen: *Minus eins.*
+3. **Verankere jede Szene in der materiellen Vorstadt.** Rasenmäher, Briefkästen, der Geruch von Rosas Essen.
 
-4. **Variiere Satzlänge für Rhythmus.** Kurz in Action. Länger in Reflektion. Mischen für Übergänge.
+4. **Lass die POV-Figur interpretieren — und dabei irren.** Der Leser sieht mehr, weil er mehrere POVs zusammensetzt.
 
-5. **Benutze das Kapitel-Epigraph als Vorahnung.** Es sollte thematisch resonieren, ohne zu spoilern.
+5. **Komik durch Understatement.** Der letzte Satz einer Szene darf trocken und lakonisch sein.
 
-6. **Verankere Szenen sensorisch.** Mindestens zwei Sinne pro Szene, aber gezielt.
+6. **Gib jeder POV-Figur einen eigenen Gedankenrhythmus.** (Details in den Charaktersheets.)
 
-7. **Lass Dialoge Subtext tragen.** Charaktere sagen selten direkt, was sie meinen.
+7. **Dehne die Stille vor Punisher-Szenen.** Der Leser muss die Leere spüren.
 
-8. **Zeige die Kosten von Gewalt.** Jeder Kampf hat körperliche und psychische Konsequenzen.
+8. **Benutze Motive als stille Verbindungen.** Der Tee, der Rahmen, die Kiste — nie erklären, nur zeigen.
 
-9. **Benutze Wiederholung als Stilmittel.** "Wieder. Und wieder. Und wieder." – aber sparsam.
+9. **Ende Kapitel mit einem Satz, der nachhallt.** Kein Cliffhanger — ein Bild, ein Gedanke, eine Frage.
 
-10. **Halte die Timeline-Stimmen distinkt.** Ming ist formeller, Hao moderner – auch in der Erzählstimme.
+10. **Lass den Leser klüger sein als jede einzelne Figur.** Das Mosaik ergibt sich aus den Teilen.
 
-11. **Nutze Motive als narrative Echos.** Pendant, Ring, Hunger erscheinen bedeutungsvoll, nicht zufällig.
+11. **Schreibe Aldrics Höflichkeit als physische Handlung.** Er verbeugt sich, er reicht etwas, er steht auf. Nie nur Worte.
 
-12. **Ende Kapitel mit Resonanz.** Der letzte Satz sollte nachhallen – thematisch oder emotional.
-
----
-
-## 12. Don't-Regeln (10+)
-
-1. **Keine "plötzlich"-Konstruktionen.** Wenn etwas überraschend ist, zeig es durch Struktur und Reaktion.
-
-2. **Keine Exposition im Dialog.** Charaktere erklären sich nicht gegenseitig Dinge, die sie beide wissen.
-
-3. **Keine übertriebenen Dialog-Tags.** Kein "zischte", "schnaubte", "knurrte" – außer es passiert buchstäblich.
-
-4. **Keine Adverbien als Krücke.** Nicht "sagte er wütend" – zeig die Wut anders.
-
-5. **Keine POV-Wechsel innerhalb eines Kapitels.** Die Kamera bleibt strikt bei einer Figur.
-
-6. **Keine Gefühls-Behauptungen.** Nicht "er fühlte Angst" – zeig den Kupfergeschmack, das Herzrasen.
-
-7. **Keine unbegründete Beschreibung.** Jedes Detail muss eine Funktion haben.
-
-8. **Keine Rettung ohne Kosten.** Wenn der Held gewinnt, muss er etwas verlieren oder riskieren.
-
-9. **Keine vollständige Selbsterkenntnis.** Charaktere verstehen sich selbst unvollständig – das zeigt sich in ihren Handlungen.
-
-10. **Keine zeitliche Verwirrung.** Wenn die Zeit vergeht, markiere es klar ("Drei Monate nach...", neue Szene mit `---`).
-
-11. **Kein Sarkasmus vom Protagonisten.** Ming und Hao sind ernst – Humor kommt von Nebenfiguren, wenn überhaupt.
-
-12. **Keine Deus-ex-machina-Rettungen.** Lösungen müssen aus etablierten Elementen kommen.
+12. **Lass Konsequenzen Zeit.** Aldrics Antwort muss nicht in derselben Szene kommen.
 
 ---
 
-## 13. Checkliste (20 Punkte)
+## 13. Don't-Regeln
+
+1. **Keine Innenperspektive von Aldric** (außer Prolog/Epilog). Nie. Auch nicht indirekt durch "he seemed to feel..."
+
+2. **Keine Exposition im Dialog.** Niemand erklärt dem Leser etwas.
+
+3. **Keine Flashbacks.** Figuren *erinnern sich* — sie flashen nicht zurück.
+
+4. **Keine Lampshading.** Aldric weiß nicht, dass er seltsam ist. Niemand sagt "Du bist so seltsam." Sie *denken* es.
+
+5. **Kein Melodrama.** Emotionen zeigen sich in Handlungen, nicht in Deklarationen.
+
+6. **Keine Sarkasmus-Krücke.** Aldric ist nie sarkastisch. POV-Figuren dürfen leicht ironisch denken — aber nicht witzig sein wollen.
+
+7. **Keine unbegründete Beschreibung.** Jedes Detail hat eine Funktion: Atmosphäre, Charakter oder Setup.
+
+8. **Kein Aldric-Backstory-Dump.** Nie. Andeutung durch Kompetenz. Der Leser rechnet selbst.
+
+9. **Keine Punisher-Szenen öfter als 80/20.** Drei Kapitel Geduld vor einem Moment der Konsequenz.
+
+10. **Keine "plötzlich"-Konstruktionen.** Wenn etwas überraschend ist, zeig es durch Struktur.
+
+11. **Keine vollständige Auflösung.** Am Ende des Buches bleibt mehr unbeantwortet als beantwortet — und das ist Absicht.
+
+12. **Keine POV-Figur darf Aldric "lösen".** Jeder versteht einen Teil. Keiner das Ganze.
+
+---
+
+## 14. Checkliste (pro Kapitel)
 
 ### Struktur
-- [ ] Kapitel hat thematischen Ein-Wort-Titel
-- [ ] Kursives Epigraph am Anfang (thematische Resonanz)
-- [ ] `---` Trennlinien für Szenenwechsel
-- [ ] Klarer POV durchgehend (keine Wechsel)
+- [ ] Klarer POV durchgehend — ein Charakter pro Kapitel
+- [ ] Kishōtenketsu-Bewegung: Ki → Shō → Ten → Ketsu
+- [ ] `---` für Szenenwechsel
+- [ ] Letzter Satz hallt nach
 
 ### Stimme
-- [ ] Charakter-spezifische Wortwahl (Ming formal / Hao modern)
+- [ ] POV-Stimme distinkt (Abgleich mit Charaktersheet)
 - [ ] Gedanken kursiv formatiert (*So*)
-- [ ] Keine verbotenen Wörter (plötzlich, irgendwie, etc.)
+- [ ] Keine verbotenen Wörter
+
+### Aldric
+- [ ] Nur von außen gesehen
+- [ ] Handlungen statt Erklärungen
+- [ ] Höflichkeit als physische Aktion
+- [ ] Maximal 2–3 Komikmomente (nicht abstumpfen)
 
 ### Dialog
-- [ ] Minimale Tags (sagte oder weglassen)
-- [ ] Action-Beats statt Emotion-Tags
-- [ ] Subtext vorhanden (nicht alles wird ausgesprochen)
+- [ ] Minimale Tags
+- [ ] Action-Beats statt Emotions-Tags
+- [ ] Subtext vorhanden
+- [ ] Aldric spricht in vollständigen, formellen Sätzen
 
-### Action
-- [ ] Körperteil-spezifische Choreografie
-- [ ] Zähl-System bei mehreren Gegnern (*Eins. Zwei.*)
-- [ ] Konsequenzen/Kosten gezeigt
-- [ ] Klare räumliche Orientierung
-
-### Beschreibung
+### Setting
 - [ ] Mindestens zwei Sinne pro Szene
-- [ ] Funktionale Details (keine Dekoration)
-- [ ] Setting-angemessene Elemente (Timeline-Kontrast)
+- [ ] Vorstadt-Materialität (konkrete Objekte, Marken, Gerüche)
+- [ ] Tageszeit als Stimmungsmarker
 
-### Thema/Motiv
-- [ ] Mindestens ein wiederkehrendes Motiv eingebunden
-- [ ] Echo zu anderen Kapiteln (wenn passend)
-- [ ] Kapitelende mit thematischer Resonanz
+### Motive
+- [ ] Mindestens ein wiederkehrendes Motiv berührt
+- [ ] Kein Motiv erklärt oder kommentiert
 
 ---
 
-## 14. Fingerprint-Metriken
+## 15. Fingerprint-Metriken
 
 | Metrik | Zielwert | Toleranz |
 |--------|----------|----------|
-| Durchschnittliche Satzlänge | 12–15 Wörter | ±3 |
+| Durchschnittliche Satzlänge | 12–16 Wörter | ±3 |
 | Absatzlänge | 2–4 Sätze | 1–6 akzeptabel |
-| Dialog-Anteil | 25–35% | ±10% |
-| Dialog-Tag-Rate | < 40% der Zeilen | – |
-| Action-Satzlänge | 5–10 Wörter | – |
-| Reflexions-Satzlänge | 15–25 Wörter | – |
-| Gedanken pro Seite | 2–5 | Szenenabhängig |
-| Szenenwechsel pro Kapitel | 3–6 | – |
-| Kapitel-Wortanzahl | 1.200–2.500 | ±500 |
+| Dialog-Anteil | 30–40% | ±10% |
+| Dialog-Tag-Rate | < 30% der Zeilen | – |
+| Komik-Momente pro Kapitel | 2–3 | Max. 4 |
+| Punisher-Szenen pro Buch | ~20% der Kapitel | – |
+| Kapitel-Wortanzahl | 2.000–4.000 | Szene bestimmt Länge |
 
 ### Rhythmus-Test:
 Lies das Kapitel laut. Prüfe:
-- Stockt der Rhythmus in Action-Szenen? → Sätze kürzen
-- Wirkt Reflektion gehetzt? → Sätze verlängern
-- Klingt Dialog natürlich? → Übertags entfernen
+- Klingt die POV-Stimme durchgehend nach *dieser* Figur?
+- Ist Aldric nur durch Handlung und Dialog sichtbar — nie durch Erzähler-Kommentar?
+- Funktioniert die Komik ohne Erklärung?
+- Hält die Punisher-Stille lange genug an?
+
+---
+
+*Charakterspezifische Stimmen → siehe Einzelsheets pro Figur.*
 
 ---
 

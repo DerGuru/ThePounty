@@ -61,7 +61,7 @@
 35. **Smooth Reading Experience.** Sätze so formulieren, dass sie leicht und flüssig zu lesen sind. Unnötige Komplexität vermeiden. Balance finden — weder zu kurz noch zu verschachtelt. Der Leser soll sich auf die Geschichte konzentrieren, nicht über Formulierungen stolpern.
 36. **„The way" sparsam einsetzen.** Erste Wahl: direkt beschreiben. Nicht *the way his voice dropped*, sondern *his voice dropped*. *Like* bevorzugen wenn Vergleich nötig, aber auch Vergleiche insgesamt reduzieren.
 37. **Maximal ein „and" pro Satz.** Dreierlisten mit Komma und einem *and*: *smoke, fat, and sap*. And-Ketten nur als bewusstes, seltenes Stilmittel (Anaphora, Atemlosigkeit). Ausnahme: Paarungen (*needle and thread, fire and water*).
-38. **Em Dashes mit Leerzeichen.** *She walked — slowly, carefully — toward the fire.* Ausnahme bei Interruption: *"I didn't—"*
+38. **Em Dashes nur bei Interruption.** Parenthetische Einschübe nicht mit Em Dashes lösen. Stattdessen: Punkt und neuer Satz, Komma, oder umformulieren. Einzige Ausnahme: abgebrochener Dialog (*"I didn't—"*). Em Dashes sind kein Universalwerkzeug für Nachträge, Appositionen oder Erklärungen.
 
 ## Szenen-Architektur
 39. **Sanfte Kapitel-Einstiege.** Kapitel beginnen nicht mit isolierten Ein-Satz-Hooks. Den Leser in die Szene hineinführen — mit Sinneseindrücken, Körperhaltung, Umgebung oder laufender Handlung.
