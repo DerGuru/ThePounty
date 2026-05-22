@@ -61,9 +61,10 @@ Dieser Satz ist die komplette Charakterbeschreibung.
 |---|---|
 | Name | Aldric Venn |
 | Alter | 34 |
-| Herkunft | „Aus dem Norden. Dem ruhigeren Teil." |
+| Herkunft | „Aus dem Norden. Dem ruhigeren Teil." (1.100 Meilen Fahrt, ohne längeren Halt als Tanken/Toilette) |
 | Beruf (früher) | „Ich habe Probleme gelöst." |
 | Fahrzeug | Volvo 240 GL, Baujahr 1987, dunkelgrün |
+| Adresse | 4 Maple Lane |
 | Status | Frisch eingezogen, Suburban USA |
 
 ### Kernwerte
@@ -481,6 +482,12 @@ Nicht cool. Nicht auffällig. Zuverlässig bis zum Tod. Der Wagen wirkt, als hä
 
 Der Anhänger ist gemietet. Standardgröße. Für das, was drin ist, deutlich zu groß.
 
+### Das Haus
+
+Nummer 4 Maple Lane. Bescheiden, weiß, mit einer Veranda, die halb um die Front läuft. Die Vormieter haben einen Schaukelstuhl hinterlassen. Die Blumenbox ist leer, die Erde noch dunkel und bereit. Die Fenster sind sauber. Jemand hat das vorbereitet. Er schätzt das.
+
+Sein erster Plan: eine Blumenbox kaufen. Etwas Passendes. Er will ein guter Nachbar sein.
+
 ### Der Ablauf
 
 **Ankunft:** Er parkt sauber an den Bordstein. Kein Rangieren, kein zweiter Versuch. Erster Versuch, perfekt. Innerhalb von drei Minuten stehen zwei Nachbarn an der Einfahrt. Er begrüßt beide mit Handschlag und vollem Namen. Fragt nach ihren. Merkt sie sich sofort.
@@ -521,6 +528,8 @@ Er strich den letzten Satz durch. Schrieb ihn neu. Strich ihn wieder durch.
 
 Diese Details sind gesetzt. Sie werden nie direkt erklärt.
 
+- **Sein innerer Leitsatz:** *„Community through uniformity. Identity through exception."* Er denkt in Prinzipien. Das ist kein Zynismus, sondern ein analytischer Blick, der Ordnung wertschätzt.
+- **Körperbewegung:** Effizient, ohne Theater. Er streckt sich einmal, sachlich. Jede Bewegung hat exakt ein Ziel. Kein Überfluss.
 - **Er schläft mit dem Rücken zur Wand.** Immer. Er rückt das Bett dafür um. „Ich schlafe so besser." — Ende der Erklärung.
 - **Er kennt jeden Notausgang.** Er kartografiert sie in den ersten fünf Minuten jeden neuen Raums. Wirkt wie Quirk. Ist keiner.
 - **Sein Name ist in keiner öffentlichen Datenbank.** Er hat eine Adresse. Er hat eine Steuernummer. Mehr nicht. Niemand fragt — weil er so freundlich ist, dass man vergisst zu fragen.
