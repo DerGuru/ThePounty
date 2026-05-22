@@ -25,11 +25,34 @@ Uncommon Courtesy ist eine Suburban Slice-of-Life Action Comedy mit ausschließl
 ### Konsequenz:
 Was die POV-Figur nicht weiß, weiß der Leser nicht. Was die POV-Figur falsch interpretiert, interpretiert der Leser falsch — bis ein anderer POV korrigiert.
 
+### Stimmfärbung (Kernprinzip):
+Jede Beobachtung, jede Beschreibung, jeder Satz ist durch das Wertesystem der POV-Figur gefiltert. Es gibt keine neutrale Prosa. Die Welt existiert nur so, wie dieser Charakter sie *bewertet*.
+
+- **Aldric** (Prolog/Epilog): Beobachtung → Bewertung → Regel. Er sieht den Rasen und beurteilt die Disziplin dahinter. Er riecht Gebäck und denkt über die richtige soziale Reaktion nach.
+- **Dave Ortega**: Beobachtung → Einordnung → Unsicherheit. Er sieht Aldric und versucht, ihn in bekannte Kategorien zu packen. Es gelingt nicht ganz.
+- **Gerald Hooper**: Beobachtung → Verdacht → Notiz. Er sieht Unstimmigkeiten. Er inventarisiert. Er misstraut dem, was zu perfekt wirkt.
+- **Rosa Ortega**: Beobachtung → Fürsorge → Instinkt. Sie bemerkt, was jemand braucht, bevor er es selbst weiß.
+- **Ms. Yuen**: Beobachtung → Muster → Geduld. Sie hat alles schon mal gesehen. Ihre Beschreibungen sind knapp, weil sie keine Erklärung brauchen.
+- **Officer Kim**: Beobachtung → Risikobewertung → Pflicht. Sie sieht Abweichungen. Sie denkt in Eskalationsstufen.
+
+**Test:** Wenn man die Figurennamen entfernt, muss man trotzdem erkennen, wer gerade schaut — allein am *Wie* der Beschreibung.
 ---
 
 ## 3. Ton & emotionaler Bereich
 
-**Grundton:** Ruhig, beobachtend, mit trockenem Humor unter der Oberfläche
+**Das Buch ist im Herzen eine leichte Komödie mit dunklen Passagen.**
+
+### Zwei Grundtöne:
+
+**Mounty-Ton (Standard, ~80% des Buchs):** Leicht, warm, amüsiert. Die Welt ist komisch, weil Aldric sie ernst nimmt. Die Nachbarn sind komisch, weil sie ihn nicht einordnen können. Die Prosa fließt entspannt, beobachtend, mit trockenem Humor. Der Leser soll lächeln und sich wohlfühlen.
+
+**Punisher-Ton (bei Eskalation, ~20%):** Düster, knapp, kalt. Die Sätze werden kürzer. Die Wärme verschwindet. Details fallen weg. Was bleibt, ist Präzision ohne Freundlichkeit. Dieser Tonwechsel funktioniert *nur*, weil der Mounty-Ton der Normalzustand ist. Je leichter die Komödie, desto härter der Kontrast.
+
+### Der Kontrast trägt das Buch:
+- Comedy: Seine Höflichkeit bis zum Erbrechen in alltäglichen Situationen
+- Dunkelheit: Dieselbe Präzision, dieselbe Ruhe, aber ohne das Lächeln
+
+Der Leser muss spüren: Das ist derselbe Mann. Die Höflichkeit ist keine Maske. Die Dunkelheit ist keine Maske. Beides ist echt.
 
 ### Emotionales Spektrum:
 | Emotion | Darstellung |

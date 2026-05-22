@@ -1,112 +1,128 @@
-# Chapter 1 — The New Neighbor
+# Chapter 1: The New Neighbor
 
 Dave Ortega saw the Volvo before he saw the man.
 
-It was old. Genuinely old, not restored-old or ironic-old. Dark green, the color of something that had been dark green for forty years and saw no reason to change. No rust. No dent. The kind of car that made you think the owner changed the oil on a schedule and meant it.
+It was old. Not restored-old or ironic-old. Just old. Dark green, the color of something that had been dark green for forty years and saw no reason to change. No rust. No dent. No bumper sticker. The kind of car that made you think the owner changed the oil on a schedule, kept the receipts, and possibly sent the car a thank-you note on its birthday.
 
-The trailer behind it was the wrong size. Too big. Dave had helped three people move into this street in the past six years, and the trailer was always too small. Stuff crammed in sideways, mattresses tied to the roof, garbage bags full of clothes wedged into gaps. This one looked like someone had packed a suitcase for a weekend trip and rented a U-Haul out of politeness.
+The trailer was the wrong size. Too big. Dave had helped three people move into this street in the last six years, and the trailer was always too small. Mattresses strapped to the roof, garbage bags full of clothes jammed into gaps, someone sitting in the passenger seat holding a lamp. This one looked half-empty. Like the guy had rented it out of obligation and then couldn't fill it.
 
-Dave set down his coffee, told Rosa he'd be right back, and walked across the lawn.
+Dave set down his coffee, told Rosa he'd be back in a minute, and walked across the lawn in his flip-flops.
 
----
+The man was already out of the car. Tall. Not aggressively tall, but the kind of tall where you noticed it and then stopped noticing it. Clean-shaven. Wearing a collared shirt tucked into dark jeans, which was either very deliberate or very European. His shoes were clean. On moving day. Dave looked at his own flip-flops and decided not to compare.
 
-The man was already out of the car by the time Dave reached the curb. Tall. Not aggressively tall, but enough to notice. Clean-shaven. Wearing a collared shirt tucked into dark jeans, which was either very deliberate or very foreign. His shoes were clean. On moving day. Dave looked at his own flip-flops and decided not to think about it.
+"Hey," Dave said, raising a hand. "You must be the new guy. Dave Ortega, next door." He pointed at his house with his thumb.
 
-"Hey," Dave said, raising a hand. "You must be the new guy. Dave Ortega. Next door." He pointed.
+The man turned. Smiled. A real smile. The kind that used the whole face, not just the polite muscles.
 
-The man turned. Smiled. It was a real smile — not the tight-lipped thing people did when they were tired from driving and didn't want to talk yet. He extended his hand.
+"Aldric Venn." He extended his hand. "It is a genuine pleasure to meet you, Dave. Thank you for coming over. That was very kind of you."
 
-"Aldric Venn. It's a genuine pleasure to meet you, Mr. Ortega. Thank you for coming over."
+The handshake was perfect. Not a contest, not a dead fish. Just right. Dave had the brief, irrational thought that this man had practiced handshakes the way other people practiced golf swings.
 
-The handshake was firm. Not a contest. Not a dead fish. Just — right. Like he'd practiced it until it was perfect, and then stopped practicing.
+"Just being neighborly," Dave said.
 
-"Dave's fine," Dave said.
+"Neighborly." Aldric repeated the word like it was a compliment he was accepting. "Thank you. Truly."
 
-"Dave." The man said it like he was filing it. "Thank you, Dave."
+Dave didn't know what to do with *truly*. Nobody said *truly* on a Tuesday afternoon. He put his hands in his pockets.
 
----
-
-Gerald was there within ninety seconds. Dave knew because Gerald was always there within ninety seconds when something happened on the street. He came from across the road with his hands in his pockets, which meant he was watching. Gerald's hands were in his pockets when he was paying attention and at his sides when he wasn't.
+Gerald appeared within ninety seconds. Dave didn't time it, but he could have. Gerald was always there within ninety seconds when something happened on the street. He came from across the road with his hands in his pockets, which Dave had long ago decoded: hands in pockets meant watching. Hands at sides meant passing through.
 
 "Gerald Hooper," he said. No handshake offered. "Across the street."
 
-"Mr. Hooper." Aldric took his hand back smoothly — as if he'd extended it mentally and retracted it without anyone noticing the rejection. "A pleasure. You have an excellent front yard, if I may say. The hedge line is remarkably even."
+"Mr. Hooper." Aldric didn't miss a beat. Didn't look at the un-offered hand, didn't make it awkward, just folded his own hands in front of him like that had been the plan all along. "A pleasure. You have a remarkable front yard, if I may say. The hedge line is extraordinarily even."
 
-Gerald blinked. "Thanks."
+Gerald blinked. Nobody had ever complimented his hedge before. Dave was fairly sure Gerald didn't know people *noticed* hedges.
+
+"Thanks," Gerald said.
 
 "Do you trim it yourself?"
 
 "Yeah."
 
-"I admire the discipline. In my experience, consistent hedgework requires either great patience or a very good eye. You appear to have both."
+"I admire the discipline. Consistent hedgework requires either great patience or an excellent eye. You appear to have both."
 
-Dave watched Gerald process this. It took a moment. Nobody had ever complimented Gerald's hedge as if it were an achievement.
+Dave watched Gerald try to figure out if he was being made fun of. He wasn't. That was the thing. This guy meant it. He was standing in his driveway on moving day, complimenting a hedge with the sincerity of a man delivering a eulogy, and it wasn't a joke.
 
-"Right," Gerald said. "So — need help with the boxes?"
+Gerald's shoulders dropped a quarter inch. "It's just a hedge," he said. But he was standing a little straighter.
 
----
+"Nothing is *just* anything," Aldric said. "Not if someone takes care of it."
+
+Brief silence. Dave had never heard a conversation about landscaping get philosophical in under a minute.
+
+"Right," Gerald said. "Need help with the boxes?"
 
 There were three boxes.
 
-Dave carried the one marked *Kitchen*. It weighed what a kitchen box should weigh — plates, maybe some pots. Normal. Gerald took the one marked *Books*, which was heavier than it looked, and he grunted but didn't say anything. The third one was marked *Miscellaneous* and sealed with an extra layer of packing tape — the thick kind, applied carefully, no bubbles.
+Dave carried the one marked *Kitchen*. It weighed what a kitchen box should weigh. Plates, maybe some pots. Normal. Gerald took the one marked *Books*, which was heavier than it looked, and he grunted but didn't comment. The third one said *Miscellaneous* and had an extra layer of packing tape. The thick kind, applied carefully, no bubbles, no wrinkles. Someone had sealed that box like it mattered.
 
-Aldric carried that one himself.
+Aldric carried that one himself. One-handed, the other hand on the leather chair.
 
-And the chair.
+The chair was dark brown, old, clearly expensive once and clearly loved always. It didn't match anything in the furnished house. Aldric set it by the window and adjusted its angle twice. Then a third time. Then he stopped, satisfied with whatever invisible alignment he'd found.
 
-The chair was leather — dark brown, old, clearly expensive once and clearly loved always. It didn't match anything in the furnished house. Aldric carried it through the front door, set it down by the window, and adjusted its angle twice before he was satisfied.
+He carried the flat metal case in last. Small. No label. He took it to the bedroom and came back without it. Dave noticed that nobody asked about it. He also noticed that he didn't ask about it. It didn't feel like a secret. It felt like something that was simply none of his business.
 
-He carried the flat metal case in last. Small. No label. He took it to the bedroom and came back without it. Nobody asked. Dave noticed that nobody asked.
+The trailer was empty in twelve minutes. Most of that was walking.
 
-The trailer was empty in twelve minutes. Most of that was walking, not lifting.
+"That's... it?" Dave said.
 
-"That's... it?" Dave said, looking at the open trailer. The space where furniture should have been was just space.
+"That's everything." Aldric was smiling. "I prefer to travel light. The house came furnished, which was a considerable advantage. I'm very grateful for that."
 
-"That's everything," Aldric said. He was smiling again. "I prefer to travel light. The house came furnished, which was a considerable advantage."
+"When we moved in, we had two trips and a fight about the couch."
 
-"Man, when we moved in, we had two trips and a fight with Rosa about the couch."
+"Was the couch worth the fight?"
 
-"I hope the couch survived."
+"The couch was garbage. Rosa was right. She's always right." Dave grinned. "Don't tell her I said that."
 
-Dave laughed. "The couch did. My back didn't."
+"Your confidence in her judgment is safe with me." Aldric said it with a small bow of the head that should have been weird but somehow wasn't.
 
-Aldric nodded with what appeared to be genuine sympathy. "Couches are deceptively contentious. I'm sorry for your back."
+Rosa appeared at four with enough food for six people. Dave knew what that meant. That meant she'd made extra on purpose and was going to act like it was no big deal. She'd brought the good Pyrex. The clear one with the blue lid. Church potluck Pyrex. That was serious.
 
----
+"You haven't eaten," she said to Aldric. Not a question.
 
-Rosa appeared at four with enough food for six people, which meant she'd made extra on purpose and wasn't going to mention it. She'd brought the good Pyrex — the clear one with the blue lid that she only used for neighbors and the church potluck.
+"I have not," he admitted. "That smells extraordinary, Mrs. Ortega. Is that enchiladas?"
 
-"You haven't eaten," she said to Aldric. It wasn't a question.
+"And rice. And there's salsa my mother-in-law made, but it's spicy."
 
-"I have not," he admitted. "That smells extraordinary. Is that—"
+"I enjoy spicy food very much. Thank you. This is uncommonly generous of you." He paused. "Uncommonly. I mean that word specifically."
 
-"Enchiladas. And rice. And there's some of the salsa Dave's mom made last week, but that's spicy, so—"
+Rosa looked at him for a moment. Then at the mostly empty house behind him. The single chair by the window. The three boxes stacked neatly against the wall, already unpacked, already broken down and folded.
 
-"I enjoy spicy food very much. Thank you, Mrs. Ortega. This is uncommonly generous."
+"It's just food," she said.
 
-Rosa looked at him for a moment. At the empty house behind him. At the single chair by the window. At the three boxes stacked neatly against the wall.
+"It isn't," Aldric said. "But I won't argue with the cook."
 
-"It's just food," she said. And then, because she was Rosa: "There's enough if Mr. Hooper wants some too."
+Rosa almost smiled. Dave saw it. That was fast. It usually took Rosa three conversations to almost-smile at someone new.
 
-Gerald, who was still on the porch trying to look like he wasn't cataloging the visible contents of the house through the open door, said he wouldn't say no.
+They ate on the porch. All four of them on moving day, which was already unusual. Then Sandra appeared with a casserole she'd produced in the thirty minutes since Gerald texted her, and then Ms. Yuen walked past on her evening walk and stopped at the edge of the lawn. Nobody invited her. Nobody needed to. She stood there with her hands behind her back and watched the way Ms. Yuen watched everything: patiently, completely, without comment.
 
----
+Aldric noticed her immediately.
 
-They ate on the porch. All four of them, and then Sandra appeared with a casserole she'd somehow produced in the thirty minutes since Gerald had texted her, and then Ms. Yuen walked past on her evening walk and stopped at the edge of the lawn without being invited but also without being unwelcome.
+"Ma'am," he said, standing up from his chair. Actually standing up. Like someone had walked into a room in a movie from 1955. "Would you like to join us? There's more than enough."
 
-Aldric thanked each person. Individually. For the specific thing they'd done.
+Ms. Yuen looked at him for a long time. "You're very polite," she said.
 
-"Dave — thank you for carrying the book box. It was heavier than it appeared, and you didn't complain once."
+"I try."
 
-"Rosa — the enchiladas were exceptional. I wonder if you'd share the recipe. I have a notebook." He produced one from his shirt pocket. Small. Leather-bound.
+"You succeed." She took the offered chair. Aldric remained standing until she was settled, then sat back down. Dave and Gerald exchanged a look. Gerald's look said *what is happening*. Dave's look said *I don't know but there's casserole*.
 
-"Gerald — thank you for the tour of the kitchen. I wouldn't have found the fuse box without you."
+Aldric thanked each person individually before they left. Not a blanket thanks. Individual, specific, detailed.
 
-That last one was interesting. Gerald hadn't given a tour. Sandra had opened the cabinets. Gerald had just stood in the hallway. But somehow, in Aldric's version of events, Gerald had been helpful. And Gerald — Dave watched this happen — Gerald accepted it. His shoulders dropped half an inch.
+"Dave. Thank you for carrying the kitchen box. And for coming over before anyone else. That meant more than you know."
 
----
+"Rosa. The enchiladas were exceptional. I wonder if you'd be willing to share the recipe sometime. Only if it's not a family secret." He produced a small notebook from his shirt pocket. Leather-bound. Dave had never seen a man under sixty carry a leather-bound notebook.
 
-The questions came naturally. They always did on move-in days.
+"Gerald. Thank you for showing me where the fuse box is. I would have spent an hour looking."
+
+That last one was interesting. Gerald hadn't shown him anything. Sandra had opened the cabinets. Gerald had just stood in the hallway and looked at things. But in Aldric's version of events, Gerald had been helpful. And Gerald accepted it. Dave watched it happen. Gerald's face did something it rarely did. It relaxed.
+
+"Sandra. Thank you for the casserole. The fact that you made it on such short notice is genuinely impressive. You are clearly a person of considerable skill under pressure."
+
+Sandra beamed. Gerald, for the first time all evening, put his hands at his sides.
+
+"Ms. Yuen. Thank you for your company. You were under no obligation to stay, and the fact that you did made the evening better. I hope I'll see you on your walk again."
+
+Ms. Yuen nodded once. Said nothing. Walked away. Dave thought she might have been smiling, but with Ms. Yuen it was hard to tell.
+
+The questions had come naturally over dinner. They always did on move-in days.
 
 "So where are you from?"
 
@@ -114,29 +130,27 @@ The questions came naturally. They always did on move-in days.
 
 "Which part is that?"
 
-"The part without much to report." Smile. "I enjoy the weather here. Less grey."
+"The part without much to report." Smile. "I enjoy the weather here already. Less grey."
 
-"And what brought you down here?"
+"What brought you down here?"
 
 "A desire for neighbors. I've lived alone for some time. I thought it might be good to hear other people's lawnmowers on Saturday mornings."
 
-Everyone laughed. Aldric looked pleased.
+Everyone laughed. Aldric looked pleased that they laughed. Not proud. Pleased. Like their laughter was a small gift he hadn't expected to receive.
 
 "And what did you do? Before, I mean. For work?"
 
-He smiled. "I solved problems."
+Aldric smiled. "I solved problems."
 
 Pause.
 
-Everyone waited for the rest. There was no rest.
+Everyone waited. There was no more. The smile stayed. The pause stayed. Neither moved.
 
-Dave exchanged a glance with Rosa. She shook her head — barely, the kind of shake that meant *leave it*. So he left it.
+Dave waited for Rosa to push. Rosa didn't push. Dave didn't push either. He didn't know why. It just felt like pushing would be rude, and Aldric had been so aggressively un-rude all afternoon that rudeness felt impossible in his radius.
 
----
+By nine, everyone had gone home. Aldric shook each hand at the door. Thanked them again. Separately. Specifically. Said he hoped they'd allow him to return the hospitality soon. Dave believed him. He didn't know why he believed him, but he did.
 
-By nine, everyone had gone home. Aldric shook each hand at the door, thanked them again — separately, specifically — and said he hoped they'd allow him to return the hospitality soon.
-
-Dave walked back across the lawn with Rosa. The kids were already asleep inside — or pretending to be, which was close enough.
+He walked back across the lawn with Rosa. The kids were asleep. Or faking it. Close enough.
 
 "Nice guy," Dave said.
 
@@ -148,32 +162,28 @@ Dave walked back across the lawn with Rosa. The kids were already asleep inside 
 
 "That's bad?"
 
-"No." She paused at their front door. "He washed everything already. While we were still on the porch. I saw him through the window — he was at the sink before Gerald even finished his beer."
+"No." She paused at the front door. "He's already done the dishes."
 
-"Fast worker."
+"What?"
 
-"The bowls are already on the porch. Stacked. With notes."
+"I saw him through the window. He was at the sink before Gerald finished his beer. The bowls are on the porch. Stacked. With little notes."
 
 "Notes?"
 
-"Little pieces of paper. Handwritten. Which dish belongs to who."
+"Handwritten. Which dish belongs to who."
 
-Dave thought about that. Thought about a man who had three boxes and a chair and a handshake like a diplomat and who washed borrowed dishes before the evening was over and labeled them by owner.
+Dave thought about that. A man with three boxes and a chair and a handshake like a diplomat. Who washed borrowed dishes before the party was over and labeled them by name. Who complimented hedges like they were art, and thanked people for things they weren't sure they'd done.
 
-"Huh," he said.
+"Huh," Dave said.
 
-Rosa unlocked the door. "He'll be fine," she said. It sounded like she was deciding it.
+Rosa unlocked the door. "He'll fit in," she said. Then, quieter: "Or we'll fit around him. One of those."
 
----
+Dave laughed. Rosa didn't. He stopped laughing.
 
-Later — 10:47 PM — Dave saw the light in Aldric's bedroom go on for exactly four minutes, then go off again. The living room light stayed on longer. Through the window, if you were looking — and Dave wasn't, not really, not on purpose — you could see the leather chair, and the silhouette of a man sitting in it, perfectly still, facing the dark window.
+In bed, Dave stared at the ceiling. Nice guy. Three boxes. Who moves eleven hundred miles for the sound of lawnmowers?
 
-Not reading. Not watching anything. Just sitting.
+He turned over. Rosa was already asleep.
 
-Dave closed the curtain and went to bed.
+Tomorrow he'd bring the guy coffee. That was what you did. That was the normal thing.
 
-Across the street, Gerald Hooper's office light was still on. Dave could see it from the bedroom window. Gerald was probably writing something. Gerald was always writing something.
-
-*Nice guy,* Dave thought again. And then, without knowing why: *Too few boxes.*
-
-He turned over and forgot about it.
+He was looking forward to it. He didn't know why that felt unusual, but it did.

@@ -62,10 +62,11 @@
 36. **„The way" sparsam einsetzen.** Erste Wahl: direkt beschreiben. Nicht *the way his voice dropped*, sondern *his voice dropped*. *Like* bevorzugen wenn Vergleich nötig, aber auch Vergleiche insgesamt reduzieren.
 37. **Maximal ein „and" pro Satz.** Dreierlisten mit Komma und einem *and*: *smoke, fat, and sap*. And-Ketten nur als bewusstes, seltenes Stilmittel (Anaphora, Atemlosigkeit). Ausnahme: Paarungen (*needle and thread, fire and water*).
 38. **Em Dashes nur bei Interruption.** Parenthetische Einschübe nicht mit Em Dashes lösen. Stattdessen: Punkt und neuer Satz, Komma, oder umformulieren. Einzige Ausnahme: abgebrochener Dialog (*"I didn't—"*). Em Dashes sind kein Universalwerkzeug für Nachträge, Appositionen oder Erklärungen.
+39. **Keine Szenentrenner.** Kein `---`, kein `***`, keine visuellen Trennlinien. Der Text fließt. Absatzumbrüche und ein neuer Satz reichen, um Zeit- oder Ortswechsel zu markieren.
 
 ## Szenen-Architektur
-39. **Sanfte Kapitel-Einstiege.** Kapitel beginnen nicht mit isolierten Ein-Satz-Hooks. Den Leser in die Szene hineinführen — mit Sinneseindrücken, Körperhaltung, Umgebung oder laufender Handlung.
-40. **Szenen am Turn schneiden.** Beende die Szene wenn sich etwas verschiebt — nicht danach. Die Nachwirkung einer Veränderung gehört in die nächste Szene, nicht ans Ende der aktuellen.
+40. **Sanfte Kapitel-Einstiege.** Kapitel beginnen nicht mit isolierten Ein-Satz-Hooks. Den Leser in die Szene hineinführen — mit Sinneseindrücken, Körperhaltung, Umgebung oder laufender Handlung.
+41. **Szenen am Turn schneiden.** Beende die Szene wenn sich etwas verschiebt — nicht danach. Die Nachwirkung einer Veränderung gehört in die nächste Szene, nicht ans Ende der aktuellen.
 41. **Jede Szene verändert etwas.** Eingangs-Zustand ≠ Ausgangs-Zustand (Beziehung, Wissen, Position, Absicht). Wenn nach einer Szene alles ist wie vorher, existiert sie nicht.
 
 ## Charakterwissen

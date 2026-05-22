@@ -157,8 +157,44 @@ Je weniger er sagt, desto gefährlicher ist es.
 | Normal | Lächelt, entschuldigt sich, bietet Tee an |
 | Aufmerksam | Hört auf zu lächeln |
 | Warnung | „Darf ich Sie etwas fragen? Ist das Ihr endgültiger Standpunkt?" |
-| Letzte Chance | „Ich bitte Sie nicht nochmal." |
+| Letzte Chance | [Seufzt.] „Sie hatten Ihre Chance." |
 | Kein Zurück | [Er stellt die Tasse hin.] |
+
+### Die Warnung als Szene
+
+> *„Darf ich Sie etwas fragen?" sagte Aldric. Seine Stimme war unverändert. „Ist das Ihre letzte Meinung zu diesem Thema?"*
+>
+> *„Ja."*
+>
+> *Aldric seufzte. Es war ein aufrichtiger Seufzer. „Sie hatten Ihre Chance."*
+>
+> *Dann passierte alles sehr schnell.*
+
+Die Warnung ist kein Machtwort. Es ist Bedauern. Er *wollte*, dass sie sich anders entscheiden. Er hat ihnen die Möglichkeit gegeben. Jetzt gibt es nur noch die Konsequenz.
+
+### Die Warnung aus Fremd-POV (Referenzton)
+
+> *The guy hadn't raised his voice. That was the thing. Kyle kept replaying it later and that was the part that didn't fit. The guy hadn't raised his voice, hadn't stepped closer, hadn't clenched a fist. He'd just asked.*
+>
+> *"May I ask you something?"*
+>
+> *Kyle had turned around. The tall one from across the street, the one who always waved, always said good morning with both words like they were separate sentences. Standing there in a button-down shirt, hands at his sides. Relaxed. Normal.*
+>
+> *"Is that your final opinion on this matter?"*
+>
+> *Kyle had almost laughed. Who talked like that? He did laugh. "Yeah," he said. "It is."*
+>
+> *The man sighed.*
+>
+> *It was a small sound. Almost gentle. Like someone closing a book they'd enjoyed.*
+>
+> *"You had your chance," the man said.*
+>
+> *And then Kyle understood that the politeness hadn't been a personality. It had been a leash. And he'd just watched it come off. Nothing in the man's face had changed. Nothing in his posture. But the air between them was different now, the way a room feels different when you realize the door behind you is locked.*
+>
+> *Kyle took a step back. He didn't decide to. His legs decided for him.*
+
+**Mechanik:** Die Höflichkeit wird rückwirkend bedrohlich. Körperlich verändert sich nichts. Der POV versteht es erst im Nachhinein. Er erzählt es nicht weiter, weil es sich lächerlich anhört.
 
 ### Was er nie tut
 
