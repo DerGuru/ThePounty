@@ -1,4 +1,4 @@
-# Uncommon Courtesy — Charakterbibel: Aldric Venn
+﻿# Uncommon Courtesy — Charakterbibel: Aldric Venn
 
 *Action Comedy · Slice of Life · Fremd-POV · Werk in Entwicklung*
 
@@ -68,20 +68,21 @@ Dieser Satz ist die komplette Charakterbeschreibung.
 |Name          |Aldric Venn                                                                                       |
 |Alter         |34                                                                                                |
 |Herkunft      |„Aus dem Norden. Dem ruhigeren Teil.” (1.100 Meilen Fahrt, ohne längeren Halt als Tanken/Toilette)|
-|Beruf (früher)|„Ich habe Probleme gelöst.”                                                                       |
-|Beruf (davor) |Special Operations. Wird nie direkt erwähnt.                                                      |
+|Beruf          |„Ich habe Probleme gelöst." — Intelligence. Aktiv. Wird nie direkt erwähnt.                       |
+|Verdrahtung    |Subklinischer Psychopath. Reduzierte Empathie, analytisch-dominant. Grundausstattung, nicht Folge.|
 |Fahrzeug      |Volvo 240 GL, Baujahr 1987, dunkelgrün                                                            |
 |Adresse       |4 Maple Lane                                                                                      |
-|Status        |Frisch eingezogen. Neu anfangen.                                                                  |
+|Status         |Aktiv im Dienst. Persönlicher Auftrag: ein Versprechen einlösen.                                  |
 
 ### Kernwerte
 
-|Eigenschaft    |Beschreibung                  |
-|---------------|------------------------------|
-|Geduld         |Nahezu unbegrenzt             |
-|Selbstkontrolle|Eisern — bis sie es nicht ist |
-|Kampffähigkeit |Erschreckend. Herkunft unklar.|
-|Empathie       |Echt. Nicht gespielt.         |
+|Eigenschaft    |Beschreibung                                                                     |
+|---------------|---------------------------------------------------------------------------------|
+|Geduld         |Nahezu unbegrenzt                                                                |
+|Selbstkontrolle|Eisern — und bewusst. Jeden Tag neu entschieden.                                 |
+|Kampffähigkeit |Erschreckend. Trainiert und natürlich begünstigt.                                |
+|Empathie       |Konstruiert. Nicht instinktiv, aber aufrichtig gemeint. Architektur statt Gefühl.|
+|People-Reading |Chirurgisch. Er sieht, was Menschen brauchen, bevor sie es selbst wissen.        |
 
 ### Was er mitbringt (komplette Inventarliste)
 
@@ -90,8 +91,8 @@ Er zieht in ein möbliertes Haus. Der Anhänger ist Standardgröße. Für das, w
 - **Drei Umzugskisten** — beschriftet: „Küche”, „Bücher”, „Sonstiges”. Die Sonstiges-Kiste ist mit zusätzlichem Paketklebeband gesichert. Niemand erwähnt es. Alle sehen es.
 - **Ein Sessel** — Leder, dunkelbraun, sehr alt, sehr gepflegt. Passt nicht zum möblierten Haus. Er bringt ihn trotzdem. Das ist der einzige Gegenstand, bei dem er selbst trägt.
 - **Ein kleiner Werkzeugkasten** — kompakt, ordentlich.
-- **Ein Bilderrahmen** — leer. Er stellt ihn trotzdem auf den Kaminsims. Er wird lange kein Foto bekommen. Er steht einfach dort. Wer fragt, bekommt: „Ich suche noch das Richtige.”
-- **Eine kleine, flache Metallkiste** — abgeschlossen, kein Aufkleber. Er trägt sie selbst. Legt sie ins Schlafzimmer. Kommt ohne sie zurück. Keiner hat sie danach gesehen.
+- **Ein Bilderrahmen** — leer. Er stellt ihn trotzdem auf den Kaminsims. Er hat noch kein Foto dafür. Wer fragt, bekommt: „Ich suche noch das Richtige." Das ist keine Metapher. Er sucht buchstäblich.
+- **Eine kleine, flache Metallkiste** — abgeschlossen, kein Aufkleber. Er trägt sie selbst. Legt sie ins Schlafzimmer. Kommt ohne sie zurück. Keiner hat sie danach gesehen. Inhalt: operativ. Ein Name. Eine dünne Akte. Werkzeug.
 
 -----
 
@@ -101,67 +102,77 @@ Er zieht in ein möbliertes Haus. Der Anhänger ist Standardgröße. Für das, w
 
 Das ist das Kapitel, das nie auf der Seite landet. Es erklärt alles. Es wird nie erklärt.
 
-### Die Ausbildung
+### Die Verdrahtung
 
-Aldric Venn hat in einer Special Operations Einheit gedient. Ausbildung, Einsätze, Jahre. Er war gut. Sehr gut. Das sieht man noch — in der Art, wie er einen Raum betritt, wie er mit dem Rücken zur Wand sitzt, wie er in den ersten fünf Minuten jeden Notausgang kartografiert. Das verlernt man nicht. Das ist Muskelgedächtnis, das tiefer sitzt als Entscheidungen.
+Aldric Venn ist ein subklinischer Psychopath. Das ist keine Metapher, keine Folge von Trauma, kein Produkt von Training. Das ist Grundausstattung. Reduzierte Empathie. Analytisch-dominantes Denken. Emotionale Reaktionen, die er *intellektuell gelernt* hat, nicht instinktiv empfindet.
 
-Er hat das System respektiert. Das System hat ihn respektiert. Er ist mit Ehren gegangen — was bedeutet, dass das System klug genug war um zu wissen, dass Männer wie er gefährlicher sind als Feinde, wenn sie unzufrieden innerhalb bleiben.
+Er ist nicht leer. Er ist nicht gefühllos. Aber was andere Menschen als Instinkt haben — Mitgefühl, Spiegelung, emotionale Resonanz — das muss er *bauen*. Jeden Tag. Bewusst. Wie jemand, der eine Fremdsprache spricht: fließend, akzentfrei, aber es bleibt Übersetzung.
 
-### Der Befehl
+Das macht ihn nicht zum Monster. Das macht ihn zu jemandem, der sich *entschieden* hat, kein Monster zu sein. Diese Entscheidung ist das Bemerkenswerteste an ihm.
 
-Irgendwann, bei einem Einsatz, hat er einen Befehl ausgeführt, den er für falsch hielt. Es war legal. Es war strategisch korrekt. Es war dokumentiert und genehmigt und innerhalb aller Parameter.
+### Intelligence
 
-Es war trotzdem falsch. Und er hat es gewusst. Und er hat es trotzdem getan.
+Sie haben ihn früh gefunden. Nicht weil er auffiel — sondern weil jemand Kluges die richtigen Tests las und verstand, was er sah. Ein junger Mann mit natürlicher Begabung für das Lesen von Menschen, ohne die emotionale Interferenz, die andere dabei stört. Perfekt.
 
-Was genau passiert ist, landet nie auf der Seite. Der Leser erfährt es nicht. Die Nachbarn ahnen es nicht. Aber die Konsequenzen sind überall: in den Regeln, in der Metallkiste, in dem Mann, der er danach war.
+Intelligence hat ihn nicht *gemacht*. Sie haben sich seiner *bedient*. Was bereits da war — die Fähigkeit, Menschen chirurgisch zu analysieren, Motivationen zu kartieren, Schwachstellen zu identifizieren — das wurde geschärft, systematisiert, zur Waffe gemacht.
 
-### Danach
+Er arbeitet für sie. Nicht weil sie ihn kontrollieren — sondern weil es ihm passt. Die Vereinbarung ist stillschweigend und absolut:
 
-Er hat das Danach nicht gut gehandhabt.
+- Sie zeigen ihm Probleme. Er löst sie. Innerhalb seines Codex.
+- Sie befehlen ihm nichts, was den Codex verletzt.
+- Die Konsequenz eines solchen Befehls wäre nicht Verweigerung. Sie wäre *Umpriorisierung*. Der Befehlende wird zum Problem. Und er löst Probleme.
+- Sie wissen das. Es gibt Profile. Akten. Simulationen. Alle kommen zum gleichen Ergebnis: man lässt ihn arbeiten, wie er arbeitet.
+- Er weiß, dass er überwacht wird. Es ist ihm gleichgültig. Transparenz ist keine Bedrohung für jemanden, der keine Angst vor Konsequenzen hat.
 
-Nicht dramatisch — kein Zusammenbruch, kein öffentliches Scheitern. Leise. Still. Er ist einfach langsam nicht mehr er selbst gewesen. Hat funktioniert. Hat die richtigen Dinge gesagt. Hat seinen Job gemacht. Und ist dabei in sich selbst verschwunden.
+Er ist kein Abtrünniger. Kein Rebell. Er ist ein kooperativer Predator, der innerhalb eines Systems arbeitet, solange das System seine Grenzen respektiert. Das System ist klug genug, diese Grenzen nicht zu testen.
 
-Wer mit sich selbst nicht mehr leben kann, kann auch mit niemandem anderen mehr leben. Das ist keine Metapher. Das ist die Mechanik, die seine Ehe zerstört hat.
+### Der Andere
 
-### Die Ehe
+Es gab einen Zweiten. Gleiche Verdrahtung. Gleiche Abteilung. Nicht Freund — das Wort bedeutet wenig für Menschen wie sie. Aber *erkannt*. Zwei Exemplare derselben Spezies, die einander sehen, ohne die Übersetzungsarbeit, die alle anderen erfordern. Die einzige Person, bei der Aldric nie performen musste — weil der Andere die Konstruktion erkannte und es egal war.
 
-Es war einvernehmlich. Sie hat ihn konfrontiert — direkt, klar, ohne Grausamkeit. Sie hat gesagt, was sie sah. Er hat es eingesehen. Das war, in seiner Art, ein letzter Akt von Respekt zwischen zwei Menschen, die sich einmal sehr gut gekannt haben.
+Der Unterschied: Der Andere hatte keinen Codex. Keine Regeln. Nur die Verdrahtung und die Fähigkeiten und irgendwann keine Linie mehr. Er hat angefangen, die Falschen zu töten. Nicht aus Versehen. Aus Gleichgültigkeit darüber, ob es die Richtigen oder die Falschen waren.
 
-Er trägt ihr keinen Groll. Sie ihm keinen. Das macht es nicht besser. Manchmal ist das Fehlen von Groll das Traurigste an einer Trennung — weil es bedeutet, dass da nichts mehr ist, das sich in Wut verwandeln könnte.
+Aldrics Codex war eindeutig. Also hat Aldric ihn getötet.
 
-### Die Tochter
+Nicht mit Zorn. Nicht mit Bedauern. Mit Klarheit. So wie man eine Gleichung löst, die nur ein Ergebnis zulässt.
 
-Er hat eine Tochter. Ihr Name wird nie genannt. Ihr Alter wird nie genannt. Das Foto in der Metallkiste ist von ihr.
+### Das Versprechen
 
-Er hat aktuell keinen Kontakt. Nicht weil sie ihn abgewiesen hat — sondern weil er entschieden hat, dass er erst wieder er selbst werden muss, bevor er ihr Vater sein kann. Das ist entweder die klügste oder die traurigste Entscheidung, die er je getroffen hat. Vielleicht beides.
+Der Andere, im Sterben. Ein Name. Ein Satz.
 
-Die Metallkiste ist zu. Das Foto ist darin. Er geht manchmal kurz die Treppe hoch, steht davor, geht wieder weg.
+*"Look at her. Do what you think is right."*
 
-Wenn er das Foto in den Rahmen hängt, ist er fertig. Nicht geheilt. Fertig. Das ist der Epilog.
+*"I'll do."*
 
-### Die Regeln
+Keine Erklärung. Keine Beziehungsdefinition. Keine Anweisung, was *right* bedeutet. Nur ein Name und das Vertrauen — wenn man es so nennen kann — dass Aldric über ein Regelwerk verfügt, das eine Antwort produzieren wird.
 
-Die Regeln sind nicht überliefert. Sie sind konstruiert.
+Aldric weiß nicht, was sie für den Anderen war. Tochter? Schuld? Die einzige Person, der ein Psychopath ohne Regeln je etwas Menschliches entgegengebracht hat? Vielleicht ist es egal. Das Versprechen steht. Ein gegebenes Wort wird gehalten. Immer.
 
-Ein Teil davon existierte schon — sein moralischer Kompass, der in der Einheit geschärft wurde und den er am Ende nicht mehr ignorieren konnte. Aber die Regeln in ihrer jetzigen Form, als vollständiges System, als Lebensweise — die sind neu. Die hat er nach der Trennung gebaut.
+### Der Codex
 
-Er hat sich hingesetzt — metaphorisch, vielleicht buchstäblich — und entschieden, wer er sein will. Nicht wer er war. Wer er *sein will*. Die Regeln sind der Bauplan. Der Mounty-Modus ist das Ergebnis.
+Die Regeln existierten vor dem Versprechen. Sie sind kein Produkt eines einzelnen Moments — sie sind das Projekt eines Lebens. Irgendwann, früh, hat Aldric erkannt, was er ist. Und entschieden, was er *sein will*.
 
-Das ist wichtig: Die Höflichkeit ist kein Überrest seiner alten Persönlichkeit. Sie ist neu. Sie ist konstruiert. Sie ist das sorgfältigste Projekt, das er je in Angriff genommen hat — sich selbst.
+Der Codex ist kein moralisches Gefühl. Er ist eine *Entscheidung*. Jeden Tag neu getroffen. Architektur statt Instinkt. Das sorgfältigste Projekt, das er je in Angriff genommen hat — sich selbst zu einer Version zu formen, die unter Menschen existieren kann, ohne zu zerstören.
 
-**Das bedeutet:** Das Lächeln ist aufgesetzt. Die Freundlichkeit ist aufgesetzt. Nicht weil er lügt — sondern weil er sich entschieden hat, so zu sein, und die Entscheidung jeden Tag neu trifft. Auf den Scherben seines alten Selbst baut er etwas, das ein guter Nachbar sein kann, ein fairer Mensch, jemand mit Regeln die er hält.
+**"Good men don't need rules"** — wörtlich. Er hält sich nicht für einen guten Menschen. Er hält sich für jemanden, der ohne Regeln zu etwas wird, das er analytisch als *falsch* klassifiziert. Die Regeln sind der Zaun. Der Mounty-Modus ist das Ergebnis.
 
-Irgendwann hört es vielleicht auf, aufgesetzt zu sein. Vielleicht ist das der Punkt.
+Das Lächeln ist konstruiert. Die Freundlichkeit ist konstruiert. Nicht weil er lügt — sondern weil er emotionale Reaktionen *baut* statt sie zu empfinden. Die Entscheidung, freundlich zu sein, ist echt. Die Freundlichkeit selbst ist Ingenieursarbeit.
 
-### Der Umzug
+### Maple Lane
 
-1.100 Meilen. Bewusst. Er hat nicht nach einer bestimmten Stadt gesucht. Er hat nach einer bestimmten Art von Ort gesucht: weit weg von allem was ihn kennt, irgendwo im Nirgendwo, wo die Welt noch heil wirkt.
+Die Spur führt hierher. 1.100 Meilen. Die letzte bekannte Verbindung zu dem Namen, den der Andere ihm gegeben hat.
 
-Maple Lane ist kein Ziel. Es ist eine Beschreibung. Weiße Zäune. Gleichmäßiger Rasen. Nachbarn die aus Neugier Kuchen bringen. Eine Welt, in der die größten Konflikte zu laut geparkten Autos und drei Cent zu wenig Wechselgeld sind.
+Aldric ist hier, um sie zu finden. Dann: beobachten. Verstehen. Und dann tun, was er für richtig hält — was auch immer das ist. *Right* ist nicht vordefiniert. Er muss es herausfinden.
 
-Er will in einer Welt leben, in der die Skala stimmt. Wo er üben kann, ein Mensch zu sein, ohne dass die Fehler katastrophal sind. Das ist keine Flucht. Das ist Therapie.
+Dass er dabei in einer Vorstadt mit weißen Zäunen und Blumenkästen landet, ist Zufall. Dass er dort einen Blumenkasten kauft, Nachbarn beim Namen kennt und Kuchen auf der Veranda isst — das ist er. So funktioniert er unter Menschen. Der Auftrag ändert nichts an seinem Betriebssystem.
 
-Und wenn er irgendwann fertig ist — wenn das Foto im Rahmen hängt — dann wird er vielleicht wieder anrufen.
+Die Nachbarn sehen den echten Aldric. Sie wissen nur nicht, warum er da ist.
+
+### Der leere Rahmen
+
+Er hat sie noch nicht gefunden. Oder er hat sie gefunden, aber noch nicht entschieden, was *right* bedeutet. Der Rahmen steht leer auf dem Kaminsims. Wer fragt, bekommt: „Ich suche noch das Richtige."
+
+Wenn das Foto im Rahmen steht, ist die Frage beantwortet. Das Versprechen ist eingelöst.
 
 ### Was auf der Seite landet
 
@@ -169,14 +180,15 @@ Nichts davon direkt. Alles davon indirekt.
 
 |Detail                        |Wie es sichtbar wird                                                                            |
 |------------------------------|------------------------------------------------------------------------------------------------|
-|Special Ops Ausbildung        |Er schläft mit dem Rücken zur Wand. Er kennt jeden Notausgang. Er ist zu gut in dem, was er tut.|
-|Der Befehl                    |Die Metallkiste. Die Regeln. Der Mann der er ist.                                               |
-|Die Ehe                       |Der leere Rahmen. Keine Familie die anruft. „Ich bin nicht gut im Kontakt halten.”              |
-|Die Tochter                   |Das Foto in der Kiste. Das Bild das Bea ihm malt und das er in der Küche aufhängt.              |
-|Die Regeln als Neukonstruktion|Die Präzision. Die Höflichkeit. Die Tatsache, dass er nie improvisiert.                         |
-|Der Heilungsversuch           |Maple Lane. Der Blumenkasten. Der Wunsch, ein guter Nachbar zu sein.                            |
+|Die Verdrahtung               |Die chirurgische Präzision seiner Höflichkeit. Er liest Menschen wie Akten.                     |
+|Intelligence                  |Er schläft mit dem Rücken zur Wand. Er kennt jeden Notausgang. Kein digitaler Footprint.        |
+|Der Andere                    |Die Metallkiste. Ein Versprechen. Ein Name, den niemand kennt.                                  |
+|Das Versprechen               |Der leere Rahmen. Die Tatsache, dass er hier ist. Die Frage, die nie gestellt wird.             |
+|Der Codex als Lebenswerk      |Die Präzision. Die Höflichkeit. Die Tatsache, dass er nie improvisiert.                         |
+|Der aktive Auftrag            |Kleine Abwesenheiten. Momente, wo er Dinge weiß, die er nicht wissen sollte.                    |
 
 -----
+
 
 ## Der Mounty-Modus
 
@@ -444,7 +456,7 @@ Manche kommen freiwillig zu ihm — bevor die Sache eskaliert. Er hörte immer z
 Wir sind nie in Aldrics Kopf — mit zwei Ausnahmen:
 
 - **Prolog:** Aldric fährt in die Straße. Seine Ankunft aus seiner Sicht. Bevor die Nachbarn erscheinen. Sobald der erste Nachbar da ist, endet sein POV.
-- **Epilog:** Er öffnet die Metallkiste. Hängt das Foto seiner Tochter in den leeren Rahmen. Keine Erklärung. Er ist angekommen.
+- **Epilog:** Er hängt ein Foto in den leeren Rahmen. Wir sehen nicht, wen es zeigt. Keine Erklärung. Das Versprechen ist eingelöst.
 
 Dazwischen wird ausschließlich aus der Perspektive der Menschen erzählt, mit denen er interagiert — Nachbarn, Fremde, Antagonisten. Jede Szene gehört jemandem, der Aldric beobachtet, auf ihn reagiert, ihn zu lesen versucht.
 
@@ -534,17 +546,17 @@ Dan Harmons 8-Schritte-Kreis beschreibt nicht Aldrics Reise, sondern die **Reise
 |3. Du gehst in eine fremde Zone|Aldric zieht ein. Die Normalität kippt leicht.                                                                                                       |
 |4. Du suchst                   |Jeder versucht, ihn zu lesen. Keiner schafft es.                                                                                                     |
 |5. Du findest                  |Sie hören auf zu suchen — und fangen an, ihn einfach zu kennen.                                                                                      |
-|6. Du bezahlst den Preis       |Jemand aus Aldrics Vergangenheit findet ihn. Die Normalität der Straße gerät in Gefahr. Nicht weil Aldric es hereinbringt, sondern weil es ihm folgt.|
+|6. Du bezahlst den Preis       |Die Bedrohung erreicht Maple Lane. Aldrics Auftrag und sein neues Leben kollidieren. Die Nachbarn geraten in die Nähe von etwas, das nicht für sie bestimmt ist.|
 |7. Du kehrst zurück            |Die Krise wird gelöst. Durch ihn. Auf seine Art. Die Nachbarn sehen zum ersten Mal den ganzen Aldric — und verstehen trotzdem nicht alles.           |
-|8. Du hast dich verändert      |Die Straße ist dieselbe. Die Menschen auf ihr nicht. Und Aldric hängt ein Foto in den leeren Rahmen.                                                 |
+|8. Du hast dich verändert      |Die Straße ist dieselbe. Die Menschen auf ihr nicht. Und Aldric hängt ein Foto in den leeren Rahmen. Das Versprechen ist eingelöst.                  |
 
 ### Die Resolution: Was am Ende passiert
 
 Das Buch endet wie es beginnt: in Aldrics Kopf. Die einzigen zwei Szenen aus seiner Sicht rahmen die Geschichte ein.
 
-**Prolog:** Er fährt in die Straße. Sieht die Zäune, die Briefkästen, den gleichmäßigen Rasen. Er sitzt im Volvo, schaut auf die Marigolds im Reifenrand, und denkt *Community through uniformity. Identity through exception.* Das ist nicht Anthropologie. Das ist Sehnsucht. Er will dazugehören. Er hat vergessen wie das geht. Er fängt heute an, es wieder zu lernen.
+**Prolog:** Er fährt in die Straße. Sieht die Zäune, die Briefkästen, den gleichmäßigen Rasen. Er sitzt im Volvo, schaut auf die Marigolds im Reifenrand, und denkt *Community through uniformity. Identity through exception.* Er analysiert. Er kategorisiert. Und irgendwo darunter: der Wunsch, Teil davon zu sein. Nicht als Tarnung. Als Projekt.
 
-**Epilog:** Er öffnet die Metallkiste. Er hängt das Foto seiner Tochter in den leeren Rahmen. Er erklärt es nicht. Niemand sieht es. Aber der Leser weiß, was es bedeutet: er ist fertig. Nicht geheilt. Fertig. Bereit, wieder anzurufen.
+**Epilog:** Er hängt ein Foto in den leeren Rahmen. Wir sehen, wen es zeigt — aber wir wissen nicht, was es bedeutet. Nur dass das Versprechen eingelöst ist. Und dass er bleibt.
 
 -----
 
@@ -564,9 +576,9 @@ Er ist zu gut in dem, was er tut. *Das ist der Backstory.* Der Leser rechnet sel
 
 Aldric hat keinen sichtbaren inneren Monolog — aber seine Taten sind einer. Er rückt Kissen gerade, die schon gerade sind. Er schreibt Dankesbriefe für Kleinigkeiten. Er wäscht fremde Schüsseln, bevor er schläft. Diese Details ersetzen den Zugang zu seinem Kopf.
 
-### Das Foto als stilles Motiv
+### Der leere Rahmen als stilles Motiv
 
-Das Foto in der Metallkiste wird nie beschrieben. Die Metallkiste wird nie geöffnet — bis zum Epilog. Aber seine Wirkung ist überall: in dem Bild das Bea ihm malt und das er aufhängt, in dem Rahmen der leer bleibt, in dem Moment wenn Rosa ihn ansieht und etwas versteht, das sie nie ausspricht.
+Der leere Bilderrahmen auf dem Kaminsims wird nie erklärt. Die Metallkiste wird nie geöffnet — bis zum Epilog. Aber ihre Wirkung ist überall: in dem Rahmen der leer bleibt, in den Momenten wo Aldric kurz abwesend wirkt, in der Frage die niemand stellt und die er niemanden beantworten würde.
 
 ### Dosierung
 
@@ -578,7 +590,7 @@ Zwei bis drei prägnante Höflichkeits-Momente pro Kapitel sind stärker als zeh
 - Er verliert durch seine Höflichkeit nie wichtige Konfrontationen
 - Er erklärt seinen Punisher-Modus niemals
 - Er entschuldigt sich für die Dauer, nicht für die Tat
-- Er spricht über seine Tochter nicht — bis er es tut, und dann nur einmal, zu jemandem der nicht fragt
+- Er spricht über seinen Auftrag nicht — und niemand weiß genug, um zu fragen
 
 -----
 
@@ -661,14 +673,14 @@ Er strich den letzten Satz durch. Schrieb ihn neu. Strich ihn wieder durch.
 
 Diese Details sind gesetzt. Sie werden nie direkt erklärt.
 
-- **Sein innerer Leitsatz:** *„Community through uniformity. Identity through exception.”* Er denkt in Prinzipien. Das ist kein Zynismus — das ist ein Mann, der sich eine neue Weltsicht gebaut hat.
-- **Körperbewegung:** Effizient, ohne Theater. Jede Bewegung hat exakt ein Ziel. Kein Überfluss. Special Ops Ausbildung, die man nicht ablegt.
+- **Sein innerer Leitsatz:** *„Community through uniformity. Identity through exception.”* Er denkt in Prinzipien. Das ist kein Zynismus — das ist ein Mann, der die Welt in Systemen liest.
+- **Körperbewegung:** Effizient, ohne Theater. Jede Bewegung hat exakt ein Ziel. Kein Überfluss. Training, das man nicht ablegt.
 - **Er schläft mit dem Rücken zur Wand.** Immer. Er rückt das Bett dafür um. „Ich schlafe so besser.” — Ende der Erklärung.
 - **Er kennt jeden Notausgang.** Er kartografiert sie in den ersten fünf Minuten jeden neuen Raums. Wirkt wie Quirk. Ist keiner.
 - **Sein Name ist in keiner öffentlichen Datenbank.** Er hat eine Adresse. Er hat eine Steuernummer. Mehr nicht. Niemand fragt — weil er so freundlich ist, dass man vergisst zu fragen.
-- **Die verschlossene Metallkiste** steht im Schlafzimmer. Ungeöffnet. Er geht manchmal kurz hin. Steht davor. Geht wieder weg. Das Foto seiner Tochter ist darin.
+- **Die verschlossene Metallkiste** steht im Schlafzimmer. Ungeöffnet. Er geht manchmal kurz hin. Steht davor. Geht wieder weg. Operativer Inhalt: ein Name, eine Akte, Werkzeug.
 - **Er hat keine alten Fotos**, keine Schulfreunde, keine Familie die anruft. „Ich bin nicht gut im Kontakt halten.” Lächeln. Themenwechsel.
-- **Der leere Bilderrahmen** auf dem Kaminsims. Er war nicht immer allein. Er erlaubt sich noch nicht, das Foto hineinzuhängen. Noch nicht.
+- **Der leere Bilderrahmen** auf dem Kaminsims. Er hat noch nicht gefunden, was hineingehört. Oder er hat es gefunden, aber noch nicht entschieden. Wer fragt: `Ich suche noch das Richtige.`
 
 -----
 
@@ -684,7 +696,7 @@ Diese Details sind gesetzt. Sie werden nie direkt erklärt.
 |Innenperspektive im Punisher-Modus      |Theatralisch statt gruselig    |Außenperspektive: wie erleben andere ihn?                         |
 |Groll nach der Strafe                   |Zerstört die Vergebungsmechanik|Konto null = wirklich null                                        |
 |Aldric-POV außerhalb von Prolog/Epilog  |Löst das Rätsel auf            |Konsequent Fremd-POV. Nur Prolog und Epilog aus seiner Sicht.     |
-|Die Tochter erwähnen bevor er bereit ist|Bricht die Dosierung           |Sie existiert durch Abwesenheit — der Rahmen, die Kiste, Beas Bild|
+|Den Auftrag zu früh enthüllen           |Bricht die Dosierung           |Das Versprechen existiert durch Abwesenheit — der Rahmen, die Kiste, die Abwesenheiten|
 |Die Metallkiste öffnen                  |Zerstört den Epilog            |Sie bleibt zu. Bis zum Ende.                                      |
 
 -----

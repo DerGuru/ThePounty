@@ -18,6 +18,10 @@ Dies ist ein Buchprojekt.
 Beachte die Stil-Vorgaben aus diesen Dateien:
 - `00 - General/StyleDNA.md` – Detaillierte Stilmerkmale
 - `00 - General/Writing Rules.md` – Schreibregeln
+- `00 - General/POV_Tone_Examples.md` – Beispiele für POV-Töne
+- `00 - General/aldric_venn_charakterbibel.md` – Charakterbibel für Aldric Venn
+- `00 - General/SoL_Beats.md` – Liste der Slice-of-Life-Beats und ihre Funktionen
+- `00 - General/StoryLine.md` – Die Ereignisse im Buch - quasi die Story in Kurzform
 
 ### Kernprinzipien:
 Sofern nicht anders in den Stilregeln angegeben, gilt:
@@ -27,7 +31,7 @@ Sofern nicht anders in den Stilregeln angegeben, gilt:
 - Die Szene trägt die Länge, die sie braucht, um ihre Funktion zu erfüllen. Es gibt keine Mindest- oder Höchstlänge pro Szene.
 
 ## Wichtige Projekt-Dateien 
-- `00 - General/Plan.md` – Projektplan, Rollen, Verantwortlichkeiten. Hier werden auch weiterere Dokumente Referenziert, die wichtig sind.
+- `00 - General/**` - Refernzdateien mit Anweisungen, Regeln, Stilrichtlinien, Charakterbibel, etc. Diese müssen immer im Kontext vorliegen, bevor du mit der Arbeit am Manuskript beginnst. Sie enthalten wichtige Informationen, die du kennen musst, um die Qualität des Manuskripts sicherzustellen. Wenn sie nicht im Kontext liegen, lade sie.
 
 ## Formatierung
 - Verwende Markdown-Formatierung

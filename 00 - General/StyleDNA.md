@@ -7,6 +7,7 @@
 ## 1. Kurzprofil
 
 Uncommon Courtesy ist eine Suburban Slice-of-Life Action Comedy mit ausschließlich Fremd-POV (Ausnahme: Prolog und Epilog). Die Prosa ist sauber, beobachtend und geerdet in der konkreten Materialität einer amerikanischen Vorstadt. Komik entsteht durch Kontrast — nie durch Lampshading, nie durch den Protagonisten selbst. Die Erzählstimme passt sich dem jeweiligen POV-Charakter an; der Grundton ist ruhig, aufmerksam und leicht lakonisch. Spannung baut sich durch Weglassen auf, nicht durch Anspannung.
+Neben den Beobachtungen der POV-Figuren wird das Buch vor allem durch Dialog getragen. Aldric selbst wird nur von außen gesehen — seine Gedanken, Gefühle und Motive bleiben dem Leser verschlossen. Er ist ein Rätsel, das die anderen Charaktere zu lösen versuchen, aber nie ganz verstehen.
 
 -----
 
@@ -40,6 +41,7 @@ Jede Beobachtung, jede Beschreibung, jeder Satz ist durch das Wertesystem der PO
 
 **Test:** Wenn man die Figurennamen entfernt, muss man trotzdem erkennen, wer gerade schaut — allein am *Wie* der Beschreibung.
 
+Referenz: `00 - General/POV_Tone_Examples.md`
 -----
 
 ## 3. Ton & emotionaler Bereich
@@ -158,7 +160,6 @@ Dave sah ihm nach. Da war etwas. Er wusste nicht was. Er dachte nicht weiter dar
 
 - **Bevorzugt:** “said” oder kein Tag
 - **Sparsam:** “asked”
-- **Nie:** Kreative Tags — kein “hissed”, “growled”, “exclaimed”
 - **Ausnahme:** Wenn die physische Aktion tatsächlich passiert (“whispered” bei echtem Flüstern)
 
 ### Struktur:
