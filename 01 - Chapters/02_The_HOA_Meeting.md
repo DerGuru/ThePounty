@@ -112,7 +112,7 @@ Aldric wrote something in his notebook. A single line. Sandra craned her neck bu
 
 "Thank you," he said. "I appreciate the context. It helps me feel connected to the community."
 
-The meeting ended at 8:43. Seventeen minutes shorter than average, which Sandra attributed to Diane's elevated mood. Normally Diane circled back to old business like a dog returning to a buried bone. Tonight she let things go. Aldric had complimented her organizational skills twice, and that was apparently enough to alter the fabric of spacetime.
+The meeting ended at 8:43. Seventeen minutes shorter than average, which Sandra attributed to Diane's elevated mood. Normally Diane circled back to old business at least twice. Tonight she let things go. Aldric had complimented her organizational skills twice, and apparently that was all it took.
 
 Sandra watched Aldric make the rounds afterward. He shook every hand. He remembered every name. He asked Bob about the irrigation slides with the kind of genuine interest that should have been impossible to fake and yet felt engineered. He complimented Diane's minutes a third time. He told Mrs. Alvarez that her cookies were exceptional and asked what kind of vanilla she used. He somehow knew Mrs. Alvarez had brought the cookies even though no one had said so.
 

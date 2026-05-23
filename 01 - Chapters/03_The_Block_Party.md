@@ -1,187 +1,209 @@
 # Chapter 3: The Block Party
 
-The Maple Lane Summer Cookout had been Dave's idea four years ago, and he regretted it every June when Rosa handed him the clipboard.
+The Maple Lane Summer Cookout had been Dave’s idea four years ago, and he regretted it every June when Rosa handed him the clipboard.
 
-The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies (the Parkers' kid was allergic to everything that tasted good), a column for setup volunteers, and a column Rosa called "Contingencies" which meant things that would go wrong and whose fault it would be.
+The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies (the Parkers’ kid was allergic to everything that tasted good), a column for setup volunteers, and a column Rosa called “Contingencies” which meant things that would go wrong and whose fault it would be.
 
-Dave's job was the grill. He was good at the grill. He understood the grill. The grill did not have columns.
+Dave’s job was the grill. He was good at the grill. He understood the grill. The grill did not have columns.
 
-He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying something. A tray. No, a platter. No, some kind of— was that a cutting board? It was a wooden board the size of a small continent, covered in things Dave couldn't identify from ten feet away.
+He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying something. A board. Wooden. The size of a small table. It was covered in things Dave couldn’t identify from ten feet away.
 
-"Good afternoon, Dave. Am I early?"
+“Good afternoon, Dave. Am I early?”
 
-"People start showing up around four." Dave looked at the platter. "What is that?"
+“People start showing up around four.” Dave looked at the board. “What is that?”
 
-Aldric looked down at it like he'd forgotten he was holding it. "A charcuterie board. I hope it's not too much. I wasn't sure what everyone liked, so I tried to cover a range."
+Aldric looked down at it like he’d forgotten he was holding it. “A charcuterie board. I hope it’s not too much. I wasn’t sure what everyone liked, so I tried to cover a range.”
 
-Dave walked over. The board had meats arranged in folded rosettes. Cheeses cut into geometric shapes. Crackers fanned out in concentric arcs. There were olives, some kind of jam in a small ceramic bowl, actual edible flowers, and what looked like honeycomb. Real honeycomb. With honey still in it.
+Dave walked over to look. The board had meats arranged in folded rosettes. Cheeses cut into geometric shapes. Crackers fanned out in concentric arcs. Olives, some kind of jam in a small ceramic bowl, actual edible flowers, and something that looked like honeycomb. Real honeycomb. With honey still in it.
 
-"Did you *make* this?"
+“Did you *make* this?”
 
-"The arrangement, yes. The components I sourced from three different shops. The honey is local. A beekeeper on Willow Road. Excellent product."
+“The arrangement, yes. The components I sourced from three different shops. The honey is local. A beekeeper on Willow Road sells it at his front door. Excellent product.”
 
-Dave looked at his grill. His grill had hot dogs. The hot dogs were from Costco. They came in a pack of forty-eight. He'd also bought buns, ketchup, and that yellow mustard that came in a squeeze bottle shaped like itself.
+Dave looked back at his grill. His grill had hot dogs from Costco. A pack of forty-eight. He’d also bought buns, ketchup, and that yellow mustard that came in a squeeze bottle shaped like itself.
 
-"That's, uh. That's impressive," Dave said.
+“That’s impressive,” Dave said.
 
-"I hope it's appropriate. I wasn't sure of the formality level." Aldric said this without irony. He genuinely wasn't sure if a neighborhood cookout in a cul-de-sac was a formal or informal event. That was— Dave didn't know what that was.
+“I hope it’s appropriate. I wasn’t sure of the formality level.” Aldric said this without irony. He genuinely wasn’t sure if a neighborhood cookout in a cul-de-sac was a formal or informal event.
 
-"We're eating hot dogs on paper plates, man. I think you're covered."
+“We’re eating hot dogs on paper plates, man. I think you’re covered.”
 
-Aldric smiled. "Then I may have overcalibrated. But better too much than too little."
+Aldric smiled. “Then I may have overcalibrated. But better too much than too little.”
 
-He set the board on the folding table Rosa had set up and went back for something else. He returned with a cooler. Inside: glass bottles of something with handwritten labels.
+He set the board on the folding table Rosa had set up and went back to his house. Came back with a cooler. Inside: glass bottles of something with handwritten labels. Block letters. Same handwriting as the spice jars.
 
-"Homemade lemonade," he said. "I made more than I need."
+“Homemade lemonade,” he said. “I made more than I need.”
 
-Dave had noticed that Aldric always made more than he needed. More coffee. More food. More lemonade. Like he was constantly preparing for a guest he wasn't sure would arrive. Or like generosity was something he practiced the way other people practiced guitar. Daily. Without thinking about why.
+Aldric always made more than he needed. More coffee. More food. More lemonade. Dave had noticed that over the past three weeks. The extra was always for someone else.
 
-People arrived in waves. The Muñozes first, because Bob was always early to everything. Then Sandra, who came out the front door already talking, carrying a potato salad and an opinion about the park benches. Gerald followed, hands in pockets, scanning the gathering the way he scanned everything — like he was counting.
+“You want to help me with the grill while we wait?” Dave said.
 
-The Parkers brought their allergic kid and a case of sparkling water. Mrs. Alvarez brought two trays of empanadas. Ms. Yuen came last, walking slowly, carrying nothing, watching everything. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
+“I’d be honored. What can I do?”
 
-Dave grilled. That was his job. He was good at his job. The hot dogs came out right. The burgers came out right. Gerald's steak came out medium rare because Gerald always wanted medium rare and would send it back like they were in a restaurant if it wasn't.
+“Grab those tongs and flip the coals around. I need them even.”
 
-Aldric stood near the table. Not behind it. Not in front of it. Near it. People came to him the way they came to food — naturally, without thinking about it. He talked to everyone. He remembered the HOA meeting. He remembered Bob's irrigation slides. He asked Mrs. Alvarez about the empanadas. He asked the Parkers about their kid's allergies with the kind of specific knowledge that suggested he'd looked it up. He asked everyone questions. Specific questions. Questions that made people talk for a long time and walk away smiling.
+Aldric took the tongs. Spread the coals with precision. Even layers. He worked quietly, checking each section before moving on. Dave watched him do it and thought: this guy does everything like it’s his job.
 
-Dave watched this from the grill. He'd been watching Aldric do this for three weeks now and it never stopped being interesting. The man made friends the way other people made coffee — automatically, every morning, without apparent effort. But there was something underneath. Something Dave couldn't name. Not suspicious. Not bad. Just... thorough. He was thorough about people the way some men were thorough about cars or statistics.
+“You grill much?” Dave asked.
 
-Rosa came by with a fresh beer. Handed it to Dave without asking. She knew when his was empty. She always knew.
+“I cook. Grilling I’m less experienced with. The variables are more— unpredictable.”
 
-"Everyone ate his board in ten minutes," she said.
+“That’s what makes it fun.”
 
-"It had actual honeycomb on it."
+“I believe you.” He put the tongs down. The coals were perfectly even.
 
-"I know. I had some."
+People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda and his own chair, which he’d been bringing to cookouts since 2020 after the folding chair incident nobody talked about. Then Sandra, who came out her front door already talking, carrying a potato salad and an opinion about the park benches. Gerald followed, hands in pockets, scanning the gathering.
 
-"Was it good?"
+The Parkers brought their allergic kid and a case of sparkling water. Their kid immediately ran to the swing set. Mrs. Alvarez arrived with two trays of empanadas covered in foil. The neighbors from the north end whose names Dave could never quite hold onto brought a fruit salad and a six-pack. Ms. Yuen came last, walking slowly, carrying nothing, watching everything. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
 
-"It was incredible." She paused. "He asked me where I buy my flowers."
+Dave grilled. That was his job. He was good at his job. The hot dogs came out right. The burgers came out right. Gerald’s steak came out medium rare because Gerald always wanted medium rare and would stand at the grill watching until it was done. Dave didn’t mind. Everyone had their thing.
 
-"Your flowers?"
+He had a clear view of the yard from behind the grill. He could see everyone. Aldric was near the food table. Not behind it, not in front of it. Near it. People came to him. They didn’t line up or crowd, they just drifted over. Aldric talked to each person who came. He remembered the HOA meeting. He asked Bob about the irrigation slides. He asked Mrs. Alvarez about the empanadas—which peppers, what region, did she make her own masa. Mrs. Alvarez talked for five minutes straight. Dave had never seen Mrs. Alvarez talk for five minutes to anyone who wasn’t her daughter.
 
-"For the garden. He said he wanted to plant something on his side of the fence. Asked what would complement mine. He used that word. *Complement.*"
+He asked the Parkers about their kid’s allergies. Specific questions. Not just “what’s he allergic to” but “has he tried the new immunotherapy program at Children’s?” Mrs. Parker looked surprised. She said yes, actually, they were on the waitlist. Aldric nodded, said he’d read about the results, said it was promising. They talked for three minutes. Mrs. Parker walked away smiling.
 
-Dave flipped a burger. "That's nice."
+Dave flipped hot dogs. Watched.
 
-"It is nice. It's also— who does that? Who plants flowers specifically to match their neighbor's?"
+Rosa came by with a fresh beer. Handed it to Dave without asking. She always knew when his was empty.
 
-"A guy who likes flowers?"
+“Everyone ate his board in ten minutes,” she said.
 
-Rosa took a sip of her own drink. Water. She always drank water at parties. "He asked about the color palette of my perennials, Dave. The *palette*."
+“It had actual honeycomb on it.”
 
-"So he's a plant guy."
+“I know. I had some. It was incredible.” She paused. “He asked me where I buy my flowers.”
 
-"He's a thorough guy." She looked across the yard. Aldric was crouching down, talking to the Ortegas' youngest. The kid was showing him something in the grass. A bug, probably. Everything was a bug at that age.
+“Your flowers?”
 
-"What's that?" Aldric said to the kid. Dave could hear him clearly.
+“For the garden. He said he wanted to plant something on his side of the fence. Asked what would complement mine. He used that word. *Complement*.”
 
-"A beetle!"
+Dave flipped a burger. “That’s nice.”
 
-"It is. That's a june bug. *Phyllophaga*. They're nocturnal, usually. This one is early." He looked at the bug with the same attention he gave everything else. Complete. Focused. Like the bug mattered.
+“It is nice.” Rosa took a sip of her water. She always drank water at parties. “He asked about the color palette of my perennials, Dave. The *palette*.”
 
-"Is it a good bug or a bad bug?"
+“So he’s a plant guy.”
 
-Aldric thought about that for a moment. Genuinely thought about it. Dave could see him taking the question seriously.
+“Maybe.” She looked across the yard. “Or he just pays attention to what other people care about.”
 
-"It depends on your perspective," he said. "If you're a flower, it's bad. If you're a bird, it's very good. If you're a june bug, you're just trying to find your way somewhere."
+She went back to the food table. Dave stayed at the grill. He didn’t know what to do with that last sentence. He didn’t try.
 
-The kid seemed satisfied with that. He let the bug go. Aldric stood up, brushed his knee, and went back to the table.
+An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his second beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who’d charged her two hundred dollars to tighten a pipe. The story involved hand gestures.
 
-At some point in the evening — Dave couldn't pin down when — the conversations merged into one. People were sitting. Lawn chairs formed a rough circle. The sun was going down. Somebody had turned on the string lights Rosa put up every May. The air smelled like charcoal and citronella and the last of the grilled corn.
+Aldric was crouching in the grass near the swing set. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
 
-Aldric was in the circle, not at the center, not at the edge. Just in it. He'd gotten a beer at some point — Dave noticed because it was the first time he'd seen Aldric drink alcohol. He held it like he was still deciding whether he liked it.
+“What’s that?” Aldric said to the kid.
 
-"You know what I love about this?" Bob said, gesturing with his own beer. "This right here. Just people being people."
+“A beetle!”
 
-"Hear, hear," Gerald said, which was the most enthusiasm Dave had heard from him all evening.
+“It is. That’s a june bug. *Phyllophaga*. They’re nocturnal, usually. This one is early.” He looked at the bug with complete attention. Same attention he gave everything else.
 
-There was a pause. The comfortable kind. The kind where nobody needed to fill the silence. The string lights buzzed. Somewhere a dog barked. The Parker kid was asleep on a blanket.
+“Is it a good bug or a bad bug?”
 
-Then Aldric tilted his head. Slightly. Like a radar dish adjusting.
+Aldric thought about that for a moment. He took the question seriously.
 
-"Do you hear that?" he said.
+“It depends on your perspective,” he said. “If you’re a flower, it’s bad. If you’re a bird, it’s very good. If you’re a june bug, you’re just trying to find your way somewhere.”
 
-Everyone went quiet. Dave didn't hear anything. Just the usual evening noise. Crickets. A sprinkler somewhere.
+The kid seemed satisfied. He let the bug go. Aldric stood up, brushed his knee, and walked back toward the table. He caught Dave’s eye and smiled.
 
-"Hear what?" Sandra said.
+“Great kid,” he said.
 
-"There." Aldric pointed at the old oak at the corner of Dave's lot. "Listen."
+“He’s loud,” Dave said.
 
-A bird was singing. Dave could hear it now. He'd been hearing it all along, probably, but hadn't separated it from the background. A series of notes, rising and falling.
+“He’s curious. That’s better than quiet.”
 
-"That's a wood thrush," Aldric said. "They sing at dusk. Listen to the opening phrase — two low notes, then the flute trill." He paused. The bird obliged. Two low notes, then something higher, something liquid. "There. You see?"
+Dave didn’t know if that was true, but he liked hearing it.
 
-"How do you know that?" Dave said.
+The sun dropped. The air cooled. Somebody turned on the string lights Rosa put up every May. The smell shifted from charcoal and raw meat to charcoal and citronella and the last of the grilled corn. Conversations got slower. People were sitting. Lawn chairs formed a rough circle. The Parker kid was asleep on a blanket, mouth open, one shoe off.
 
-"My father kept a notebook of bird calls. Regional species, migratory patterns, nesting seasons. I inherited the habit." He smiled. "Wood thrushes have been declining for decades. Hearing one in a suburban area is — it's a good sign. It means the canopy is intact. Your oak is older than this street."
+Aldric was in the circle. Not at the center, not at the edge. He’d gotten a beer at some point. He held it loosely, took small sips. It was the first time Dave had seen him drink alcohol.
 
-"I never noticed," Dave said.
+“You know what I love about this?” Bob said, gesturing with his own beer. “This right here. Just people being people.”
 
-"Most people don't. It helps to stop talking." Aldric took a sip of his beer. "My apologies. I didn't mean to lecture."
+“Hear, hear,” Gerald said. Most enthusiasm Dave had heard from him all evening.
 
-"No, that's— that's cool, actually." Dave looked at the oak. He'd mowed around that tree a thousand times. Raked its leaves every fall. Never once listened to what lived in it.
+A comfortable silence. String lights buzzing. Somewhere a dog barked. The breeze had that late-summer-evening thing where it carried the smell of someone else’s barbecue from a block over.
 
-Ms. Yuen, from her chair at the edge, said nothing. But she was watching Aldric. She'd been watching him all evening. The way she watched, Dave had learned, was different from how Gerald watched. Gerald looked for what was wrong. Ms. Yuen just looked. Like watching was enough. Like eventually, if you watched long enough, things told you what they were.
+Then Aldric tilted his head slightly.
 
-The party wound down the way good parties do — slowly, nobody wanting to be the first to leave, everyone waiting for permission. Bob left first, because Bob had a dog to let out. Then the Parkers, carrying their sleeping kid like a sack of flour. Mrs. Alvarez. The neighbors from the north end whose names Dave could never remember.
+“Do you hear that?” he said.
 
-Sandra started collecting plates. Gerald stood up, stretched, and began folding chairs without being asked, which was unusual. Aldric was already stacking. He'd been stacking for five minutes before Dave noticed — quietly, systematically, organizing the chaos of a three-hour party into neat piles. Paper plates in the trash. Recyclables separated. Bottles rinsed.
+Everyone went quiet. Dave didn’t hear anything. Just crickets. A sprinkler somewhere.
 
-"You don't have to do that," Rosa said.
+“Hear what?” Sandra said.
 
-"I want to. You organized this. The least I can do is help it disappear."
+“There.” Aldric pointed at the old oak at the corner of Dave’s lot. “Listen.”
 
-"We can get it tomorrow."
+A bird was singing. Dave could hear it now. He’d been hearing it all along, probably, but hadn’t separated it from the background. A series of notes, rising and falling.
 
-"Tomorrow the raccoons will have found the plates," Aldric said. "And then Gerald will have to write a strongly worded letter to the HOA about wildlife management."
+“That’s a wood thrush,” Aldric said. “They sing at dusk. Listen to the opening phrase—two low notes, then the flute trill.” He paused. The bird obliged. Two low notes, then something higher, something liquid. “There. You hear it?”
 
-Gerald snorted. It might have been a laugh. Dave couldn't be sure.
+“How do you know that?” Dave said.
 
-They cleaned in twenty minutes. Aldric washed the cutting board by hand at Dave's outdoor sink, dried it with a cloth he'd brought, and carried it back to his house. He returned the cooler. Shook Dave's hand.
+“My father kept a notebook of bird calls. Regional species, migratory patterns, nesting seasons. I inherited the habit.” He smiled. “Wood thrushes have been declining for decades. Hearing one in a suburban area is a good sign. It means the canopy is intact. Your oak is older than this street.”
 
-"Thank you for including me. Truly."
+“I never noticed,” Dave said. He’d mowed around that tree a thousand times. Raked its leaves every fall.
 
-"You brought the best thing on the table, man. We should be thanking you."
+“Most people don’t. It helps to stop talking.” Aldric took a sip of his beer. “My apologies. I didn’t mean to lecture.”
 
-"The hot dogs were excellent, Dave. I mean that. Good char. Consistent heat. That's harder than people think."
+“No, that’s— that’s cool, actually.”
 
-Dave laughed. Nobody had ever complimented his hot dogs with that level of sincerity before. "Thanks. They're from Costco."
+Ms. Yuen, from her chair at the edge, said nothing. But she was watching Aldric. She’d been watching him all evening. Her eyes moved from his hands to his face and back. She didn’t look away when he noticed. He tilted his head toward her. A small acknowledgment. She nodded. That was it.
 
-"The quality of ingredients matters less than the quality of attention." Aldric nodded once. "Good night, Dave. Good night, Rosa."
+The party wound down slowly. Nobody wanted to be the first to leave, which was always how good parties ended. Bob left first because he had a dog to let out. Then the Parkers, carrying their sleeping kid. Mrs. Alvarez. The neighbors from the north end.
 
-He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was already on — timer, probably. Or he'd turned it on before he left, knowing he'd come home in the dark. Either option suggested a level of planning that Dave found— what? Not concerning. Not impressive. Something in between.
+Sandra started collecting plates. Gerald stood up, stretched, and began folding chairs without being asked, which surprised Dave. Aldric was already stacking. He’d been at it for five minutes before Dave noticed. Quietly, systematically. Paper plates in the trash bag. Recyclables in a separate bag. Bottles rinsed at the outdoor spigot and set in a row.
 
-Rosa was at his elbow. "Good party," she said.
+“You don’t have to do that,” Rosa said.
 
-"Yeah." Dave watched Aldric's door close. The porch light made a warm circle on the steps. "He knew the bird."
+“I want to. You organized this. The least I can do is help it disappear.”
 
-"He knew my flower palette."
+“We can get it tomorrow.”
 
-"He washed his cutting board at our sink rather than take it home dirty."
+“Tomorrow the raccoons will have found the plates.” Aldric tied the trash bag. “And then Gerald will have to write a strongly worded letter to the HOA about wildlife management.”
 
-"He brought a drying cloth," Rosa said. "He *planned* for washing up. At a party. Who brings a drying cloth to a cookout?"
+Gerald snorted. Might have been a laugh. Hard to tell with Gerald.
 
-Dave thought about it. Someone who didn't like leaving messes. Someone who prepared for every contingency. Someone whose idea of a good time included cleanup logistics.
+They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned the empty cooler. Then he came back one more time and shook Dave’s hand.
 
-"A good neighbor," he said.
+“Thank you for including me. Truly.”
 
-Rosa made a sound. Not agreement. Not disagreement. The sound she made when she was still thinking.
+“You brought the best thing on the table, man. We should be thanking you.”
 
-"He's staying," she said. "I thought maybe he was passing through. Three boxes. Furnished house. But he's staying."
+“The hot dogs were excellent, Dave. Good char. Consistent heat. That’s harder than people think.”
 
-"How do you know?"
+Dave laughed. Nobody had ever complimented his hot dogs with that kind of conviction. “Thanks. They’re from Costco.”
 
-"The flowers. He asked about perennials. Not annuals. Perennials come back every year."
+“The quality of ingredients matters less than the quality of attention.” Aldric nodded once. “Good night, Dave. Good night, Rosa.”
 
-Dave hadn't thought of that. He put his arm around her shoulder. The string lights were still on, buzzing softly. Somewhere in the oak, the wood thrush had gone quiet for the night.
+He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. Knew he’d come home in the dark.
 
-"Good," Dave said. "I like him."
+Rosa appeared at Dave’s elbow. They stood in the yard together. The string lights were still on.
 
-Rosa leaned into his shoulder. "I like him too," she said. And then, quiet enough that Dave almost missed it: "I just can't figure out why he's so good at this."
+“Good party,” she said.
 
-Dave didn't ask what *this* meant. He didn't need to. He didn't have an answer anyway.
+“Yeah.” Dave watched Aldric’s door close. “He knew the bird.”
 
-He turned off the string lights. Went inside. Normal Tuesday. Normal summer. Normal neighbor.
+“He knew my flower palette.”
 
-Nothing unusual at all.
+“He washed his cutting board at our sink rather than take it home dirty.”
+
+“He brought a drying cloth.” Rosa shook her head slightly. “Who brings a drying cloth to a cookout?”
+
+“Somebody organized.”
+
+“Somebody who planned for cleaning up before the food was even served.”
+
+They stood there a moment. Lightning bugs were starting. One blinked near the swing set. Then another by the fence.
+
+“He’s staying,” Rosa said. “I thought maybe he was passing through. Three boxes. Furnished house. But he’s staying.”
+
+“How do you know?”
+
+“The flowers. He asked about perennials. Not annuals. Perennials come back every year.”
+
+Dave hadn’t thought of that. He put his arm around her shoulder. The wood thrush was quiet now. Just the crickets and the string lights and the last of the citronella smoke.
+
+“Good,” Dave said. “I like him.”
+
+Rosa leaned into his shoulder. “I like him too.” Quiet for a moment. “I just wish I understood him better.”
+
+Dave didn’t have an answer for that. He turned off the string lights and went inside.

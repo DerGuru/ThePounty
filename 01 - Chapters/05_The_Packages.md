@@ -153,7 +153,7 @@ He paused. Then:
 *4. "The alternative." He used MY police report as leverage. He knew about the report. Nobody told him about the report.*
 *5. He solved this faster than me. He solved this faster than the police. He solved this like it was nothing.*
 
-Gerald capped the pen. Looked at the questions. Five of them. All good. All unanswerable without asking Venn directly. And Gerald already knew that asking Venn directly produced polite, complete, detailed answers that somehow added up to nothing.
+Gerald capped the pen. Looked at the questions. Five of them. All good. All unanswerable without asking Venn directly. And Gerald already knew that asking Venn directly produced polite, complete, detailed answers that added up to nothing.
 
 He added a sixth question:
 
