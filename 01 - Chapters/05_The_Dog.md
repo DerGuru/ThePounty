@@ -1,165 +1,103 @@
-# Chapter 4: The Dog
+# Chapter 5: The Dog
 
-The dog at number seven had no name that anyone used. The Greens had named it something—Baxter, maybe, or Brutus, one of those B-names people gave to dogs they thought would be friendly—but it had never responded to it and they’d stopped trying, and after a while it was just “the dog.”
+The petunias were past their first bloom. Rosa could tell by the weight of the heads, how they drooped toward the soil instead of the sun. She’d been meaning to deadhead them since Monday, but Monday had been groceries and Tuesday the dentist and Wednesday Lina’s soccer practice and Thursday was the first afternoon in a week where nobody needed her anywhere except here, kneeling in the front bed with her trowel and a paper bag for the spent flowers.
 
-The dog was a mutt. Part shepherd, part something bigger. Seventy pounds on a good day, eighty on a bad one. Dark coat, brown muzzle, yellow eyes. It barked at everything that moved. Cars. Bikes. Squirrels. The wind. The Parkers’ kid was afraid of it. Mrs. Alvarez crossed the street to avoid its yard. Even Gerald, who feared very few things, gave it a wide berth.
+It was late June. The soil was almost too warm under her knees. The heat had that thickness to it, the kind that pressed on the back of your neck and didn’t lift until sundown. Somewhere past the Hoopers’ house she could hear Kevin’s mail truck idling, the rattle of his sliding door, the soft thud of a package on a porch.
 
-The dog barked at Dave every single time he took out the trash. Three years. Every night. The trash can lid went on, the barking started, Dave walked back inside. Never once did the dog look at him and decide he was acceptable. Never once did it remember his face from the night before. Every morning was a new grudge.
+Dave was inside on a call. She’d heard him laugh twice in the last hour, which meant the call was going well, or at least going nowhere important. The kids were in the den. Lina had the controller. Marcus was probably watching. She knew this without checking, the same way she knew which cupboard needed restocking and which neighbor hadn’t waved back this week.
 
-It did not bark at Aldric.
+The dog at number seven was barking. It always barked when the mail truck came. Three years of it: Kevin’s truck rounded the corner, the barking started, Kevin delivered and drove on, the barking stopped. Background noise by now, no more remarkable than the Hendersons’ sprinkler or the mourning doves on the power line.
 
-Dave noticed this in the second week. Aldric walked past number seven on his way to the mailbox. Usual pace. The dog was in the yard, on its chain, the way it always was. Dave was on his own porch and braced for the explosion of noise. Nothing happened. The dog sat there. It watched Aldric pass. It watched him come back with his mail. Quiet. Ears forward but relaxed. Tail still.
+Nobody used the dog’s name. The Greens had given it one, something with a B, but it hadn’t stuck. It was just “the dog.” Seventy-odd pounds of shepherd-mix with a bark that carried in every direction. The Parkers’ kid wouldn’t walk past the yard.
 
-Dave mentioned it to Rosa that night. Rosa said dogs were good judges of character. Dave said dogs were good judges of nothing. Their dog growing up had been terrified of the vacuum cleaner and once ate an entire crayon box, wrappers included. Rosa said that was different. Dave didn’t ask how.
+Rosa had noticed, weeks ago, that the dog never barked at Aldric. She noticed most things about the people on this street. Not because she was watching. Because she was always out here, always present, always within earshot of whatever the neighborhood offered up. Aldric walked past number seven every afternoon on his stroll around the neighborhood, and the dog sat quiet. No bark, no hackles, no sound at all. Just its yellow eyes tracking him, ears forward.
 
-He noticed it again the next week. Aldric walked past. The dog sat. No bark. No hackles. Dave was taking the trash out at the same time. The dog barked at him and not at Aldric, who was three feet closer to the property line. Like Dave was the stranger and Aldric was furniture.
+She’d mentioned it to Dave once. He’d said dogs were weird and just shrugged.
 
-Strange. He didn’t think about it more than that.
+The mail truck was at number seven now. Rosa snipped a dead head, dropped it in the bag and reached for the next. Kevin’s arm appeared from the truck window with a bundle of envelopes. The barking reached its usual pitch.
 
-It was a Thursday in late June. Dave was working from home, laptop on the kitchen table, coffee going cold next to a stack of napkins from lunch. He was on a call that didn’t need him. Most calls didn’t need him. He was muted, occasionally typing something into the chat to prove he existed. A thumbs-up emoji every four minutes. That was his system.
+Then something cracked. Metal on metal, loud and wrong.
 
-Through the kitchen window he could see the street. The mailman’s truck was working its way up the block. White truck. Kevin driving. Kevin had been on this route for two years. Good guy. He left packages in the right spot. He waved.
+Rosa looked up. The ground stake had pulled out of the Greens’ lawn. The dog was in the street with its chain scraping behind it on the asphalt, and Kevin was pressed flat against the side of his truck with the mail bag clutched to his chest like body armor.
 
-The dog could see the truck too.
+She stood. Her right knee complained. She was already thinking: Lina, Marcus. Inside. Good. The Parkers’ kid was still at school. Good.
 
-The dog’s relationship with the mailman was the central event of its day. More important than food, more important than squirrels, more important than whatever name the Greens had stopped calling it. The mailman came. The dog went insane. The chain held. The mailman left. The dog won. This was the cycle. This was the purpose. Three years of it.
+The dog wasn’t barking anymore. It was circling Kevin’s truck low to the ground, making a sound she hadn’t heard it make before. Deep in the chest. The sound of something that hadn’t decided what came next.
 
-Today the chain didn’t hold.
+Kevin’s hands were shaking. She could see that from across the street. He was saying something. “Easy, easy, easy” in a voice that was doing the opposite of easy.
 
-Dave saw it happen through the window. The truck pulled up to number seven’s box. Kevin reached out with the mail. The dog launched from the porch where it had been lying in the shade. Full sprint. The chain snapped taut and the bolt—the ground bolt, the old cast-iron one that held the stake in the lawn—pulled clean out of the dirt.
+Dave came out of the house. Socks, no shoes. The headphones were still around his neck. He stopped at the edge of the lawn with nothing in his hands and no plan on his face, and Rosa wanted to say something but she didn’t know what would help.
 
-The dog kept going. Sixty-plus pounds of mutt with three feet of chain dragging behind it, moving fast.
+Aldric was already in the street.
 
-Kevin saw it. He dropped the mail, grabbed his bag, held it in front of his chest like a shield, and backed up hard against the truck. His foot slipped on the curb. He caught himself on the mirror.
+She hadn’t seen his door open. Hadn’t heard him come out. He was just there, walking down his front path at the same pace he used to check his mailbox or carry a plate of food across the lawn. His hands hung loose at his sides. He wasn’t calling to the dog, wasn’t clapping, wasn’t doing any of the things you were supposed to do.
 
-“Hey! HEY!” Dave was on his feet. His hand knocked the coffee mug. He heard it go but didn’t look. He was at the front door. Flip-flops. Couldn’t find them. Socks. Fine.
+He stepped off the curb and Dave stopped moving. Rosa saw it happen. Her husband had been about to do something without thinking it through, and then Aldric appeared and the impulse left Dave’s body like air leaving a tire. She didn’t blame him. Whatever was in Aldric’s posture said *I have this* so clearly that arguing with it would have felt rude.
 
-He was outside in socks. The concrete was hot.
+Aldric walked to within ten feet of the dog and stood still.
 
-The dog was in the street. In the middle of the road. It wasn’t at Kevin anymore. It had stopped between Kevin’s truck and the sidewalk. Circling. Low. The hair on its spine was standing straight up and it was making a sound Dave had never heard it make before. Not barking. Something lower. From the chest. A vibration more than a sound. A growl that hadn’t decided what came next.
+The dog turned. Ears flat. Lips back. It dropped its weight forward onto its front legs. Everything in the animal’s body was a warning.
 
-Kevin was pressed flat against the truck. “Hey — hey, easy — easy boy —” His voice was tight. High. The dog didn’t respond.
+Rosa realized she was gripping the trowel hard enough to leave a mark. She should call someone. She should do something. She was watching instead, the same way you watch a surgeon through the window of an operating room: aware that interrupting would be worse than not helping.
 
-“Hey!” Dave was at the edge of his lawn. “Hey! Dog! Get back!”
+Aldric wasn’t looking at the dog’s face. She could see that from where she stood. His eyes were lower, on the shoulders, on the chest. His own body was completely still. Feet apart. Nothing braced, nothing coiled. Just present. Taking up exactly as much space as he took up, and somehow that was enough.
 
-Nothing. The dog didn’t look at him. It circled. Its nails clicked on the asphalt. The chain dragged, scraping.
+Five seconds. The growl shifted. Lower. Quieter. The dog’s lips settled over its teeth. Its weight rocked back. Rosa watched the tension leave the animal in sections, starting at the hindquarters, rolling forward along the spine until the shoulders dropped and the head came down.
 
-Dave stepped into the street. He didn’t have anything. No stick, no leash, nothing. He didn’t know what he was going to do. Grab the chain, maybe. Get between the dog and Kevin. Something.
+The dog sat.
 
-Then Aldric was there.
+Right there in the middle of Maple Lane, it sat, mouth open, panting, looking at Aldric with its head slightly tilted.
 
-Dave didn’t see him come out. He didn’t hear his door. One second the street had Dave and Kevin and the dog, and the next second Aldric was walking down his front path. Not running. Walking. Normal pace. Straight line toward the dog. His hands were at his sides. He wasn’t making any noise. No calling, no clapping, no shushing.
+He took a step. Then another. No hesitation, but no hurry. He crouched beside the dog, picked up the trailing chain and wrapped it once around his left hand. His right hand rested near the dog without touching it.
 
-He stepped off his curb and into the street.
+“Good,” he said. She barely heard the word.
 
-Dave stopped moving. He didn’t decide to stop. He just stopped.
+He stood and the dog stood with him. He walked toward number seven and the dog walked beside him with no tension on the chain, no resistance. Like this was routine.
 
-Aldric walked until he was about ten feet from the dog. Then he stopped too.
-
-The dog turned.
-
-It saw him. Its body went lower. Hackles still up. Lips pulled back. The growl changed pitch. Higher. A warning. The dog’s weight shifted forward on its front legs. Its yellow eyes locked on Aldric.
-
-Aldric didn’t move.
-
-He stood with his feet shoulder-width apart. Hands at his sides, fingers loose. His weight was centered. He wasn’t leaning forward and he wasn’t leaning back. He wasn’t looking at the dog’s eyes. Dave noticed that. He was looking lower. At the chest. At the shoulders.
-
-One second passed. Two. Three.
-
-The growl changed again. Lower. Quieter. The dog’s lips came down. Its weight shifted back. The hackles dropped in sections—first at the tail, then along the spine, then at the shoulders. Like something was releasing, one muscle group at a time.
-
-The dog’s head dropped.
-
-Its tail dropped.
-
-It sat down.
-
-In the middle of the street. It just sat. It looked at Aldric. Mouth open. Panting. Like it had been running for an hour and just decided to rest.
-
-Aldric took one step forward. The dog didn’t move. Another step. Still nothing. He walked forward slowly. Not cautiously—Dave could see the difference and it mattered. Cautious meant afraid. Aldric wasn’t afraid. He was deliberate. Each step placed with a kind of certainty that Dave didn’t have a word for.
-
-He reached the dog. He crouched down. Still not looking at its eyes. He reached for the trailing chain on the ground. He picked it up. He wrapped it once around his left hand. His right hand stayed open, resting on his knee. Close to the dog but not touching it.
-
-“Good,” he said. One word. Quiet. Almost a whisper.
-
-The dog’s tail moved. Not a wag. A single twitch. An acknowledgment.
-
-Aldric stood up. The dog stood up with him. He turned toward number seven’s yard. He walked. The dog walked beside him. No pulling, no resistance, no sound. Heeling. Like they did this every day.
-
-Kevin was still against his truck. His mail bag was on the ground. Letters scattered on the asphalt.
-
-“Holy shit,” Kevin said.
+Kevin made a sound that was half breath, half laugh. “Holy shit.”
 
 “I’m sorry about that,” Aldric said over his shoulder. “Are you all right?”
 
-“I— yeah. Yeah. How did you—”
+“I— yeah. What did you— how—”
 
-“He’s overstimulated. The territory instinct triggered and the adrenaline had nowhere to go. He wasn’t going to bite. He didn’t know what to do next.” Aldric was at number seven’s yard now. The dog walked up the path beside him like it lived there. Which it did. “The stake bolt was rusted through. It needs replacing.”
+“He was overstimulated. The territory response triggered and the adrenaline had nowhere to go. He wasn’t going to bite. He just didn’t know what to do next.” Aldric was already looping the chain around the Greens’ porch railing with a knot she’d never seen before. Two wraps, a tuck, done in the time it took her to blink. “The stake bolt was rusted through.”
 
-“I’ll tell the Greens,” Dave said. He was still in the street. In his socks. The asphalt was hot.
+“I’ll tell the Greens,” Dave said from the middle of the street, looking down at his socks on the hot asphalt.
 
 “I’ll replace it,” Aldric said. “If they don’t mind. I have the right bolt.”
 
-He had the right bolt. For a neighbor’s dog chain stake. Already in his house.
+He walked to his garage and came back with a new ground stake, a bolt, and a wrench. Stainless steel, not cast iron. He pulled the old one out with one hand. Set the new one. Drove it. Bolted it. Tested it twice with a pull that flexed his forearm. Four minutes.
 
-Aldric looped the chain around the porch railing. A specific knot—something that wrapped twice and held firm without tightening against the dog’s collar. He tied it in two seconds without looking. Then he walked across the street to his garage and came back carrying a new ground stake, a bolt, and a wrench. The new stake was stainless steel. The old one had been cast iron, rusted halfway through at the base.
+“I’ll leave a note for the Greens. And I’ll bring some water for him. He’s been in the sun.”
 
-He pulled the old stake out with one hand. He put the new one in. He drove it with the wrench handle. He bolted it. He attached the chain. He pulled hard. He pulled again. The stake held. He nodded.
+Same tone she’d use for *I’ll switch the laundry over*. Just the next thing to do.
 
-Four minutes. The whole thing took four minutes.
+Dave went back inside. Rosa heard the screen door close. Kevin finished his route without saying another word, though his hands were still unsteady when he climbed back into the truck. She knelt back down in the flower bed. Picked up the trowel. Stared at a petunia without really seeing it.
 
-The dog sat on the porch and watched him work. Panting. Calm. Its tail was still, but its ears were forward, pointed at Aldric.
+What stayed with her wasn’t the dog. Dogs ran loose sometimes. Stakes rusted. That was just a thing that happened on a street with a big dog and an old bolt.
 
-“I’ll leave a note for the Greens,” Aldric said. “And I’ll bring some water out for him. He’s been in the sun.”
+What stayed was his hands. Loose at his sides while a seventy-pound animal bared its teeth at him. Not clenched, not braced, not ready. Already settled. Already past whatever decision other people would still be making in that moment.
 
-He said it the way you’d say *I’ll grab some milk on the way home*. Normal. What you do.
+Her uncle had been good with horses. Slow voice, slow hands, endless patience. That was gentleness born from love. What she’d just seen wasn’t that. She didn’t have a name for it. Something earned, not given. Something that came from being in rooms that were worse than a suburban street with a scared dog?
 
-Kevin picked up his scattered mail. He put it in the right boxes. He finished his route without saying another word. His hands were shaking slightly when he got back in the truck. Dave saw that.
+She deadheaded three more flowers. Then stopped. She sat back on her heels and looked at her own hands, dirt under the nails, a thin scratch from the rose bush by the fence.
 
-Dave went back inside. His coffee was pooled across the kitchen table, soaking into the napkin stack. The laptop screen had gone dark. The call was still going. Nobody had noticed he was gone. He unmuted, said “yeah, sounds good,” muted again.
+At dinner she told Dave what she’d seen. He told her what he’d seen. Twenty feet apart, same event, different stories.
 
-He cleaned up the coffee. He threw away the napkins. He sat back down. He looked at his laptop without seeing it.
+“Sandra texted me,” she said. “She says he tamed it with his mind.”
 
-He kept thinking about the dog. Not the chain breaking—chains broke, dogs ran, that was just a thing. He kept thinking about Aldric in the street. Standing there. Not moving. Looking at the dog’s chest. And the dog changing. Going from attack to calm in five seconds. Like Aldric had said something to it that Dave couldn’t hear.
+Dave snorted. “He didn’t tame it with his mind.”
 
-Maybe he had. Dave didn’t know. He didn’t know anything about dogs, really.
+“No.” Rosa turned a piece of chicken on her plate. “He knew what it was going to do.”
 
-He worked until five. Or tried to. He made dinner with Rosa. He told her about it.
+“So he’s good with dogs.”
 
-“Sandra texted me already,” Rosa said. She was chopping onions. “She said Aldric ‘tamed it with his mind.’”
+She looked at him. Dave looked back. He took another bite.
 
-“He didn’t tame it with his mind.”
+She let it go. Some things you couldn’t say at the dinner table with the kids three rooms away, because once you said them they became real, and she wasn’t sure she wanted that yet. She wasn’t sure what *that* even was. Only that Aldric had stood in front of a scared, dangerous animal and his body had not produced one single flinch, and that meant something she could feel but not hold.
 
-“What did he do?”
+After dinner she watered the front garden. The hose made dark patches on the concrete. Across the fence, Aldric was on his porch with his coffee and a book. The porch light was on, the warm one she’d helped him pick.
 
-Dave opened the fridge. He stood there. He closed it without taking anything. “He just stood there. And it stopped.”
+At number seven, the dog was lying on the porch with its nose between its paws. Quiet. Its ears turned when a car passed, but its body stayed flat.
 
-Rosa turned from the stove. “He just stood there.”
-
-“Yeah.”
-
-“And a dog that’s been aggressive for three years just stopped.”
-
-“Yeah.”
-
-Rosa went back to the onions. She didn’t say anything else about it. Dave sat at the kitchen table. Through the window he could see Aldric’s porch. The chair. The coffee cup on the railing. The lamp making its warm circle on the steps.
-
-After dinner, Dave took the trash out. The dog barked at him. Normal. Loud. Same as every night.
-
-He looked over at Aldric’s house. Aldric was on the porch, in the chair, coffee in hand. The dog at number seven was quiet. Watching Aldric through the fence slats. Ears forward. No barking.
-
-“It still likes you,” Dave called over.
-
-“I don’t think it likes me,” Aldric said. “I think it recognizes me.”
-
-“What’s the difference?”
-
-Aldric looked at his coffee for a moment. “Liking requires comfort. Recognition only requires understanding.”
-
-“Huh.”
-
-Dave waved. He went inside. Rosa was doing dishes. The house smelled like onions and garlic and normal.
-
-Tomorrow he’d ask Aldric how he did it. Where he learned that. That was a normal thing to ask.
-
-He probably wouldn’t, though. He already knew that. And he didn’t know why he knew that.
+Rosa finished watering. She coiled the hose. She went inside and found herself checking, one more time, that all of her kids were where they should be.

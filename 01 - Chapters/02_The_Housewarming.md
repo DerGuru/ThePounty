@@ -1,12 +1,12 @@
 # Chapter 2: The Housewarming
 
-The guacamole had too much lime. Maria could taste it before she left the kitchen, standing at the counter with a chip in one hand and a half-squeezed lime in the other. Too much. She should start over. She had another avocado, a ripe one, in the bowl by the window. She could make a new batch in ten minutes.
+The guacamole had too much lime. Maria could taste it before she left the kitchen, standing at the counter with a chip in one hand and a half-squeezed lime in the other. Too much. She should start over. She had another avocado, a ripe one, in the basket by the window. She could make a new batch in ten minutes.
 
-She did not make a new batch. She covered the bowl with cling wrap and told herself it was fine. People liked lime. Some people liked lime. Rosa liked lime. Rosa would eat it and say something nice and that would be enough.
+She did not make a new batch. She covered the bowl with cling wrap, took the other one with the tacos and told herself it was fine. People liked lime. Rosa liked lime. Rosa would eat it and say something nice and that would be enough.
 
-The walk to number four took forty seconds. Past number six with its dark windows and the realtor's sign she'd stopped noticing weeks ago. The grass there was getting long again. Someone would mow it eventually. Someone always did.
+The walk to number four took her past number six with its dark windows and the realtor's sign she'd stopped noticing weeks ago. The grass there was getting long again. Someone would mow it eventually. Someone always did.
 
-Aldric's front yard smelled like charcoal and something herbal she couldn't identify. Rosemary, maybe. He had a small grill set up on the driveway, not the porch, and he was standing beside it in a white shirt with the sleeves rolled to the elbow, turning something with tongs. He looked up when she came through the gate and smiled like she was exactly the person he'd been hoping to see.
+Aldric's front yard smelled like charcoal and something herbal she couldn't identify. Rosemary, maybe. He had a small grill set up on the driveway, and he was standing beside it in a pastel green shirt with the sleeves rolled to the elbow, turning something with tongs. He looked up when she came through the gate and smiled like she was exactly the person he'd been hoping to see.
 
 "Maria. Thank you for coming. And you brought something." He set the tongs down and came to meet her, taking the bowl with both hands like it was a gift and not a bowl of guacamole with too much lime. "This looks wonderful. Shall I put it on the table?"
 
@@ -16,15 +16,13 @@ Aldric's front yard smelled like charcoal and something herbal she couldn't iden
 
 "Yes."
 
-"Then it's an act of generosity, not a side dish. Thank you." He carried it to the fold-out table on the porch where three other dishes were already waiting. A pasta salad that was definitely Rosa's. A cheese plate with the plastic wrap still half on. Something in a Tupperware container she didn't recognize.
+"Then it's an act of generosity, not a side dish. Thank you." He carried it to the fold-out table on the porch where three other dishes were already waiting. A pasta salad that was definitely Rosa's, a cheese plate with the plastic wrap still half on, and something in a Tupperware container she didn't recognize. She place the tacos next to the guacamole and stepped back.
 
-Maria stood by the gate for a moment. She should go up. She should talk to people. She knew every single person here. She'd known most of them for over twenty years. This should not feel difficult.
-
-It felt difficult.
+Maria stood there for a moment. She should talk to people. She knew every single person here. She'd known most of them for over twenty years. This should not feel difficult. Yet somehow it did.
 
 Dave appeared at her elbow with a beer in each hand. "Hey, Maria. You want one?"
 
-"Thank you." She took it. The bottle was cold and she held it with both hands. "Where's Rosa?"
+"Thank you." She said as she took it. The bottle was cold and she held it with both hands. "Where's Rosa?"
 
 "Inside, helping him find plates. Apparently he only has three." Dave grinned. "Three plates. For a guy who invites the whole street over to eat."
 
@@ -38,7 +36,7 @@ Gerald and Sandra came through the gate together. Sandra was carrying a casserol
 
 "Gerald," Aldric called from the grill. "Mrs. Hooper. Welcome. I'm glad you could make it."
 
-"Sandra," Sandra said immediately. "Please. Mrs. Hooper is his mother." She handed the casserole to Aldric. "It's my grandmother's recipe. Three-cheese bake. The secret is you don't actually put three cheeses in. You put four. But then you'd have to call it four-cheese bake and that sounds like you're trying too hard."
+"Sandra," Sandra said immediately. "Please. Mrs. Hooper is his mother." She handed the casserole to Aldric. "It's my grandmother's recipe. Three-cheese bake. The secret is you don't actually put three cheeses in. You put four. So actually, you'd have to call it four-cheese bake, but that sounds like you're trying too hard."
 
 Aldric laughed. A real laugh, not a polite one. "I appreciate both the dish and the deception. Sandra. Thank you."
 
@@ -46,9 +44,9 @@ Sandra beamed. Gerald's hands stayed in his pockets.
 
 Maria watched from the porch steps, beer growing warm between her palms. She watched Aldric move between the grill and the table, between Sandra's story about cheese and Dave's question about propane versus charcoal. He answered everything. He asked follow-up questions. He remembered that Dave had mentioned the kids liked corn on the cob, and there was corn on the grill, four ears, wrapped in foil.
 
-He'd been here less than a week. He knew about the corn.
+He'd been here less than a week.
 
-The Chens arrived next, awkward and cheerful, carrying a store-bought pie and apologizing for it. Aldric told them the pie was perfect and meant it and set it beside the guacamole with the same careful precision. He told them their paint job on the bedroom window looked professional. They hadn't told him they were painting the bedroom window. He'd noticed.
+The Chens arrived next, awkward and cheerful, carrying a store-bought pie and apologizing for it. Aldric told them the pie was perfect and meant it. He set it beside the guacamole with the same careful precision as he had placed the other dishes. He told them their paint job on the bedroom window looked professional. They hadn't told him they were painting the bedroom window. He'd noticed.
 
 Ms. Yuen came last. She came alone, without anything to carry. She stood at the gate for a long moment, watching, the way she always watched. Aldric walked over to her. He didn't call across the yard. He walked over, and he spoke to her quietly, and whatever he said made her nod once and come inside.
 
@@ -68,35 +66,35 @@ She hadn't told him she liked avocado. She hadn't told him anything.
 
 "Gerald looks like a medium-rare man."
 
-Gerald looked at his plate. Then at Aldric. "It's medium rare."
+Gerald looked at his plate. Then at Aldric. "It's medium rare?"
 
 "Yes."
 
-"How did you know?"
+"How— ?"
 
 "You keep a precise garden. You dress in structured clothing. You notice details. Medium rare is the choice of someone who wants a specific result and would be disappointed by approximation."
 
-Sandra laughed. Gerald did not laugh. He ate the steak. He ate all of it.
+Sandra laughed. Gerald did not laugh. He ate the steak. All of it.
 
-Maria ate her burger and listened. The evening was warm and the porch was full and she was surrounded by people she'd known for decades, and somehow the new person was the one making it feel like home. That was strange. That was a strange thing to think about a man she'd met four days ago.
+Maria ate her burger and listened. The evening was warm, the porch was full and she was surrounded by people she'd known for decades. And somehow the new person was the one making it feel like home. That was strange. That was a strange thing to think about a man she'd met only a few days ago.
 
-He lived alone. That was the thing she kept coming back to. He lived alone in this house with three plates and a rocking chair and a grill he'd bought for the express purpose of feeding other people. He did it like it was easy. He did it like solitude was a room he'd decorated carefully, and company was the door he opened when he chose to, and both states were fine. Both states were his.
+He lived alone. That was the thing she kept coming back to. He lived alone in this house with a rocking chair and a grill he'd bought for the express purpose of feeding other people. He did it like it was easy. He did it like solitude was a room he'd decorated carefully, and company was the door he opened when he chose to, and both states were fine. Both states were his.
 
-She lived alone too. It did not feel like that.
+She lived alone too. But it did not feel like that.
 
 "Aldric," Dave said, leaning back in his chair with the second beer. "You settling in okay? Need anything? Tools? We got a power drill if you ever—"
 
-"Very kind of you. I may take you up on that." Aldric wiped his hands on a cloth napkin. An actual cloth napkin. At a barbecue. "Actually, I have a question. Is there a homeowners' association on this street? I noticed the uniformity — the fences, the hedge heights. It seems coordinated."
+"How very kind of you. I may take you up on that." Aldric wiped his hands on a cloth napkin. An actual cloth napkin. At a barbecue. "Actually, I have a question. Is there a homeowners' association on this street? I noticed the uniformity — the fences, the hedge heights. It seems coordinated."
 
 Gerald straightened. Maria saw it happen. The slight lift in the shoulders, the hands coming out of the posture they'd settled into.
 
-"There is," Gerald said. "I chair it."
+"There is," Gerald said with pride in his voice. "I chair it."
 
 "Wonderful. When does it meet?"
 
 "Next Thursday. Seven o'clock. At our place." Gerald paused. "You're welcome to attend."
 
-"I would like that very much. Thank you, Gerald." Aldric said it the way he said everything — like the words were weighed before he released them. Like *thank you* was a specific, measured quantity he'd decided to spend. "I'd like to understand how things are done here. One can't contribute to a community without first understanding its architecture."
+"I would like that very much. Thank you, Gerald." Aldric said it the way he said everything — like the words were weighed before he released them. Like *thank you* was a measured quantity he'd decided to spend. "I'd like to understand how things are done here. One can't contribute to a community without first understanding its architecture."
 
 Gerald nodded. Something in his face shifted. Not softening — Maria wouldn't call it that. More like recognition. Like he'd met someone who took the same things seriously that he did, even if the reasons were different.
 
@@ -106,32 +104,34 @@ Sandra nudged Gerald's arm. "See? He *wants* to come. Nobody ever wants to come.
 
 "You've missed the last three."
 
-"I wanted to come in spirit."
+"I still wanted to come. But something came up."
 
-The table laughed. Maria laughed too, and it surprised her. She hadn't laughed at a table in — she didn't count. She didn't want to count.
+"Every time."
 
-The evening wound down slowly, the way summer evenings do when nobody has anywhere to be. Rosa started cleaning up and Aldric stopped her so gently it didn't even look like stopping. He simply appeared beside her and took the plate from her hand and said something about guests and dishes and a rule he had about hospitality. Rosa let him. Rosa, who never let anyone clean her kitchen, let him take the plate and go inside.
+"Yeah. I know." Dave looked down at his plate. "But I was there in spirit."
 
-Maria stood to leave. She'd stayed longer than she'd planned. Longer than she'd stayed anywhere in months that wasn't her own kitchen or the yarn store on Fifth.
+The table laughed. Maria laughed too, and it surprised her. She hadn't really laughed since Carlos had left her.
 
-"Maria." Aldric was at the door, drying his hands. "The guacamole was excellent. I'd love the recipe, if you're willing to share it."
+The evening wound down slowly, as summer evenings do when nobody has anywhere to be. Rosa started cleaning up and Aldric stopped her so gently it didn't even look like stopping. He simply appeared beside her and took the plate from her hand and said something about guests and dishes and a rule he had about hospitality. Rosa let him. 
+
+Maria stood to leave. She'd already stayed longer than she'd planned. Longer than she'd stayed anywhere in months that wasn't her own kitchen or the yarn store.
+
+"Maria." Aldric was at the door, drying his hands. "The guacamole was excellent."
 
 "It's nothing special."
 
-"I disagree. The lime balance was very precise."
+"I disagree. The lime balance was very on point. Would you share the recipe with me? I would like to make it for my next barbecue."
 
-She almost laughed. The lime balance was too much and she knew it and he was being kind. But he said it without the weight of kindness. He said it like a fact. Like precision was a quality he respected regardless of whether the result was to his taste.
+She almost laughed. The lime balance was too much and she knew that he was just being kind. But it didn't sound like kindness. He said it like he meant it.
 
 "I'll write it down," she said.
 
 "Thank you. Good night, Maria."
 
-She walked home past number six. Dark windows. Long grass. The realtor sign caught the streetlight.
+She walked home past number six. The realtor sign caught the streetlight.
 
-Her own porch was dark because she'd forgotten to leave the light on. Carlos had always left the light on. She should get a timer. You could get a timer at the hardware store. She could do that tomorrow.
+Her own porch was dark because she'd forgotten to leave the light on. Carlos had always left the light on. She should get a timer. You could get a timer at the hardware store. She would do that tomorrow.
 
-She went inside and put the kettle on and sat at the kitchen table. The nail was still in the wall. She still hadn't patched the hole.
+She went inside, put the kettle on and sat at the kitchen table. The nail was still in the wall. She still hadn't patched the hole.
 
 But the guacamole bowl was empty. Someone had eaten all of it.
-
-That was something.

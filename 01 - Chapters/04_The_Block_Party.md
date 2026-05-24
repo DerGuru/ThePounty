@@ -2,11 +2,11 @@
 
 The Maple Lane Summer Cookout had been Dave’s idea four years ago, and he regretted it every June when Rosa handed him the clipboard.
 
-The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies (the Parkers’ kid was allergic to everything that tasted good), a column for setup volunteers, and a column Rosa called “Contingencies” which meant things that would go wrong and whose fault it would be.
+The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers’ kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called “Contingencies” which meant things that would go wrong and whose fault it would be.
 
 Dave’s job was the grill. He was good at the grill. He understood the grill. The grill did not have columns.
 
-He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying something. A board. Wooden. The size of a small table. It was covered in things Dave couldn’t identify from ten feet away.
+He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying a wooden board the size of a small table. It was covered in things Dave couldn’t identify.
 
 “Good afternoon, Dave. Am I early?”
 
@@ -20,17 +20,17 @@ Dave walked over to look. The board had meats arranged in folded rosettes. Chees
 
 “The arrangement, yes. The components I sourced from three different shops. The honey is local. A beekeeper on Willow Road sells it at his front door. Excellent product.”
 
-Dave looked back at his grill. His grill had hot dogs from Costco. A pack of forty-eight. He’d also bought buns, ketchup, and that yellow mustard that came in a squeeze bottle shaped like itself.
+Dave looked back at his grill. His grill had hot dogs from Costco. A pack of forty-eight. He’d also bought buns, ketchup, and that yellow mustard that came in a squeeze bottle.
 
-“That’s impressive,” Dave said.
+“That’s— " Dave struggled for words. "—impressive".
 
-“I hope it’s appropriate. I wasn’t sure of the formality level.” Aldric said this without irony. He genuinely wasn’t sure if a neighborhood cookout in a cul-de-sac was a formal or informal event.
+“I hope it’s appropriate. I wasn’t sure of the formality level.” Aldric said without irony. He genuinely wasn’t sure if a neighborhood cookout in a cul-de-sac was a formal or informal event.
 
 “We’re eating hot dogs on paper plates, man. I think you’re covered.”
 
 Aldric smiled. “Then I may have overcalibrated. But better too much than too little.”
 
-He set the board on the folding table Rosa had set up and went back to his house. He came back with a cooler. Inside: glass bottles of something with handwritten labels. Block letters. Same handwriting as the spice jars.
+He set the board on the folding table Rosa had set up and went back to his house. He came back with a cooler. Inside the cooler were glass bottles of something with handwritten labels. Block letters. Same handwriting as the spice jars.
 
 “Homemade lemonade,” he said. “I made more than I need.”
 
@@ -42,7 +42,7 @@ Aldric always made more than he needed. More coffee. More food. More lemonade. D
 
 “Grab those tongs and flip the coals around. I need them even.”
 
-Aldric took the tongs. Spread the coals with precision. Even layers. He worked quietly, checking each section before moving on. Dave watched him do it and thought: this guy does everything like it’s his job.
+Aldric took the tongs. He spread the coals with precision into even layers. He worked quietly, checking each section before moving on. Dave watched him do it and thought: this guy does everything like it’s his job.
 
 “You grill much?” Dave asked.
 
@@ -52,21 +52,21 @@ Aldric took the tongs. Spread the coals with precision. Even layers. He worked q
 
 “I believe you.” He put the tongs down. The coals were perfectly even.
 
-People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda and his own chair, which he’d been bringing to cookouts since 2020 after the folding chair incident nobody talked about. Then Sandra, who came out her front door already talking, carrying a potato salad and an opinion about the park benches. Gerald followed, hands in pockets, scanning the gathering.
+People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda and his own chair, which he’d been bringing to cookouts since 2020 after the folding chair incident nobody talked about. Then Sandra, who came out her front door already talking, carrying a potato salad and her loud opinions about something he couldn't quite get from her short burst of words. Gerald followed, hands in pockets, scanning the gathering.
 
-The Parkers brought their allergic kid and a case of sparkling water. Their kid immediately ran to the swing set. Mrs. Alvarez arrived with two trays of empanadas covered in foil. The neighbors from the north end whose names Dave could never quite hold onto brought a fruit salad and a six-pack. Ms. Yuen came last, walking slowly, carrying nothing, watching everything. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
+The Parkers brought their allergic kid and a case of sparkling water. Their kid immediately ran to the swing set across the street. The neighborhood had blocked the road for the afternoon, so it was fine. Mrs. Alvarez arrived with two trays of empanadas covered in foil. The neighbors from fourteen whose names Dave could never quite hold onto brought a fruit salad and a six-pack. Ms. Yuen came last, walking slowly, carrying nothing, watching everything — as usual. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
 
-Dave grilled. That was his job. He was good at his job. The hot dogs came out right. The burgers came out right. Gerald’s steak came out medium rare because Gerald always wanted medium rare and would stand at the grill watching until it was done. Dave didn’t mind. Everyone had their thing.
+Dave grilled. That was his job. The hot dogs came out right. The burgers came out right. Gerald’s steak came out medium rare because Gerald always wanted medium rare and would stand at the grill watching until it was so. Dave didn’t mind. Everyone had their thing.
 
-He had a clear view of the yard from behind the grill. He could see everyone. Aldric was near the food table. Not behind it, not in front of it. Near it. People came to him. They didn’t line up or crowd, they just drifted over. Aldric talked to each person who came. He remembered the HOA meeting. He asked Bob about the irrigation slides. He asked Mrs. Alvarez about the empanadas—which peppers, what region, did she make her own masa. Mrs. Alvarez talked for five minutes straight. Dave had never seen Mrs. Alvarez talk for five minutes to anyone who wasn’t her daughter.
+He had a clear view of the yard from behind the grill. He could see everyone. Aldric was near the food table. People came to him. They didn’t line up or crowd, they just drifted over. Aldric talked to each person who came. He remembered the HOA meeting. He asked Bob about the irrigation slides. He asked Mrs. Alvarez about the empanadas — which peppers, what region, did she make her own masa. Mrs. Alvarez talked for five minutes straight. Dave had never seen Mrs. Alvarez talk that engaged to anyone since her husband moved out.
 
-He asked the Parkers about their kid’s allergies. Specific questions. Not just “what’s he allergic to” but “has he tried the new immunotherapy program at Children’s?” Mrs. Parker looked surprised. She said yes, actually, they were on the waitlist. Aldric nodded, said he’d read about the results, said it was promising. They talked for three minutes. Mrs. Parker walked away smiling.
+He asked the Parkers about their kid’s allergies. Specific questions. Not just “what’s he allergic to” but “has he tried the new immunotherapy program at Children’s?” Mrs. Parker looked surprised. She said yes, actually, they were on the waitlist. Aldric nodded, said he’d read about the results, said it was promising. They talked for a few minutes. Mrs. Parker walked away smiling.
 
-Dave flipped hot dogs. He watched.
+Dave flipped hot dogs and watched.
 
 Rosa came by with a fresh beer. She handed it to Dave without asking. She always knew when his was empty.
 
-“Everyone ate his board in ten minutes,” she said.
+“Aldric’s board lasted ten minutes,” she said.
 
 “It had actual honeycomb on it.”
 
@@ -78,23 +78,23 @@ Rosa came by with a fresh beer. She handed it to Dave without asking. She always
 
 Dave flipped a burger. “That’s nice.”
 
-“It is nice.” Rosa took a sip of her water. She always drank water at parties. “He asked about the color palette of my perennials, Dave. The *palette*.”
+“It is nice.” Rosa took a sip of her water. She always drank water at parties. “He asked about the color palette of my perennials, Dave.”
 
 “So he’s a plant guy.”
 
 “Maybe.” She looked across the yard. “Or he just pays attention to what other people care about.”
 
-She went back to the food table. Dave stayed at the grill. He didn’t know what to do with that last sentence. He didn’t try.
+She went back to the food table. Dave stayed at the grill. He didn’t know what to do with that last sentence. He stared a moment, shrugged, and continued flipping burgers.
 
-An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his second beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who’d charged her two hundred dollars to tighten a pipe. The story involved hand gestures.
+An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his third beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who'd charged her two hundred dollars to tighten a pipe. The story involved hand gestures. Mrs. Alvarez laughed at the right moments, but when Sandra paused for breath, she said something about her own week — her lawyer hadn't returned her calls, the paperwork was sitting somewhere between two offices, and nobody seemed to think it was important. Sandra squeezed her arm. "Men," she said, which covered approximately none of the actual problem but all of the sentiment. 
 
-Aldric was crouching in the grass near the swing set. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
+Aldric had went to playground and was crouching in the grass near the swing set now. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
 
 “What’s that?” Aldric said to the kid.
 
 “A beetle!”
 
-“It is. That’s a june bug. *Phyllophaga*. They’re nocturnal, usually. This one is early.” He looked at the bug with complete attention. Same attention he gave everything else.
+“It is. That’s a june bug. *Phyllophaga*. They’re nocturnal, usually. This one is out early.” He looked at the bug with complete attention. The same attention he seemed to give everything.
 
 “Is it a good bug or a bad bug?”
 
@@ -108,19 +108,19 @@ The kid seemed satisfied. He let the bug go. Aldric stood up, brushed his knee, 
 
 “He’s loud,” Dave said.
 
-“He’s curious. That’s better than quiet.”
+“He is. But he’s curious. That’s better than quiet.”
 
 Dave didn’t know if that was true, but he liked hearing it.
 
-The sun dropped. The air cooled. Somebody turned on the string lights Rosa put up every May. The smell shifted from charcoal and raw meat to charcoal and citronella and the last of the grilled corn. Conversations got slower. People were sitting. Lawn chairs formed a rough circle. The Parker kid was asleep on a blanket, mouth open, one shoe off.
+The sun dropped. The air cooled. Somebody turned on the string lights Rosa put up every May. The smell shifted from charcoal and raw meat to charcoal and citronella and the last of the grilled corn. Conversations got slower. The people kept sitting. Lawn chairs formed a rough circle. The Parker kid had fallen asleep on a blanket, mouth open, one shoe off.
 
-Aldric was in the circle. Not at the center, not at the edge. He’d gotten a beer at some point. He held it loosely, took small sips. It was the first time Dave had seen him drink alcohol.
+Aldric was in the circle. Not at the center, not at the edge. He’d gotten a beer at some point. He held it loosely, taking small sips. It was the first time Dave had seen him drink alcohol.
 
 “You know what I love about this?” Bob said, gesturing with his own beer. “This right here. Just people being people.”
 
 “Hear, hear,” Gerald said. Most enthusiasm Dave had heard from him all evening.
 
-A comfortable silence. String lights buzzing. Somewhere a dog barked. The breeze had that late-summer-evening thing where it carried the smell of someone else’s barbecue from a block over.
+A comfortable silence followed. String lights buzzing. Somewhere a dog barked. The breeze had that late-summer-evening thing where it carried the smell of someone else’s barbecue from a block over.
 
 Then Aldric tilted his head slightly.
 
@@ -148,7 +148,7 @@ A bird was singing. Dave could hear it now. He’d been hearing it all along, pr
 
 Ms. Yuen, from her chair at the edge, said nothing. But she was watching Aldric. She’d been watching him all evening. Her eyes moved from his hands to his face and back. She didn’t look away when he noticed. He tilted his head toward her. A small acknowledgment. She nodded. That was it.
 
-The party wound down slowly. Nobody wanted to be the first to leave, which was always how good parties ended. Bob left first because he had a dog to let out. Then the Parkers, carrying their sleeping kid. Mrs. Alvarez. The neighbors from the north end.
+The party wound down slowly. Nobody wanted to be the first to leave, which was always how good parties ended. Bob left first because he had a dog to let out. Then the Parkers, carrying their sleeping kid. Mrs. Alvarez. The neighbors from the north end — Aldric shook their hands at the gate and said, "Good night, Mr. and Mrs. Miller. Thank you for the fruit salad." Dave heard the name and immediately forgot it again.
 
 Sandra started collecting plates. Gerald stood up, stretched, and began folding chairs without being asked, which surprised Dave. Aldric was already stacking. He’d been at it for five minutes before Dave noticed. Quietly, systematically. Paper plates in the trash bag. Recyclables in a separate bag. Bottles rinsed at the outdoor spigot and set in a row.
 
@@ -162,19 +162,19 @@ Sandra started collecting plates. Gerald stood up, stretched, and began folding 
 
 Gerald snorted. It might have been a laugh. Hard to tell with Gerald.
 
-They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned the empty cooler. Then he came back one more time and shook Dave’s hand.
+They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned for the now empty cooler. Then he came back one more time and shook Dave’s hand.
 
 “Thank you for including me. Truly.”
 
 “You brought the best thing on the table, man. We should be thanking you.”
 
-“The hot dogs were excellent, Dave. Good char. Consistent heat. That’s harder than people think.”
+“The hot dogs were excellent, Dave.”
 
 Dave laughed. Nobody had ever complimented his hot dogs with that kind of conviction. “Thanks. They’re from Costco.”
 
 “The quality of ingredients matters less than the quality of attention.” Aldric nodded once. “Good night, Dave. Good night, Rosa.”
 
-He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. He knew he’d come home in the dark.
+He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. As if he knew he’d come home in the dark.
 
 Rosa appeared at Dave’s elbow. They stood in the yard together. The string lights were still on.
 
@@ -192,15 +192,15 @@ Rosa appeared at Dave’s elbow. They stood in the yard together. The string lig
 
 “Somebody who planned for cleaning up before the food was even served.”
 
-They stood there a moment. Lightning bugs were starting. One blinked near the swing set. Then another by the fence.
+They stood there a moment. Lightning bugs were starting. One blinked near the oak. Then another by the fence.
 
-“He’s staying,” Rosa said. “I thought maybe he was passing through. Three boxes. Furnished house. But he’s staying.”
+“He’s staying,” Rosa said. “I thought maybe he was passing through. Three boxes. Furnished house. But looks like he’s staying.”
 
 “How do you know?”
 
 “The flowers. He asked about perennials. Not annuals. Perennials come back every year.”
 
-Dave hadn’t thought of that. He put his arm around her shoulder. The wood thrush was quiet now. Just the crickets and the string lights and the last of the citronella smoke.
+Dave hadn’t thought of that. He put his arm around her shoulder. The wood thrush was quiet now. Just the crickets, the string lights and the last of the citronella smoke.
 
 “Good,” Dave said. “I like him.”
 

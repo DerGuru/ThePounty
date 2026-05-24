@@ -32,8 +32,14 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst |
 | 6 | *leer / zum Verkauf* | gerade (neben Aldric) | Garten verwildert, "For Sale"-Schild |
 | 7 | Greens (+ Hund) | ungerade | Ende 30; Tochter (15, schwieriger Teenager) |
-| 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, frisch geschieden (Sohn ausgezogen → nichts mehr gemeinsam) |
-| 9 | Ms. Yuen | ungerade | 70+, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
+| 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, mitten in der Scheidung (Sohn ausgezogen → nichts mehr gemeinsam). Scheidung läuft noch — potentieller Storyline-Strang. |
+| 9 | Ms. Yuen | ungerade | 83, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
+| … | | | *(weitere Häuser, Kern-Story spielt in #1–#9)* |
+| 14 | Garcia (Eigentümer, vermietet) | gerade | Wohnen nicht dort. Aktuelle Mieter: Miller. Frühere Mieterin: "quiet girl", braune Haare, 2018/19 weggezogen. Ebene 3. |
+| 15 | Diane Kessler | ungerade | HOA-Schriftführerin, liest Protokolle, beschwert sich über Parkbänke. Ebene 3. |
+| 17 | Bob Muñoz | ungerade | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
+| 18 | Henderson | gerade | Vor 5 Jahren eingezogen. Ebene 3. |
+| 21 | Parker | ungerade | Vor den Hendersons eingezogen. Kind mit zahlreichen Essensallergien. Ebene 3. |
 
 ---
 
@@ -146,7 +152,7 @@ Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weis
 | Arc | Abhängig (Mann, Sohn, Nachbarn machen alles) → Verlust des Pakets als Auslöser → Aldric hilft, aber lehrt statt zu erledigen → Selbstwirksamkeit. |
 
 **Lebenssituation:**
-Anfang 40. Frisch geschieden — nicht dramatisch, nicht feindlich. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen.
+Anfang 40. Mitten in der Scheidung — nicht dramatisch, nicht feindlich, aber noch nicht abgeschlossen. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen, das sich durch Papierkram zieht.
 
 Ihr Mann hatte das Haus in Schuss gehalten. Lampen wechseln bekommt sie hin, aber den Zaun hat sie z.B. noch nie gestrichen — und der hätte es nötig. Der Sohn mäht regelmäßig den Rasen; wenn er nicht kann, findet sich jemand aus der Nachbarschaft. Sie ist dankbar dafür. Aber es ist immer jemand anderes.
 

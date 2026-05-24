@@ -60,10 +60,10 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 | 1 | **The New Neighbor** (Einzugstag) | Dave | Erste Begegnung. Drei Kisten. Handschlag. Essen auf der Veranda. | Warm, komisch, leicht unheimlich |
 | 2 | **The Housewarming** | Maria | Grillen bei Aldric, wenige Tage nach Einzug. Alle POV-Nachbarn da (ohne Greens/Hund). Aldric grillt, andere bringen was mit. Maria beobachtet einen Mann, der allein lebt und es aussehen lässt wie eine Erfindung. Establishment ihres Arcs (Unsicherheit, Selbstzweifel). Aldric fragt nach HOA; Gerald als Vorsitzender kündigt nächste Woche an. | Ruhig, beobachtend, leiser Neid |
 | 3 | **Die HOA-Sitzung** | Sandra | Aldric bei seiner ersten Versammlung — angekündigt auf dem Housewarming. Präzisions-Höflichkeit vs. Bürokratie. Er stellt Fragen über langjährige Bewohner. | 90% Comedy |
-| 4 | **Der Block-Party-Abend** | Dave/Rosa | Sommerfest. Aldric in einer Menschenmenge. Bringt etwas absurd Aufwendiges mit. Alle POVs beobachten gleichzeitig. | Warm, Multi-POV |
-| 5 | **Der Hund und der Briefträger** | Dave | Hund von Nr. 7 reißt sich los. Aldric fängt ihn mit beunruhigender Ruhe. | Leicht, tierkomisch |
+| 4 | **Der Block-Party-Abend** | Dave/Rosa | Sommerfest. Aldric in einer Menschenmenge. Bringt etwas absurd Aufwendiges mit. Alle POVs beobachten gleichzeitig. Marias Scheidung taucht beiläufig auf — Anwalt ruft nicht zurück, Papierkram hängt. | Warm, Multi-POV |
+| 5 | **Der Hund und der Briefträger** | Rosa | Hund von Nr. 7 reißt sich los. Aldric fängt ihn mit beunruhigender Ruhe. | Leicht, tierkomisch |
 | 6 | **Der Paketdieb** | Gerald | Pakete verschwinden. Gerald dreht auf. Aldric löst es still, ohne zu erklären wie. | Komik → Spannung |
-| 6b | **Die Fotos** | Maria | Ihr Paket. Alte Bilder vom Sohn, vom Ex zurückgeschickt. Unersetzlich. Der Diebstahl trifft unverhältnismäßig. Aldric bringt sie zurück, erklärt nicht wie. Sie weint nicht. Fast. | Still, verletzlich |
+| 6b | **Die Fotos** | Maria | Ihr Paket. Alte Bilder vom Sohn, vom Ex zurückgeschickt — er räumt aus, weil der Anwalt es verlangt. Unersetzlich. Der Diebstahl trifft unverhältnismäßig, weil die Scheidung ohnehin alles aufwühlt. Aldric bringt sie zurück, erklärt nicht wie. Sie weint nicht. Fast. | Still, verletzlich |
 | 7 | **Die Teenager vom Park** | Ms. Yuen | Jugendliche sprayen einen Zaun. Aldric geht hin, kommt zurück. Am nächsten Tag streichen die Teens selbst. Niemand weiß, was er gesagt hat. | Mysteriös-komisch |
 
 ### Spätsommer (Monate 3–4) — Der Auftrag
@@ -95,6 +95,7 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 | 19 | **Rosas Projekt** | Rosa | Rosa will etwas Eigenes anfangen (Teilzeit? Ehrenamt?). Aldric unterstützt — chirurgisch korrekt, fast beunruhigend gezielt. Rosa denkt: *wie WEISS er das?* | Rosa-Subplot + People-Reading |
 | 20 | **Der Schneesturm** | Dave/Gerald | Strom aus. Aldric hat Generator, Vorräte, Plan. Versorgt die halbe Straße. Bewundernswert *und* verstörend. | Community + Unterton |
 | 20b | **Der Wasserhahn** | Maria | Erster Versuch, etwas allein zu reparieren. YouTube-Tutorial, falsches Werkzeug, Wasser überall. Ruft den Sohn an. Hasst, dass sie angerufen hat. | Komisch, frustrierend, ehrlich |
+| 20c | **Der Brief** | Maria | Post vom Scheidungsanwalt. Das Haus muss bewertet werden. Eine Unterschrift fehlt. Der Ex verzögert. Maria sitzt am Küchentisch mit dem Umschlag und denkt: das ist mein Haus. Seit 23 Jahren. Aldric sieht den Umschlag am nächsten Tag auf der Veranda — sagt nichts, bringt Kaffee. | Leise Wut, Ohnmacht, Würde |
 | 21 | **Weihnachten auf Maple Lane** | Rosa | Aldrics Geschenke: chirurgisch persönlich. Jedes zeigt monatelanges Zuhören. Das Schönste oder das Beunruhigendste. | Bittersweet |
 | 22 | **Pater Reeves** | Rosa | Gespräch auf der Veranda. Aldrics Verhältnis zu Moral und Institution. "Gleichgewicht ist keine Gegenleistung. Es ist eine Voraussetzung." | Philosophisch, ruhig |
 | 23 | **Ms. Yuens Fenster** | Ms. Yuen | DAS große Ms.-Yuen-Kapitel. Sie beobachtet seit Monaten. Sieht alles. Versteht mehr als alle anderen — weil sie nicht fragt und einfach schaut. Die meiste Leser-Information über Aldric in einem Kapitel. | Still, gewichtig, Schlüsselkapitel |
@@ -118,7 +119,7 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
 | 32 | **Am nächsten Morgen** | Dave | Das Auto ist weg. Aldric bringt Kuchen. Dave nimmt ihn. Fragt nicht. | Stille nach dem Sturm |
-| 33 | **Danach** | Gerald/Rosa/Ms. Yuen/Maria | Die Straße verarbeitet. Gerald schließt sein Notizbuch. Rosa bringt Essen. Ms. Yuen sagt einen Satz. Maria streicht die Fensterrahmen. Allein. Ohne zu fragen. Dave trinkt Kaffee auf der Veranda mit Aldric. Normal. Dienstag. | Ruhig, emotional |
+| 33 | **Danach** | Gerald/Rosa/Ms. Yuen/Maria | Die Straße verarbeitet. Gerald schließt sein Notizbuch. Rosa bringt Essen. Ms. Yuen sagt einen Satz. Maria streicht die Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch — irgendwann im Frühling, leise, fast antiklimaktisch. Das Haus gehört ihr. Dave trinkt Kaffee auf der Veranda mit Aldric. Normal. Dienstag. | Ruhig, emotional |
 | 34 | **Das Foto** | Aldric | Er hat sie gefunden. Er beobachtet. Er legt ein Foto in den Rahmen. Der Rahmen ist nicht mehr leer. Epilog. | Still |
 
 ---
