@@ -1,4 +1,4 @@
-# Chapter 3: The Block Party
+# Chapter 4: The Block Party
 
 The Maple Lane Summer Cookout had been Dave’s idea four years ago, and he regretted it every June when Rosa handed him the clipboard.
 

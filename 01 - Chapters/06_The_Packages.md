@@ -1,8 +1,8 @@
-# Chapter 5: The Packages
+# Chapter 6: The Packages
 
 Gerald kept a list.
 
-Not a metaphorical list. A physical, handwritten, ruled-paper list in the second notebook. The first notebook was for general observations. The second was for patterns. Patterns required their own book because patterns were where the truth lived, and truth did not share space with speculation.
+A physical, handwritten, ruled-paper list in a second notebook. The first notebook was for general observations. The second was for patterns. Patterns required their own book because patterns were where the truth lived, and truth did not share space with speculation.
 
 The list said:
 
@@ -18,7 +18,7 @@ The camera had caught nothing.
 
 That was worse. That meant whoever was doing it knew about sightlines. Knew where to approach from. Knew that Gerald's porch faced south and the Alvarez porch had no clear view from the north.
 
-Gerald was eating breakfast — toast, black coffee, the paper on his tablet — when he heard the UPS truck. He was at the window in five seconds. The truck stopped at Sandra's house. A box. Medium. Left at the front step. The driver was gone in under a minute.
+Gerald was eating breakfast — toast, black coffee, the paper on his tablet — when he heard the UPS truck. He was at the window in five seconds. The truck stopped at their house. A box. Medium. Left at the front step. The driver was gone in under a minute.
 
 Gerald checked the time: 10:47 AM. Sandra was at her book club until noon. Gerald was home. Gerald was watching.
 
@@ -26,7 +26,7 @@ He sat by the window. The notebook was open. Pen uncapped.
 
 10:52. Nothing.
 11:03. Mrs. Alvarez walked her dog past the house. She waved at Gerald's window. He waved back. He didn't move from the chair.
-11:14. A car turned onto Maple Lane. Blue Honda Civic. Not a resident. It slowed. Gerald wrote down the plate. The car continued past Sandra's house. It didn't stop. It turned at the end of the block.
+11:14. A car turned onto Maple Lane. Blue Honda Civic. Not a resident. It slowed. Gerald wrote down the plate. The car continued past their house. It didn't stop. It turned at the end of the block.
 
 11:15. Gerald wrote: *Blue Honda. Plate: KBV-4817. Not local. Slowed at Hooper residence. Did not stop. Reconnaissance?*
 
@@ -34,11 +34,11 @@ He sat by the window. The notebook was open. Pen uncapped.
 
 The car pulled to the curb three houses down. Engine off. Nobody got out. Tinted windows, not heavily. Gerald could see a shape in the driver's seat. Male. Alone.
 
-11:31. The door opened. A man got out. Young. Twenty, maybe twenty-two. Hoodie, jeans, sneakers. He walked up the sidewalk. Normal pace. Normal direction. Hands in his pockets. He passed the Muñoz house. He passed the Alvarez house. He reached Sandra's front step.
+11:31. The door opened. A man got out. Young. Twenty, maybe twenty-two. Hoodie, jeans, sneakers. He walked up the sidewalk. Normal pace. Normal direction. Hands in his pockets. He passed Ms. Yuen's house. He passed the Greens'. He passed the Chens'. He reached the front step.
 
 He didn't slow down.
 
-He walked past.
+He walked past. Past the playground.
 
 He turned at the corner. Gone.
 
@@ -56,15 +56,13 @@ Venn stood where the car had been. He looked at the spot. Not at anything on the
 
 Gerald wrote: *Venn exited house at 11:34, walked to location of Honda (now gone), examined area, returned home. Duration: 90 seconds. Unprompted.*
 
-He underlined *unprompted*. How had Venn known the car was there? His front window faced west, not south. He couldn't have seen it from inside.
+He underlined *unprompted*. Venn's front window faced the street. He could have seen the Honda from his living room. That wasn't the question. The question was: why did he go outside the moment it left? Not while it was there. After. As if he'd been watching it the whole time and waiting for it to move.
 
-Unless he'd been watching from a different window. Or unless he'd heard it. Or unless he knew it would come back before it did.
+Gerald put the pen down. He picked it up again. He drew a line under the entry and went to pick up the package from the porch. 
 
-Gerald put the pen down. He picked it up again. He drew a line under the entry.
+Sandra came home at two. Everything was fine. Nothing had happened. Gerald was not fine, but that was his baseline.
 
-The package was still on Sandra's step at noon when she came home. Sandra was fine. The package was fine. Nothing happened. Gerald was not fine, but that was his baseline.
-
-Two days later, the Muñozes lost another package. Four days after that, the Parkers. Gerald's spreadsheet had seven entries now. Seven packages. The police had done nothing. Gerald's camera had caught nothing. He was considering a stakeout.
+Two days later, the Muñozes lost another package. The day after that, Alvarez again — USPS, delivered 2:47 PM, gone by the time she checked at 3:15. Gerald went over and told her. She looked at him like he'd told her something she already knew. Four days after that, the Parkers. Gerald's spreadsheet had seven entries now. Seven packages. The police had done nothing. Gerald's camera had caught nothing. 
 
 He was considering a stakeout from his car, parked at the end of the block, when Aldric knocked on his door.
 
@@ -130,7 +128,7 @@ Gerald had spent an hour positioning that camera.
 
 That wasn't true. Gerald hadn't identified the Honda. Hadn't connected it to Birch Street. Hadn't found Tyler. He'd been sitting at his window with a notebook while Aldric solved it in three walks.
 
-"Thank you," Gerald said. He didn't know what else to say.
+"I— " Gerald said. He didn't know what to say.
 
 "You're welcome." Aldric stepped back toward the door. "If you'd like, I can keep you informed if Tyler doesn't follow through. I told him I'd check in next week."
 
@@ -140,18 +138,18 @@ That wasn't true. Gerald hadn't identified the Honda. Hadn't connected it to Bir
 
 Then he was gone. Across the street. Up his porch steps. Door closed.
 
-Gerald stood in his hallway. The second notebook was upstairs. He went up. He opened it. He wrote:
+Gerald stood in his hallway. The second notebook was upstairs. He went up, opened it and wrote:
 
 *Package situation resolved. Venn identified perp independently via pattern recognition + foot surveillance. Spoke with thief directly. Result: compliance, restitution, job referral.*
 
 He paused. Then:
 
 *Questions:*
-*1. How did he know about my camera?*
-*2. He said he "noticed the same pattern." When? I started tracking June 14. He moved in June 1. That's 13 days to independently identify a multi-incident theft ring from observation alone.*
-*3. "Had a conversation." What does that mean? Tyler "enthusiastically" agreed. What made it enthusiastic?*
-*4. "The alternative." He used MY police report as leverage. He knew about the report. Nobody told him about the report.*
-*5. He solved this faster than me. He solved this faster than the police. He solved this like it was nothing.*
+*1. "Had a conversation." What does that mean? Tyler "enthusiastically" agreed. What made it enthusiastic?*
+*2. He went outside the moment the Honda left. Not before. After. He was watching it and chose not to act until it moved.*
+*3. Coat on at eleven-thirty in June. Why?*
+*4. He identified the vehicle, traced it to Birch Street, found the driver, and resolved the situation. In a week. With walks.*
+*5. "I merely followed it to its conclusion." That's what he said. Like it was simple. Like anyone could have done it.*
 
 Gerald capped the pen. He looked at the questions. Five of them. All good. All unanswerable without asking Venn directly. And Gerald already knew that asking Venn directly produced polite, complete, detailed answers that added up to nothing.
 
@@ -159,7 +157,7 @@ He added a sixth question:
 
 *6. If he can do this to a package thief in a week, what else can he do?*
 
-He closed the notebook. He put it in the drawer. He went downstairs.
+He closed the notebook, put it in the drawer and went downstairs.
 
 Sandra was in the kitchen, reading something on her phone. "What did Aldric want?"
 
@@ -167,11 +165,11 @@ Sandra was in the kitchen, reading something on her phone. "What did Aldric want
 
 Sandra looked up. "He what?"
 
-"Found the kid. Talked to him. It's done."
+"Found some kid. Talked to him. It's done."
 
 "How?"
 
-"He noticed the car. Followed it. Had a conversation."
+"He noticed the car. Followed it and had a conversation."
 
 Sandra stared. "Just like that?"
 
@@ -179,7 +177,7 @@ Sandra stared. "Just like that?"
 
 "Wow." She looked back at her phone. "That's so nice of him."
 
-Gerald opened the fridge. He took out a beer. It was one-fifteen in the afternoon and he needed a beer. He drank it in the living room. Slowly. Looking at nothing.
+Gerald opened the fridge. He took out a beer. It was three-fifteen in the afternoon and he needed a beer. He drank it in the living room. Slowly. Looking at nothing.
 
 Nice. Sandra thought it was nice. It *was* nice. Objectively. A neighbor solving a neighborhood problem. Volunteering his time. Helping. Being kind.
 
@@ -187,10 +185,8 @@ The beer was cold. The house was quiet.
 
 A man had solved a crime that Gerald and the police couldn't solve. In a week. With three walks and a conversation. And then he'd come over, explained it clearly, given credit to Gerald, and left.
 
-That wasn't nice.
+That wasn't nice. That was something that made Gerald feel like he'd been punched in the gut and then offered a bandage.
 
-That was something else.
-
-Gerald finished the beer. He rinsed the bottle. He recycled it. He went back to his study and opened the drawer.
+Gerald finished the beer. He rinsed the bottle and recycled it. He went back to his study and opened the drawer.
 
 The notebook was getting full. He'd need a third soon.

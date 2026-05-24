@@ -15,13 +15,17 @@ Dies ist ein Buchprojekt.
 - Das Buch selbst wird auf Englisch verfasst
 
 ## Bei Textarbeit am Manuskript
-Beachte die Stil-Vorgaben aus diesen Dateien:
+Beachte die Stil-Vorgaben und Regeln aus den Dateien in `00 - General/`:
 - `00 - General/StyleDNA.md` – Detaillierte Stilmerkmale
 - `00 - General/Writing Rules.md` – Schreibregeln
 - `00 - General/POV_Tone_Examples.md` – Beispiele für POV-Töne
 - `00 - General/aldric_venn_charakterbibel.md` – Charakterbibel für Aldric Venn
+- `00 - General/aldric_venn_figurensystem.md` – Venn-Diagramm und Figurensystem für Aldric Venn
+- `00 - General/figure_ebene2.md` – Definitionen der Figuren-Ebene 2
 - `00 - General/SoL_Beats.md` – Liste der Slice-of-Life-Beats und ihre Funktionen
 - `00 - General/StoryLine.md` – Die Ereignisse im Buch - quasi die Story in Kurzform
+
+Falls eine oder mehrere dieser Dateien nicht vollständig und im Original (unkomprimiert) im Kontext liegen, lade sie.
 
 ### Kernprinzipien:
 Sofern nicht anders in den Stilregeln angegeben, gilt:
@@ -38,8 +42,10 @@ Sofern nicht anders in den Stilregeln angegeben, gilt:
 
 ## Allgemein
 - Bei Manuskripttext: so ausführlich wie nötig.
-- Bei bestehendem Manuskripttext: Schlage Änderungen vor, führe sie erst nach Bestätigung durch. Bei neuen Texten: Schreibe eigenständig, sofern alle benötigten Informationen vorliegen.
+- Bei bestehendem Manuskripttext: Schlage Änderungen vor, führe sie erst nach Bestätigung durch. Bei neu zu erstellenden Kapiteln: Schreibe eigenständig, sofern alle benötigten Informationen vorliegen.
 - Bei Unsicherheit: Frag nach statt zu raten
 - Nehme an, dass alle Datein in UTF-8 vorliegen. Teilweise mit BOM, meist ohne.
 - Falls eine referenzierte Datei nicht existiert oder leer ist, erstelle sie mit mir zusammen. Frage mich nach Details, bevor du sie erstellst. Füge keinen Text hinzu, bevor du die Datei mit mir zusammen erstellt hast.
 - Falls eine referenzierte Datei nicht im Kontext liegt, lade sie.
+- Nach dem erstellen eines neuen Kapitels oder einer neuen Szene, prüfe sie gegen die Stilregeln und Schreibregeln, bevor du sie mir zur Überprüfung vorlegst. Stelle sicher, dass sie den Anforderungen entsprechen.
+- Neue Informationen, die du während der Arbeit am Manuskript entdeckst, füge in die entsprechenden Referenzdateien ein, damit sie für zukünftige Arbeiten verfügbar sind. Frage mich, wenn du dir nicht sicher bist, wo die Informationen hingehören.

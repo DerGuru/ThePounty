@@ -38,7 +38,8 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 14 | Garcia (Eigentümer, vermietet) | gerade | Wohnen nicht dort. Aktuelle Mieter: Miller. Frühere Mieterin: "quiet girl", braune Haare, 2018/19 weggezogen. Ebene 3. |
 | 15 | Diane Kessler | ungerade | HOA-Schriftführerin, liest Protokolle, beschwert sich über Parkbänke. Ebene 3. |
 | 17 | Bob Muñoz | ungerade | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
-| 18 | Henderson | gerade | Vor 5 Jahren eingezogen. Ebene 3. |
+| 18 | Henderson | gerade | 70+, vor 5 Jahren eingezogen. Ebene 3. |
+| 20–22 | *kleiner Park* | gerade | Basketballplatz, Bank, Weg nach Süden |
 | 21 | Parker | ungerade | Vor den Hendersons eingezogen. Kind mit zahlreichen Essensallergien. Ebene 3. |
 
 ---
@@ -165,12 +166,12 @@ Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusamme
 **Keine Romanze.** Auch wenn beide zueinander passen würden. Das Buch lässt es offen, geht aber nie dorthin.
 
 **POV-Beats (6 Episoden):**
-1. **Die Einzugsparty** (CH1b, Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung.
-2. **Die Fotos** (CH5b, Sommer): Paket gestohlen. Alte Bilder vom Sohn, unersetzlich. Aldric bringt sie zurück.
-3. **Der Wasserhahn** (CH13b, Herbst): Erster Solo-Reparaturversuch. Scheitert. Ruft den Sohn. Hasst sich dafür.
-4. **Der Zaun** (CH19b, Winter): Mit Aldric zusammen. Er zeigt, sie macht. Kompetenz statt Erledigung.
-5. **Marias Fenster** (CH27b, Frühling): Sie sieht das fremde Auto, sieht Aldric sich verändern. Kennt ihn anders — durch Arbeit, nicht Beobachtung.
-6. **Danach** (CH32): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Arc landet.
+1. **Die Einzugsparty** (CH2, Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung.
+2. **Die Fotos** (CH7, Sommer): Paket gestohlen. Alte Bilder vom Sohn, unersetzlich. Aldric bringt sie zurück.
+3. **Der Wasserhahn** (CH23, Winter): Erster Solo-Reparaturversuch. Scheitert. Ruft den Sohn. Hasst sich dafür.
+4. **Der Zaun** (CH16, Herbst): Mit Aldric zusammen. Er zeigt, sie macht. Kompetenz statt Erledigung.
+5. **Marias Fenster** (CH33, Frühling): Sie sieht das fremde Auto, sieht Aldric sich verändern. Kennt ihn anders — durch Arbeit, nicht Beobachtung.
+6. **Danach** (CH38): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Arc landet.
 
 ---
 

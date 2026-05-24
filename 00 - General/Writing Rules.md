@@ -84,3 +84,4 @@
 
 ## Grammatik
 47. **Jeder Satz, der ein Verb enthält, braucht ein Subjekt.** Keine subjektlosen Sätze. Fragments ohne Verb (Nominalsätze) sind erlaubt.
+48. **Aufzählungen enden mit "and".** Komma-getrennte Listen innerhalb eines Satzes setzen ein "and" vor das letzte Glied. Beispiel: *She adjusted her grip, pulled the yarn taut and tried again.* Nicht: *She adjusted her grip, pulled the yarn taut, tried again.*
