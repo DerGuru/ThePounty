@@ -81,3 +81,6 @@
 ## Protagonist-Agency
 45. **Der Protagonist handelt aktiv — auch ohne Macht.** Zögern muss als kontrollierte Strategie lesbar sein, nicht als Passivität. Selbst ein machtloser Charakter trifft aktive Entscheidungen mit Kosten.
 46. **SoL-Szenen müssen arbeiten.** Jede Slice-of-Life-Szene muss mindestens EINS tun: (a) eine Beziehung vertiefen, (b) einen Charakter triggern/verändern, (c) spätere Stakes aufbauen, (d) Stimmung/Atmosphäre etablieren. Kein SoL als Füllmaterial.
+
+## Grammatik
+47. **Jeder Satz, der ein Verb enthält, braucht ein Subjekt.** Keine subjektlosen Sätze. Fragments ohne Verb (Nominalsätze) sind erlaubt.

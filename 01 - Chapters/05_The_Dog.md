@@ -8,7 +8,7 @@ The dog barked at Dave every single time he took out the trash. Three years. Eve
 
 It did not bark at Aldric.
 
-Dave noticed this in the second week. Aldric walked past number seven on his way to the mailbox. Usual pace. The dog was in the yard, on its chain, the way it always was. Dave was on his own porch and braced for the explosion of noise. Nothing happened. The dog sat there. Watched Aldric pass. Watched him come back with his mail. Quiet. Ears forward but relaxed. Tail still.
+Dave noticed this in the second week. Aldric walked past number seven on his way to the mailbox. Usual pace. The dog was in the yard, on its chain, the way it always was. Dave was on his own porch and braced for the explosion of noise. Nothing happened. The dog sat there. It watched Aldric pass. It watched him come back with his mail. Quiet. Ears forward but relaxed. Tail still.
 
 Dave mentioned it to Rosa that night. Rosa said dogs were good judges of character. Dave said dogs were good judges of nothing. Their dog growing up had been terrified of the vacuum cleaner and once ate an entire crayon box, wrappers included. Rosa said that was different. Dave didn’t ask how.
 
@@ -18,7 +18,7 @@ Strange. He didn’t think about it more than that.
 
 It was a Thursday in late June. Dave was working from home, laptop on the kitchen table, coffee going cold next to a stack of napkins from lunch. He was on a call that didn’t need him. Most calls didn’t need him. He was muted, occasionally typing something into the chat to prove he existed. A thumbs-up emoji every four minutes. That was his system.
 
-Through the kitchen window he could see the street. The mailman’s truck was working its way up the block. White truck. Kevin driving. Kevin had been on this route for two years. Good guy. Left packages in the right spot. Waved.
+Through the kitchen window he could see the street. The mailman’s truck was working its way up the block. White truck. Kevin driving. Kevin had been on this route for two years. Good guy. He left packages in the right spot. He waved.
 
 The dog could see the truck too.
 
@@ -48,7 +48,7 @@ Dave stepped into the street. He didn’t have anything. No stick, no leash, not
 
 Then Aldric was there.
 
-Dave didn’t see him come out. Didn’t hear his door. One second the street had Dave and Kevin and the dog, and the next second Aldric was walking down his front path. Not running. Walking. Normal pace. Straight line toward the dog. His hands were at his sides. He wasn’t making any noise. No calling, no clapping, no shushing.
+Dave didn’t see him come out. He didn’t hear his door. One second the street had Dave and Kevin and the dog, and the next second Aldric was walking down his front path. Not running. Walking. Normal pace. Straight line toward the dog. His hands were at his sides. He wasn’t making any noise. No calling, no clapping, no shushing.
 
 He stepped off his curb and into the street.
 
@@ -74,17 +74,17 @@ Its tail dropped.
 
 It sat down.
 
-In the middle of the street. Just sat. Looked at Aldric. Mouth open. Panting. Like it had been running for an hour and just decided to rest.
+In the middle of the street. It just sat. It looked at Aldric. Mouth open. Panting. Like it had been running for an hour and just decided to rest.
 
 Aldric took one step forward. The dog didn’t move. Another step. Still nothing. He walked forward slowly. Not cautiously—Dave could see the difference and it mattered. Cautious meant afraid. Aldric wasn’t afraid. He was deliberate. Each step placed with a kind of certainty that Dave didn’t have a word for.
 
-He reached the dog. Crouched down. Still not looking at its eyes. He reached for the trailing chain on the ground. Picked it up. Wrapped it once around his left hand. His right hand stayed open, resting on his knee. Close to the dog but not touching it.
+He reached the dog. He crouched down. Still not looking at its eyes. He reached for the trailing chain on the ground. He picked it up. He wrapped it once around his left hand. His right hand stayed open, resting on his knee. Close to the dog but not touching it.
 
 “Good,” he said. One word. Quiet. Almost a whisper.
 
 The dog’s tail moved. Not a wag. A single twitch. An acknowledgment.
 
-Aldric stood up. The dog stood up with him. He turned toward number seven’s yard. Walked. The dog walked beside him. No pulling, no resistance, no sound. Heeling. Like they did this every day.
+Aldric stood up. The dog stood up with him. He turned toward number seven’s yard. He walked. The dog walked beside him. No pulling, no resistance, no sound. Heeling. Like they did this every day.
 
 Kevin was still against his truck. His mail bag was on the ground. Letters scattered on the asphalt.
 
@@ -104,7 +104,7 @@ He had the right bolt. For a neighbor’s dog chain stake. Already in his house.
 
 Aldric looped the chain around the porch railing. A specific knot—something that wrapped twice and held firm without tightening against the dog’s collar. He tied it in two seconds without looking. Then he walked across the street to his garage and came back carrying a new ground stake, a bolt, and a wrench. The new stake was stainless steel. The old one had been cast iron, rusted halfway through at the base.
 
-He pulled the old stake out with one hand. Put the new one in. Drove it with the wrench handle. Bolted it. Attached the chain. Pulled hard. Pulled again. The stake held. He nodded.
+He pulled the old stake out with one hand. He put the new one in. He drove it with the wrench handle. He bolted it. He attached the chain. He pulled hard. He pulled again. The stake held. He nodded.
 
 Four minutes. The whole thing took four minutes.
 
@@ -114,17 +114,17 @@ The dog sat on the porch and watched him work. Panting. Calm. Its tail was still
 
 He said it the way you’d say *I’ll grab some milk on the way home*. Normal. What you do.
 
-Kevin picked up his scattered mail. Put it in the right boxes. Finished his route without saying another word. His hands were shaking slightly when he got back in the truck. Dave saw that.
+Kevin picked up his scattered mail. He put it in the right boxes. He finished his route without saying another word. His hands were shaking slightly when he got back in the truck. Dave saw that.
 
 Dave went back inside. His coffee was pooled across the kitchen table, soaking into the napkin stack. The laptop screen had gone dark. The call was still going. Nobody had noticed he was gone. He unmuted, said “yeah, sounds good,” muted again.
 
-He cleaned up the coffee. Threw away the napkins. Sat back down. Looked at his laptop without seeing it.
+He cleaned up the coffee. He threw away the napkins. He sat back down. He looked at his laptop without seeing it.
 
 He kept thinking about the dog. Not the chain breaking—chains broke, dogs ran, that was just a thing. He kept thinking about Aldric in the street. Standing there. Not moving. Looking at the dog’s chest. And the dog changing. Going from attack to calm in five seconds. Like Aldric had said something to it that Dave couldn’t hear.
 
 Maybe he had. Dave didn’t know. He didn’t know anything about dogs, really.
 
-He worked until five. Or tried to. Made dinner with Rosa. Told her about it.
+He worked until five. Or tried to. He made dinner with Rosa. He told her about it.
 
 “Sandra texted me already,” Rosa said. She was chopping onions. “She said Aldric ‘tamed it with his mind.’”
 
@@ -132,7 +132,7 @@ He worked until five. Or tried to. Made dinner with Rosa. Told her about it.
 
 “What did he do?”
 
-Dave opened the fridge. Stood there. Closed it without taking anything. “He just stood there. And it stopped.”
+Dave opened the fridge. He stood there. He closed it without taking anything. “He just stood there. And it stopped.”
 
 Rosa turned from the stove. “He just stood there.”
 
@@ -158,7 +158,7 @@ Aldric looked at his coffee for a moment. “Liking requires comfort. Recognitio
 
 “Huh.”
 
-Dave waved. Went inside. Rosa was doing dishes. The house smelled like onions and garlic and normal.
+Dave waved. He went inside. Rosa was doing dishes. The house smelled like onions and garlic and normal.
 
 Tomorrow he’d ask Aldric how he did it. Where he learned that. That was a normal thing to ask.
 

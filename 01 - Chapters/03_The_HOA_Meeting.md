@@ -40,7 +40,7 @@ Then he turned, spotted Sandra, and smiled. He crossed the room.
 
 "I saved you a seat," Sandra said. She had. The chair to her left had her purse on it. She moved the purse.
 
-"That's very thoughtful of you." He sat down. Straightened his coat. Looked at the room the way you look at a theater before the show starts. Attentive. Interested. Ready.
+“That’s very thoughtful of you.” He sat down. He straightened his coat. He looked at the room the way you look at a theater before the show starts. Attentive. Interested. Ready.
 
 "It's usually pretty boring," Sandra said. "Fair warning."
 
@@ -138,7 +138,7 @@ She waited. He didn't add anything. The pause stretched. It wasn't awkward. It w
 
 "Well," Sandra said. "Same time next month."
 
-"I wouldn't miss it." He shook her hand. Held it just long enough to feel intentional. "Thank you again, Sandra. For the invitation, for the seat, and for the lemon loaf last Thursday. It was exceptional. Meyer lemons?"
+"I wouldn't miss it." He shook her hand. He held it just long enough to feel intentional. "Thank you again, Sandra. For the invitation, for the seat, and for the lemon loaf last Thursday. It was exceptional. Meyer lemons?"
 
 "How did you—"
 
@@ -158,7 +158,7 @@ She walked to the car with Gerald. He was already pulling his keys out, which me
 
 "He said he wanted to understand the community."
 
-Gerald unlocked the car. Didn't respond until they were both inside and the doors were closed.
+Gerald unlocked the car. He didn’t respond until they were both inside and the doors were closed.
 
 "He asked about people who moved away."
 

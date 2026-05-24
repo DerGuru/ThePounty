@@ -58,63 +58,68 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 |---|---------|-----|----------|-----|
 | 0 | **Prolog** | Aldric | Ankunft aus seiner Sicht. Einziger interner POV bis zum Epilog. | Analytisch, leise Sehnsucht |
 | 1 | **The New Neighbor** (Einzugstag) | Dave | Erste Begegnung. Drei Kisten. Handschlag. Essen auf der Veranda. | Warm, komisch, leicht unheimlich |
-| 2 | **Die HOA-Sitzung** | Sandra | Aldric bei seiner ersten Versammlung. Präzisions-Höflichkeit vs. Bürokratie. Er stellt Fragen über langjährige Bewohner. | 90% Comedy |
-| 3 | **Der Block-Party-Abend** | Dave/Rosa | Sommerfest. Aldric in einer Menschenmenge. Bringt etwas absurd Aufwendiges mit. Alle POVs beobachten gleichzeitig. | Warm, Multi-POV |
-| 4 | **Der Hund und der Briefträger** | Dave | Hund von Nr. 7 reißt sich los. Aldric fängt ihn mit beunruhigender Ruhe. | Leicht, tierkomisch |
-| 5 | **Der Paketdieb** | Gerald | Pakete verschwinden. Gerald dreht auf. Aldric löst es still, ohne zu erklären wie. | Komik → Spannung |
-| 6 | **Die Teenager vom Park** | Ms. Yuen | Jugendliche sprayen einen Zaun. Aldric geht hin, kommt zurück. Am nächsten Tag streichen die Teens selbst. Niemand weiß, was er gesagt hat. | Mysteriös-komisch |
+| 2 | **The Housewarming** | Maria | Grillen bei Aldric, wenige Tage nach Einzug. Alle POV-Nachbarn da (ohne Greens/Hund). Aldric grillt, andere bringen was mit. Maria beobachtet einen Mann, der allein lebt und es aussehen lässt wie eine Erfindung. Establishment ihres Arcs (Unsicherheit, Selbstzweifel). Aldric fragt nach HOA; Gerald als Vorsitzender kündigt nächste Woche an. | Ruhig, beobachtend, leiser Neid |
+| 3 | **Die HOA-Sitzung** | Sandra | Aldric bei seiner ersten Versammlung — angekündigt auf dem Housewarming. Präzisions-Höflichkeit vs. Bürokratie. Er stellt Fragen über langjährige Bewohner. | 90% Comedy |
+| 4 | **Der Block-Party-Abend** | Dave/Rosa | Sommerfest. Aldric in einer Menschenmenge. Bringt etwas absurd Aufwendiges mit. Alle POVs beobachten gleichzeitig. | Warm, Multi-POV |
+| 5 | **Der Hund und der Briefträger** | Dave | Hund von Nr. 7 reißt sich los. Aldric fängt ihn mit beunruhigender Ruhe. | Leicht, tierkomisch |
+| 6 | **Der Paketdieb** | Gerald | Pakete verschwinden. Gerald dreht auf. Aldric löst es still, ohne zu erklären wie. | Komik → Spannung |
+| 6b | **Die Fotos** | Maria | Ihr Paket. Alte Bilder vom Sohn, vom Ex zurückgeschickt. Unersetzlich. Der Diebstahl trifft unverhältnismäßig. Aldric bringt sie zurück, erklärt nicht wie. Sie weint nicht. Fast. | Still, verletzlich |
+| 7 | **Die Teenager vom Park** | Ms. Yuen | Jugendliche sprayen einen Zaun. Aldric geht hin, kommt zurück. Am nächsten Tag streichen die Teens selbst. Niemand weiß, was er gesagt hat. | Mysteriös-komisch |
 
 ### Spätsommer (Monate 3–4) — Der Auftrag
 
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
-| 7 | **Der Besucher** | Dave | Ein Mann im Anzug klopft bei Aldric. Zu glatt. Bleibt 20 Minuten. Aldric bietet Tee an, der Mann nimmt keinen. Danach sitzt Aldric nicht auf der Veranda. Dave zu Rosa: "Wie jemand, der *übt*, normal auszusehen." | Auftrag beginnt + Spannungsaufbau |
-| 8 | **Die Lieferungen** | Gerald | Über zwei Wochen: Pakete. Gerald zählt mit. Aldric ist abends im Keller statt auf der Veranda. | Auftragsvorbereitung |
-| 9 | **Die Abwesenheit** | Dave/Rosa | "Geschäftsreise." Zwei Tage weg. Er hat vorher Dave gebeten, Post reinzunehmen. Als er zurückkommt: genau gleich. Oder? Rosa denkt: irgendetwas ist anders. | Der Auftrag (off-screen) |
+| 8 | **Der Besucher** | Dave | Ein Mann im Anzug klopft bei Aldric. Zu glatt. Bleibt 20 Minuten. Aldric bietet Tee an, der Mann nimmt keinen. Danach sitzt Aldric nicht auf der Veranda. Dave zu Rosa: "Wie jemand, der *übt*, normal auszusehen." | Auftrag beginnt + Spannungsaufbau |
+| 9 | **Die Lieferungen** | Gerald | Über zwei Wochen: Pakete. Gerald zählt mit. Aldric ist abends im Keller statt auf der Veranda. | Auftragsvorbereitung |
+| 10 | **Die Abwesenheit** | Dave/Rosa | "Geschäftsreise." Zwei Tage weg. Er hat vorher Dave gebeten, Post reinzunehmen. Als er zurückkommt: genau gleich. Oder? Rosa denkt: irgendetwas ist anders. | Der Auftrag (off-screen) |
 
 ### Herbst (Monate 5–7)
 
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
-| 10 | **Ray Kowalski (Der Marktmann)** | Dave | Drei-Cent-Episode. Erste sichtbare Demonstration des Gerechtigkeitsprinzips. | Präzise, befriedigend |
-| 11 | **Der Contractor-Betrug** | Sandra | Ein Handwerker zieht Sandra ab. Aldric löst es durch Spiegelung: Wahrheit, richtige Leute, richtiger Zeitpunkt. | Befriedigend, scharf |
-| 12 | **Das Schulproblem** | Rosa | Ortega-Kind wird gemobbt. Aldric spricht mit den Eltern des Bullys. Tier 2. Die Höflichkeit bekommt eine Kante. | Warm → kalt → warm |
-| 13 | **Officer Kims erster Besuch** | Kim | Routine nach dem Contractor-Vorfall. Aldric beantwortet alles. Kim geht mit weniger Informationen als sie kam. | Ruhig, unterschwellig |
-| 14 | **Geralds Irrtum** | Gerald | Gerald beobachtet Aldric beim Bibliotheksbesuch. Folgt ihm. Entdeckt: er recherchiert Lokalgeschichte. Gerald denkt: *Ich hab mich geirrt. Der Typ ist einfach ein Nerd.* Er schließt das Notizbuch. Für zwei Wochen. | False Security |
-| 15 | **Halloween** | Sandra/Dave | Aldric nimmt den Feiertag absurd ernst. Handverpackte Süßigkeiten mit Karten. | 100% Comedy |
-| 16 | **Geralds Datenbank-Fund** | Gerald | Kein LinkedIn, kein Facebook, keine alte Adresse. Der Name existiert erst seit zwei Jahren. Notizbuch wieder offen. Neues Notizbuch. | Thriller-Ton / Punch nach False Security |
+| 11 | **Ray Kowalski (Der Marktmann)** | Dave | Drei-Cent-Episode. Erste sichtbare Demonstration des Gerechtigkeitsprinzips. | Präzise, befriedigend |
+| 12 | **Der Contractor-Betrug** | Sandra | Ein Handwerker zieht Sandra ab. Aldric löst es durch Spiegelung: Wahrheit, richtige Leute, richtiger Zeitpunkt. | Befriedigend, scharf |
+| 13 | **Das Schulproblem** | Rosa | Ortega-Kind wird gemobbt. Aldric spricht mit den Eltern des Bullys. Tier 2. Die Höflichkeit bekommt eine Kante. | Warm → kalt → warm |
+| 14 | **Officer Kims erster Besuch** | Kim | Routine nach dem Contractor-Vorfall. Aldric beantwortet alles. Kim geht mit weniger Informationen als sie kam. | Ruhig, unterschwellig |
+| 14b | **Der Zaun** | Maria | Aldric bietet an, den Zaun zusammen zu streichen. Nicht für sie — mit ihr. Er zeigt, sie macht. Am Ende des Tages hat sie einen gestrichenen Zaun und Farbe an den Händen und etwas, das sich anfühlt wie Kompetenz. | Warm, praktisch, leise Wende |
+| 15 | **Geralds Irrtum** | Gerald | Gerald beobachtet Aldric beim Bibliotheksbesuch. Folgt ihm. Entdeckt: er recherchiert Lokalgeschichte. Gerald denkt: *Ich hab mich geirrt. Der Typ ist einfach ein Nerd.* Er schließt das Notizbuch. Für zwei Wochen. | False Security |
+| 16 | **Halloween** | Sandra/Dave | Aldric nimmt den Feiertag absurd ernst. Handverpackte Süßigkeiten mit Karten. | 100% Comedy |
+| 17 | **Geralds Datenbank-Fund** | Gerald | Kein LinkedIn, kein Facebook, keine alte Adresse. Der Name existiert erst seit zwei Jahren. Notizbuch wieder offen. Neues Notizbuch. | Thriller-Ton / Punch nach False Security |
 
 ### Winter (Monate 7–9) — Die Mitte schärfen
 
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
-| 17 | **Der Streit nebenan** | Dave | Dave und Rosa haben eine schlechte Woche. Aldric tut etwas Kleines, Präzises, Unsichtbares. | Subtil, warm |
-| 18 | **Rosas Projekt** | Rosa | Rosa will etwas Eigenes anfangen (Teilzeit? Ehrenamt?). Aldric unterstützt — chirurgisch korrekt, fast beunruhigend gezielt. Rosa denkt: *wie WEISS er das?* | Rosa-Subplot + People-Reading |
-| 19 | **Der Schneesturm** | Dave/Gerald | Strom aus. Aldric hat Generator, Vorräte, Plan. Versorgt die halbe Straße. Bewundernswert *und* verstörend. | Community + Unterton |
-| 20 | **Weihnachten auf Maple Lane** | Rosa | Aldrics Geschenke: chirurgisch persönlich. Jedes zeigt monatelanges Zuhören. Das Schönste oder das Beunruhigendste. | Bittersweet |
-| 21 | **Pater Reeves** | Rosa | Gespräch auf der Veranda. Aldrics Verhältnis zu Moral und Institution. "Gleichgewicht ist keine Gegenleistung. Es ist eine Voraussetzung." | Philosophisch, ruhig |
-| 22 | **Ms. Yuens Fenster** | Ms. Yuen | DAS große Ms.-Yuen-Kapitel. Sie beobachtet seit Monaten. Sieht alles. Versteht mehr als alle anderen — weil sie nicht fragt und einfach schaut. Die meiste Leser-Information über Aldric in einem Kapitel. | Still, gewichtig, Schlüsselkapitel |
-| 23 | **Die Häusliche Gewalt** | Rosa/Kim | Drei Straßen weiter. Verbindung zu jemandem auf Maple Lane. Tier 3. Aldric löst es. Die Straße sieht eine dunklere Seite — aber nicht die dunkelste. | Dunkel, kathartisch |
-| 24 | **Officer Kims zweiter Besuch** | Kim | Wegen des Mannes im Krankenhaus. Aldric sagt nichts Falsches. Kim auch nicht. Kims Streifenwagen fährt danach öfter vorbei. Aldric winkt. Jedes Mal. | Katz-und-Maus |
+| 18 | **Der Streit nebenan** | Dave | Dave und Rosa haben eine schlechte Woche. Aldric tut etwas Kleines, Präzises, Unsichtbares. | Subtil, warm |
+| 19 | **Rosas Projekt** | Rosa | Rosa will etwas Eigenes anfangen (Teilzeit? Ehrenamt?). Aldric unterstützt — chirurgisch korrekt, fast beunruhigend gezielt. Rosa denkt: *wie WEISS er das?* | Rosa-Subplot + People-Reading |
+| 20 | **Der Schneesturm** | Dave/Gerald | Strom aus. Aldric hat Generator, Vorräte, Plan. Versorgt die halbe Straße. Bewundernswert *und* verstörend. | Community + Unterton |
+| 20b | **Der Wasserhahn** | Maria | Erster Versuch, etwas allein zu reparieren. YouTube-Tutorial, falsches Werkzeug, Wasser überall. Ruft den Sohn an. Hasst, dass sie angerufen hat. | Komisch, frustrierend, ehrlich |
+| 21 | **Weihnachten auf Maple Lane** | Rosa | Aldrics Geschenke: chirurgisch persönlich. Jedes zeigt monatelanges Zuhören. Das Schönste oder das Beunruhigendste. | Bittersweet |
+| 22 | **Pater Reeves** | Rosa | Gespräch auf der Veranda. Aldrics Verhältnis zu Moral und Institution. "Gleichgewicht ist keine Gegenleistung. Es ist eine Voraussetzung." | Philosophisch, ruhig |
+| 23 | **Ms. Yuens Fenster** | Ms. Yuen | DAS große Ms.-Yuen-Kapitel. Sie beobachtet seit Monaten. Sieht alles. Versteht mehr als alle anderen — weil sie nicht fragt und einfach schaut. Die meiste Leser-Information über Aldric in einem Kapitel. | Still, gewichtig, Schlüsselkapitel |
+| 24 | **Die Häusliche Gewalt** | Rosa/Kim | Drei Straßen weiter. Verbindung zu jemandem auf Maple Lane. Tier 3. Aldric löst es. Die Straße sieht eine dunklere Seite — aber nicht die dunkelste. | Dunkel, kathartisch |
+| 25 | **Officer Kims zweiter Besuch** | Kim | Wegen des Mannes im Krankenhaus. Aldric sagt nichts Falsches. Kim auch nicht. Kims Streifenwagen fährt danach öfter vorbei. Aldric winkt. Jedes Mal. | Katz-und-Maus |
 
 ### Frühling (Monate 10–11) — Eskalation
 
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
-| 25 | **Frühlingsfest** | Dave/Sandra | Letzte Community-Episode. Die Ruhe vor dem Sturm. Alles ist gut. Die Straße funktioniert. Aldric gehört dazu. | Warm, ahnungsvoll |
-| 26 | **Der Fremde (Ankunft)** | Hired Muscle | ERSTER POV des Hired Muscle. Er sitzt im Auto. Rückblende: wie er den Job bekam. Adresse, Foto, "stör ihn". Vorstadt. Blumenkästen. Sollte schnell gehen. Dann sieht er Aldric den Rasen mähen. Irgendetwas an der Bewegung... | Thriller / Neue Perspektive |
-| 27 | **Der Fremde (Beobachtung)** | Gerald | Gerald bemerkt das Auto. Gerald bemerkt, dass Aldric es bemerkt hat. Gerald bemerkt, dass Aldric sein Verhalten ändert. Gerald versteht nicht — aber sein Körper versteht. | Spannung steigt |
-| 28 | **Intelligence warnt** | Dave | Ein zweiter Besuch. Derselbe "zu glatte" Mann. Kürzer diesmal. Drei Minuten. Aldric danach: genauso. Aber er schließt den Keller ab. | Eskalation |
-| 29 | **Die Entschuldigung** | Dave | Aldric kommt über den Rasen. "Ich muss mich bei Ihnen entschuldigen." Höflich bis zum Erbrechen. Ehrlich, dass es wehtut. Dave hat noch nie so viel Angst vor einem Lächeln gehabt. | Mounty + Punisher gleichzeitig |
-| 30 | **Die Kollision** | Hired Muscle + Straßen-Fragmente | Der Fremde erkennt, was er vor sich hat. Zu spät. Aldric bietet ihm eine letzte Chance. "Is that your final position on this matter?" Dazwischen: Dave hört etwas. Gerald sieht Schatten. Rosa hält Kinder vom Fenster. | Action/Thriller |
+| 26 | **Frühlingsfest** | Dave/Sandra | Letzte Community-Episode. Die Ruhe vor dem Sturm. Alles ist gut. Die Straße funktioniert. Aldric gehört dazu. | Warm, ahnungsvoll |
+| 27 | **Der Fremde (Ankunft)** | Hired Muscle | ERSTER POV des Hired Muscle. Er sitzt im Auto. Rückblende: wie er den Job bekam. Adresse, Foto, "stör ihn". Vorstadt. Blumenkästen. Sollte schnell gehen. Dann sieht er Aldric den Rasen mähen. Irgendetwas an der Bewegung... | Thriller / Neue Perspektive |
+| 28 | **Der Fremde (Beobachtung)** | Gerald | Gerald bemerkt das Auto. Gerald bemerkt, dass Aldric es bemerkt hat. Gerald bemerkt, dass Aldric sein Verhalten ändert. Gerald versteht nicht — aber sein Körper versteht. | Spannung steigt |
+| 28b | **Marias Fenster** | Maria | Sie sieht das Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. | Spannung, persönlich |
+| 29 | **Intelligence warnt** | Dave | Ein zweiter Besuch. Derselbe "zu glatte" Mann. Kürzer diesmal. Drei Minuten. Aldric danach: genauso. Aber er schließt den Keller ab. | Eskalation |
+| 30 | **Die Entschuldigung** | Dave | Aldric kommt über den Rasen. "Ich muss mich bei Ihnen entschuldigen." Höflich bis zum Erbrechen. Ehrlich, dass es wehtut. Dave hat noch nie so viel Angst vor einem Lächeln gehabt. | Mounty + Punisher gleichzeitig |
+| 31 | **Die Kollision** | Hired Muscle + Straßen-Fragmente | Der Fremde erkennt, was er vor sich hat. Zu spät. Aldric bietet ihm eine letzte Chance. "Is that your final position on this matter?" Dazwischen: Dave hört etwas. Gerald sieht Schatten. Rosa hält Kinder vom Fenster. | Action/Thriller |
 
 ### Spätfrühling (Monat 12) — Resolution
 
 | # | Episode | POV | Funktion | Ton |
 |---|---------|-----|----------|-----|
-| 31 | **Am nächsten Morgen** | Dave | Das Auto ist weg. Aldric bringt Kuchen. Dave nimmt ihn. Fragt nicht. | Stille nach dem Sturm |
-| 32 | **Danach** | Gerald/Rosa/Ms. Yuen | Die Straße verarbeitet. Gerald schließt sein Notizbuch. Rosa bringt Essen. Ms. Yuen sagt einen Satz. Dave trinkt Kaffee auf der Veranda mit Aldric. Normal. Dienstag. | Ruhig, emotional |
-| 33 | **Das Foto** | Aldric | Er hat sie gefunden. Er beobachtet. Er legt ein Foto in den Rahmen. Der Rahmen ist nicht mehr leer. Epilog. | Still |
+| 32 | **Am nächsten Morgen** | Dave | Das Auto ist weg. Aldric bringt Kuchen. Dave nimmt ihn. Fragt nicht. | Stille nach dem Sturm |
+| 33 | **Danach** | Gerald/Rosa/Ms. Yuen/Maria | Die Straße verarbeitet. Gerald schließt sein Notizbuch. Rosa bringt Essen. Ms. Yuen sagt einen Satz. Maria streicht die Fensterrahmen. Allein. Ohne zu fragen. Dave trinkt Kaffee auf der Veranda mit Aldric. Normal. Dienstag. | Ruhig, emotional |
+| 34 | **Das Foto** | Aldric | Er hat sie gefunden. Er beobachtet. Er legt ein Foto in den Rahmen. Der Rahmen ist nicht mehr leer. Epilog. | Still |
 
 ---
 

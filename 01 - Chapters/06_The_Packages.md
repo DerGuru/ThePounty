@@ -25,8 +25,8 @@ Gerald checked the time: 10:47 AM. Sandra was at her book club until noon. Geral
 He sat by the window. The notebook was open. Pen uncapped.
 
 10:52. Nothing.
-11:03. Mrs. Alvarez walked her dog past the house. Waved at Gerald's window. He waved back. Didn't move from the chair.
-11:14. A car turned onto Maple Lane. Blue Honda Civic. Not a resident. It slowed. Gerald wrote down the plate. The car continued past Sandra's house. Didn't stop. Turned at the end of the block.
+11:03. Mrs. Alvarez walked her dog past the house. She waved at Gerald's window. He waved back. He didn't move from the chair.
+11:14. A car turned onto Maple Lane. Blue Honda Civic. Not a resident. It slowed. Gerald wrote down the plate. The car continued past Sandra's house. It didn't stop. It turned at the end of the block.
 
 11:15. Gerald wrote: *Blue Honda. Plate: KBV-4817. Not local. Slowed at Hooper residence. Did not stop. Reconnaissance?*
 
@@ -34,13 +34,13 @@ He sat by the window. The notebook was open. Pen uncapped.
 
 The car pulled to the curb three houses down. Engine off. Nobody got out. Tinted windows, not heavily. Gerald could see a shape in the driver's seat. Male. Alone.
 
-11:31. The door opened. A man got out. Young. Twenty, maybe twenty-two. Hoodie, jeans, sneakers. He walked up the sidewalk. Normal pace. Normal direction. Hands in his pockets. He passed the Muñoz house. Passed the Alvarez house. Reached Sandra's front step.
+11:31. The door opened. A man got out. Young. Twenty, maybe twenty-two. Hoodie, jeans, sneakers. He walked up the sidewalk. Normal pace. Normal direction. Hands in his pockets. He passed the Muñoz house. He passed the Alvarez house. He reached Sandra's front step.
 
-Didn't slow down.
+He didn't slow down.
 
-Walked past.
+He walked past.
 
-Turned at the corner. Gone.
+He turned at the corner. Gone.
 
 Gerald breathed. Not him. Not this time. Or scouting. Gerald wrote: *Male, ~22, gray hoodie, blue jeans, white sneakers. Walked past Hooper front step without pausing. Returned to vehicle? Unable to confirm.*
 
@@ -48,11 +48,11 @@ He was still writing when Aldric's front door opened across the street.
 
 Gerald's pen hovered.
 
-Venn stepped out. Coat on, which was unusual for eleven-thirty on a warm day. He walked to the sidewalk. Stood there for a moment. Then walked south. Toward where the Honda had parked.
+Venn stepped out. Coat on, which was unusual for eleven-thirty on a warm day. He walked to the sidewalk. He stood there for a moment. Then he walked south. Toward where the Honda had parked.
 
 The Honda was gone. Gerald checked the street in both directions. Gone. He hadn't seen it leave. He'd been writing. Two seconds of writing and he'd missed it.
 
-Venn stood where the car had been. Looked at the spot. Not at anything on the ground. At the space. Like he was reading the air where the car had existed. Then he walked back to his house.
+Venn stood where the car had been. He looked at the spot. Not at anything on the ground. At the space. Like he was reading the air where the car had existed. Then he walked back to his house.
 
 Gerald wrote: *Venn exited house at 11:34, walked to location of Honda (now gone), examined area, returned home. Duration: 90 seconds. Unprompted.*
 
@@ -60,7 +60,7 @@ He underlined *unprompted*. How had Venn known the car was there? His front wind
 
 Unless he'd been watching from a different window. Or unless he'd heard it. Or unless he knew it would come back before it did.
 
-Gerald put the pen down. Picked it up again. Drew a line under the entry.
+Gerald put the pen down. He picked it up again. He drew a line under the entry.
 
 The package was still on Sandra's step at noon when she came home. Sandra was fine. The package was fine. Nothing happened. Gerald was not fine, but that was his baseline.
 
@@ -70,7 +70,7 @@ He was considering a stakeout from his car, parked at the end of the block, when
 
 "Gerald. I hope I'm not interrupting. May I have a moment?"
 
-Gerald opened the door wider. Aldric came in. Stood in the hallway. Didn't sit, didn't lean, didn't touch anything. His hands were behind his back.
+Gerald opened the door wider. Aldric came in. He stood in the hallway. He didn't sit, didn't lean, didn't touch anything. His hands were behind his back.
 
 "I understand you've been tracking the package thefts," Aldric said.
 
@@ -140,7 +140,7 @@ That wasn't true. Gerald hadn't identified the Honda. Hadn't connected it to Bir
 
 Then he was gone. Across the street. Up his porch steps. Door closed.
 
-Gerald stood in his hallway. The second notebook was upstairs. He went up. Opened it. Wrote:
+Gerald stood in his hallway. The second notebook was upstairs. He went up. He opened it. He wrote:
 
 *Package situation resolved. Venn identified perp independently via pattern recognition + foot surveillance. Spoke with thief directly. Result: compliance, restitution, job referral.*
 
@@ -153,13 +153,13 @@ He paused. Then:
 *4. "The alternative." He used MY police report as leverage. He knew about the report. Nobody told him about the report.*
 *5. He solved this faster than me. He solved this faster than the police. He solved this like it was nothing.*
 
-Gerald capped the pen. Looked at the questions. Five of them. All good. All unanswerable without asking Venn directly. And Gerald already knew that asking Venn directly produced polite, complete, detailed answers that added up to nothing.
+Gerald capped the pen. He looked at the questions. Five of them. All good. All unanswerable without asking Venn directly. And Gerald already knew that asking Venn directly produced polite, complete, detailed answers that added up to nothing.
 
 He added a sixth question:
 
 *6. If he can do this to a package thief in a week, what else can he do?*
 
-He closed the notebook. Put it in the drawer. Went downstairs.
+He closed the notebook. He put it in the drawer. He went downstairs.
 
 Sandra was in the kitchen, reading something on her phone. "What did Aldric want?"
 
@@ -179,7 +179,7 @@ Sandra stared. "Just like that?"
 
 "Wow." She looked back at her phone. "That's so nice of him."
 
-Gerald opened the fridge. Took out a beer. It was one-fifteen in the afternoon and he needed a beer. He drank it in the living room. Slowly. Looking at nothing.
+Gerald opened the fridge. He took out a beer. It was one-fifteen in the afternoon and he needed a beer. He drank it in the living room. Slowly. Looking at nothing.
 
 Nice. Sandra thought it was nice. It *was* nice. Objectively. A neighbor solving a neighborhood problem. Volunteering his time. Helping. Being kind.
 
@@ -191,6 +191,6 @@ That wasn't nice.
 
 That was something else.
 
-Gerald finished the beer. Rinsed the bottle. Recycled it. Went back to his study and opened the drawer.
+Gerald finished the beer. He rinsed the bottle. He recycled it. He went back to his study and opened the drawer.
 
 The notebook was getting full. He'd need a third soon.

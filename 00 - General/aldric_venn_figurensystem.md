@@ -19,6 +19,24 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 ---
 
+## Maple Lane — Hausnummern
+
+*Gerade Nummern auf einer Seite, ungerade gegenüber.*
+
+| # | Bewohner | Seite | Details |
+|---|----------|-------|---------|
+| 1 | *Spielplatz* | ungerade | 2 Schaukeln, Rutsche, Sandkasten, Wippe, Klettergerüst |
+| 2 | Dave & Rosa Ortega | gerade (neben Aldric) | Mitte 30; Sohn (5), Tochter (10) |
+| 3 | Gerald & Sandra Hooper | ungerade (gegenüber Aldric) | 60+; Sohn besucht mit Enkeln, Schwiegertochter kommt nicht |
+| 4 | Aldric Venn | gerade | ~45–50 |
+| 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst |
+| 6 | *leer / zum Verkauf* | gerade (neben Aldric) | Garten verwildert, "For Sale"-Schild |
+| 7 | Greens (+ Hund) | ungerade | Ende 30; Tochter (15, schwieriger Teenager) |
+| 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, frisch geschieden (Sohn ausgezogen → nichts mehr gemeinsam) |
+| 9 | Ms. Yuen | ungerade | 70+, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
+
+---
+
 ## Ebene 1 — Stammcharaktere
 
 *5–6 Figuren · eigener POV · eigener Arc · immer präsent*
@@ -114,6 +132,39 @@ Die Komik: Sie ist die aktivste Nachforscherin — und die mit den wenigsten Erg
 ### Die Hoopers als Paar
 
 Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weisen. Er wittert Gefahr, sie wittert Geheimnis. Szenen aus Sandras POV, in denen Gerald seine Theorien erklärt und sie die Augen verdreht, sind gleichzeitig Komik UND Geralds Charakterisierung durch eine andere Linse. Umgekehrt: Geralds POV zeigt Sandra als naiv — was der Leser besser weiß.
+
+---
+
+### Maria Alvarez
+**Rolle:** Die Neuanfängerin
+**Funktion:** Der Arc der Selbstwirksamkeit. Sie lernt, Dinge selbst zu tun, die bisher immer jemand anderes übernommen hat.
+
+| Eigenschaft | Beschreibung |
+|---|---|
+| Ton | Direkt, praktisch, wenig Geduld für Smalltalk. Denkt in Aufgaben, nicht in Gefühlen. Erst spät kommen die leisen Sätze. |
+| Ihr Aldric | „Er bietet nicht an, es für mich zu machen. Er bietet an, es mir zu zeigen." |
+| Arc | Abhängig (Mann, Sohn, Nachbarn machen alles) → Verlust des Pakets als Auslöser → Aldric hilft, aber lehrt statt zu erledigen → Selbstwirksamkeit. |
+
+**Lebenssituation:**
+Anfang 40. Frisch geschieden — nicht dramatisch, nicht feindlich. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen.
+
+Ihr Mann hatte das Haus in Schuss gehalten. Lampen wechseln bekommt sie hin, aber den Zaun hat sie z.B. noch nie gestrichen — und der hätte es nötig. Der Sohn mäht regelmäßig den Rasen; wenn er nicht kann, findet sich jemand aus der Nachbarschaft. Sie ist dankbar dafür. Aber es ist immer jemand anderes.
+
+**Das Paket (CH5):**
+Alte Fotos von ihr und ihrem Sohn. Der Ex-Mann hatte sie versehentlich mitgenommen und zurückgeschickt. Nicht monetär wertvoll — aber unersetzlich. Der Diebstahl trifft unverhältnismäßig hart, weil er in eine Leere fällt.
+
+**Der Zaun (Schlüsselszene):**
+Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusammen zu machen. Sie lernt, wie man es macht. Das ist sein Geschenk: nicht Erledigung, sondern Befähigung.
+
+**Keine Romanze.** Auch wenn beide zueinander passen würden. Das Buch lässt es offen, geht aber nie dorthin.
+
+**POV-Beats (6 Episoden):**
+1. **Die Einzugsparty** (CH1b, Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung.
+2. **Die Fotos** (CH5b, Sommer): Paket gestohlen. Alte Bilder vom Sohn, unersetzlich. Aldric bringt sie zurück.
+3. **Der Wasserhahn** (CH13b, Herbst): Erster Solo-Reparaturversuch. Scheitert. Ruft den Sohn. Hasst sich dafür.
+4. **Der Zaun** (CH19b, Winter): Mit Aldric zusammen. Er zeigt, sie macht. Kompetenz statt Erledigung.
+5. **Marias Fenster** (CH27b, Frühling): Sie sieht das fremde Auto, sieht Aldric sich verändern. Kennt ihn anders — durch Arbeit, nicht Beobachtung.
+6. **Danach** (CH32): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Arc landet.
 
 ---
 

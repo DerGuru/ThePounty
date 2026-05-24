@@ -58,6 +58,24 @@ Ray taucht gelegentlich im Hintergrund auf — auf dem Markt, beim Gemeindegrill
 
 -----
 
+### Die Chens — #5
+
+**Funktion:** Die Normalität als Kontrast. Das junge Paar, das alles richtig macht und trotzdem unsicher ist.
+
+**Wer sie sind:**
+Ende 20, frisch eingezogen, keine Kinder. Sie renovieren alles selbst — Wochenenden voller YouTube-Tutorials und Baumarktbesuche. Enthusiastisch, leicht überfordert, harmlos. Aldric hilft einmal ungefragt mit einem Ratschlag zur Wandstärke. Sie sind dankbar. Er kommt nie wieder darauf zurück.
+
+**Ton (wie andere sie wahrnehmen):**
+Jung, freundlich, etwas laut am Wochenende (Säge, Bohrer). Entschuldigen sich dafür. Sind nett und vergesslich in der Art, die niemandem schadet.
+
+**Ihr Aldric:**
+„Der Nachbar, der alles weiß, aber nie so tut, als wüsste er es." Sie finden ihn hilfreich und ein bisschen unheimlich. Beides gleichzeitig.
+
+**Wiederkehrendes Muster:**
+Tauchen auf, wenn die Straße ein junges, optimistisches Gesicht braucht. Kein Konflikt — nur Kontext.
+
+-----
+
 ### Pater Reeves — Father Michael Reeves
 
 **Funktion:** Aldrics Verhältnis zu Moral, Institution und dem Unterschied zwischen beidem.

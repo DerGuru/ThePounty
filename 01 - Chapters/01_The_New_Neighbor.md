@@ -4,13 +4,15 @@ Dave saw the Volvo before he saw the man.
 
 It was old. Dark green, clean, no bumper sticker, no rust. The kind of old that meant someone took care of it. The trailer behind it was too big. Half empty. Dave had helped three people move in over the years and the trailer was always too small. Mattresses on the roof, garbage bags in the gaps, someone sitting in the passenger seat holding a lamp. This one looked like the guy couldn’t fill it.
 
-Dave set down his coffee on the porch railing. Told Rosa he’d be back in a minute. Walked across the lawn in his flip-flops.
+Dave watched from the porch. The man had gotten out of the car, stretched once, and walked to the back of the trailer. Then he didn't unload. He went inside the house first, came back out a few minutes later and carried one thing in. A small metal case. Then he sat in the rocking chair on the porch for a moment, looking at the street. Like he was getting his bearings. Or like he was waiting.
 
-The man was already out of the car. Tall. Clean-shaven. Wearing a collared shirt tucked into dark jeans, sleeves rolled once at the cuff. His shoes were clean. Not new. Clean. On moving day. Dave looked at his own flip-flops and the grass stain on the left one.
+Dave told Rosa he'd be back in a minute and walked across the lawn in his flip-flops, coffee still in one hand.
+
+The man was standing at the trailer again. Tall. Clean-shaven. Wearing a collared shirt tucked into dark jeans, sleeves rolled once at the cuff. His shoes were clean. Not new. Clean. On moving day. Dave looked at his own flip-flops and the grass stain on the left one.
 
 “Hey,” Dave said, raising a hand. “You must be the new guy. Dave Ortega, next door.”
 
-The man turned. Smiled. Not the polite kind people did at the grocery store. The real kind. The kind that used the whole face, started at the eyes.
+The man turned. Smiled. Not the polite kind people did at the grocery store. The real kind. The kind that used the whole face, starting at the eyes.
 
 “Aldric Venn.” He extended his hand. “It is a genuine pleasure to meet you, Dave. Thank you for coming over. That was very kind of you.”
 
@@ -20,9 +22,9 @@ The handshake was perfect. Not too hard, not too soft. Dry palm. Dave had a thou
 
 “Neighborly.” Aldric said it like a gift he was accepting. Like the word itself had weight. “Thank you. Truly.”
 
-Nobody said *truly* on a Tuesday afternoon in August. Dave put his hands in his pockets.
+Nobody said *truly*. Dave smiled back.
 
-“You need help with the—” He looked at the trailer. Looked again. “Is that everything?”
+“Well, I’m glad to have you here. You need help with the—” He looked at the trailer. He looked again. “Is that everything?”
 
 “That’s everything.”
 
@@ -30,9 +32,9 @@ Nobody said *truly* on a Tuesday afternoon in August. Dave put his hands in his 
 
 Gerald appeared within ninety seconds. That was Gerald. Something happens on the street, Gerald shows up. He came from across the road with his hands in his pockets. Dave had decoded that years ago: hands in pockets meant he was staying to watch. Hands at his sides meant passing through. Today the hands were deep.
 
-“Gerald Hooper,” he said. No handshake. “Across the street. Number seven.”
+“Gerald Hooper,” he said. No handshake. “Across the street. Number three.”
 
-“Mr. Hooper.” Aldric didn’t look at the un-offered hand. Didn’t hesitate. Just folded his own in front of him like that had been the plan all along. “A pleasure. You have a remarkable front yard, if I may say. The hedge line is extraordinarily even.”
+“Mr. Hooper.” Aldric didn’t look at the un-offered hand. He didn’t hesitate. He just folded his own in front of him like that had been the plan all along. “A pleasure. You have a remarkable front yard, if I may say. The hedge line is extraordinarily even.”
 
 Gerald blinked. Nobody had ever complimented his hedge. Dave had lived across from it for eleven years and never mentioned it once.
 
@@ -56,17 +58,15 @@ Brief silence. A lawn mower started up two streets over. The sound carried in th
 
 There were three boxes.
 
-Three boxes and a chair and a flat metal case and nothing else.
+Three boxes and a chair and a small toolbox. That was what was left in the trailer.
 
 Dave carried the one marked *Kitchen*. Normal weight. Plates, pots, maybe some mugs. It clinked when he shifted it. Gerald took *Books*, which was heavier than it looked. He grunted but didn’t comment. The third said *Miscellaneous* and had an extra layer of packing tape. The thick kind, applied carefully, no bubbles, no wrinkles. Someone had sealed that box like it mattered.
 
 Aldric carried that one himself. One-handed, the other hand on the leather chair.
 
-The chair was dark brown, worn at the arms, the leather cracked in a way that meant decades. Expensive once and loved always. It didn’t match anything in the furnished house. Aldric set it by the front window and adjusted its angle. Then again. Then a third time. Not much. Half an inch each time. He stepped back, looked at it, moved it once more. Stopped. Satisfied with something nobody else could see.
+The chair was dark brown, worn at the arms, the leather cracked in a way that meant decades. Expensive once and loved always. It didn’t match anything in the furnished house. Aldric set it by the front window and adjusted its angle. Then again. Then a third time. Not much. Half an inch each time. He stepped back, looked at it, moved it once more. He stopped. Satisfied with something nobody else could see.
 
-He carried the flat metal case in last. Small. No label. Brushed aluminum, latches on both sides. He took it to the bedroom and came back without it. The bedroom door was closed when he came out. Dave noticed he didn’t ask about it. It didn’t feel like a secret. It just felt like it was none of his business.
-
-The trailer was empty in twelve minutes. Most of that was walking.
+The trailer was empty in eight minutes. Most of that was walking.
 
 “Seriously,” Dave said. “That’s it?”
 
@@ -78,7 +78,7 @@ The trailer was empty in twelve minutes. Most of that was walking.
 
 “The couch was garbage. Rosa was right.” Dave grinned. “Don’t tell her I said that.”
 
-“Your confidence in her judgment is safe with me.” A small bow of the head. Should have been weird. Wasn’t.
+"Your confidence in her judgment is safe with me." A small bow of the head. It should have been weird. It wasn't.
 
 Dave looked at the empty trailer. The empty driveway. Three boxes. A man moves eleven hundred miles — that’s what the plates said, Dave had seen the out-of-state plates — and brings three boxes and a chair.
 
@@ -90,7 +90,7 @@ Dave looked at the empty trailer. The empty driveway. Three boxes. A man moves e
 
 Sandra appeared twenty minutes later. She came through the front door — which Aldric had left open to let the air through — carrying an energy that Dave recognized as investigative. She was holding a casserole dish in both hands. The dish was her excuse. The casserole was real. The excuse was also real. Both things could be true with Sandra.
 
-“Sandra Hooper,” she said. “Gerald’s wife. Number seven. I brought you something. Let me show you where everything is in the kitchen.”
+"Sandra Hooper," she said. "Gerald's wife. Number three. I brought you something. Let me show you where everything is in the kitchen."
 
 She was in the kitchen before Aldric could respond. Dave was still in the hallway, about to leave, and he watched as she opened the first cabinet. Then the second. Then the third. She was showing Aldric where the plates were. The plates were already visible. There were three of them, stacked neatly, because the house came furnished and a furnished house had plates.
 
@@ -126,7 +126,7 @@ Rosa appeared at Aldric’s door at four. Dave went with her, carried the rice. 
 
 “You haven’t eaten,” she said to Aldric. Not a question.
 
-“I have not.” He looked at the dishes. Looked at Rosa. “That smells extraordinary, Mrs. Ortega. Is that enchiladas?”
+“I have not.” He looked at the dishes. He looked at Rosa. “That smells extraordinary, Mrs. Ortega. Is that enchiladas?”
 
 “And rice. And there’s salsa my mother-in-law made, but it’s spicy.”
 
@@ -142,7 +142,7 @@ Rosa almost smiled. That was fast. It usually took her three conversations to al
 
 They ate on the porch. All five of them — Dave, Rosa, Aldric, Gerald, Sandra — on moving day, which was already unusual. Gerald had come back over. Sandra had stayed. The evening was warm. Still light at seven. The food was good. Aldric ate slowly, carefully, like each bite was worth noticing.
 
-He asked Rosa about the spices in the salsa. Cumin, yes. Chipotle. But something else. Cinnamon? Rosa told him yes, just a pinch, and he listened the way he’d listened to Gerald’s hedge — completely. Like the answer mattered. Like it would go somewhere. His small notebook appeared briefly. He wrote something. Put it back.
+He asked Rosa about the spices in the salsa. Cumin, yes. Chipotle. But something else. Cinnamon? Rosa told him yes, just a pinch, and he listened the way he’d listened to Gerald’s hedge — completely. Like the answer mattered. Like it would go somewhere. His small notebook appeared briefly. He wrote something. He put it back.
 
 He asked Dave about the neighborhood. How long they’d been here. Eleven years, Dave told him. What the winters were like. Mild. One ice storm in 2019 that took out power for two days. Whether the mailman was reliable. Mostly. He skips Saturdays sometimes.
 
@@ -152,7 +152,7 @@ He asked Gerald about the neighborhood watch. Gerald told him there wasn’t one
 
 Then Ms. Yuen walked past on her evening walk and stopped at the edge of the lawn. Nobody invited her. Nobody needed to. She stood there with her hands behind her back and watched. She was always watching. She’d lived on this street longer than anyone. The last of the original owners.
 
-Aldric noticed her immediately. Set his plate down on the railing.
+Aldric noticed her immediately. He set his plate down on the railing.
 
 “Ma’am,” he said, and stood up from his chair. Actually stood up. Like it was 1955 and someone important had entered the room. “Would you like to join us? There’s more than enough.”
 
@@ -162,9 +162,9 @@ Ms. Yuen looked at him for a long time. Long enough that it would have been unco
 
 “I try.”
 
-“You succeed.” She took the offered chair. Aldric remained standing until she was settled, then sat back down on the porch step instead. Gave her his seat. Dave and Gerald exchanged a look. Gerald’s said *what is happening*. Dave’s said *I don’t know but there’s casserole*.
+“You succeed.” She took the offered chair. Aldric remained standing until she was settled, then sat back down on the porch step instead. He gave her his seat. Dave and Gerald exchanged a look. Gerald’s said *what is happening*. Dave’s said *I don’t know but there’s casserole*.
 
-Ms. Yuen accepted a small plate. Ate with precise, unhurried bites. Said very little. Watched everything.
+Ms. Yuen accepted a small plate. She ate with precise, unhurried bites. She said very little. She watched everything.
 
 The questions came naturally after that. They always did on move-in days. Sandra led, which was also natural.
 
@@ -192,7 +192,7 @@ Aldric set his beer down. Smiled. “I solved problems.”
 
 That was it. The smile stayed. Nothing else came. Everyone waited. Dave waited. A full five seconds of silence. Nobody pushed. Dave didn’t know why. It just felt like pushing would be rude, and Aldric had been so aggressively un-rude all afternoon that rudeness had stopped being an option in his radius. Like he’d built a zone around himself where people behaved slightly better than they normally would. A field.
 
-Gerald opened his mouth. Closed it. Drank his beer instead.
+Gerald opened his mouth. He closed it. He drank his beer instead.
 
 “What kind of problems?” Sandra said.
 
@@ -206,7 +206,7 @@ Before they left, Aldric thanked each person individually. Not a blanket thanks.
 
 Dave didn’t know what to say. “Anytime, man.”
 
-“Rosa. The enchiladas were exceptional. The cinnamon is your innovation, isn’t it? Not your mother-in-law’s. I wonder if you’d be willing to share the recipe sometime. Only if it’s not a family secret.” He produced the small notebook from his shirt pocket. Leather-bound. Worn. Made a note. Rosa watched him write and didn’t correct him about the cinnamon. She just nodded. The almost-smile again.
+“Rosa. The enchiladas were exceptional. The cinnamon is your innovation, isn’t it? Not your mother-in-law’s. I wonder if you’d be willing to share the recipe sometime. Only if it’s not a family secret.” He produced the small notebook from his shirt pocket. Leather-bound. Worn. He made a note. Rosa watched him write and didn’t correct him about the cinnamon. She just nodded. The almost-smile again.
 
 “Gerald. Thank you for showing me where the fuse box is. I would have spent an hour looking.”
 
@@ -218,9 +218,9 @@ Sandra beamed. Her whole face changed. Gerald, for the first time all evening, p
 
 “Ms. Yuen. Thank you for your company. You were under no obligation to stay, and the fact that you did made the evening better. I hope you’ll allow me to walk with you sometime.”
 
-Ms. Yuen nodded once. Said nothing. Turned and walked away down the sidewalk. Her back straight. Her steps even.
+Ms. Yuen nodded once. She said nothing. She turned and walked away down the sidewalk. Her back straight. Her steps even.
 
-By nine, everyone was gone. The street was quiet. Lightning bugs starting up in the yards. The heat loosening. Aldric shook Dave’s hand last. Same perfect handshake. Said he hoped they’d allow him to return the hospitality soon. Dave believed him. He didn’t know why he believed him, but he did.
+By nine, everyone was gone. The street was quiet. Lightning bugs starting up in the yards. The heat loosening. Aldric shook Dave’s hand last. Same perfect handshake. He said he hoped they’d allow him to return the hospitality soon. Dave believed him. He didn’t know why he believed him, but he did.
 
 He walked back across the lawn with Rosa. The grass was damp already. The kids were asleep. Or faking it. Close enough.
 
@@ -234,7 +234,7 @@ He walked back across the lawn with Rosa. The grass was damp already. The kids w
 
 “That’s bad?”
 
-“No.” She paused at the front door. Put her key in the lock but didn’t turn it. “He’s already done the dishes.”
+“No.” She paused at the front door. She put her key in the lock but didn’t turn it. “He’s already done the dishes.”
 
 “What?”
 

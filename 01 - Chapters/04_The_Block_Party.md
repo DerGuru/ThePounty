@@ -30,7 +30,7 @@ Dave looked back at his grill. His grill had hot dogs from Costco. A pack of for
 
 Aldric smiled. “Then I may have overcalibrated. But better too much than too little.”
 
-He set the board on the folding table Rosa had set up and went back to his house. Came back with a cooler. Inside: glass bottles of something with handwritten labels. Block letters. Same handwriting as the spice jars.
+He set the board on the folding table Rosa had set up and went back to his house. He came back with a cooler. Inside: glass bottles of something with handwritten labels. Block letters. Same handwriting as the spice jars.
 
 “Homemade lemonade,” he said. “I made more than I need.”
 
@@ -62,9 +62,9 @@ He had a clear view of the yard from behind the grill. He could see everyone. Al
 
 He asked the Parkers about their kid’s allergies. Specific questions. Not just “what’s he allergic to” but “has he tried the new immunotherapy program at Children’s?” Mrs. Parker looked surprised. She said yes, actually, they were on the waitlist. Aldric nodded, said he’d read about the results, said it was promising. They talked for three minutes. Mrs. Parker walked away smiling.
 
-Dave flipped hot dogs. Watched.
+Dave flipped hot dogs. He watched.
 
-Rosa came by with a fresh beer. Handed it to Dave without asking. She always knew when his was empty.
+Rosa came by with a fresh beer. She handed it to Dave without asking. She always knew when his was empty.
 
 “Everyone ate his board in ten minutes,” she said.
 
@@ -74,7 +74,7 @@ Rosa came by with a fresh beer. Handed it to Dave without asking. She always kne
 
 “Your flowers?”
 
-“For the garden. He said he wanted to plant something on his side of the fence. Asked what would complement mine. He used that word. *Complement*.”
+“For the garden. He said he wanted to plant something on his side of the fence. He asked what would complement mine. He used that word. *Complement*.”
 
 Dave flipped a burger. “That’s nice.”
 
@@ -140,7 +140,7 @@ A bird was singing. Dave could hear it now. He’d been hearing it all along, pr
 
 “My father kept a notebook of bird calls. Regional species, migratory patterns, nesting seasons. I inherited the habit.” He smiled. “Wood thrushes have been declining for decades. Hearing one in a suburban area is a good sign. It means the canopy is intact. Your oak is older than this street.”
 
-“I never noticed,” Dave said. He’d mowed around that tree a thousand times. Raked its leaves every fall.
+“I never noticed,” Dave said. He’d mowed around that tree a thousand times. He’d raked its leaves every fall.
 
 “Most people don’t. It helps to stop talking.” Aldric took a sip of his beer. “My apologies. I didn’t mean to lecture.”
 
@@ -160,7 +160,7 @@ Sandra started collecting plates. Gerald stood up, stretched, and began folding 
 
 “Tomorrow the raccoons will have found the plates.” Aldric tied the trash bag. “And then Gerald will have to write a strongly worded letter to the HOA about wildlife management.”
 
-Gerald snorted. Might have been a laugh. Hard to tell with Gerald.
+Gerald snorted. It might have been a laugh. Hard to tell with Gerald.
 
 They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned the empty cooler. Then he came back one more time and shook Dave’s hand.
 
@@ -174,7 +174,7 @@ Dave laughed. Nobody had ever complimented his hot dogs with that kind of convic
 
 “The quality of ingredients matters less than the quality of attention.” Aldric nodded once. “Good night, Dave. Good night, Rosa.”
 
-He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. Knew he’d come home in the dark.
+He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. He knew he’d come home in the dark.
 
 Rosa appeared at Dave’s elbow. They stood in the yard together. The string lights were still on.
 

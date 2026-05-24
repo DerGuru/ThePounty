@@ -283,3 +283,31 @@ Mrs. Yuen was approaching. Right on time.
 "Good evening, Ms. Yuen. How is the knee?"
 
 The smile was ready. The smile was always ready. That was what the rules were for.
+
+---
+
+## 9. Maria Alvarez
+
+*Beobachtung → Selbstzweifel → stille Bewunderung. Unsicher, selbstkritisch. Sieht, was andere können, und misst sich daran.*
+
+---
+
+Maria was on her porch with a cup of chamomile that had gone cold twenty minutes ago. She'd meant to go back inside, heat it up, maybe start a new row on the cardigan she was knitting for a customer in Portland. She hadn't moved. Moving required deciding to move, and decisions had been hard lately.
+
+Aldric was doing something on his porch. She could see him from here, two houses down, past the dark windows of number six. His porch lamp was on, that warm one he'd put up. A shape, hunched slightly forward, arms moving in small repeated motions. Polishing shoes, maybe. Or cleaning something. Whatever it was, he'd been at it for a while. The rhythm hadn't changed once. Like he knew exactly how long it would take and had already set aside the time. Like maintenance was a thing that lived in a schedule, not something you forgot about until company was coming and then panicked.
+
+She used to polish Carlos's shoes. Sunday nights, in the bathroom, with the radio on. It was one of those things she'd done without thinking, part of the machinery of a shared life. She was good at it. She was good at all of it — the laundry, the ironing, the meals, the groceries. The house ran because she ran it. What she couldn't do was fix the house itself. The dripping faucet, the fence, the shelf that needed a drill and a wall plug. Those had been Carlos' jobs. There were a lot of things like that. And the list kept getting longer.
+
+She watched the shape on the porch. Steady. Unhurried. No pausing, no getting up to check something, no second-guessing. Just the quiet certainty of a man who knew what he was doing and didn't need anyone else in the room to confirm it.
+
+She envied that. She envied it so much it sat in her chest like a stone.
+
+A car passed. Slow. She noticed because the street was usually dead by nine. Dark, tinted windows. She watched it roll past Aldric's house and thought nothing about it. Then she went back to watching Aldric and the not drinking her tea. She knew, she was supposed to be knitting, but couldn't bring herself to start.
+
+Aldric was still polishing with the same steady rhythm. Keeping the same posture. The car hadn't existed for him. Or if it had, it hadn't mattered. Either way, he hadn't flinched, hadn't looked, hadn't changed what he was doing by a single degree. She couldn't imagine that. Being so settled inside yourself that the world could pass by and you didn't even look up.
+
+Five months ago, Carlos had left and everything had changed. The house hadn't changed. The street hadn't changed. She had changed. Or maybe she hadn't changed at all, and that was the problem — she was still the same woman, just without the person who made it look like she was doing fine.
+
+Maria picked up the cup. It was still cold. She went inside to heat it up. She did not start the cardigan. She sat at the kitchen table instead and looked at the wall where the wedding photo used to hang. The nail was still there. She should take it out. She should patch the hole. She should learn how to patch holes.
+
+Tomorrow. Maybe tomorrow.
