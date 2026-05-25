@@ -30,7 +30,7 @@ Dave appeared at her elbow with a beer in each hand. "Hey, Maria. You want one?"
 
 "Nah. I think he planned exactly this far ahead. I think three plates is a strategy. You invite people and they bring plates. Now you have plates and guests." Dave took a sip. "Smart, honestly."
 
-Maria smiled. Dave was easy. Dave had always been easy. He said things and meant them and moved on. She wished she could do that.
+Maria smiled. Dave was easy. Dave had always been easy. He said things, meant them and moved on. She wished she could do that.
 
 Gerald and Sandra came through the gate together. Sandra was carrying a casserole dish. Gerald was carrying nothing and walking two steps behind with his hands in his pockets, scanning the yard the way he scanned everything. He nodded at Maria. She nodded back.
 
@@ -81,6 +81,24 @@ Maria ate her burger and listened. The evening was warm, the porch was full and 
 He lived alone. That was the thing she kept coming back to. He lived alone in this house with a rocking chair and a grill he'd bought for the express purpose of feeding other people. He did it like it was easy. He did it like solitude was a room he'd decorated carefully, and company was the door he opened when he chose to, and both states were fine. Both states were his.
 
 She lived alone too. But it did not feel like that.
+
+Through the open front door she could see the living room. The leather chair by the window. The bare shelves. The mantelpiece above the fireplace, empty except for a single picture frame. Wood, dark, simple. No photo in it.
+
+"Aldric," she said, and it came out before she'd decided to say it. "The frame on the mantelpiece — is that waiting for something?"
+
+He looked at her. The smile didn't change, but something behind it paused for a moment. A half-second. Less.
+
+"I haven't found the right one yet," he said.
+
+Sandra leaned sideways to look through the door. "The right photo?"
+
+"The right moment, perhaps." Aldric picked up his glass. "Some frames need to wait for what belongs in them. I'd rather leave it empty than fill it with the wrong thing."
+
+"That's very—" Sandra started.
+
+Dave shrugged. "It's a frame."
+
+Rosa glanced at Maria. Maria didn't know why she'd asked. The conversation moved on.
 
 "Aldric," Dave said, leaning back in his chair with the second beer. "You settling in okay? Need anything? Tools? We got a power drill if you ever—"
 

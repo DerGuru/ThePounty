@@ -136,7 +136,7 @@ She stopped.
 
 “You notice everything.”
 
-The smile stayed. He looked at her with full attention, with a small warmth and with the particular respect he reserved for people he couldn't easily read.
+The smile stayed. He held the look a moment longer than politeness required.
 
 “You give me too much credit,” he said.
 

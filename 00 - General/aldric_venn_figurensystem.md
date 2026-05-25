@@ -26,9 +26,9 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | # | Bewohner | Seite | Details |
 |---|----------|-------|---------|
 | 1 | *Spielplatz* | ungerade | 2 Schaukeln, Rutsche, Sandkasten, Wippe, Klettergerüst |
-| 2 | Dave & Rosa Ortega | gerade (neben Aldric) | Mitte 30; Sohn (5), Tochter (10) |
+| 2 | Dave & Rosa Ortega | gerade (neben Aldric) | Mitte 30; Lina (10), Marcus (5) |
 | 3 | Gerald & Sandra Hooper | ungerade (gegenüber Aldric) | 60+; Sohn besucht mit Enkeln, Schwiegertochter kommt nicht |
-| 4 | Aldric Venn | gerade | ~45–50 |
+| 4 | Aldric Venn | gerade | 43 |
 | 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst |
 | 6 | *leer / zum Verkauf* | gerade (neben Aldric) | Garten verwildert, "For Sale"-Schild |
 | 7 | Greens (+ Hund) | ungerade | Ende 30; Tochter (15, schwieriger Teenager) |
@@ -144,20 +144,20 @@ Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weis
 
 ### Maria Alvarez
 **Rolle:** Die Neuanfängerin
-**Funktion:** Der Arc der Selbstwirksamkeit. Sie lernt, Dinge selbst zu tun, die bisher immer jemand anderes übernommen hat.
+**Funktion:** Der Arc der Selbstwirksamkeit. Sie lernt, Dinge selbst zu tun, die bisher immer jemand anderes übernommen hat. Ihr Verhältnis zu Aldric ist das intimste auf der Straße — es basiert auf gemeinsamer Arbeit, nicht auf Beobachtung oder Verdacht.
 
 | Eigenschaft | Beschreibung |
 |---|---|
 | Ton | Direkt, praktisch, wenig Geduld für Smalltalk. Denkt in Aufgaben, nicht in Gefühlen. Erst spät kommen die leisen Sätze. |
 | Ihr Aldric | „Er bietet nicht an, es für mich zu machen. Er bietet an, es mir zu zeigen." |
-| Arc | Abhängig (Mann, Sohn, Nachbarn machen alles) → Verlust des Pakets als Auslöser → Aldric hilft, aber lehrt statt zu erledigen → Selbstwirksamkeit. |
+| Arc | Abhängig (Mann, Sohn, Nachbarn machen alles) → Frustration über das Muster → Aldric lehrt statt zu erledigen → Rückschlag → Eigeninitiative ohne Aldric → Selbstwirksamkeit. |
 
 **Lebenssituation:**
 Anfang 40. Mitten in der Scheidung — nicht dramatisch, nicht feindlich, aber noch nicht abgeschlossen. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen, das sich durch Papierkram zieht.
 
 Ihr Mann hatte das Haus in Schuss gehalten. Lampen wechseln bekommt sie hin, aber den Zaun hat sie z.B. noch nie gestrichen — und der hätte es nötig. Der Sohn mäht regelmäßig den Rasen; wenn er nicht kann, findet sich jemand aus der Nachbarschaft. Sie ist dankbar dafür. Aber es ist immer jemand anderes.
 
-**Das Paket (CH5):**
+**Das Paket:**
 Alte Fotos von ihr und ihrem Sohn. Der Ex-Mann hatte sie versehentlich mitgenommen und zurückgeschickt. Nicht monetär wertvoll — aber unersetzlich. Der Diebstahl trifft unverhältnismäßig hart, weil er in eine Leere fällt.
 
 **Der Zaun (Schlüsselszene):**
@@ -165,13 +165,45 @@ Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusamme
 
 **Keine Romanze.** Auch wenn beide zueinander passen würden. Das Buch lässt es offen, geht aber nie dorthin.
 
-**POV-Beats (6 Episoden):**
-1. **Die Einzugsparty** (CH2, Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung.
-2. **Die Fotos** (CH7, Sommer): Paket gestohlen. Alte Bilder vom Sohn, unersetzlich. Aldric bringt sie zurück.
-3. **Der Wasserhahn** (CH23, Winter): Erster Solo-Reparaturversuch. Scheitert. Ruft den Sohn. Hasst sich dafür.
-4. **Der Zaun** (CH16, Herbst): Mit Aldric zusammen. Er zeigt, sie macht. Kompetenz statt Erledigung.
-5. **Marias Fenster** (CH33, Frühling): Sie sieht das fremde Auto, sieht Aldric sich verändern. Kennt ihn anders — durch Arbeit, nicht Beobachtung.
-6. **Danach** (CH38): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Arc landet.
+**Arc-Logik (die emotionale Progression):**
+
+| Phase | Beat | Was passiert im Arc |
+|-------|------|---------------------|
+| Establishment | Housewarming, Fotos | Maria existiert in der Abhängigkeit. Andere helfen. Sie ist dankbar, aber passiv. |
+| Kontrast | Dankbarkeit | Sie sieht jemanden, der beschäftigt ist — und merkt, dass sie es nie ist. |
+| Auslöser | Regenrinne | Jesús fixiert etwas in fünf Minuten. Sie steht daneben. Hasst das Muster zum ersten Mal bewusst. |
+| Wende | Zaun | Aldric lehrt statt zu erledigen. Sie macht es selbst. Kompetenz als Geschenk. |
+| Rückschlag | Wasserhahn | Wasserhahn. Scheitert. Ruft den Sohn. Schritt zurück. |
+| Ohnmacht | Brief | Der Brief vom Anwalt. Das Haus, das sie 23 Jahre bewohnt hat, ist juristisch nicht ihrs. |
+| Eigeninitiative | Baumarkt | Baumarkt. Allein. Ohne Aldric. Überfordert, aber da. Der Arc funktioniert ohne ihn. |
+| Erkenntnis | Marias Fenster | Sie kennt Aldric anders als die anderen — durch Arbeit, nicht Beobachtung. Sieht, dass er sich verändert. |
+| Landing | Danach | Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch. Das Haus gehört ihr. |
+
+**POV-Beats (10 Episoden):**
+
+1. **Die Einzugsparty** (Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung. Leiser Neid, den sie nicht einordnen kann.
+
+2. **Die Fotos** (Sommer): Paket gestohlen. Alte Bilder vom Sohn, unersetzlich. Aldric bringt sie zurück. Sie weint nicht. Fast. Das Paket trifft so hart, weil es in eine Leere fällt — Ex räumt aus, Sohn ist weg, das Haus wird stiller.
+
+3. **Die Dankbarkeit** (Spätsommer): Maria bringt Aldric etwas Selbstgemachtes als Dank für die Fotos. Er ist freundlich, aber kürzer als sonst. Die Tür geht nicht ganz auf. Kein Tee-Angebot. Auf dem Rückweg denkt sie: er hat etwas zu tun. Beschäftigt sein. Sie kennt das Gefühl kaum — bei sich selbst nicht. Alle ihre Tage sind gleich. Crochet, Etsy, warten. Ein Stich, den sie nicht benennen kann.
+   *Funktion:* Kontrast zu ihrer eigenen Leere. Erste Wahrnehmung von Aldrics Veränderung aus einer nicht-paranoiden Perspektive (Gegenpol zu Gerald).
+
+4. **Die Regenrinne** (Herbst): Die Regenrinne ist verstopft. Wasser läuft an der Hauswand runter, der Putz bekommt Flecken. Sie sagt Jesús am Sonntag Bescheid. Er kommt. Leiter, fünf Minuten, fertig. Sagt „kein Ding, Ma" und fährt weiter. Sie steht in der Einfahrt und hasst es. Nicht ihn. Das Muster. Dass sie 42 ist und bei jedem Problem wartet, bis ein Mann kommt, der es in fünf Minuten löst. Dass sie nicht mal weiß, was sie falsch gemacht hätte, wenn sie es selbst versucht hätte.
+   *Funktion:* Der Auslöser. Ohne diesen Beat ist der Zaun nur eine nette Szene. Mit ihm ist er Befreiung.
+
+5. **Der Zaun** (Herbst): Aldric bietet an, den Zaun zusammen zu streichen. Nicht für sie — mit ihr. Er zeigt: Grundierung zuerst, Pinsel in eine Richtung, Kanten mit dem schmalen Pinsel. Sie macht es. Er korrigiert kaum. Am Ende des Tages hat sie einen gestrichenen Zaun, Farbe an den Händen und etwas, das sich anfühlt wie der Anfang von etwas.
+
+6. **Der Wasserhahn** (Winter): YouTube-Tutorial. Falsches Werkzeug. Wasser überall. Sie ruft den Sohn an. Hasst, dass sie angerufen hat. Der Rückschlag ist wichtig — er zeigt, dass Kompetenz nicht linear ist. Ein guter Tag mit dem Zaun bedeutet nicht, dass alles danach funktioniert.
+
+7. **Der Brief** (Winter): Post vom Scheidungsanwalt. Das Haus muss bewertet werden. Eine Unterschrift fehlt. Der Ex verzögert. Maria sitzt am Küchentisch mit dem Umschlag und denkt: das ist mein Haus. Seit 23 Jahren. Aldric sieht den Umschlag am nächsten Tag auf der Veranda — sagt nichts, bringt Kaffee. Die richtige Reaktion. Keine Lösung anbieten. Keine Fragen. Nur Kaffee und Anwesenheit.
+   *Funktion:* Ohnmacht, die NICHT durch Kompetenz lösbar ist. Manche Dinge brauchen Zeit und Anwälte. Der Arc ist kein Märchen.
+
+8. **Der Baumarkt** (Winter): Maria allein im Baumarkt. Ohne Aldric, ohne Jesús. Sie braucht einen Siphon, eine Rohrzange, Teflonband. Sie steht in Gang 7 und weiß nicht, welche Größe. Sie fragt einen Mitarbeiter. Der erklärt es ihr wie einem Kind. Sie kauft trotzdem das Richtige. Zu Hause probiert sie es nicht sofort — die Teile liegen drei Tage auf dem Küchentisch. Aber sie sind da. Sie hat sie gekauft. Das ist der Schritt.
+   *Funktion:* Der Arc funktioniert ohne Aldric. Er hat ihr nicht den Siphon gezeigt. Er hat ihr gezeigt, dass man Dinge lernen KANN. Der Rest ist ihrer.
+
+9. **Marias Fenster** (Frühling): Sie sieht das fremde Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. Und sie weiß, dass sie nicht die Person ist, die helfen kann. Das ist neu: zu wissen, was man nicht kann, ohne sich dafür zu hassen.
+
+10. **Danach** (Resolution): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch — irgendwann im Frühling, leise, fast antiklimaktisch. Das Haus gehört ihr. Juristisch und praktisch. Sie hat Farbe an den Händen. Die richtige Farbe, die richtige Technik. Aldric hat ihr das nicht gezeigt. Aldric hat ihr gezeigt, dass sie es sich selbst zeigen kann.
 
 ---
 
@@ -211,7 +243,7 @@ Sie ist nicht sein Feind. Sie ist sein Gegenüber in einem System, das er respek
 
 *Episodisch · kein eigener Arc · eine klare Funktion · kommen und gehen*
 
-Diese Figuren tauchen in mehreren Episoden auf — aber immer in ihrer Rolle, nie als Hauptfokus. Sie geben der Straße Textur ohne Gewicht.
+→ Ausführliche Beschreibungen: **figuren_ebene2.md**. Hier nur Kurzprofil und Funktion im System.
 
 ---
 
@@ -234,9 +266,9 @@ Der Gemeindepfarrer. Gut gemeint, manchmal etwas selbstgefällig in seiner Rolle
 ### Die Kinder Ortegas
 **Funktion:** Aldrics sanfteste Seite.
 
-Drei Kinder, Namen nebensächlich. Kinder reagieren anders auf ihn als Erwachsene — sie finden seine Präzision nicht seltsam, sondern fair. Er behandelt sie wie kleine Erwachsene. Sie mögen das.
+Zwei Kinder: Lina (10) und Marcus (5). Kinder reagieren anders auf ihn als Erwachsene — sie finden seine Präzision nicht seltsam, sondern fair. Er behandelt sie wie kleine Erwachsene. Sie mögen das.
 
-Das jüngste nennt ihn irgendwann „Herr Venn" — weil die Eltern das tun. Er korrigiert es nie. Er findet es passend.
+Marcus nennt ihn irgendwann „Herr Venn" — weil die Eltern das tun. Er korrigiert es nie. Er findet es passend.
 
 ---
 

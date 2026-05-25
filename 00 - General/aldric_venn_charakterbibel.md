@@ -66,7 +66,7 @@ Dieser Satz ist die komplette Charakterbeschreibung.
 |Eigenschaft   |Wert                                                                                              |
 |--------------|--------------------------------------------------------------------------------------------------|
 |Name          |Aldric Venn                                                                                       |
-|Alter         |34                                                                                                |
+|Alter         |43                                                                                                |
 |Herkunft      |„Aus dem Norden. Dem ruhigeren Teil.” (1.100 Meilen Fahrt, ohne längeren Halt als Tanken/Toilette)|
 |Beruf          |„Ich habe Probleme gelöst." — Intelligence. Aktiv. Wird nie direkt erwähnt.                       |
 |Verdrahtung    |Subklinischer Psychopath. Reduzierte Empathie, analytisch-dominant. Grundausstattung, nicht Folge.|
@@ -91,7 +91,7 @@ Er zieht in ein möbliertes Haus. Der Anhänger ist Standardgröße. Für das, w
 - **Drei Umzugskisten** — beschriftet: „Küche”, „Bücher”, „Sonstiges”. Die Sonstiges-Kiste ist mit zusätzlichem Paketklebeband gesichert. Niemand erwähnt es. Alle sehen es.
 - **Ein Sessel** — Leder, dunkelbraun, sehr alt, sehr gepflegt. Passt nicht zum möblierten Haus. Er bringt ihn trotzdem. Das ist der einzige Gegenstand, bei dem er selbst trägt.
 - **Ein kleiner Werkzeugkasten** — kompakt, ordentlich.
-- **Ein Bilderrahmen** — leer. Er stellt ihn trotzdem auf den Kaminsims. Er hat noch kein Foto dafür. Wer fragt, bekommt: „Ich suche noch das Richtige." Das ist keine Metapher. Er sucht buchstäblich.
+- **Ein Bilderrahmen** — leer. Er stellt ihn trotzdem auf den Kaminsims. Wer fragt, bekommt eine Variante von: „I liked the frame." Das wird zum Running Gag — jeder Nachbar kommentiert ihn irgendwann. Am Ende steht das Gruppenfoto vom Frühlingsfest darin.
 - **Eine kleine, flache Metallkiste** — abgeschlossen, kein Aufkleber. Er trägt sie selbst. Legt sie ins Schlafzimmer. Kommt ohne sie zurück. Keiner hat sie danach gesehen. Inhalt: operativ. Ein Name. Eine dünne Akte. Werkzeug.
 
 -----
@@ -168,11 +168,37 @@ Dass er dabei in einer Vorstadt mit weißen Zäunen und Blumenkästen landet, is
 
 Die Nachbarn sehen den echten Aldric. Sie wissen nur nicht, warum er da ist.
 
+### Die Suche: Tagesablauf und Breadcrumbs
+
+Aldrics Tage haben eine unsichtbare Struktur. Was die Nachbarn als ruhiges Leben lesen — Veranda, Buch, Spaziergang — ist methodische Arbeit.
+
+**Tagesablauf (unsichtbar für die Nachbarn):**
+- Morgens: Research. County Records, öffentliche Datenbanken, Telefonieren.
+- Tagsüber: Nachbarschaftspflege (die Gefälligkeiten, die sein Cover aufbauen) + gelegentliche Fahrten (Bibliothek, Behörden, Orte abklappern).
+- Abends: Veranda. Das „Buch" — manchmal ein echtes Buch, manchmal gebundene Ausdrucke ohne Titel (Records, Akten, Notizen). Gleichzeitig Observation: wer kommt wann, wer hat Besuch, wer macht Licht an.
+
+**Was die Nachbarn sehen:** Einen Mann, der ein stilles, erfülltes Leben führt. Liest. Gärtnert. Isst Kuchen. Hat nirgends hin zu müssen.
+
+**Ironie:** Maria (Kap. 9) beneidet seine scheinbare „Richtung." Was sie als inneren Frieden liest, ist Methode. Er hat Richtung — aber nicht die Art, die sie sich vorstellt.
+
+**Breadcrumbs im Manuskript (müssen über das Buch verteilt werden):**
+
+| Typ | Beispiel | Wann sichtbar |
+|-----|----------|---------------|
+| Kleine Abwesenheiten | „Er war gestern nicht auf der Veranda." Nachbar registriert es beiläufig. | Ab Ep. ~12 |
+| Buch ohne Titel | Jemand sieht den schlichten Einband. Kein Kommentar, nur Detail. | Ab Ep. ~9 (Maria sieht es hier bereits) |
+| Er weiß Dinge | Kennt Namen/Details über Leute, die er nie getroffen hat. | Ab Ep. ~15, sparsam |
+| Post/Briefe | Bekommt Post ohne Absender. Oder holt Dinge vom Postfach (nicht Briefkasten). | Ab Ep. ~20 |
+| Fahrten | Sein Auto ist manchmal weg. Tagsüber. Ohne Erklärung. | Ab Ep. ~10 |
+| Veranda-Wechsel | Manchmal liest er nicht — er sitzt nur da und beobachtet die Straße. | Ab Ep. ~25 |
+
+**Ziel:** Bis Ep. 44 (Gruppenfoto/Miranda) hat der aufmerksame Leser genug Hinweise gesammelt, um zu ahnen, dass Aldric *etwas* sucht. Nicht was. Nicht wen. Aber dass seine Anwesenheit kein Zufall ist.
+
 ### Der leere Rahmen
 
-Er hat sie noch nicht gefunden. Oder er hat sie gefunden, aber noch nicht entschieden, was *right* bedeutet. Der Rahmen steht leer auf dem Kaminsims. Wer fragt, bekommt: „Ich suche noch das Richtige."
+Running Gag und Community-Symbol. Der Rahmen steht das ganze Buch über leer auf dem Kaminsims. Verschiedene Nachbarn sehen ihn zu verschiedenen Zeiten, jeder kommentiert — *"I liked the frame."* — und Aldric weicht jedes Mal leicht anders aus.
 
-Wenn das Foto im Rahmen steht, ist die Frage beantwortet. Das Versprechen ist eingelöst.
+Resolution: Das Gruppenfoto vom Frühlingsfest kommt hinein. Der Rahmen war nie für Miranda gedacht — er war für die Straße. Das Versprechen (Miranda) läuft parallel, hat aber kein physisches Objekt im Haus.
 
 ### Was auf der Seite landet
 
@@ -183,7 +209,7 @@ Nichts davon direkt. Alles davon indirekt.
 |Die Verdrahtung               |Die chirurgische Präzision seiner Höflichkeit. Er liest Menschen wie Akten.                     |
 |Intelligence                  |Er schläft mit dem Rücken zur Wand. Er kennt jeden Notausgang. Kein digitaler Footprint.        |
 |Der Andere                    |Die Metallkiste. Ein Versprechen. Ein Name, den niemand kennt.                                  |
-|Das Versprechen               |Der leere Rahmen. Die Tatsache, dass er hier ist. Die Frage, die nie gestellt wird.             |
+|Das Versprechen               |Die Suche nach Miranda. Die Tatsache, dass er hier ist. Die Frage, die nie gestellt wird.      |
 |Der Codex als Lebenswerk      |Die Präzision. Die Höflichkeit. Die Tatsache, dass er nie improvisiert.                         |
 |Der aktive Auftrag            |Kleine Abwesenheiten. Momente, wo er Dinge weiß, die er nicht wissen sollte.                    |
 
@@ -287,7 +313,13 @@ Je weniger er sagt, desto gefährlicher ist es.
 > *And then Kyle understood that the politeness hadn’t been a personality. It had been a leash. And he’d just watched it come off.*
 > 
 > *Kyle took a step back. He didn’t decide to. His legs decided for him.*
+### Die beiläufige Drohung (Referenzton für Kapitel 10, 13)
 
+Aus Kapitel 6 (Der Paketdieb). So klingt Aldric, wenn er jemandem eine Wahl gibt und die Drohung *implizit* bleibt — kein Messer sichtbar, aber die Pause dazwischen ist eins:
+
+> *"He and I agreed on that."* / *"I suggested. He agreed. Enthusiastically, once he understood the alternative."*
+
+Die Beiläufigkeit ist der Schlüssel. Beim Erstlesen: charmante Formulierung. Beim Zweitlesen: das Wort *alternative* trägt das gesamte Gewicht. Gerald hört es sofort ("The alternative being your camera footage"). Der Leser darf es überhören — oder nicht.
 ### Was er nie tut
 
 Er erklärt sich nicht. Er entschuldigt sich für die *Dauer*, nicht für die Tat.
@@ -456,7 +488,7 @@ Manche kommen freiwillig zu ihm — bevor die Sache eskaliert. Er hörte immer z
 Wir sind nie in Aldrics Kopf — mit zwei Ausnahmen:
 
 - **Prolog:** Aldric fährt in die Straße. Seine Ankunft aus seiner Sicht. Bevor die Nachbarn erscheinen. Sobald der erste Nachbar da ist, endet sein POV.
-- **Epilog:** Er hängt ein Foto in den leeren Rahmen. Wir sehen nicht, wen es zeigt. Keine Erklärung. Das Versprechen ist eingelöst.
+- **Epilog:** Er hängt das Gruppenfoto vom Frühlingsfest in den leeren Rahmen. Der Running Gag wird zum Abschluss. Gleichzeitig: er beobachtet Miranda zum ersten Mal bewusst. Zwei Enden in einem Moment.
 
 Dazwischen wird ausschließlich aus der Perspektive der Menschen erzählt, mit denen er interagiert — Nachbarn, Fremde, Antagonisten. Jede Szene gehört jemandem, der Aldric beobachtet, auf ihn reagiert, ihn zu lesen versucht.
 
@@ -497,17 +529,12 @@ Dave denkt in kurzen, praktischen Sätzen. Gerald in Verdacht und Listen. Ms. Yu
 - Dave sieht, dass Aldric immer mit dem Rücken zur Wand sitzt → registriert es als Quirk
 - Gerald bemerkt, dass sein Name in keiner Datenbank auftaucht → wittert Betrug
 - Ms. Yuen sieht, wie er vor der verschlossenen Kiste steht → sagt nichts
-- Rosa bemerkt den leeren Bilderrahmen → versteht sofort, fragt nie
+- Rosa bemerkt den leeren Bilderrahmen → kommentiert ihn, fragt nie weiter
 - Officer Kim bemerkt, dass er kein digitales Leben hat → denkt in Lücken
 
 ### Die Gefahr und wie man sie vermeidet
 
-|Risiko                                      |Lösung                                                                                                             |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-|Aldric wird zur Projektionsfläche ohne Seele|Die POV-Figuren *reagieren* emotional — ihre Empathie wird zur Empathie des Lesers                                 |
-|Wiederholung durch gleiche Beobachtung      |Jeder POV bemerkt *andere* Details — nie dasselbe aus anderem Winkel                                               |
-|Aldric wird zum Mysterium-Gimmick           |Slice-of-Life-Szenen zeigen ihn im Alltag: Rasen mähen, Kuchen backen, Hund streicheln                             |
-|Distanz zum Protagonisten                   |Seltene Momente, in denen jemand eine ungefilterte Reaktion an ihm *sieht* — kurz, bevor er sie wieder kontrolliert|
+→ Siehe **StyleDNA.md** (Don't-Regeln und POV-Regeln).
 
 -----
 
@@ -535,20 +562,9 @@ Japanische 4-Akt-Struktur ohne erzwungenen Konflikt. Die Wendung entsteht nicht 
 > Ten: Er kauft selbst ein — und gibt dem Händler exakt drei Cent zu wenig zurück. Freundlich. Mit einem Lächeln.
 > Ketsu: Der Händler versteht. Aldric kauft dort nie wieder ein. Er empfiehlt ihn auch nie weiter. Das reicht.
 
-### Story Circle — fürs Gesamtbuch
+### Story Circle
 
-Dan Harmons 8-Schritte-Kreis beschreibt nicht Aldrics Reise, sondern die **Reise der Straße**.
-
-|Schritt                        |Die Straße                                                                                                                                           |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------|
-|1. Du bist in einer Zone       |Die Straße ist wie immer. Ruhig. Vorhersehbar.                                                                                                       |
-|2. Du willst etwas             |Die Nachbarn wollen wissen, wer dieser Mann ist.                                                                                                     |
-|3. Du gehst in eine fremde Zone|Aldric zieht ein. Die Normalität kippt leicht.                                                                                                       |
-|4. Du suchst                   |Jeder versucht, ihn zu lesen. Keiner schafft es.                                                                                                     |
-|5. Du findest                  |Sie hören auf zu suchen — und fangen an, ihn einfach zu kennen.                                                                                      |
-|6. Du bezahlst den Preis       |Die Bedrohung erreicht Maple Lane. Aldrics Auftrag und sein neues Leben kollidieren. Die Nachbarn geraten in die Nähe von etwas, das nicht für sie bestimmt ist.|
-|7. Du kehrst zurück            |Die Krise wird gelöst. Durch ihn. Auf seine Art. Die Nachbarn sehen zum ersten Mal den ganzen Aldric — und verstehen trotzdem nicht alles.           |
-|8. Du hast dich verändert      |Die Straße ist dieselbe. Die Menschen auf ihr nicht. Und Aldric hängt ein Foto in den leeren Rahmen. Das Versprechen ist eingelöst.                  |
+→ Siehe **Storyline.md** für die vollständige Plotstruktur. Der Story Circle beschreibt nicht Aldrics Reise, sondern die Reise der Straße.
 
 ### Die Resolution: Was am Ende passiert
 
@@ -556,15 +572,19 @@ Das Buch endet wie es beginnt: in Aldrics Kopf. Die einzigen zwei Szenen aus sei
 
 **Prolog:** Er fährt in die Straße. Sieht die Zäune, die Briefkästen, den gleichmäßigen Rasen. Er sitzt im Volvo, schaut auf die Marigolds im Reifenrand, und denkt *Community through uniformity. Identity through exception.* Er analysiert. Er kategorisiert. Und irgendwo darunter: der Wunsch, Teil davon zu sein. Nicht als Tarnung. Als Projekt.
 
-**Epilog:** Er hängt ein Foto in den leeren Rahmen. Wir sehen, wen es zeigt — aber wir wissen nicht, was es bedeutet. Nur dass das Versprechen eingelöst ist. Und dass er bleibt.
+**Epilog:** Er hängt das Gruppenfoto vom Frühlingsfest in den leeren Rahmen. Der Running Gag schließt sich. Im selben Moment sehen wir, dass er Miranda gefunden hat — die Evaluierung beginnt. Zwei Resolutionen in einem Bild. Und er bleibt.
 
 -----
 
 ## Schreibtechniken
 
+→ Für konkrete Prosa-Regeln (POV, Satzlänge, Komik-Dosierung, Don'ts) siehe **StyleDNA.md**.
+
+Hier nur die Aldric-spezifischen Konzepte:
+
 ### Die goldene Regel: Zeige die Narben, nicht die Wunde
 
-Kein Flashback. Keine direkte Erklärung. Aber lass Figuren manchmal innehalten, wenn sie ihn im Punisher-Modus sehen — und lass sie denken: *Das hat er schon einmal getan. Das ist nicht das erste Mal.*
+Lass Figuren manchmal innehalten, wenn sie ihn im Punisher-Modus sehen — und lass sie denken: *Das hat er schon einmal getan. Das ist nicht das erste Mal.*
 
 > *Der alte Mann am Ende der Straße sagte kein Wort mehr. Er hatte diese Stille schon einmal gesehen. Er wusste, was danach kam. Er wusste auch, dass Fragen danach keine Antworten bekamen.*
 
@@ -575,14 +595,6 @@ Er ist zu gut in dem, was er tut. *Das ist der Backstory.* Der Leser rechnet sel
 ### Handlungen als innerer Monolog
 
 Aldric hat keinen sichtbaren inneren Monolog — aber seine Taten sind einer. Er rückt Kissen gerade, die schon gerade sind. Er schreibt Dankesbriefe für Kleinigkeiten. Er wäscht fremde Schüsseln, bevor er schläft. Diese Details ersetzen den Zugang zu seinem Kopf.
-
-### Der leere Rahmen als stilles Motiv
-
-Der leere Bilderrahmen auf dem Kaminsims wird nie erklärt. Die Metallkiste wird nie geöffnet — bis zum Epilog. Aber ihre Wirkung ist überall: in dem Rahmen der leer bleibt, in den Momenten wo Aldric kurz abwesend wirkt, in der Frage die niemand stellt und die er niemanden beantworten würde.
-
-### Dosierung
-
-Zwei bis drei prägnante Höflichkeits-Momente pro Kapitel sind stärker als zehn. Das Publikum soll darauf *warten* und schmunzeln wenn es kommt — nicht abstumpfen.
 
 ### Was er nie tut
 
@@ -671,6 +683,8 @@ Er strich den letzten Satz durch. Schrieb ihn neu. Strich ihn wieder durch.
 
 ## Die Andeutungen — was wir nie erklären
 
+→ Für die symbolische Bedeutung dieser Motive im Erzähltext → **StyleDNA.md** (Wiederkehrende Motive).
+
 Diese Details sind gesetzt. Sie werden nie direkt erklärt.
 
 - **Sein innerer Leitsatz:** *„Community through uniformity. Identity through exception.”* Er denkt in Prinzipien. Das ist kein Zynismus — das ist ein Mann, der die Welt in Systemen liest.
@@ -680,24 +694,13 @@ Diese Details sind gesetzt. Sie werden nie direkt erklärt.
 - **Sein Name ist in keiner öffentlichen Datenbank.** Er hat eine Adresse. Er hat eine Steuernummer. Mehr nicht. Niemand fragt — weil er so freundlich ist, dass man vergisst zu fragen.
 - **Die verschlossene Metallkiste** steht im Schlafzimmer. Ungeöffnet. Er geht manchmal kurz hin. Steht davor. Geht wieder weg. Operativer Inhalt: ein Name, eine Akte, Werkzeug.
 - **Er hat keine alten Fotos**, keine Schulfreunde, keine Familie die anruft. „Ich bin nicht gut im Kontakt halten.” Lächeln. Themenwechsel.
-- **Der leere Bilderrahmen** auf dem Kaminsims. Er hat noch nicht gefunden, was hineingehört. Oder er hat es gefunden, aber noch nicht entschieden. Wer fragt: `Ich suche noch das Richtige.`
+- **Der leere Bilderrahmen** auf dem Kaminsims. Running Gag: jeder Nachbar kommentiert ihn irgendwann (*"I liked the frame."*). Aldric weicht jedes Mal anders aus. Am Ende: Gruppenfoto vom Frühlingsfest.
 
 -----
 
 ## Häufige Fehler vermeiden
 
-|Fehler                                  |Warum er tödlich ist           |Lösung                                                            |
-|----------------------------------------|-------------------------------|------------------------------------------------------------------|
-|Er weiß, dass er komisch wirkt          |Bricht den Zauber sofort       |Er ist einfach er selbst. Keine Selbstironie.                     |
-|Höflichkeit als Schwäche zeigen         |Macht ihn zur Witzfigur        |Er gewinnt immer — durch dasselbe Verhalten                       |
-|Zu viele Höflichkeitsmomente pro Szene  |Abstumpfungseffekt             |2–3 prägnante Momente, dann Pause                                 |
-|Punisher-Modus zu oft                   |Verliert seinen Biss           |80/20-Verhältnis, Kapitel der Geduld zuerst                       |
-|Backstory direkt erklären               |Nimmt die Spannung             |Andeutung durch Kompetenz und Reaktionen anderer                  |
-|Innenperspektive im Punisher-Modus      |Theatralisch statt gruselig    |Außenperspektive: wie erleben andere ihn?                         |
-|Groll nach der Strafe                   |Zerstört die Vergebungsmechanik|Konto null = wirklich null                                        |
-|Aldric-POV außerhalb von Prolog/Epilog  |Löst das Rätsel auf            |Konsequent Fremd-POV. Nur Prolog und Epilog aus seiner Sicht.     |
-|Den Auftrag zu früh enthüllen           |Bricht die Dosierung           |Das Versprechen existiert durch Abwesenheit — der Rahmen, die Kiste, die Abwesenheiten|
-|Die Metallkiste öffnen                  |Zerstört den Epilog            |Sie bleibt zu. Bis zum Ende.                                      |
+→ Siehe **StyleDNA.md** (Don't-Regeln). Die dort gelisteten Fehler gelten vollständig.
 
 -----
 

@@ -178,6 +178,28 @@ Sandra put on her seatbelt. "Some people know about food, Gerald."
 
 "Some people know about food." He pulled out of the lot. "And some people pay attention in a way that isn't normal."
 
+Sandra looked out the window. The streetlights were coming on, one by one, the timer-controlled kind that made the whole block glow orange at exactly the same moment.
+
+"What about the frame?" she said.
+
+"What frame?"
+
+"At the barbecue. On his mantelpiece. Maria asked about it. Empty picture frame, just sitting there."
+
+Gerald's hands adjusted on the wheel. "What about it?"
+
+"He said he hadn't found the right one yet. The right photo." Sandra shrugged. "It's a design choice. My sister-in-law has three empty frames in her hallway. She calls it 'negative space.' It's a thing people do."
+
+Gerald didn't say anything for half a block. Then: "Nobody buys a frame and leaves it empty unless they're waiting for something specific."
+
+"Or unless they like the frame."
+
+"Nobody likes a frame that much."
+
+Sandra rolled her eyes. "Not everything is a clue, Gerald."
+
+"Some things are," Gerald said.
+
 Sandra looked out the window. The community center shrank in the mirror. Aldric was walking to his car now. The Volvo. Even in the parking lot, it was the cleanest car there.
 
 "I think, he was nice," she said.

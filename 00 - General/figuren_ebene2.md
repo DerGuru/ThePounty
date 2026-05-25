@@ -121,12 +121,12 @@ Pater Reeves kommt regelmäßig auf Maple Lane vorbei. Er und Aldric haben Gespr
 
 -----
 
-### Die Kinder Ortegas — Marco, Elena, und Bea
+### Die Kinder Ortegas — Lina und Marcus
 
 **Funktion:** Aldrics sanfteste Seite — und der einzige Ort, wo seine Regeln ohne Kommentar funktionieren.
 
 **Wer sie sind:**
-Marco ist zwölf, ernst, liest viel. Elena ist neun, redet schnell, hat Meinungen zu allem. Bea ist sechs, heißt eigentlich Beatriz, und nennt Aldric seit dem dritten Besuch „Herr Venn” — weil die Eltern das tun und weil es sich für sie richtig anfühlt.
+Lina ist zehn, hat Meinungen zu allem, redet schnell. Marcus ist fünf, zeichnet Dinosaurier mit sieben Beinen und nennt Aldric seit dem dritten Besuch „Herr Venn" — weil die Eltern das tun und weil es sich für ihn richtig anfühlt.
 
 **Ton:**
 Kinder filtern nicht. Sie reagieren auf das, was tatsächlich da ist. Und was tatsächlich da ist: ein Mann, der ihre Fragen ernst nimmt, nie herablassend antwortet, und nicht so tut, als wären sie zu jung für eine ehrliche Antwort.
@@ -134,26 +134,22 @@ Kinder filtern nicht. Sie reagieren auf das, was tatsächlich da ist. Und was ta
 **Ihr Aldric:**
 Sie finden seine Präzision nicht seltsam. Sie finden sie fair. Wenn Aldric sagt „das Fahrrad muss um fünf zurück sein”, meint er fünf, nicht fünf-ish. Das verstehen sie. Erwachsene sagen fünf und meinen manchmal sechs und manchmal vier und manchmal „wann immer”. Aldric meint fünf.
 
-Marco fragt ihn einmal, warum er immer so redet. Aldric fragt zurück, wie er redet. Marco überlegt. „Wie wenn jeder Satz der letzte sein könnte.” Aldric denkt eine Sekunde nach. „Das ist eine sehr gute Beobachtung,” sagt er. „Du hast recht.”
+**Lina** stellt die direktesten Fragen, die Aldric je bekommt. Warum hat er kein Foto im Rahmen. Warum fährt er so ein altes Auto. Warum kommt nie jemand ihn besuchen.
 
-Marco erzählt das nie weiter. Es fühlt sich wie ein Geheimnis an, obwohl keines gemacht wurde.
+Auf alle drei antwortet er. Vollständig, freundlich, ohne auszuweichen. Die Antworten sind trotzdem keine Antworten. Lina ist alt genug um das zu merken und noch zu jung um aufzuhören zu fragen.
 
-**Elena** stellt die direktesten Fragen, die Aldric je bekommt. Warum hat er kein Foto im Rahmen. Warum fährt er so ein altes Auto. Warum kommt nie jemand ihn besuchen.
-
-Auf alle drei antwortet er. Vollständig, freundlich, ohne auszuweichen. Die Antworten sind trotzdem keine Antworten. Elena ist alt genug um das zu merken und noch zu jung um aufzuhören zu fragen.
-
-**Bea** bringt ihm einmal ein gemaltes Bild. Ein Mann neben einem grünen Auto. „Das bist du,” sagt sie. Er hängt es in der Küche auf. Nicht aus Höflichkeit. Er hängt es wirklich auf.
+**Marcus** bringt ihm einmal ein gemaltes Bild. Ein Mann neben einem grünen Auto. „Das bist du," sagt er. Aldric hängt es in der Küche auf. Nicht aus Höflichkeit. Er hängt es wirklich auf.
 
 **Wiederkehrendes Muster:**
 Die Kinder kommen und gehen zwischen den Häusern wie Kinder in Vororten es tun — ohne anzuklopfen, bis Aldric ihnen erklärt, dass man anklopft. Danach klopfen sie. Er schätzt das.
 
 **Szene (aus Rosas POV):**
 
-> Rosa sah Bea auf Aldrics Veranda sitzen. Bea redete. Aldric hörte zu. Nicht geduldig-wartend, wie Erwachsene manchmal zuhören. Wirklich zuhörend.
+> Rosa sah Marcus auf Aldrics Veranda sitzen. Marcus redete. Aldric hörte zu. Nicht geduldig-wartend, wie Erwachsene manchmal zuhören. Wirklich zuhörend.
 > 
-> Er sagte etwas. Bea lachte.
+> Er sagte etwas. Marcus lachte.
 > 
-> Rosa hatte sich gefragt, wann das passiert war — dass ihre Tochter einfach rüberging. Wie bei einem Nachbarn, zu dem man einfach geht.
+> Rosa hatte sich gefragt, wann das passiert war — dass ihr Sohn einfach rüberging. Wie bei einem Nachbarn, zu dem man einfach geht.
 > 
 > Sie entschied, dass sie nicht wissen musste, wann es passiert war. Es war passiert. Das reichte.
 
@@ -431,7 +427,7 @@ Er ist einfach der Mann von Nr. 4, der kommt wenn man klopft.
 |-----------------|--------------------------------------|--------------------|----------------|
 |Ray Kowalski     |Gerechtigkeitsprinzip (klein, präzise)|Marktstand          |Frühe Kapitel   |
 |Father Reeves    |Moral vs. Institution                 |Gemeindeleben       |Frühe Kapitel   |
-|Marco, Elena, Bea|Aldrics sanfteste Seite               |Kinder Ortegas      |Einzugstag      |
+|Lina, Marcus    |Aldrics sanfteste Seite               |Kinder Ortegas      |Einzugstag      |
 |Hector Blum      |Kompetenz und Handwerk                |Hausreparatur       |Erste Wochen    |
 |Dolores Marsh    |Gedächtnis der Straße                 |Langzeit-Nachbarin  |Erste Wochen    |
 |Kenny Park       |Potential vs. Fehltritt               |Jugendlicher, Nr. 11|Mittlere Kapitel|

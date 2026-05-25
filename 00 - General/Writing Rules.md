@@ -42,7 +42,7 @@
 24. Characters abandon a plan only when it's clear it won't succeed. This could be through discussion or failed attempts.
 
 ## Structure
-25. Use the 7 Point Structure.
+25. Use Kishōtenketsu (4-act structure without conflict-driven resolution). See StyleDNA for details.
 
 ## Pacing
 26. **Event:Reflexion-Ratio = 1:2.** Auf jede Seite innere Reflexion kommen mindestens zwei Seiten äußeres Geschehen (Dialog, Handlung, SoL-Beats).

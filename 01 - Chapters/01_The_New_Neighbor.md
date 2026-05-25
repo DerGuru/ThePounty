@@ -129,7 +129,7 @@ Rosa appeared at Aldric’s door at four. Dave went with her, carrying the rice.
 
 “And rice. And there’s salsa my mother-in-law made, but it’s spicy.”
 
-“I enjoy spicy food very much. Thank you. This is uncommonly generous of you.” He paused. “Uncommonly. I mean that word specifically.” He glanced back toward the kitchen. “Between this and Mrs. Hooper’s casserole, I now have more food than one person can reasonably eat in a week. Would you both consider keeping me company? It seems wrong to have this much generosity on a table and no one to share it with.”
+“I enjoy spicy food very much. Thank you. This is uncommonly generous of you.” 
 
 Rosa looked at him. Then at the house behind him. The single chair by the window. The three boxes stacked against the wall, already broken down and folded flat. Flattened neatly. Edges aligned.
 

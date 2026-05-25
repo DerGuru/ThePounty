@@ -6,7 +6,7 @@ The kitchen table was covered in her work. Yarn, pattern printout, her laptop op
 
 She put the hook down and checked her phone again. USPS tracking. She'd been refreshing it since Tuesday, every few hours. It was a box. Cardboard, tape, a label printed at the post office on Route 4 because Carlos couldn't figure out the self-service kiosk. He'd texted her a photo of the receipt. No message. Just the receipt.
 
-She'd stared at that photo for a long time. The date, the weight, the tracking number. His handwriting on the customs form in the "contents" field: *Personal items. Photos.*
+She'd stared at that photo for a long time. The date, the weight and the tracking number. His handwriting on the customs form in the "contents" field: *Personal items. Photos.*
 
 Twenty-three years of marriage and the man still wrote like he was filling out a tax return.
 
@@ -90,7 +90,7 @@ Monday she started the coasters for Mr. Tippett in Portland. She watched TV in t
 
 Tuesday evening someone knocked on her door.
 
-Aldric was on the porch. He was holding a box. Medium-sized, brown cardboard, battered at the corners. Tape half peeled off one side. The shipping label was still attached, smudged but legible: her name, her address, Carlos's return address in Phoenix.
+Aldric was on the porch. He was holding a box. Medium-sized, brown cardboard, battered at the corners. Tape half peeled off one side. The shipping label was still attached, smudged but legible: her name, her address and Carlos's return address in Phoenix.
 
 "Maria," he said. "I believe this belongs to you."
 
@@ -138,6 +138,10 @@ The photos were creased at the corners. Some of them had been bent. One had a sm
 She wiped the smudge off with her sleeve. 
 
 She sat there a long time. The coffee went cold. The light outside changed from gold to gray. She didn't turn on the lamp. Just the photos on the table, her hands in her lap, the house quiet around her.
+
+She thought about the frame on his mantelpiece. The empty one. He'd said he hadn't found the right photo yet. She'd thought at the time — ex-girlfriend. Ex-wife. Someone who left, or someone he left, and the frame stayed because taking it down meant admitting it was over.
+
+Now she wasn't sure. A man who could find a stolen box of photos in five days and bring them back without being asked — that man didn't seem like someone who got left. He seemed like someone who left and kept the frame anyway.
 
 Something loosened in her chest. Something about recovering things you thought you'd already lost.
 

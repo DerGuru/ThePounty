@@ -22,7 +22,7 @@ Neben den Beobachtungen der POV-Figuren wird das Buch vor allem durch Dialog get
 - Aldric wird nur von außen gesehen — seine Gedanken, Gefühle und Motive bleiben dem Leser verschlossen
 - Andere Nebenfiguren werden ebenfalls nur durch Handlung und Dialog wahrgenommen (Standard-POV-Disziplin)
 - Keine allwissenden Einschübe
-- **Ausnahmen:** Prolog (Aldrics Ankunft) und Epilog (Metallkiste/Foto) – die einzigen Szenen aus Aldrics Sicht
+- **Ausnahmen:** Prolog (Aldrics Ankunft) und Epilog (Gruppenfoto/Miranda) – die einzigen Szenen aus Aldrics Sicht
 
 ### Konsequenz:
 
@@ -50,13 +50,13 @@ Referenz: `00 - General/POV_Tone_Examples.md`
 
 ### Zwei Grundtöne:
 
-**Mounty-Ton (Standard, ~80% des Buchs):** Leicht, warm, amüsiert. Die Welt ist komisch, weil Aldric sie ernst nimmt. Die Nachbarn sind komisch, weil sie ihn nicht einordnen können. Die Prosa fließt entspannt, beobachtend, mit trockenem Humor. Der Leser soll lächeln und sich wohlfühlen.
+**Mounty-Ton (Standard, ~80% des Buchs):** Leicht, warm, amüsiert. Die Welt ist komisch, weil Aldric sie ernst nimmt. Die Nachbarn sind komisch, weil sie ihn nicht einordnen können. Die Prosa fließt entspannt, beobachtend, mit trockenem Humor. Der Leser soll lächeln und sich wohlfühlen. Die Figuren sind nahbar, menschlich, liebenswert — mit all ihren Macken und Unvollkommenheiten. Es ist eine Welt, in der man sich gerne aufhält, auch wenn sie nicht perfekt ist.
 
 **Punisher-Ton (bei Eskalation, ~20%):** Düster, knapp, kalt. Die Sätze werden kürzer. Die Wärme verschwindet. Details fallen weg. Was bleibt, ist Präzision ohne Freundlichkeit. Dieser Tonwechsel funktioniert *nur*, weil der Mounty-Ton der Normalzustand ist. Je leichter die Komödie, desto härter der Kontrast.
 
 ### Der Kontrast trägt das Buch:
 
-- Comedy: Seine Höflichkeit bis zum Erbrechen in alltäglichen Situationen
+- Comedy: Seine Ehrlichkeit und Höflichkeit bis zum Erbrechen in alltäglichen Situationen
 - Dunkelheit: Dieselbe Präzision, dieselbe Ruhe, aber ohne das Lächeln
 
 Der Leser muss spüren: Das ist derselbe Mann. Die Höflichkeit ist keine Maske. Die Dunkelheit ist keine Maske. Beides ist echt.
@@ -69,7 +69,7 @@ Der Leser muss spüren: Das ist derselbe Mann. Die Höflichkeit ist keine Maske.
 |Unbehagen|Kleine Details, die *fast* stimmen. Etwas fehlt oder ist zu viel.                |
 |Bedrohung|Abwesenheit — das Lächeln ist weg, die Höflichkeit stoppt                        |
 |Wärme    |Handlungen statt Deklarationen. Rosa macht mehr Essen. Aldric wäscht Schüsseln.  |
-|Trauer   |Was *nicht* da ist. Der leere Rahmen. Das fehlende Foto.                         |
+|Trauer   |Was *nicht* da ist. Stille statt Geste. Abwesenheit.                             |
 |Spannung |Dehnung. Stille. Was andere Figuren im Raum *spüren*, ohne es benennen zu können.|
 
 ### Verbotene Töne:
@@ -180,7 +180,6 @@ Dave sah ihm nach. Da war etwas. Er wusste nicht was. Er dachte nicht weiter dar
 - Charaktere sagen selten direkt, was sie meinen
 - Aldric sagt *immer* genau was er meint — und genau das macht es unlesbar
 - Emotionale Wahrheit liegt in dem, was *nach* dem Dialog passiert
-- Keine Exposition im Dialog
 
 -----
 
@@ -330,8 +329,8 @@ Die Vorstadt ist real, materiell, konkret. Keine poetische Überhöhung. Die Nor
 
 |Motiv                        |Bedeutung                                         |
 |-----------------------------|--------------------------------------------------|
-|Der leere Bilderrahmen       |Verlust. Die Tochter. Noch nicht bereit.          |
-|Die verschlossene Metallkiste|Vergangenheit. Das Foto. Was er mitgebracht hat.  |
+|Der leere Bilderrahmen       |Running Gag → Community-Symbol. Am Ende: Gruppenfoto.|
+|Die verschlossene Metallkiste|Vergangenheit. Operativer Inhalt. Was er mitgebracht hat.|
 |Der Volvo                    |Zuverlässigkeit. Kontrolle. Kein Rost.            |
 |Tee (angeboten)              |Normalität, Deeskalation, Freundlichkeit          |
 |Tee (nicht angeboten)        |Warnung                                           |
@@ -339,6 +338,7 @@ Die Vorstadt ist real, materiell, konkret. Keine poetische Überhöhung. Die Nor
 |Geralds Notizen              |Obsession. Falsche Fragen.                        |
 |Weiße Zäune                  |Konformität — und was sie verbirgt                |
 |Beas gemaltes Bild           |Aldrics sanfteste Seite. Er hängt es wirklich auf.|
+|Die Strickjacke              |Marias Handabdruck. Aldric trägt sie abends. Nie kommentiert.|
 
 ### Die Konto-Metapher:
 

@@ -4,6 +4,8 @@
 
 **Goldene Regel:** Was er tut, ist normal. Wie er es tut, ist zu gut. Nicht auffällig. Nicht angeben. Einfach eine Präzision und Ruhe, die bei einem Vorstadt-Single-Mann keinen Sinn ergibt.
 
+**Hinweis:** Episodenzuordnungen verwenden Episodennamen. Für aktuelle Nummerierung → **Storyline.md**.
+
 ---
 
 ## Zuordnung: Beats → Episoden
