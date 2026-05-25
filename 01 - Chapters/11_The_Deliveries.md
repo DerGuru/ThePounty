@@ -48,9 +48,9 @@ That evening, Gerald and Sandra ate dinner in front of the news. Meatloaf, Sandr
 
 "Nothing. Thinking about the Henderson fence." A lie. The Henderson fence had been repaired two weeks ago.
 
-Sandra followed his gaze. "His porch light's off."
+Sandra followed his gaze. "He's not outside."
 
-Gerald looked. She was right. Aldric's porch was dark. At seven-forty on a Saturday evening in the first week of September, the chair empty, the lamp off, no coffee cup on the railing. In three months, Gerald had never seen that porch empty on a warm evening. Aldric sat out there every night like it was contractual. When had he stopped? And why?
+Gerald looked. She was right. The porch lamp was on, same as always — it came on at dusk every evening whether Aldric sat out or not. But the chair was empty. No coffee cup on the railing. At seven-forty on a Saturday evening in the first week of September, and Aldric wasn't there. In three months, Gerald had never seen that chair empty on a warm evening. Aldric sat out there every night like it was contractual. When had he stopped? And why?
 
 "Hm," Gerald said. He ate his meatloaf.
 

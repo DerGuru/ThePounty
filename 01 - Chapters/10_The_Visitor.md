@@ -104,12 +104,12 @@ Rosa went back to stirring. The sofrito bubbled. Marcus had moved on to giving h
 
 "He's not on the porch," Rosa said.
 
-Dave turned and looked through the kitchen window. Aldric's porch. Chair empty. Lamp off. At seven-thirty on a Saturday evening in August, when the heat finally broke and the street smelled like barbecue and cut grass, Aldric's porch was dark.
+Dave turned and looked through the kitchen window. Aldric's porch. The lamp was on, same as every evening. But the chair was empty. At seven-thirty on a Saturday evening in August, when the heat finally broke and the street smelled like barbecue and cut grass, Aldric wasn't out there.
 
-In three months, Dave had never seen that porch dark on a warm evening. Not once.
+In three months, Dave had never seen that chair empty on a warm evening. Not once.
 
 "No," he said. "He's not."
 
 Rosa didn't say anything else. She turned the heat down under the sofrito. Marcus asked if dinosaurs could fly and answered his own question before anyone else could.
 
-Dave looked at the dark porch one more time. Then he decided not to think about it.
+Dave looked at the lit, empty porch one more time. Then he decided not to think about it.
