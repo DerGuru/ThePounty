@@ -4,7 +4,7 @@ The kettle clicked off at five-forty. Ms. Yuen poured the water over the leaves 
 
 Maple Lane was quiet. The streetlamps were still on, their orange glow thinning as the sky lightened behind the rooftops. No cars. No sprinklers. The Ortegas' porch light was off, which meant Rosa had remembered to switch it this time. The Hoopers' newspaper sat on their driveway in its plastic sleeve, white against the dark concrete. No one was awake. Ms. Yuen was always the first one awake.
 
-She liked this hour. The street belonged to her for thirty minutes before it belonged to everyone else. She knew the sounds: the Chens' cat crossing the road at exactly this time, the click of the automatic sprinkler at number twelve starting its cycle. She knew what the street looked like when it was just itself, before the people filled it with noise and intention.
+She liked this hour. The street was her's for a while before it belonged to everyone else. She knew the sounds: the Chens' cat crossing the road at exactly this time, the click of the automatic sprinkler at number twelve starting its cycle. She knew what the street looked like when it was just itself, before the people filled it with noise and intention.
 
 The timer beeped. She went back to the kitchen, removed the strainer and brought the cup to the window again. The tea was still too hot, so she held it under her nose and let the steam rise.
 

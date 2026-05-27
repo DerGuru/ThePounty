@@ -1,16 +1,16 @@
-# Chapter 4: The Block Party
+# Chapter 4: Dave's Birthday
 
-The Maple Lane Summer Cookout had been Dave’s idea four years ago, and he regretted it every June when Rosa handed him the clipboard.
+Rosa had started the tradition three years ago. Dave's birthday fell on a Saturday this year, which meant the full production: grill, yard, neighbors, the clipboard.
 
-The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers’ kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called “Contingencies” which meant things that would go wrong and whose fault it would be.
+The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers' kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called "Contingencies" which meant things that would go wrong and whose fault it would be.
 
-Dave’s job was the grill. He was good at the grill. He understood the grill. The grill did not have columns.
+Dave's job was the grill. He was good at the grill. He understood the grill. The grill did not have columns. He'd told Rosa he didn't need a party. She'd said "It's not a party, it's a cookout." He'd said "With a guest list." She'd said "It's your birthday, Dave." That had been the end of the discussion.
 
 He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying a wooden board the size of a small table. It was covered in things Dave couldn’t identify.
 
-“Good afternoon, Dave. Am I early?”
+"Good afternoon, Dave. Am I early?" He glanced at the grill setup. "And happy birthday."
 
-“People start showing up around four.” Dave looked at the board. “What is that?”
+"Thanks. People start showing up around four." Dave looked at the board. "What is that?"
 
 Aldric looked down at it like he’d forgotten he was holding it. “A charcuterie board. I hope it’s not too much. I wasn’t sure what everyone liked, so I tried to cover a range.”
 
@@ -26,7 +26,7 @@ Dave looked back at his grill. His grill had hot dogs from Costco. A pack of for
 
 “I hope it’s appropriate. I wasn’t sure of the formality level.” Aldric said without irony. He genuinely wasn’t sure if a neighborhood cookout in a cul-de-sac was a formal or informal event.
 
-“We’re eating hot dogs on paper plates, man. I think you’re covered.”
+"We're eating hot dogs on paper plates, man. It's not even a real party. Rosa calls it a cookout."
 
 Aldric smiled. “Then I may have overcalibrated. But better too much than too little.”
 
@@ -52,7 +52,7 @@ Aldric took the tongs. He spread the coals with precision into even layers. He w
 
 “I believe you.” He put the tongs down. The coals were perfectly even.
 
-People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda and his own chair, which he’d been bringing to cookouts since 2020 after the folding chair incident nobody talked about. Then Sandra, who came out her front door already talking, carrying a potato salad and her loud opinions about something he couldn't quite get from her short burst of words. Gerald followed, hands in pockets, scanning the gathering.
+People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda, his own chair, and a card he handed to Dave without ceremony. "Happy birthday. Don't open it now, it's just money." Then Sandra, who came out her front door already talking, carrying a potato salad and her loud opinions about something he couldn't quite get from her short burst of words. Gerald followed, hands in pockets, scanning the gathering.
 
 The Parkers brought their allergic kid and a case of sparkling water. Their kid immediately ran to the swing set across the street. The neighborhood had blocked the road for the afternoon, so it was fine. Mrs. Alvarez arrived with two trays of empanadas covered in foil. The neighbors from fourteen whose names Dave could never quite hold onto brought a fruit salad and a six-pack. Ms. Yuen came last, walking slowly, carrying nothing, watching everything — as usual. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
 
@@ -164,7 +164,7 @@ Gerald snorted. It might have been a laugh. Hard to tell with Gerald.
 
 They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned for the now empty cooler. Then he came back one more time and shook Dave’s hand.
 
-“Thank you for including me. Truly.”
+"Thank you for including me. Truly. And happy birthday, Dave."
 
 “You brought the best thing on the table, man. We should be thanking you.”
 
@@ -172,7 +172,7 @@ They cleaned in twenty minutes. Four people working. The yard went from party to
 
 Dave laughed. Nobody had ever complimented his hot dogs with that kind of conviction. “Thanks. They’re from Costco.”
 
-“The quality of ingredients matters less than the quality of attention.” Aldric nodded once. “Good night, Dave. Good night, Rosa.”
+"The quality of ingredients matters less than the quality of attention." Aldric nodded once. "Thirty-six suits you. Good night, Dave. Good night, Rosa."
 
 He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. As if he knew he’d come home in the dark.
 
@@ -180,7 +180,11 @@ Rosa appeared at Dave’s elbow. They stood in the yard together. The string lig
 
 “Good party,” she said.
 
-“Yeah.” Dave watched Aldric’s door close. “He knew the bird.”
+"Not a party. A cookout."
+
+"Happy birthday, Dave."
+
+He smiled. Watched Aldric's door close. "He knew the bird."
 
 “He knew my flower palette.”
 

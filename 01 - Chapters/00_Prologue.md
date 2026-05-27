@@ -6,7 +6,7 @@ Eleven hundred miles had taken fourteen hours. He could have done it in twelve, 
 
 He had eaten nothing since a gas station outside of Erie. A granola bar, unremarkable, consumed standing beside the car while the pump ran. He had cleaned his hands afterward. Twice. Once with the napkin from the wrapper. Once with the small bottle of hand sanitizer he kept in the glove compartment. Not because of germs. Because the texture of processed sugar on fingertips was distracting, and distraction behind the wheel was discourteous to everyone sharing the road.
 
-Aldric Venn turned the Volvo onto Maple Lane at fourteen minutes past two on a Tuesday afternoon. The first thing he noticed was that someone had planted marigolds in a tire rim. Bright orange, almost aggressive against the white fence behind them. Deliberate. He approved. He wanted to know who. He wouldn’t ask today.
+Aldric Venn turned the Volvo onto Maple Lane at fourteen minutes past two on a Tuesday afternoon in late June. The first thing he noticed was that someone had planted marigolds in a tire rim. Bright orange, almost aggressive against the white fence behind them. Deliberate. He approved. He wanted to know who. He wouldn’t ask today.
 
 The street had symmetry. White fences, all the same height. Driveways, all the same width. Mailboxes evenly spaced, upright, freshly painted. The lawns were green in the specific way that required commitment. Someone on this street had standards. Several someones, probably, enforcing them without a committee. He respected that. A neighborhood that maintained itself through mutual expectation rather than rules on paper was, in his experience, the strongest kind.
 

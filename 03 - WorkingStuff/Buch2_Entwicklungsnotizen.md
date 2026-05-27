@@ -130,6 +130,7 @@ Der Leser führt das Buch mit. Jede Szene aus ihrem POV ist gleichzeitig eine Bu
 - [ ] Hat Miranda jemanden in ihrem Leben, der eine ähnliche Funktion hat wie Dave für Aldric?
 - [ ] Arbeitstitel Buch 2
 - [ ] Wann und wie erfährt Miranda, wer Aldric ist — oder tut sie es in Buch 2 überhaupt?
+- [ ] Marcus wird eingeschult (Herbst 2025, 1. Klasse). Milestone für die Ortegas. Aldric nimmt daran teil? Geschenk? Rosa-POV-Moment?
 
 ---
 

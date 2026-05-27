@@ -34,13 +34,46 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 7 | Greens (+ Hund) | ungerade | Ende 30; Tochter (15, schwieriger Teenager) |
 | 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, mitten in der Scheidung (Sohn ausgezogen → nichts mehr gemeinsam). Scheidung läuft noch — potentieller Storyline-Strang. |
 | 9 | Ms. Yuen | ungerade | 83, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
-| … | | | *(weitere Häuser, Kern-Story spielt in #1–#9)* |
+| 10 | Mieter: Jill & Tom Weaver | gerade | Eigentümer: Blanchard (verzogen). Mitte 40, kinderlos, ruhiges Paar, arbeiten beide remote. Ebene 3. |
+| 11 | Kenny Park | ungerade | Jugendlicher, Mitte Teenager. Ebene 2. |
+| 12 | Mieter: Nadine Solis | gerade | Eigentümer: Pratt (Erbengemeinschaft). Anfang 30, single, Krankenschwester, Nachtschicht. Tagsüber selten sichtbar. Ebene 3. |
+| 13 | Steve & Carol Rigby | ungerade | Ende 50, erwachsene Kinder aus dem Haus. Leise. Kümmern sich um ihren Garten. Ebene 3. |
 | 14 | Garcia (Eigentümer, vermietet) | gerade | Wohnen nicht dort. Aktuelle Mieter: Miller. Frühere Mieterin: "quiet girl", braune Haare, 2018/19 weggezogen. Ebene 3. |
 | 15 | Diane Kessler | ungerade | HOA-Schriftführerin, liest Protokolle, beschwert sich über Parkbänke. Ebene 3. |
+| 16 | Dolores Marsh | gerade | 71, lebt seit 40 Jahren hier. Gedächtnis der Straße. Ebene 2. |
 | 17 | Bob Muñoz | ungerade | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
 | 18 | Henderson | gerade | 70+, vor 5 Jahren eingezogen. Ebene 3. |
+| 19 | Tamara Flynn | ungerade | Anfang 40, geschieden, zwei Katzen. Joggt morgens. Kennt jeden vom Sehen. Ebene 3. |
 | 20–22 | *kleiner Park* | gerade | Basketballplatz, Bank, Weg nach Süden |
 | 21 | Parker | ungerade | Vor den Hendersons eingezogen. Kind mit zahlreichen Essensallergien. Ebene 3. |
+
+---
+
+## Geburtstage
+
+*Zeitlinie: 2024. Alter = erreichtes Alter in diesem Jahr.*
+
+| Figur | Datum | Geb.-Jahr | Alter 2024 | Anmerkung |
+|-------|-------|-----------|------------|---|
+| Dave Ortega | 20. Juli | 1988 | 36 | Block Party = sein Geburtstag (Sa). Keine Geschenke, alle bringen was für den Abend mit. |
+| Rosa Ortega | 8. März | 1990 | 34 | |
+| Lina Ortega | 4. Mai | 2014 | 10 | |
+| Marcus Ortega | 16. Oktober | 2019 | 5 | Kindergeburtstag-Kapitel im Herbst. |
+| Gerald Hooper | 3. November | 1961 | 63 | |
+| Sandra Hooper | 19. Juni | 1963 | 61 | Vor Aldrics Ankunft (25. Juni). Kein Kontakt. Feier in Buch-Jahr = Ep 43b. |
+| Maria Alvarez | 14. Januar | 1982 | 42 | |
+| Jesús Alvarez | 9. August | 2002 | 22 | Marias Sohn. Mäht ihren Rasen sonntags. |
+| Ms. Yuen | 27. April | 1941 | 83 | Älteste Bewohnerin. |
+| Mr. Green | 5. September | 1986 | 38 | |
+| Mrs. Green | 21. Dezember | 1987 | 37 | |
+| Green-Tochter | 13. Februar | 2009 | 15 | Schwieriger Teenager. |
+| Mr. Chen | 12. Oktober | 1996 | 28 | |
+| Mrs. Chen | 30. Juni | 1997 | 27 | |
+| Pater Reeves | 2. April | 1971 | 53 | |
+| Hector Blum | 17. November | 1966 | 58 | |
+| Dolores Marsh | 8. Mai | 1953 | 71 | Nr. 16 — 40 Jahre auf der Straße. |
+| Hoopers' Sohn | 25. März | 1990 | 34 | Name offen. Besucht mit Enkeln. |
+| Aldric Venn | unbekannt | 1981 | 43 | Wird nie erwähnt. Niemand auf der Straße kennt sein Geburtsdatum. |
 
 ---
 

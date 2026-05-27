@@ -209,7 +209,7 @@ Was danach passiert, ist die erste Demonstration, dass Aldrics Gerechtigkeitspri
 **Funktion:** Das Gedächtnis der Straße. Sie kennt Maple Lane, wie es war, bevor irgendjemand anderes kam.
 
 **Wer sie ist:**
-Dolores Marsh, 71, lebt seit vierzig Jahren in Nr. 9. Sie hat vier Familien kommen und gehen sehen auf diesem Block, zwei Ehen scheitern und eine beginnen, einen Brand, zwei Überflutungen, und den langsamen Verfall und Wiederaufstieg der Immobilienpreise. Sie erinnert sich an jeden, der je in Nr. 4 gewohnt hat.
+Dolores Marsh, 71, lebt seit vierzig Jahren in Nr. 16. Sie hat vier Familien kommen und gehen sehen auf diesem Block, zwei Ehen scheitern und eine beginnen, einen Brand, zwei Überflutungen, und den langsamen Verfall und Wiederaufstieg der Immobilienpreise. Sie erinnert sich an jeden, der je in Nr. 4 gewohnt hat.
 
 Sie ist nicht böse. Sie ist nicht neugierig im Sinne von Gerald. Sie ist ein Archiv. Und Archive haben eine Meinung darüber, ob das Neue in die Sammlung passt.
 
