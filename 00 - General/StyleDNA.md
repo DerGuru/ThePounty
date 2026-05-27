@@ -158,9 +158,7 @@ Dave sah ihm nach. Da war etwas. Er wusste nicht was. Er dachte nicht weiter dar
 
 ### Tag-Regeln:
 
-- **Bevorzugt:** “said” oder kein Tag
-- **Sparsam:** “asked”
-- **Ausnahme:** Wenn die physische Aktion tatsächlich passiert (“whispered” bei echtem Flüstern)
+- zutreffend, aber nicht übermäßig erklärend
 
 ### Struktur:
 
