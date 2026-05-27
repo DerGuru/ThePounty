@@ -102,7 +102,7 @@ Rosa served the bowls. Rice at the bottom, then beans, then the roasted squash a
 
 Dave poured wine for the adults. Marcus got juice. Lina got water with lemon, which she preferred and which Rosa had only started offering six months ago after Lina asked once.
 
-They ate. The conversation moved like conversations do with children at the table. In pieces. Marcus talked about a boy at daycare who could hang from the monkey bars with one hand. Lina observed quietly. Dave ate steadily and made sounds of approval. Aldric ate slowly, with attention, and complimented the squash — twice.
+They ate. The conversation moved like conversations do with children at the table. In pieces. Marcus talked about a boy at daycare who could hang from the monkey bars with one hand. He talked about Jake's older brother who had a Lego fire station "where you can open all the doors and the ladder *actually goes up* and there's a dog inside," and he used both hands to show how big it was. Lina observed quietly. Dave ate steadily and made sounds of approval. Aldric ate slowly, with attention, and complimented the squash — twice.
 
 "The browning is excellent," he said. "You cut them thin enough to crisp without drying."
 
