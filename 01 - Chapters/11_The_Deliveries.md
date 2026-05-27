@@ -2,21 +2,21 @@
 
 Gerald was refilling his coffee when an unmarked, grey truck pulled up in front of number four. He stood at the kitchen window, mug in hand, and watched the driver carry a small brown box up Aldric's porch steps. Plain cardboard. No branding, no logo, no tape with Amazon's smile on it. The driver set it by the door and walked back to the truck without ringing the bell.
 
-Gerald looked at the clock on the microwave. 10:42. Monday morning.
+He looked at the clock on the microwave. 10:42. Thursday morning.
 
-He took his coffee to the study. The desk was the way he liked it: newspaper folded to the crossword, pen parallel to the notebook, reading glasses on top of the morning's mail. He sat down, opened the notebook to the current page and wrote: *Mon Aug 26, 10:42 — Delivery, small box, plain, no branding. Left on porch.*
+He took his coffee to the study. The desk was the way he liked it: newspaper folded to the crossword, pen parallel to the notebook, reading glasses on top of the morning's mail. He sat down, opened the notebook to the current page and wrote: *Thu Sep 5, 10:42 — Delivery, small box, plain, no branding. Left on porch.*
 
 He didn't think much of it. People got packages. He wrote it down anyway.
 
-Wednesday, he was eating a turkey sandwich at his desk when Kevin the mailman came up Aldric's walk, a padded envelope in hand. It was flat, manila-colored, Kevin leaned it against the door frame and moved on to the Chens'. Gerald wiped his fingers on his napkin and wrote: *Wed Aug 28, 13:15 — Delivery, padded envelope, flat. Kevin delivery.*
+Friday, he was eating a turkey sandwich at his desk when Kevin the mailman came up Aldric's walk, a padded envelope in hand. It was flat, manila-colored, Kevin leaned it against the door frame and moved on to the Chens'. Gerald wiped his fingers on his napkin and wrote: *Fri Sep 6, 13:15 — Delivery, padded envelope, flat. Kevin delivery.*
 
-Friday brought a third. UPS this time. Gerald watched the driver from behind the newspaper he wasn't reading. This one was heavier. He could tell by the way the man adjusted his grip halfway up the steps, shifting the weight from one hand to both. Gerald had moved enough boxes in forty years of marriage to read the carrier's posture like a sentence.
+Monday brought a third. UPS this time. Gerald watched the driver from behind the newspaper he wasn't reading. This one was heavier. He could tell by the way the man adjusted his grip halfway up the steps, shifting the weight from one hand to both. Gerald had moved enough boxes in forty years of marriage to read the carrier's posture like a sentence.
 
-*Fri Aug 30, 10:08 — UPS, medium box, heavier (~25lbs?). Driver grip-shifted.*
+*Mon Sep 9, 10:08 — UPS, medium box, heavier (~25lbs?). Driver grip-shifted.*
 
 Three packages in five days. Not unusual for most people. Rosa Ortega got three a week. Dave ordered tools from places Sandra said only existed to take men's money. Sandra herself had once received six Amazon boxes in a single day, which Gerald knew because he'd counted them while pretending to check the mailbox.
 
-But Aldric didn't get packages. In three months on Maple Lane, Gerald had logged exactly four deliveries to number four. Four. This was a man who drove to the grocery store, walked to the dry cleaners and received almost nothing by mail except the occasional letter in a cream-colored envelope. No catalogs. No subscription boxes. Nothing that suggested an online life of any kind.
+But Aldric didn't get packages. In over two months on Maple Lane, Gerald had logged exactly four deliveries to number four. Four. This was a man who drove to the grocery store, walked to the dry cleaners and received almost nothing by mail except the occasional letter in a cream-colored envelope. No catalogs. No subscription boxes. Nothing that suggested an online life of any kind.
 
 Three packages in five days was not a pattern. Three points were coincidence. Gerald knew that. He'd been an auditor for thirty-one years. You needed seven data points for a trend. Five for a reasonable suspicion. Three was nothing.
 
@@ -26,15 +26,15 @@ He'd wait.
 
 The next week brought four more.
 
-Monday a FedEx box. Tuesday another small padded envelope, USPS. Thursday something long and thin that might have been a tube or a rod. Saturday a heavy box the UPS driver needed both hands for. Gerald watched each one arrive from his study window, the binoculars Sandra had given him for birdwatching pressed to his face. The binoculars had never seen a bird. They had, however, seen that none of the packages had visible return addresses. No company logos. No sender labels Gerald could make out, even with the 10x magnification.
+Tuesday a FedEx box. Wednesday another small padded envelope, USPS. Friday something long and thin that might have been a tube or a rod. Saturday a heavy box the UPS driver needed both hands for. Gerald watched each one arrive from his study window, the binoculars Sandra had given him for birdwatching pressed to his face. The binoculars had never seen a bird. They had, however, seen that none of the packages had visible return addresses. No company logos. No sender labels Gerald could make out, even with the 10x magnification.
 
-*Week of September 2:*
-*Mon 11:30 — FedEx, box, medium, no branding*
-*Tue 09:45 — USPS, small padded envelope*
-*Thu 14:22 — UPS, long thin package (tube? rod?)*
+*Week of September 9:*
+*Tue 11:30 — FedEx, box, medium, no branding*
+*Wed 09:45 — USPS, small padded envelope*
+*Fri 14:22 — UPS, long thin package (tube? rod?)*
 *Sat 10:55 — UPS, box, heavy, driver used both hands*
 
-Seven in twelve days. And something else.
+Seven in ten days. And something else.
 
 Aldric brought each one inside within minutes. Not hours, not when he happened to come home. Minutes. He appeared at the door before the delivery truck had turned the corner, picked up the package and went back in. Every time. As though he'd been standing on the other side of the door, listening for the sound of the truck engine.
 
@@ -50,13 +50,13 @@ That evening, Gerald and Sandra ate dinner in front of the news. Meatloaf, Sandr
 
 Sandra followed his gaze. "He's not outside."
 
-Gerald looked. She was right. The porch lamp was on, same as always — it came on at dusk every evening whether Aldric sat out or not. But the chair was empty. No coffee cup on the railing. At seven-forty on a Saturday evening in the first week of September, and Aldric wasn't there. In three months, Gerald had never seen that chair empty on a warm evening. Aldric sat out there every night like it was contractual. When had he stopped? And why?
+Gerald looked. She was right. The porch lamp was on, same as always — it came on at dusk every evening whether Aldric sat out or not. But the chair was empty. No coffee cup on the railing. At seven-forty on a Saturday evening in mid-September, and Aldric wasn't there. In nearly three months, Gerald had never seen that chair empty on a warm evening. Aldric sat out there every night like it was contractual. When had he stopped? And why?
 
 "Hm," Gerald said. He ate his meatloaf.
 
-After dinner he went to the study. He opened the notebook and wrote: *Sept 7, ~19:40 — Porch dark. First observed absence.*
+After dinner he went to the study. He opened the notebook and wrote: *Sept 14, ~19:40 — Porch dark. First observed absence.*
 
-He watched for the rest of the week. Monday Aldric was out there. Wednesday he wasn't. Thursday he wasn't. Friday he was, but only until nine, and then he went inside. Gerald was about to close the notebook when he saw it: a faint glow from the narrow ground-level windows on the side of number four that faced the Ortega's house.
+He watched the following week. Monday Aldric was out there. Tuesday he wasn't. Wednesday he was, but only until nine, and then he went inside. Gerald was about to close the notebook when he saw it: a faint glow from the narrow ground-level windows on the side of number four that faced the Ortega's house.
 
 The basement.
 
@@ -64,7 +64,7 @@ Gerald had lived across from that house for twelve years, through two previous o
 
 He checked the clock. 9:17 PM. He wrote it down.
 
-*Basement light. First observed Sept 4, 9:17 PM. Visible from study window.*
+*Basement light. First observed Sept 18, 21:17. Visible from study window.*
 
 He watched. The light stayed on. At eleven he made himself a cup of decaf and brought it back. Still on. At eleven-forty Sandra called from the bedroom that he was being ridiculous and she was turning off his bedside lamp. He wrote: *Still on at 23:40. Duration: minimum 2h23m.* Then he went to bed, lay in the dark and listened to Sandra breathe. What does a man do in a basement at midnight.
 

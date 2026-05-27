@@ -30,7 +30,7 @@ The sound carried in the still morning, the mechanical rattle cutting across the
 
 Ms. Yuen watched the shift. It was visible, if you knew where to look. Aldric's shoulders moved back. His chin lifted. The line of his mouth changed. He turned, and when he faced Dave, he was the man from the porch again. The one who asked about the children and brought cookies at Christmas and waved at every passing car.
 
-"Good morning, Dave." The smile was there. Full, warm, present. "Just a short trip. Business. I should be back by Wednesday."
+"Good morning, Dave." The smile was there. Full, warm, present. "Just a short trip. Business. I should be back by Saturday."
 
 "Need anything while you're gone? I can grab the mail."
 

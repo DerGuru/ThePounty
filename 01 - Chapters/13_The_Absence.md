@@ -2,7 +2,7 @@
 
 Dave almost forgot about the mail.
 
-It was Tuesday evening, and Marcus was screaming because Lina had taken the remote, and Lina was screaming because Marcus had bitten her hand, and Rosa was in the kitchen saying something about consequences that neither of them were hearing. Dave was standing in the hallway with his work bag still over his shoulder, keys still in his hand, shoes still on. He had not moved past the threshold. The noise had caught him like a net.
+It was Thursday evening, and Marcus was screaming because Lina had taken the remote, and Lina was screaming because Marcus had bitten her hand, and Rosa was in the kitchen saying something about consequences that neither of them were hearing. Dave was standing in the hallway with his work bag still over his shoulder, keys still in his hand, shoes still on. He had not moved past the threshold. The noise had caught him like a net.
 
 "Lina, give him the remote."
 
@@ -38,7 +38,7 @@ Dave went back inside. He put Aldric's mail on the kitchen counter, next to yest
 
 "Right." The knife kept moving. "When does he get back?"
 
-"Wednesday, he said."
+"Saturday, he said."
 
 Rosa nodded. The onions went into the pan. Oil hissed.
 
@@ -56,7 +56,7 @@ On Monday, when Aldric had still been here, Gerald's daughter had come over to r
 
 Today, Marcus had played in the backyard. The casserole dish was still on the counter because Rosa hadn't seen anyone to return it to. She had not spoken to a single neighbor. Not one. She had not even gone to the front porch.
 
-She could not explain why those things were connected to Aldric's absence. They weren't, probably. It was a Tuesday. People stayed inside on Tuesdays. It was getting cooler in the evenings. There were reasons.
+She could not explain why those things were connected to Aldric's absence. They weren't, probably. It was a Thursday. People stayed inside on Thursdays. It was getting cooler in the evenings. There were reasons.
 
 But the street felt like a room where someone had turned the music off. You didn't notice the music until it stopped. You didn't realize it had been holding something together until the pieces drifted apart.
 
@@ -66,13 +66,13 @@ It was just two days. He would be back tomorrow.
 
 Rosa went back to the bedroom. Dave was still watching something downstairs. She could hear the murmur of it through the floor. She lay down on her side of the bed and pulled the blanket up.
 
-She thought about how quickly it had happened. Four months. Aldric had been here four months, and the street had rearranged itself around him without anyone deciding to let it. He hadn't asked for anything. He hadn't organized anything, except his housewarming party. And even then the neighbors had brought most of the food. He had been present. That was all. Present and warm and paying attention, and something about that combination had made everyone else more present too.
+She thought about how quickly it had happened. Nearly three months. Aldric had been here nearly three months, and the street had rearranged itself around him without anyone deciding to let it. He hadn't asked for anything. He hadn't organized anything, except his housewarming party. And even then the neighbors had brought most of the food. He had been present. That was all. Present and warm and paying attention, and something about that combination had made everyone else more present too.
 
 And now two days without him, and the street was just a street again. Houses next to houses. People inside their walls. Quiet.
 
 Rosa closed her eyes.
 
-Wednesday morning, Dave looked at Aldric's mail with the others on the kitchen counter. The pile was small — two days' worth of mail for a man who didn't seem to get much.
+Saturday morning, Dave looked at Aldric's mail with the others on the kitchen counter. The pile was small — two days' worth of mail for a man who didn't seem to get much.
 
 He glanced at the return addresses out of habit, then stopped himself. That was Gerald's department, not his.
 

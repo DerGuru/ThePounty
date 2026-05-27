@@ -2,7 +2,7 @@
 
 The Saturday market on Greenfield took up half the parking lot behind the Methodist church. Dave went most weeks, not because he needed anything, but because Rosa gave him a list and the list gave him a reason to leave the house before the kids woke up.
 
-October had turned the air sharp. He could smell woodsmoke from somewhere, faint and sweet under the diesel of the food trucks. The stalls were half-set when he arrived, vendors hauling crates of late-season squash, jars of honey, bread wrapped in wax paper. A woman was arranging flowers in metal buckets, big ones in reds and oranges. A man in a flannel shirt was stacking apple crates three high, the apples sorted by color in a way that looked accidental.
+Late September had turned the air sharp. He could smell woodsmoke from somewhere, faint and sweet under the diesel of the food trucks. The stalls were half-set when he arrived, vendors hauling crates of late-season squash, jars of honey, bread wrapped in wax paper. A woman was arranging flowers in metal buckets, big ones in reds and oranges. A man in a flannel shirt was stacking apple crates three high, the apples sorted by color in a way that looked accidental.
 
 Dave parked the truck and checked Rosa's list. Tomatoes, basil, eggs. Something called "delicata squash" which he'd have to look up. And at the bottom, in her handwriting: *if they have the sourdough bread, get two.*
 
@@ -46,7 +46,7 @@ Aldric stopped.
 
 "Sort of. His jam's okay."
 
-A woman was at the stall. Older. She wore a cardigan despite the mild October not really warranting one yet. She had three jars in her hands, two strawberry, one something darker. She set them on the table. The man punched numbers into a calculator. His lips moved with the numbers.
+A woman was at the stall. Older. She wore a cardigan despite the mild weather not really warranting one yet. She had three jars in her hands, two strawberry, one something darker. She set them on the table. The man punched numbers into a calculator. His lips moved with the numbers.
 
 "Eighteen fifty-three," he said.
 
@@ -188,7 +188,7 @@ Rosa smiled. She was unpacking the tomatoes, turning each one in her hand. "We s
 
 "Just us. Not a neighborhood thing. An actual dinner. He's been here since June. He's cooked for everyone, helped everyone, and he's never sat at anyone's table."
 
-Dave leaned against the counter. She was right. Aldric had been there for four months. He'd grilled for the whole street at the housewarming, helped Rosa with her flowers in the garden, stayed to clean up after Dave's birthday, and caught the dog when it got loose. Nobody had invited him inside for a meal. Not once that Dave knew of.
+Dave leaned against the counter. She was right. Aldric had been there for three months. He'd grilled for the whole street at the housewarming, helped Rosa with her flowers in the garden, stayed to clean up after Dave's birthday, and caught the dog when it got loose. Nobody had invited him inside for a meal. Not once that Dave knew of.
 
 "Okay," Dave said. "Let's do it."
 

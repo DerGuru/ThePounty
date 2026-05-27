@@ -186,7 +186,7 @@ Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weis
 | Arc | Abhängig (Mann, Sohn, Nachbarn machen alles) → Frustration über das Muster → Aldric lehrt statt zu erledigen → Rückschlag → Eigeninitiative ohne Aldric → Selbstwirksamkeit. |
 
 **Lebenssituation:**
-Anfang 40. Mitten in der Scheidung — nicht dramatisch, nicht feindlich, aber noch nicht abgeschlossen. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen, das sich durch Papierkram zieht.
+Anfang 40. Mitten in der Scheidung — nicht dramatisch, nicht feindlich, aber noch nicht abgeschlossen. Carlos ist im März 2024 ausgezogen. Der Sohn ist ausgezogen, und danach war nichts mehr da, das die Ehe zusammenhielt. Keine Tragödie. Nur ein stilles Auslaufen, das sich durch Papierkram zieht.
 
 Ihr Mann hatte das Haus in Schuss gehalten. Lampen wechseln bekommt sie hin, aber den Zaun hat sie z.B. noch nie gestrichen — und der hätte es nötig. Der Sohn mäht regelmäßig den Rasen; wenn er nicht kann, findet sich jemand aus der Nachbarschaft. Sie ist dankbar dafür. Aber es ist immer jemand anderes.
 

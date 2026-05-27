@@ -60,7 +60,7 @@ She hadn't told him she liked avocado. She hadn't told him anything.
 
 "How do you know what everyone eats?" Sandra asked, fork in mid-air.
 
-"Observation," Aldric said simply. He sat down in the rocking chair with his own plate and set it on his knee. "People tell you what they like without saying it. Dave reached for the pickles first at the table the other day. Rosa mentioned she preferred chicken to beef when we spoke on Monday. Maria brought guacamole, which suggests she enjoys avocado."
+"Observation," Aldric said simply. He sat down in the rocking chair with his own plate and set it on his knee. "People tell you what they like without saying it. Dave reached for the pickles first at the table the other day. Rosa mentioned she preferred chicken to beef when we spoke on Thursday. Maria brought guacamole, which suggests she enjoys avocado."
 
 "And Gerald's steak?"
 
@@ -110,7 +110,7 @@ Gerald straightened. Maria saw it happen. The slight lift in the shoulders, the 
 
 "Wonderful. When does it meet?"
 
-"Next Thursday. Seven o'clock. At our place." Gerald paused. "You're welcome to attend."
+"Next Wednesday. Seven o'clock. At our place." Gerald paused. "You're welcome to attend."
 
 "I would like that very much. Thank you, Gerald." Aldric said it the way he said everything — like the words were weighed before he released them. Like *thank you* was a measured quantity he'd decided to spend. "I'd like to understand how things are done here. One can't contribute to a community without first understanding its architecture."
 

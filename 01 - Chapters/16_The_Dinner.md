@@ -210,6 +210,6 @@ Rosa thought about the pepitas. The way he'd said *in case you need extra*, like
 
 "Both," she said. "Good. Definitely good."
 
-Dave kissed the side of her head. He went upstairs. Rosa finished her wine, wiped the counter and turned off the kitchen light. The house was quiet. Marcus was asleep. Lina's reading light was still on under her door. Tomorrow was Wednesday. The delicata was gone. The Rioja was gone. The evening was gone.
+Dave kissed the side of her head. He went upstairs. Rosa finished her wine, wiped the counter and turned off the kitchen light. The house was quiet. Marcus was asleep. Lina's reading light was still on under her door. Tomorrow was Sunday. The delicata was gone. The Rioja was gone. The evening was gone.
 
 There were still some pepitas left. And the wine. How had he known?

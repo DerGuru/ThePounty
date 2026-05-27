@@ -1,6 +1,6 @@
 # Chapter 3: The HOA Meeting
 
-Sandra had been looking forward to this meeting for eleven days. Not because she enjoyed HOA meetings. Nobody enjoyed HOA meetings. They were two hours of someone reading minutes nobody remembered approving, followed by forty minutes of Diane Kessler from number 15 complaining about the park benches, followed by Gerald falling asleep in his chair and pretending he hadn't.
+Sandra had been looking forward to this meeting for four days. Not because she enjoyed HOA meetings. Nobody enjoyed HOA meetings. They were two hours of someone reading minutes nobody remembered approving, followed by forty minutes of Diane Kessler from number 15 complaining about the park benches, followed by Gerald falling asleep in his chair and pretending he hadn't.
 
 But Aldric Venn had said he would attend.
 

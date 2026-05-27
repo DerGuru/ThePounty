@@ -4,25 +4,25 @@ Gerald was in his study when the Volvo turned onto Maple Lane.
 
 He heard it before he saw it. The engine had a particular sound — older, diesel-adjacent, the kind of low rumble that newer cars didn't make. He'd catalogued it the second Venn moved in. Dark green, 1987 or '88, well-maintained. Not the car of a man who couldn't afford better. The car of a man who'd chosen it.
 
-He looked at the clock. 7:03 PM. Wednesday. He pulled the blinds down one notch and watched.
+He looked at the clock. 7:03 PM. Saturday. He pulled the blinds down one notch and watched.
 
 The Volvo pulled into number four's driveway. Smooth. No correction, no hesitation. One movement from street to spot. The engine stopped. The headlights went off.
 
 Gerald opened the notebook. The pen was already uncapped.
 
-*Sept 11, 19:03 — Subject returns. Three days absent (vehicle absent Mon morning, first noted ~07:00). Vehicle appears unchanged. No visible damage, no new dirt pattern on lower panels. Parked in exact same position as departure.*
+*Sept 21, 19:03 — Subject returns. Two days absent (vehicle absent Thu morning, first noted ~07:00). Vehicle appears unchanged. No visible damage, no new dirt pattern on lower panels. Parked in exact same position as departure.*
 
 Venn stepped out of the car. He walked to the trunk, opened it and removed a dark bag. Small. Canvas. He closed the trunk gently with one hand and walked to the front door.
 
 Gerald leaned closer to the window. This was the part that mattered.
 
-Three days. A man leaves his house for three days and comes back. What does that look like? Gerald had gone to a plumbing convention in Toledo last March. He'd come home tired. Stiff from the drive. Relieved to be back. He'd stood in the driveway for a moment, stretched, looked at his house like he was seeing it fresh. Normal. Human.
+Two days. A man leaves his house for two days and comes back. What does that look like? Gerald had gone to a plumbing convention in Toledo last March. He'd come home tired. Stiff from the drive. Relieved to be back. He'd stood in the driveway for a moment, stretched, looked at his house like he was seeing it fresh. Normal. Human.
 
 Venn unlocked his door. Went inside. No pause. No stretch. No looking up or down, left or right, not at the garden or over at the street. No relief. No adjustment. He moved from his car to the door like it was just a continuation instead of a return.
 
  Five seconds in, the porch light came on.
 
-*Porch lamp activated within 5 seconds of entry. Standard behavior. Light was OFF during entire absence — first observed absence of lamp since subject moved in. Note: lamp has been ON at dusk every evening for 4+ months regardless of subject's porch presence. Three-day absence = first recorded dark period.*
+*Porch lamp activated within 5 seconds of entry. Standard behavior. Light was OFF during entire absence — first observed absence of lamp since subject moved in. Note: lamp has been ON at dusk every evening for nearly 3 months regardless of subject's porch presence. Two-day absence = first recorded dark period.*
 
 He underlined *first recorded dark period*.
 
@@ -58,11 +58,11 @@ Gerald put down his pen. He looked at what he'd written. Three-quarters of a pag
 
 Nothing was wrong. That was the problem.
 
-A man goes away for three days. He comes back. His neighbor brings the mail. He thanks her. He waves at the child. The porch light is on. Nothing is wrong.
+A man goes away for two days. He comes back. His neighbor brings the mail. He thanks her. He waves at the child. The porch light is on. Nothing is wrong.
 
 Gerald picked up the pen again.
 
-*Observations: Subject shows zero indicators of fatigue, stress, relief, or transition after 72-hour absence. No visible luggage beyond single small bag (same as departure?). Physical comportment identical to pre-departure baseline. Clothing different but unremarkable (dark jacket, fitted). Interaction with R. Ortega: standard warmth. Interaction with child: standard engagement. No deviation from established behavioral patterns.*
+*Observations: Subject shows zero indicators of fatigue, stress, relief, or transition after 48-hour absence. No visible luggage beyond single small bag (same as departure?). Physical comportment identical to pre-departure baseline. Clothing different but unremarkable (dark jacket, fitted). Interaction with R. Ortega: standard warmth. Interaction with child: standard engagement. No deviation from established behavioral patterns.*
 
 He stared at the entry. Then he added:
 
@@ -84,9 +84,9 @@ A pause. "It's seven-thirty, Gerald."
 
 She didn't argue. He heard the machine start. He heard the grinder, the drip, the click. Familiar sounds. His house, his wife, his evening. Everything where it should be.
 
-He looked across the street. The porch light at number four burned steady and warm. Through the front window, he could see the reading lamp come on. A shape moved past it — Venn, settling in. Probably the chair by the window. Probably the book. In ten minutes he'd be on the porch with a cup, same as always. Same as every evening for four months, except for the last three weeks when everything had shifted — and now, apparently, shifted back.
+He looked across the street. The porch light at number four burned steady and warm. Through the front window, he could see the reading lamp come on. A shape moved past it — Venn, settling in. Probably the chair by the window. Probably the book. In ten minutes he'd be on the porch with a cup, same as always. Same as every evening for nearly three months, except for the last two weeks when everything had shifted — and now, apparently, shifted back.
 
-Gerald looked at the notebook. The entries from the last three weeks filled six pages. The basement light. The porch absences. The packages — seven of them, by his count. The visitor in the suit. And now: three days gone and back, and nothing to show for it except a man who looked exactly the same.
+Gerald looked at the notebook. The entries from the last two weeks filled six pages. The basement light. The porch absences. The packages — seven of them, by his count. The visitor in the suit. And now: two days gone and back, and nothing to show for it except a man who looked exactly the same.
 
 Sandra brought the coffee. She set it on a coaster on the desk — not on the notebook, never on the notebook, she'd learned that two years ago — and stood behind his chair for a moment.
 
