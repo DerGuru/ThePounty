@@ -21,7 +21,21 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 ## Maple Lane — Hausnummern
 
-*Gerade Nummern auf einer Seite, ungerade gegenüber.*
+*Gerade Nummern auf der Nordseite, ungerade auf der Südseite.*
+
+### Grundriss
+
+```
+                    16 18 20  /‾‾‾‾‾‾|
+2 4 6 8 | 10 12 14   /----\  /       |
+--------------------<   o  |     21  |
+1 3 5 7 |  9 11 13   \----/  \       |
+                    15 17 19  \______|
+```
+
+- `|` = Querstraße (zwischen 7/8 und 9/10)
+- Am Ende: Cul-de-sac (Wendekreis) mit #15–21 im Kreis angeordnet
+- `o` / #21 = Park am Scheitelpunkt des Wendekreises, nach hinten ~3 Grundstücke breit × 3 tief (~9 Grundstücke Fläche). Basketballplatz, Bank, Weg nach Süden.
 
 | # | Bewohner | Seite | Details |
 |---|----------|-------|---------|
@@ -36,16 +50,16 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 9 | Ms. Yuen | ungerade | 83, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
 | 10 | Mieter: Jill & Tom Weaver | gerade | Eigentümer: Blanchard (verzogen). Mitte 40, kinderlos, ruhiges Paar, arbeiten beide remote. Ebene 3. |
 | 11 | Kenny Park | ungerade | Jugendlicher, Mitte Teenager. Ebene 2. |
-| 12 | Mieter: Nadine Solis | gerade | Eigentümer: Pratt (Erbengemeinschaft). Anfang 30, single, Krankenschwester, Nachtschicht. Tagsüber selten sichtbar. Ebene 3. |
+| 12 | Mieter: Nadine Solis | gerade | Eigentümer: Pratt (Erbengemeinschaft). Anfang 30, alleinerziehend, Zwillinge (~6), Krankenschwester, Tagschicht (wegen der Kinder). Ebene 3. |
 | 13 | Steve & Carol Rigby | ungerade | Ende 50, erwachsene Kinder aus dem Haus. Leise. Kümmern sich um ihren Garten. Ebene 3. |
 | 14 | Garcia (Eigentümer, vermietet) | gerade | Wohnen nicht dort. Aktuelle Mieter: Miller. Frühere Mieterin: "quiet girl", braune Haare, 2018/19 weggezogen. Ebene 3. |
-| 15 | Diane Kessler | ungerade | HOA-Schriftführerin, liest Protokolle, beschwert sich über Parkbänke. Ebene 3. |
-| 16 | Dolores Marsh | gerade | 71, lebt seit 40 Jahren hier. Gedächtnis der Straße. Ebene 2. |
-| 17 | Bob Muñoz | ungerade | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
-| 18 | Henderson | gerade | 70+, vor 5 Jahren eingezogen. Ebene 3. |
-| 19 | Tamara Flynn | ungerade | Anfang 40, geschieden, zwei Katzen. Joggt morgens. Kennt jeden vom Sehen. Ebene 3. |
-| 20–22 | *kleiner Park* | gerade | Basketballplatz, Bank, Weg nach Süden |
-| 21 | Parker | ungerade | Vor den Hendersons eingezogen. Kind mit zahlreichen Essensallergien. Ebene 3. |
+| 15 | Diane Kessler | ungerade (Cul-de-sac) | HOA-Schriftführerin, liest Protokolle, beschwert sich über Parkbänke. Ebene 3. |
+| 16 | Dolores Marsh | gerade (Cul-de-sac) | 71, lebt seit 40 Jahren hier. Gedächtnis der Straße. Ebene 2. |
+| 17 | Bob Muñoz | ungerade (Cul-de-sac) | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
+| 18 | Henderson | gerade (Cul-de-sac) | 70+, vor 5 Jahren eingezogen. Ebene 3. |
+| 19 | Tamara Flynn | ungerade (Cul-de-sac) | Anfang 40, geschieden, zwei Katzen. Joggt morgens. Kennt jeden vom Sehen. Ebene 3. |
+| 20 | Parker | gerade (Cul-de-sac) | Kind mit zahlreichen Essensallergien. Ebene 3. |
+| 21 | *Park* | Scheitelpunkt Wendekreis | ~9 Grundstücke Fläche. Basketballplatz, Bank, Weg nach Süden. |
 
 ---
 
@@ -59,7 +73,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Rosa Ortega | 8. März | 1990 | 34 | |
 | Lina Ortega | 4. Mai | 2014 | 10 | |
 | Marcus Ortega | 16. Oktober | 2019 | 5 | Kindergeburtstag-Kapitel im Herbst. |
-| Gerald Hooper | 3. November | 1961 | 63 | |
+| Gerald Robert Hooper | 3. November | 1961 | 63 | |
 | Sandra Hooper | 19. Juni | 1963 | 61 | Vor Aldrics Ankunft (25. Juni). Kein Kontakt. Feier in Buch-Jahr = Ep 43b. |
 | Maria Alvarez | 14. Januar | 1982 | 42 | |
 | Jesús Alvarez | 9. August | 2002 | 22 | Marias Sohn. Mäht ihren Rasen sonntags. |
@@ -121,7 +135,7 @@ Sie macht am Einzugstag mehr Essen als geplant. Sagt nichts dazu. Das ist ihr Ch
 
 | Eigenschaft | Beschreibung |
 |---|---|
-| Ton | Listen. Verdacht. Logik ohne Kontext. Denkt wie ein schlecht kalibrierter Detektiv. |
+| Ton | Listen. Verdacht. Logik ohne Kontext. Denkt wie ein schlecht kalibrierter Detektiv. Kurze Sätze. Direkt. Unterschwelliges Unbehagen, nie Hysterie. Beispiel: „How long does a man spend watching other people's children to write those?" |
 | Sein Aldric | „Zu ordentlich. Zu höflich. Kein Mensch ist so. Was versteckt er?" |
 | Arc | Misstrauen → Bestätigung (er hat recht, Aldric ist nicht normal) → Neudefinition (das ist kein Feind). |
 
