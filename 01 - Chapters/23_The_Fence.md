@@ -6,31 +6,33 @@ It was Saturday. November. The morning had that thin, bright quality that made e
 
 Maria poured her coffee, sat at the kitchen table, and opened Etsy on her phone. Two new orders overnight. A baby blanket in mint and cream for someone in Tucson. A scarf in charcoal merino for a woman in Portland who'd bought from her three times now. Good wool, both of them. She could start the blanket today. The scarf could wait until Monday.
 
-She looked up from the screen. The fence was still there. Of course it was still there. It had been there yesterday, and the day before that, and every day since Carlos had painted it the last time. That had been three years ago. Maybe four. He'd done it on a weekend in spring, with the radio on in the garage and a six-pack of Modelo sweating on the driveway. She'd brought him a sandwich at noon. Jesús had helped with the gate. It had taken them half a day, and the fence had looked new afterward. Clean and white and solid.
+She looked up from the screen. Carlos had painted the fence the last time. That had been three years ago. Maybe four. He'd done it on a weekend in spring, with the radio on in the garage and a six-pack of Modelo sweating on the driveway. She'd brought him a sandwich at noon. Jesús had helped with the gate. It had taken them half a day, and the fence had looked new afterward. Clean and white and solid.
 
-She could call Jesús. He'd come on Sunday. He'd bring paint, brushes, drop cloths. He'd do it in four hours and say "no problem, Ma" and kiss her cheek and drive away. She'd stand in the driveway and watch. Same pattern. Same phone call.
+She could call Jesús. He'd come on Sunday. He'd bring paint, brushes, drop cloths. He'd do it in four hours and say "no problem, Ma" and kiss her cheek and drive away. She'd stand in the driveway and watch. Same pattern. Same phone call. Same woman standing there with coffee while someone else did the thing she couldn't but knew she should be able to do.
 
-She didn't pick up the phone.
+Her hand rested on the phone. She could feel the smooth glass under her thumb.
 
-She finished her coffee, rinsed the mug, and went outside to check the mailbox. Nothing but a flyer for gutter cleaning and a credit card offer addressed to Carlos Alvarez. She threw both in the recycling bin by the garage and stood in the driveway for a moment, arms crossed, looking at the fence from the outside.
+She didn't pick it up.
 
-It was worse from here. The south-facing section had taken the most sun. The paint wasn't just peeling. It was gone in patches, stripped down to bare wood that had weathered to a pale silver. The horizontal rails were better, protected by the pickets above them. But the posts were bad. The top of each post had a flat cap, and water had pooled there for years, softening the paint until it flaked away in sheets.
+She finished her coffee, rinsed the mug, and went outside to check the mailbox. Nothing but a flyer for a cleaning service and a credit card offer addressed to Carlos Alvarez. She threw both in the recycling bin by the garage and stood on the sidewalk for a moment, arms crossed, looking at the fence from the outside.
+
+It was worse from here. The south-facing section had taken the most sun. The paint wasn't just cracked. It was peeling in patches. The horizontal rails were better, protected by the pickets above them. But the posts were bad. The top of each post had a flat cap, and water had pooled there for years, softening the paint until it flaked away in sheets.
 
 She touched one of the pickets. The paint came off on her fingers like chalk. Dry and dead. Underneath, the wood was still sound. Not rotten. Just neglected.
 
-Aldric was in his front yard two houses down, past the empty lot at number six with its overgrown "For Sale" sign. He was doing something at the edge of his property, near the sidewalk. Crouching. She couldn't tell what. It looked like he was examining the base of his mailbox post, running his hand along the wood where it met the ground.
+Aldric was in his front yard two houses down, past the overgrown "For Sale" sign. He was doing something at the edge of his property, near the sidewalk. Crouching. She couldn't tell what. It looked like he was examining the base of his mailbox post, running his hand along the wood where it met the ground.
 
-He stood up, brushed his hands on his pants, and noticed her. Raised one hand in a wave. Not a big wave. Just an acknowledgment. The kind you gave neighbors at eight-thirty on a Saturday morning.
+He stood up, brushed his hands on a handkerchief, and noticed her. He raised one hand in a wave. Not a big wave. Just an acknowledgment. The kind you gave neighbors at eight-thirty on a Saturday morning.
 
 "Good morning, Maria."
 
-He'd walked closer. Not all the way to her, just to the edge of the empty lot between them, where the sidewalk passed the dead lawn of number six. Close enough to talk without raising his voice.
+He'd walked closer. Not all the way to her, just to the edge of the empty lot between them, where the sidewalk passed the dead lawn of number six. Close enough to talk without raising his voice much.
 
 "Morning." She dropped her hand from the fence. "Checking your mailbox?"
 
-"The post is starting to lean. Frost heave, I suspect. I'll need to reset it before it gets worse." He tilted his head slightly, looking past her at the fence. Not staring. Just seeing. Without effort, without judgment. "Your fence could use attention."
+"The post is starting to lean. Frost heave, I suspect. I'll need to reset it before it gets worse." He tilted his head slightly, looking past her at the fence. Not staring. Just seeing. Without effort, without judgment. "Your fence could use some attention, too."
 
-It wasn't a question. It wasn't an offer. It was just a fact, delivered the same way he'd delivered the observation about the mailbox post. A thing that needed doing.
+Just a fact, delivered the same way he'd delivered the observation about the mailbox post. A thing that needed doing.
 
 "I know." She crossed her arms tighter. "It's been on my list."
 
@@ -38,7 +40,7 @@ It wasn't a question. It wasn't an offer. It was just a fact, delivered the same
 
 "Three years. Maybe four." She shrugged. "Carlos did it."
 
-Aldric nodded. He didn't say anything about Carlos. He never did. He'd met Carlos exactly once, at a block party two years before Carlos left, and if he'd formed an opinion, he'd kept it where he kept everything else. Behind that pleasant, neutral surface that gave nothing back.
+Aldric nodded. He didn't say anything about Carlos. He never met Carlos, and if he'd formed an opinion, he'd kept it where he kept everything else. Behind that pleasant, neutral surface that gave nothing back.
 
 "Have you painted a fence before?"
 
@@ -46,7 +48,9 @@ The question was simple. Direct. No subtext she could detect. She thought about 
 
 "No."
 
-"Would you like to learn?"
+The word sat between them. She waited for the follow-up. The offer. *I can do it for you. I know a guy. Your son could—*
+
+"Would you like to?"
 
 She looked at him. He was standing with his hands at his sides, weight even, that calm posture he always had. Not leaning in. Not eager. Just present. Like it didn't matter which way she answered. Like both options were equally fine and he'd go back to his mailbox post either way.
 
@@ -54,7 +58,7 @@ She looked at him. He was standing with his hands at his sides, weight even, tha
 
 "I'd bring the supplies. We'd do it together." He paused. "It's not difficult. But there's a technique that makes the difference between paint that lasts two years and paint that lasts eight."
 
-She almost said no. The reflex was there. The polite decline, the "oh, you don't have to," the automatic deflection she'd used her whole life when someone offered help. But this wasn't an offer to do it for her. She could hear the difference. *We'd do it together.* Not: I'll take care of it. Not: Let me handle that for you.
+She almost said no. The reflex was there. The polite decline, the "oh, you don't have to," the automatic deflection she'd used her whole life when someone offered help. But this wasn't an offer to do it for her. She could hear the difference. *We'd do it together.*
 
 "When?"
 
@@ -64,11 +68,11 @@ She nodded before she could think about it too much. "Okay. Yes. This afternoon.
 
 "I'll come by at one." He raised his hand again, the same small wave, and walked back toward his house. Unhurried. Same pace as before.
 
-Maria went inside. She sat at the kitchen table. The baby blanket yarn was in a bag by the couch, ready to be wound. She didn't touch it. She thought about the fence. About technique. About paint that lasts eight years.
+Maria went inside. She sat at the kitchen table. The baby blanket yarn was in a bag by the couch, ready to be wound. She didn't touch it. She thought about the fence.
 
 She ate lunch at noon. A sandwich and an apple. She changed into old clothes. A faded t-shirt from Jesús's high school, sweatpants with a paint stain on the thigh from when she'd helped Carlos with the bedroom ceiling six years ago. She tied her hair back. She felt ridiculous. It was a fence, not a job interview.
 
-At twelve-fifty, she heard a car door. She looked out the kitchen window. Aldric was unloading things from the back of his Volvo, which he'd pulled up to the curb in front of her house. Cans of paint. A plastic tarp, folded. A paper bag that clinked when he set it on the sidewalk. He made two trips. Everything was placed on her driveway in a neat row, organized by size.
+At twelve-fifty, she heard a car door. She looked out the kitchen window. Aldric was unloading things from the back of his Volvo, which he'd pulled up to the curb in front of her house. Cans of paint. A folded plastic tarp. A paper bag that clinked when he set it on the sidewalk. He made two trips. Everything was placed on her driveway in a neat row.
 
 She came outside.
 
@@ -78,11 +82,11 @@ She came outside.
 
 "How much do I owe you?"
 
-"We can settle that later." His voice made it sound small. Like the topic had been noted and filed and would return when it was relevant. She'd learned not to push. He never forgot.
+"We can settle that later." His voice made it sound small. Like the topic had been noted and filed and would return when it was relevant. 
 
 He handed her a brush. The wide one, three inches. The bristles were stiff and clean, fanned out at the tips. "This is for the flat surfaces. The pickets, the rails. You'll use this for most of it."
 
-She took it. It felt lighter than she'd expected. Simple. Just a wooden handle and bristles. Nothing she couldn't hold.
+She took it. It felt lighter than she'd expected. Simple. Just a wooden handle and bristles. Nothing she couldn't hold. She closed her fingers around it and noticed her grip was too tight. She loosened it. The handle was smooth, cool from the November air.
 
 "Before we paint," he said, "we sand." He tore a sheet of sandpaper from the pack and folded it into thirds. "Just the loose material. You're not stripping it down. You're giving the new paint something to grip." He demonstrated on the nearest picket, three quick strokes downward. The old paint dust fell away in a fine powder. "Always with the grain. Down, not across."
 
@@ -110,9 +114,9 @@ She wiped the excess off, tried again. This time the brush came up right. She se
 
 "Overlap slightly," Aldric said from the next picket over. "The edges blend while it's still wet."
 
-She was already doing it. She'd figured that out on the second stroke. Something warm moved through her chest. Small, unexpected. Not pride. Not yet. Just the absence of failure.
+She was already doing it. She'd figured that out on the second stroke, before he'd said it. Her breath came out in a way she hadn't noticed she'd been holding. Something warm moved through her chest. Small, unexpected. Not pride. Just the absence of failure. The absence of waiting for someone else to tell her what came next.
 
-They worked their way along the front of the fence. Aldric stayed on the end, doing the corner post and the gate, which had more detail. Hinges to tape around, a latch that needed masking. Maria took the straight run of pickets. Twelve of them between the gate and the corner. She counted as she went. Each one took maybe ninety seconds. Dip, wipe, stroke, stroke, stroke. Move. Next picket.
+They worked their way along the front of the fence. Aldric stayed on the end, doing the corner post and the gate, which had more detail. Hinges to tape around, a latch that needed masking. Maria took the straight run of pickets. She counted as she went. Each one took maybe ninety seconds. Dip, wipe, stroke, stroke, stroke. Move. Next picket.
 
 "The edges," Aldric said, after she'd done four. He held up a smaller brush, the narrow one, maybe half an inch wide. "Where the picket meets the rail. Use this one. It gives you control." He demonstrated the angle, brush turned sideways, one clean line where vertical met horizontal. "Take your time on these. The flat sections are forgiving. The edges are what people see."
 
@@ -120,11 +124,11 @@ She took the small brush. It was harder. The tip wanted to wander, to follow the
 
 Aldric didn't say anything. He was painting his post. She could see the line he'd made. Perfectly straight, like he'd used a ruler. She didn't look at it too long.
 
-Her second edge was better. Her third was almost clean. By the fifth, she'd found the angle. Brush turned about thirty degrees, just enough pressure to fan the tip into the groove. It wasn't straight the way his was straight. But it was straight enough.
+Her second edge was better. Her third was almost clean. By the fifth, she'd found the angle. Brush turned about thirty degrees, just enough pressure to fan the tip into the groove. It wasn't straight like his, but it was straight enough.
 
-"You're doing well," Aldric said. No emphasis. No surprise. Just a statement of fact, the same tone as "your fence could use attention." She believed him because he didn't say things to make people feel better.
+"You're doing well," Aldric said in the same tone as ha delivered the "your fence could use some attention, too." 
 
-They worked through the afternoon. The sun moved across the sky, flat and low for November, throwing long shadows from the pickets across the tarp. At two-thirty, Aldric went to his house and came back with two glasses of water and a plate of crackers with cheese. They sat on her porch steps and ate without talking much. Her shoulders ached. A good ache. The kind that came from using muscles for something.
+They worked through the afternoon. The November sun moved across the sky, flat and low, throwing long shadows from the pickets across the tarp. At two-thirty, Aldric went to his house and came back with two glasses of water and a plate of crackers with cheese. They sat on her porch steps and ate without talking much. Her shoulders ached. Her lower back, too, from the bending and straightening. A good ache. The kind that came from using muscles for something real. She stretched her neck and felt the pull all the way down between her shoulder blades. Her hands smelled like primer and sandpaper dust. She looked at them while she ate. They looked like hands that had been doing things.
 
 "The primer needs thirty minutes," Aldric said, looking at the fence. The front section was done. All gray now, uniform, smooth. It looked better already. Even in primer, even before the white topcoat, it looked cared for. "Then we do the topcoat."
 
@@ -132,7 +136,7 @@ They worked through the afternoon. The sun moved across the sky, flat and low fo
 
 "If you'd like. Or tomorrow. The primer will be fine overnight."
 
-"Today," she said. She didn't want to stop. She didn't want to sit in the kitchen tonight looking at a half-finished fence and thinking about whether she'd finish it tomorrow or the day after or never.
+"Today," she said. Faster than she'd meant to. She didn't want to stop. She didn't want to sit in the kitchen tonight looking at a half-finished fence. She wanted to be tired tonight. Properly tired. The kind of tired that came with something to show for it.
 
 At three, they started the topcoat. White this time, thicker than the primer, with a sheen to it that caught the low November light. Same technique. First third, wipe, top to bottom. But the paint went on differently. Smoother. It covered the gray in one pass, bright and clean. Each picket she finished looked new. Actually new. Not painted-over-old. New.
 
@@ -140,7 +144,7 @@ She was faster now. The brush was familiar in her hand. She didn't think about t
 
 Aldric was doing the gate again. The detail work, the second pass around the hinges and the latch. Precise as always, every motion deliberate and unhurried. She watched him for a moment between pickets. He held the brush like it was an extension of his hand. Natural. Like he'd done this a thousand times.
 
-"You've painted a lot of fences," she said.
+"You've painted a lot of fences?" she asked.
 
 "A few." He didn't elaborate. She didn't expect him to. That was one of the things about Aldric that had stopped bothering her. The answers that were true but incomplete. He wasn't hiding anything. He was just economical.
 
@@ -168,11 +172,13 @@ He was already collecting the tarp, folding it into the same neat square it had 
 
 Not "of course." Not "easily." Just *yes*. A fact. She could do it because she'd done it once and the second time was the same, only faster.
 
-He got in the car and drove it the thirty yards back to his own driveway. She heard the engine stop. The door. His front door. Then nothing. Saturday evening on Maple Lane, quiet except for someone's TV two houses over and the distant hiss of a sprinkler that shouldn't have been running in November.
+He got in the car and drove it the thirty yards back to his own driveway. She heard the engine stop. The door. His front door. Then nothing. Saturday evening on Maple Lane, quiet except for a TV two houses over.
 
 Maria stood in her driveway and looked at the fence. The light was going amber, the last hour before sunset, and the white paint seemed to hold it. Warm and solid and there.
 
-Her hands were still covered in paint. She could feel it drying, tightening on her skin. She should go wash. She should start the baby blanket. She should eat something, check her phone, do the dishes from lunch.
+Her hands were still covered in paint. She could feel it drying, tightening on her skin, pulling at the fine hairs on her forearms. The November air was cool now and she should have been cold in her t-shirt but she wasn't. Her body was still warm from the work. Still humming with it, like an engine that hadn't quite shut off.
+
+She should go wash. She should start the baby blanket. She should eat something, check her phone, do the dishes from lunch.
 
 She didn't move. Not yet.
 
@@ -180,7 +186,7 @@ She looked at the fence and thought about the second coat. About the hardware st
 
 She went inside and washed her hands at the kitchen sink. The paint came off in milky streams, white swirling down the drain. Underneath, her hands were red from the water and the work. She dried them on the kitchen towel and stood at the window.
 
-The fence was still white. It would be white tomorrow, too. And next week, after the second coat. And next year, and the year after that. Eight years, he'd said. Eight years before it needed doing again. And when it did, she'd know how.
+The fence was white. Eight years, he'd said. Eight years before it needed doing again. And when it did, she'd know how, now.
 
 She picked up her phone. No messages. She put it back down.
 

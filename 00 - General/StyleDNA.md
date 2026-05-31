@@ -54,6 +54,22 @@ Referenz: `00 - General/POV_Tone_Examples.md`
 
 **Punisher-Ton (bei Eskalation, ~20%):** Düster, knapp, kalt. Die Sätze werden kürzer. Die Wärme verschwindet. Details fallen weg. Was bleibt, ist Präzision ohne Freundlichkeit. Dieser Tonwechsel funktioniert *nur*, weil der Mounty-Ton der Normalzustand ist. Je leichter die Komödie, desto härter der Kontrast.
 
+### Graduelle Annäherung (Kapitel 23–30):
+
+Ab Kapitel 23 wird der Ton schrittweise nahbarer. Die Distanz zwischen Leser und Figuren verringert sich — die POV-Stimmen werden intimer, die emotionalen Beats direkter, die Reflexionen persönlicher. Diese Bewegung ist graduell, nicht sprunghaft:
+
+| Phase | Kapitel | Nähe-Grad |
+|-------|---------|-----------|
+| Beginn | 23–25 | Leichte Öffnung. Die POV-Figuren lassen den Leser tiefer in ihre Unsicherheiten. Weniger Beobachtung, mehr Erleben. |
+| Mitte | 26–28 | Spürbar nahbar. Gedanken werden verletzlicher, Momente dehnen sich. Der Leser ist nicht mehr Beobachter, sondern Mitfühlender. |
+| Voll | 29–30 | Ganz nah. Die Distanz ist aufgehoben. Was die Figuren fühlen, fühlt der Leser mit. Keine Schutzschicht mehr. |
+
+**Mechanik:** Nicht durch explizitere Emotionsdeklaration (das bleibt verboten), sondern durch:
+- Längere Verweildauer bei leisen Momenten
+- Weniger Distanz in den POV-Gedanken
+- Mehr körperliche Verankerung von Gefühl (Hände, Atem, Gewicht)
+- Sätze, die näher am Atemrhythmus der Figur liegen
+
 ### Der Kontrast trägt das Buch:
 
 - Comedy: Seine Ehrlichkeit und Höflichkeit bis zum Erbrechen in alltäglichen Situationen

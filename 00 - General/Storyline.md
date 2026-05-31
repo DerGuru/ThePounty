@@ -91,13 +91,14 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 | 22 | **Officer Kims erster Besuch** | 5. Nov (Di) | Kim | Routine nach dem Contractor-Vorfall. Aldric beantwortet alles. Kim geht mit weniger Informationen als sie kam. | Ruhig, unterschwellig |
 | 23 | **Der Zaun** | 9. Nov (Sa) | Maria | Aldric bietet an, den Zaun zusammen zu streichen. Nicht für sie — mit ihr. Er zeigt, sie macht. Am Ende des Tages hat sie einen gestrichenen Zaun und Farbe an den Händen und etwas, das sich anfühlt wie Kompetenz. | Warm, praktisch, leise Wende |
 | 24 | **Geralds Irrtum** | 14. Nov (Do) | Gerald | Gerald beobachtet Aldric beim Bibliotheksbesuch. Folgt ihm. Entdeckt: er recherchiert Lokalgeschichte. Gerald denkt: *Ich hab mich geirrt. Der Typ ist einfach ein Nerd.* Er schließt das Notizbuch. Für zwei Wochen. | False Security |
-| 25 | **Geralds Datenbank-Fund** | 29. Nov (Fr) | Gerald | Kein LinkedIn, kein Facebook, keine alte Adresse. Der Name existiert erst seit zwei Jahren. Notizbuch wieder offen. Neues Notizbuch. | Thriller-Ton / Punch nach False Security |
+| 25 | **Der Streit nebenan** | 18. Nov (Mo) | Dave | Dave und Rosa haben eine schlechte Woche. Aldric tut etwas Kleines, Präzises, Unsichtbares. | Subtil, warm |
+| 26 | **Geralds Datenbank-Fund** | 29. Nov (Fr) | Gerald | Kein LinkedIn, kein Facebook, keine alte Adresse. Der Name existiert erst seit zwei Jahren. Notizbuch wieder offen. Neues Notizbuch. | Thriller-Ton / Punch nach False Security |
 
 ### Winter (Late November 2024 – Februar 2025) — Die Mitte schärfen
 
 | # | Episode | Datum | POV | Funktion | Ton |
 |---|---------|-------|-----|----------|-----|
-| 26 | **Der Streit nebenan** | 25. Nov (Mo) | Dave | Dave und Rosa haben eine schlechte Woche. Aldric tut etwas Kleines, Präzises, Unsichtbares. | Subtil, warm |
+
 | 27 | **Das Konto** | 2.–9. Dez | Maria | Der Ex lässt das Gemeinschaftskonto sperren. Maria bekommt Post von der Bank — kein Zugriff mehr. Existenzbedrohung: Miete, Strom, Lebensmittel. Sie sitzt am Küchentisch. Aldric bemerkt es (wie immer — nicht weil sie es sagt, sondern weil er liest). Einige Tage später: Anruf vom Anwalt. Der Ex hat den Zugang wiederhergestellt und einer Unterhaltsvereinbarung zugestimmt. Maria weiß nicht, was passiert ist. Aber sie ahnt es. Tier 2.5 — das Ergebnis (ein Mann unterschreibt etwas, das er vorher verweigert hat) impliziert mehr als Worte. | Eskalation, implizierte Drohung |
 | 28 | **Rosas Projekt** | 10. Dez (Di) | Rosa | Rosa fängt als Freiwillige im Community Center an (Nachmittagsprogramm, Hausaufgabenhilfe). Aldric unterstützt — chirurgisch korrekt, fast beunruhigend gezielt. Rosa denkt: *wie WEISS er das?* Dort lernt sie eine Frau kennen, die drei Straßen weiter wohnt. | Rosa-Subplot + People-Reading + Setup Häusliche Gewalt |
 | 29 | **Der Schneesturm** | 16. Dez (Mo) | Dave/Gerald | Strom aus. Aldric hat Generator, Vorräte, Plan. Versorgt die halbe Straße. Bewundernswert *und* verstörend. | Community + Unterton |
