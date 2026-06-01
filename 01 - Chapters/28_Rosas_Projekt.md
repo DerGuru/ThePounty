@@ -94,11 +94,13 @@ She drove home on streets she knew with her eyes closed.
 
 When she pulled into the driveway, Dave's truck was there. The kitchen light was on. Through the window she could see him at the counter, probably starting dinner because she'd told him she'd be late today.
 
-She went inside. Dave had pasta water going and was chopping garlic with the wrong knife. She kissed his shoulder, took the right knife from the block, and handed it to him without a word. He switched without looking.
+She went inside. Dave had pasta water going and was chopping garlic with the wrong knife. She kissed his shoulder and took the right knife from the block.
+
+"I got it," she said. "Go take out the trash before we forget."
 
 "How was it?"
 
-"Good." She leaned against the counter. "Really good. There's this boy, DeShawn. Fractions. Took him some time, but then his whole face lit up."
+"Good." She stirred the sauce he'd started. "Really good. There's this boy, DeShawn. Fractions. Took him some time, but then his whole face lit up."
 
 "Nice."
 
@@ -106,23 +108,23 @@ She went inside. Dave had pasta water going and was chopping garlic with the wro
 
 Dave grinned. "Sounds like Marcus with the Lego."
 
-"Exactly like Marcus with the Lego." Rosa pulled off her shoes and put them by the door. "There's one kid I'm not sure about, though. Fifth grader. She just draws in her notebook the whole time. Won't look up."
+"Exactly like Marcus with the Lego." He grabbed the trash bag and headed for the door, opening it. Rosa called after him: "There's one kid I'm not sure about, though. Fifth grader. She just draws in her notebook the whole time. Won't look up."
 
-"Maybe she doesn't want to be there."
+"Maybe she doesn't want to be there." He turned back to look at her.
 
-"Maybe." Rosa opened the fridge, found the parmesan, set it on the counter. "I don't know. It bugged me."
+"Maybe." Rosa set the spoon down. "I don't know. It bugged me."
 
-A knock on the door frame. Aldric stood at the open front door, one hand raised, the other holding his mug. The cardigan. The evening cold behind him.
+A knock on the door frame. Aldric stood behind Dave, one hand raised, the other holding his mug. The cardigan. The evening cold behind him.
 
 "I saw the light," he said. "I wanted to ask — how was the first day?"
 
-"Come in," Dave said. "We just ate, but there's pasta left."
+"Come in," Dave said. "We are about to eat, there's pasta."
 
-"Thank you, no. I've eaten." He stayed in the doorway. "Rosa?"
+"Thank you, but I've eaten." He stayed in the doorway. "Rosa?"
 
 "It was good." She leaned against the counter. "Really good. There's a boy who finally got fractions today. And a girl building a hamster mansion."
 
-Aldric smiled. "That sounds like a productive afternoon." Aldric nodded. He didn't say anything else about it. He asked Dave about the truck's oil light, said good night, and walked back across the street.
+Aldric smiled. "That sounds like a productive afternoon." He nodded. He didn't say anything else about it. He asked Dave about the truck's oil light, said good night, and walked back across the street.
 
 Rosa watched him go. The porch light came on at his house. Normal evening. Normal neighbor.
 
@@ -132,7 +134,11 @@ Wednesday morning. Rosa was in the front yard pulling dead mums from the border 
 
 "Morning."
 
-He turned, and then, as if it had just occurred to him: "The girl who draws — is she drawing the same thing over and over, or different things each time?"
+"May I ask you a question?" Aldric asked, his voice calm and even, like he was asking for directions to the nearest grocery store.
+
+"Of course."
+
+"The girl who draws — is she drawing the same thing over and over, or different things each time?"
 
 Rosa looked at him. She hadn't told him about Keisha. She'd told Dave. Last night, at the counter, half a sentence before Aldric knocked. He'd been standing in the doorway when she said it. She hadn't even been talking to him.
 
