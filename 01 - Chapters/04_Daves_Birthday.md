@@ -4,9 +4,31 @@ Rosa had started the tradition three years ago. Dave's birthday fell on a Saturd
 
 The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers' kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called "Contingencies" which meant things that would go wrong and whose fault it would be.
 
-Dave's job was the grill. He was good at the grill. He understood the grill. The grill did not have columns. He'd told Rosa he didn't need a party. She'd said "It's not a party, it's a cookout." He'd said "With a guest list." She'd said "It's your birthday, Dave." That had been the end of the discussion.
+Dave's job was the grill. He was good at the grill. He understood the grill. The grill did not have columns. He'd told Rosa he didn't need a party. That had been a week ago and it had not gone anywhere.
 
-He was outside at three, scraping the grate with a wire brush, when Aldric appeared at the fence between their yards. He was carrying a wooden board the size of a small table. It was covered in things Dave couldn’t identify.
+He was outside at three, scraping the grate with a wire brush. Rosa came down the back steps with a tray of marinated chicken and set it on the side table.
+
+"You know what would've been easier," Dave said. He didn't look up from the grate. "Drive out to that panadería off Route 9. The one with the buñuelos."
+
+"Dave."
+
+"Fried to order. Sugar still warm on them. Best I've ever had."
+
+"So you've said."
+
+"Haven't been back since before Marcus was born."
+
+"You've said that too."
+
+"If it were up to me, that's where I'd be tonight. Just me, a paper bag, and six of those things."
+
+"It's a cookout, Dave. It's your birthday."
+
+"With a guest list."
+
+"It's your *birthday*."
+
+Aldric appeared at the fence between their yards. He was carrying a wooden board the size of a small table. It was covered in things Dave couldn’t identify.
 
 "Good afternoon, Dave. Am I early?" He glanced at the grill setup. "And happy birthday."
 

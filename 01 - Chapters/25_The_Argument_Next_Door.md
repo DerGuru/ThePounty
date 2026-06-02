@@ -191,3 +191,23 @@ He finished his beer and went inside. Rosa was reading, already in bed. He brush
 She turned a page. He turned off his lamp. The house was quiet but it was a different quiet now. Not the silence of people avoiding each other. The silence of people who'd said the hard thing and come out the other side.
 
 Dave closed his eyes.
+
+The part arrived Tuesday. Aldric brought it over himself in a small padded envelope, knocked at five-thirty, and apologized for the timing. Rosa let him in. Dave was out getting some groceries.
+
+"I won't stay. I know it's dinner soon."
+
+"Stay for coffee. Dave will be back in twenty minutes."
+
+"Another time. Thank you." He set the envelope on the kitchen table beside Rosa's laptop. There was a library book open beside it. *A Tangle of Knots*. A bookmark stuck out the top, glossy cardstock, four young faces in pink foil. The book was open to a page with a chocolate cake on it — *V’s Mystery Fudge Cake*.
+
+Aldric's eyes touched the page. They moved on.
+
+"They use torx," he said. "If Dave doesn't have one, I have a set. Tell him to come over."
+
+"I'll tell him."
+
+"Good evening, Rosa."
+
+He let himself out.
+
+Rosa stood at the table for a moment with her hand on the envelope. Then she went back to her work.

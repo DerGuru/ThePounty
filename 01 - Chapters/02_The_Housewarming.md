@@ -76,6 +76,18 @@ Gerald looked at his plate. Then at Aldric. "It's medium rare?"
 
 Sandra laughed. Gerald did not laugh. He ate the steak. All of it.
 
+"What about dessert?" Sandra said. "You going to read our minds on that too?"
+
+"I wouldn't dare. Dessert is personal."
+
+Rosa laughed from the porch step. "Mine's easy. Tres leches. My grandmother's. Nobody up here makes it right — they use the wrong milk, or they soak it too long, or they put cinnamon on top like it's a cappuccino." She shrugged. "I've stopped ordering it. It's just disappointing."
+
+"Noted," Aldric said.
+
+Dave snorted. "She's been complaining about tres leches for twenty years. Nothing's ever right."
+
+"Because nothing ever is."
+
 Maria ate her burger and listened. The evening was warm, the porch was full and she was surrounded by people she'd known for decades. And somehow the new person was the one making it feel like home. That was strange. That was a strange thing to think about a man she'd met only a few days ago.
 
 He lived alone. That was the thing she kept coming back to. He lived alone in this house with a rocking chair and a grill he'd bought for the express purpose of feeding other people. He did it like it was easy. He did it like solitude was a room he'd decorated carefully, and company was the door he opened when he chose to, and both states were fine. Both states were his.
