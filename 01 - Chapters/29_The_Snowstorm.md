@@ -52,6 +52,8 @@ They wouldn't. By dinner the snow would be something else entirely.
 
 By five o'clock, it was dark and the snow was still coming. Dave could hear the wind now, pressing against the house in gusts that rattled the screen door. He went to the front window. The streetlights were on, dim halos of white in the falling snow. He couldn't see the Hoopers' house across the street. The snow was that dense.
 
+By six the wind had dropped and the snow had thinned with it, fat flakes drifting down through the streetlight cones. The Hoopers' porch was visible again. Lights on in most of the windows down the block.
+
 And then it happened. The power went out at six-fourteen.
 
 Dave was reheating chili when the microwave stopped mid-cycle, the kitchen lights cut to black, and the hum of the house went silent. The fridge, the radio, the low drone of things running that you never noticed until they stopped. All of it gone.
@@ -88,7 +90,7 @@ Dave looked at the propane heater. It was a good one. Not the cheap kind from th
 
 "You said two heaters. Who else needs one? Maria's alone over there. Ms. Yuen."
 
-"Ms. Yuen gets the generator line. Maria has a fireplace, dry wood, and the camping stove I brought her last week. I checked yesterday afternoon when the forecast updated. She'll be warmer than any of us."
+"Ms. Yuen gets the generator line. Maria has a fireplace and dry wood. I checked yesterday afternoon when the forecast updated. She'll be warmer than any of us."
 
 Dave processed that. *Checked yesterday afternoon when the forecast updated.* Filed it away with the rest.
 
@@ -102,7 +104,7 @@ Dave processed that. *Checked yesterday afternoon when the forecast updated.* Fi
 
 "Of course. Yeah. Go."
 
-Aldric nodded. "I'll come back shortly. The forecast holds twelve to fourteen inches. The furnace won't restart without power, and the heater here will need watching all night. The Hendersons have a fire place, too. If they or Maria have room, you and the children might be warmer there. With your permission, I'll ask."
+Aldric nodded. "I'll come back shortly. The forecast holds twelve to fourteen inches. The furnace won't restart without power, and the heater here will need watching all night. The Hendersons have a fireplace, too. If they or Maria have room, you and the children might be warmer there. With your permission, I'll ask."
 
 Dave looked at Rosa. Rosa looked back. She'd already nodded before he could.
 
@@ -148,11 +150,11 @@ Dave processed the list. Eight people redistributed.
 
 "What about the heater?"
 
-"Put it on the porch please, I'll take it back when I come for the others. The Hoopers have a fireplace, but their bedrooms will be cold by midnight. I'd like to bring it to them."
+"Put it on the porch, please. I'll take it back when I come for the others. I'd like to bring it to the Hoopers, their bedrooms will be cold by midnight."
 
 "Yeah. Take it."
 
-They got their boots on. Aldric carried both duffels. Dave carried Marcus. Rosa held Lina's hand. The snow was past Dave's mid-calf. The cold had teeth. The street was a silent white tunnel between dark houses, with an orange glow at number eight where Maria had put a candle in the front window.
+They got their boots on. Aldric carried both duffels. Dave carried Marcus. Rosa held Lina's hand. The snow was past Dave's mid-calf. The cold had teeth. The snow was still coming down, fat slow flakes pushed by the howling wind. The street was a silent white tunnel between dark houses, with an orange glow at number eight where Maria had put a candle in the front window.
 
 Maria opened the door before they knocked. Warm air. The smell of something cooking. Beans, maybe, with cumin and bay. Dave glanced past her into the kitchen and saw a small green camping stove on the counter, a pot simmering on the single burner. New. The box still folded on the floor beside it. The fireplace in the living room throwing soft heat in a wide arc, the screen pushed aside, fresh wood stacked beside the hearth. She hugged Rosa first. Then she crouched down to Marcus's height and said, "I have hot chocolate. Do you want to help me make it?"
 
@@ -164,7 +166,7 @@ Maria put a hand on his arm. Just briefly. "Thank you, Aldric."
 
 He nodded. He didn't say *you're welcome.* He stepped back into the snow.
 
-Dave stood in Maria's living room with his shoes off and his coat still on and his son already at the kitchen counter, asking about marshmallows. The fire crackled in the hearth. Lina sat on the couch and pulled out her book without ceremony. Rosa was already in the kitchen with Maria.
+Dave stood in Maria's living room with his shoes off and his coat still on. Marcus was already at the kitchen counter, asking about marshmallows. The fire crackled in the hearth. Lina sat on the couch and pulled out her book without ceremony. Rosa was already in the kitchen with Maria.
 
 It was a strange feeling. Safer than his own house. Warmer. Borrowed.
 
@@ -194,9 +196,9 @@ Mapping heat sources.
 
 He walked to number eight. Knocked. Maria opened. Brief conversation, less than a minute. Door closed. He walked the length of the street to number eighteen, a long walk through deep snow, and knocked. Mrs. Henderson opened. Same brief exchange. Same closing door.
 
-He came back to the Ortegas at six-fifty.
+He came back to the Ortegas.
 
-A few minutes later the Ortegas came out. All four of them. Coats, duffels, Marcus on Dave's hip. Aldric carried the bags. They walked together to Maria's. The orange glow swallowed them.
+A minute later the Ortegas came out. All four of them. Coats, duffels, Marcus on Dave's hip. Aldric carried the bags. They walked together to Maria's. The orange glow swallowed them.
 
 Then Aldric went to number twelve. Knocked. Nadine Solis answered with one twin on her shoulder. Conversation. She nodded. Within ten minutes the three of them were bundled up. Aldric carried one twin on each arm. Nadine carried a bag. They walked the length of the street to Mrs. Henderson's, leaving deep parallel tracks. The door at eighteen opened. Yellow candlelight and the orange glow met them.
 
@@ -204,13 +206,13 @@ Then Dolores Marsh, number sixteen. Aldric escorted her four doors over to Ms. Y
 
 Gerald wrote it down. The flashlight was off, but he wrote by the glow of his phone screen, small letters in the notebook he'd reopened three weeks ago:
 
-*16 Dec. Power out 6:14 PM. Venn outside by 6:18. Order: Ortega (heater), Yuen (generator + oxygen). Then stopped in the street and surveyed lit windows. Identified two wood-burning heat sources (Alvarez fireplace, Henderson stove). Negotiated host arrangements in under fifteen minutes. Reassigned eight people across the block. Pairings: Ortega family + Alvarez (friends, children welcome). Solis + twins + Henderson (room for kids, widow alone). Marsh + Yuen (two elderly, longstanding acquaintance). Did not consult anyone before knocking. Knew who would say yes. Did not check on us.*
+*16 Dec. Power out 6:14 PM. Venn outside by 6:18. Order: Ortega , Yuen (brought electricity, must have power generator). Then stopped in the street and surveyed lit windows. Identified two wood-burning heat sources (Alvarez, Henderson). Negotiated host arrangements in under fifteen minutes. Reassigned eight people across the block. Pairings: Ortega family + Alvarez (friends, children welcome). Solis + twins + Henderson (room for kids, widow alone). Marsh + Yuen (longstanding acquaintance). Did not consult anyone before knocking. Knew who would say yes. Did not check on us.*
 
 Gerald set the pen down.
 
-He *did* know that. Gerald and Sandra had blankets, candles, a gas fireplace with a manual igniter. They were fine. Aldric knew they were fine. He hadn't wasted a stop.
+He *did* know that. They were fine. Aldric knew they were fine. He hadn't wasted a stop.
 
-That was the thing. Not the generator. Anyone could buy a generator. Not the supplies. Anyone could be prepared. It was the *triage*. And not even rationing of supplies. *Routing of people.* The instant, wordless sorting of a street full of neighbors into who could host and who needed hosting and which pairings would hold for a night. He'd done it without a phone call, without a list, without asking permission. He knew which houses burned wood. He knew the friendships. He knew Mrs. Henderson would welcome children because her own son had moved away. He knew Maria would say *please bring the children.*
+That was the thing. Not the generator. Anyone could buy a generator. Not the supplies. Anyone could be prepared. It was the *triage*. *Routing of people.* The instant sorting of a street full of neighbors into who could host and who needed hosting and which pairings would hold for a night. He determined which houses burned wood. He knew the friendships. He knew Mrs. Henderson would welcome children because her own son had moved away. He knew Maria would say *yes*.
 
 How long had he been collecting this?
 
@@ -220,15 +222,15 @@ Sandra called from downstairs. "Gerald? I made tea. Do you want some?"
 
 He stayed at the window. Aldric was back now, coming up his own driveway. He went into the garage. Gerald could see the door go up, the warm light of the generator inside, something organized on shelves that he couldn't make out from this distance. Aldric came back out carrying a large pot with both hands, a stack of bowls balanced on top, and a bag over his shoulder. He walked the length of the street to Mrs. Henderson's. Stayed two minutes. Walked back. Second trip: smaller pot, two thermoses, walked to Ms. Yuen's. Two minutes. Back.
 
-Soup. Gerald could almost laugh. The man had a generator, two propane heaters, fuel for twelve hours, an oxygen-capable power extension, and two pots of soup ready to go at six-thirty on a Monday evening. At least two. Probably more.
+Soup. Gerald could almost laugh. The man had a generator, and two pots of soup ready to go. At least two. Probably more.
 
 Who has soup ready? Gerald thought. Who has *all of this* ready?
 
-Sandra appeared at the study door. "Gerald, come downstairs. It's cold up here."
+Sandra appeared at the study door. "Gerald, come downstairs. It's cold up here. Good thing, we have a gas stove. The kitchen will be warmer than the living room."
 
 "One moment."
 
-"You're watching him again."
+"You're watching him again?"
 
 Gerald didn't answer. Sandra sighed and went back down. He heard her footsteps on the stairs, the creak of the fifth step, the kitchen door.
 
@@ -236,7 +238,7 @@ At seven-thirty, there was a knock on their front door. Gerald went down. Sandra
 
 Aldric stood on the porch with a propane heater in one hand and a small bag in the other. No lantern this time, just the heater and the bag and that face. Calm. Present. Snow melting on his shoulders.
 
-"Good evening, Sandra. Gerald. Your gas fireplace will keep the living room comfortable, but your bedrooms will drop into the forties by midnight. I have a spare heater. May I bring it in?"
+"Good evening, Sandra. Gerald. I have a spare heater. May I bring it in?"
 
 Sandra stepped aside before Gerald could say anything. "Aldric, you're a saint. Of course."
 
@@ -250,21 +252,19 @@ Aldric looked at him. Not defensive. Not amused. Just present.
 
 "I keep a few supplies for situations like this."
 
-"You said that before."
-
-"I did."
+"Why? I mean, how did you know?" Gerald was fumbling for words.
 
 Sandra took the bag. "Gerald, let him work."
 
-Aldric set up the heater in the upstairs hall, where the warmth would reach both bedrooms. He adjusted the output without looking at the dial. He checked the clearance from the wall. He showed Gerald where the shutoff valve was, twice, slowly.
+Aldric set up the heater in the upstairs hall, where the warmth would reach the connecting rooms. He adjusted the output without looking at the dial. He checked the clearance from the wall. He showed Gerald where the shutoff valve was, twice, slowly.
 
 At the door, putting his hat back on, he said: "The storm should pass by two or three AM. Power restoration is likely by morning. They're working on the substation on Birch."
 
 "How do you know that?" Gerald said.
 
-Aldric smiled. "I called them. The automated line gives estimated times, but if you wait for an operator and ask for the dispatch supervisor, they'll give you the actual repair timeline. It's public information. They just don't volunteer it."
+Aldric smiled. "I called them. The automated line gives a conservative estimation of times, but if you wait for an operator and ask for the dispatch supervisor, they'll give you the actual repair timeline. It's public information. They just don't volunteer it."
 
-He said good night. He went home.
+He said good night and went home.
 
 Sandra closed the door. "Stop staring, Gerald. The man brought us a heater in a blizzard."
 
@@ -272,13 +272,13 @@ Gerald stood in the hallway with the bag in his hand.
 
 *If you wait for an operator and ask for the dispatch supervisor.*
 
-Who talks like that? Who *thinks* like that? Not a retired accountant. Not a consultant. Not anyone who'd lived a normal life in a normal sequence. That was the language of someone who'd spent years navigating systems designed to keep people out. Someone who knew that every gatekeeper had a backdoor, because he'd used them. All of them. His whole life.
+Who knows this? Who *thinks* like that? Not a retired accountant. Not a consultant. That was the language of someone who'd spent years navigating systems designed to keep people out. Someone who knew that every gatekeeper had a backdoor, because he'd used them. 
 
 Gerald went to the kitchen. The soup was good. Lentil, ham, root vegetables. It was very good.
 
-He ate it. He didn't enjoy it as much as Sandra did.
+He ate it, although he didn't enjoy it as much as Sandra did.
 
-At nine o'clock, the snow slowed. By ten, it had stopped. The street was buried under eleven inches of silence. No plows. No cars. No sound except the wind settling and the occasional crack of a branch under the weight.
+At nine o'clock, the snow slowed even more. By ten, it had almost stopped. The street was buried under eleven inches of silence. No plows. No cars. No sound except the wind settling and the occasional crack of a branch under the weight.
 
 Dave stood on Maria's front porch with a blanket around his shoulders. The kids were asleep upstairs in Maria's guest room, sharing the queen bed. Rosa was at the kitchen table with Maria, both of them with hands around mugs, talking softly in Spanish. The fireplace was still throwing heat through the open archway. The house smelled like cumin and cinnamon and old books.
 
@@ -288,11 +288,11 @@ Dave watched for longer than he meant to. Then he went back inside and locked th
 
 He woke at five-forty to the sound of a shovel on concrete. The guest room was warm. Marcus was curled against Lina's back. Dave got up without waking them and went to the window. It was still dark.
 
-Aldric was shoveling the sidewalk in front of Maria's house. He'd already done the Ortegas' front walk across the street. Dave could see the cleared rectangle from up here. Now Aldric was working on Maria's path. His breath came in even clouds. Steady rhythm. Methodical. He'd been out here for a while. Dave could tell by how much was already cleared. At least thirty minutes. Maybe more.
+Aldric was shoveling the sidewalk in front of Maria's house. He'd already done the Ortegas' front walk three doors down. Dave could see the cleared rectangle from up here. Now Aldric was working on Maria's path. His breath came in even clouds. Steady rhythm. Methodical. He'd been out here for a while. Dave could tell by how much was already cleared. At least thirty minutes. Maybe more.
 
-The power came back at six-twelve. Dave heard it in his own house from across the street: the porch light blinked on, then the kitchen window. He felt the relief in his chest before he understood why.
+The power came back at around six. Dave saw his own house down the block: the porch light blinked on. He felt the relief in his chest before he understood why.
 
-He went downstairs. Maria was already up, making coffee on her gas stove. She handed him a mug without asking. "Power's back at your place."
+He went downstairs. Maria was already up, making coffee on the camping stove. She handed him a mug without asking. "Power's back at your place."
 
 "I saw."
 
@@ -300,7 +300,7 @@ He went downstairs. Maria was already up, making coffee on her gas stove. She ha
 
 Dave got dressed in yesterday's clothes and went outside with two mugs. The cold hit him hard. The snow was past his shins. Everything was white and still. The sky was clear for the first time in sixteen hours.
 
-Aldric was three houses down already, working on Mrs. Henderson's walkway. His jacket was open. He wasn't wearing gloves.
+Aldric was at the cul-de-sac already, working on Mrs. Henderson's walkway. His jacket was open. He wasn't wearing gloves.
 
 "Hey," Dave called. "You've been out here since before six?"
 
@@ -310,7 +310,7 @@ Aldric looked up. "Five-twenty. Good morning, Dave. How are the children?"
 
 Aldric took it with both hands and said thank you with the kind of sincerity that made Dave feel like he'd done something significant instead of just carrying a mug across the street.
 
-"I'll do the rest. You should bring your family home. The heat is on."
+"I'll finish this. You should wait a bit, before you bring your family home. The heat is on, but it'll take some time, before the house is warm again."
 
 "I'll help you finish first."
 
@@ -318,13 +318,13 @@ Aldric considered. Then nodded.
 
 They shoveled together for an hour. Gerald came out at seven. He had his own shovel. He didn't say anything, just started on his side of the street. The three of them worked in the cold morning until every walk on the block was clear.
 
-Aldric finished last. He leaned the shovel against his garage wall and looked down the street at the work they'd done. Clean paths. Every house accessible.
+Aldric leaned the shovel against his garage wall and looked down the street at the work they'd done. Clean paths. Every house accessible.
 
 "Thank you both," he said. "Gerald, keep the heater as long as you need it. If you don't need the batteries, I'd like them back for next time."
 
 "Next time," Gerald said.
 
-Aldric smiled. "It's December. There will be a next time."
+Aldric smiled. "It's December. There might be a next time."
 
 He went inside.
 
@@ -338,15 +338,15 @@ Dave stood in the street with Gerald for a moment. Both breathing hard. Both loo
 
 "Yeah."
 
-Gerald was quiet for a long time. Then he said: "I don't know anyone who keeps two propane heaters and a generator and twelve hours of fuel and soup. All at the same time. On a Monday."
+Gerald was quiet for a long time. Then he said: "I don't know anyone who keeps propane heaters and a generator and prepares soup, before the storm."
 
 Dave looked at him. Gerald's face was red from the cold and something else. Something working behind his eyes.
 
-"He's just careful," Dave said. "Some people are just careful."
+"He's just prepared," Dave said. "Some people are prepared for everything."
 
-Gerald nodded. He didn't look like he believed it. He went back inside.
+Gerald nodded. He didn't look like he believed it, but he went back inside without saying another word.
 
-Dave stood alone in the clean street. The sun was coming up over the rooftops, pale and winter-thin. Mrs. Henderson's lights were on at the cul-de-sac. Smoke from her chimney. Ms. Yuen's living room light was steady. Maria's front door opened across the street and Marcus stepped out in his coat and boots, looking for him.
+Dave stood alone in the clean street. The sun was coming up over the rooftops, pale and winter-thin. Mrs. Henderson's lights were on at the cul-de-sac. Smoke from her chimney. Ms. Yuen's living room light was steady across the way. Maria's front door opened three doors down and Marcus stepped out in his coat and boots, looking for him.
 
 It was a good street. He lived on a good street with good people, and one of them happened to have a generator and soup and the instinct to put eight neighbors in the right three houses on a Monday night.
 
