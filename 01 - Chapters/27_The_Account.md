@@ -50,7 +50,7 @@ That afternoon, she was getting the mail when Aldric came out with his recycling
 
 "Everything alright?"
 
-She should have said fine. She said, "Richard froze the bank account."
+She should have said fine. She said, "Carlos froze the bank account."
 
 Aldric was quiet for a moment. Then he nodded. "I'm sorry. That's a difficult thing to deal with on top of everything else." He set the bin down. "Is your attorney handling it?"
 
@@ -102,7 +102,7 @@ Thursday and Friday passed. She shipped the baby blanket. She took two new order
 
 Saturday. Maria was in her kitchen when the phone rang. Her attorney.
 
-"Maria. I have good news." He sounded surprised. Attorneys didn't usually sound surprised. "Richard's counsel contacted me this morning. Your ex has agreed to restore full access to the joint account effective Monday. Additionally, he's signed an interim support agreement. He continues the mortgage payments directly, plus five hundred a month to you for living expenses. Backdated to November first."
+"Maria. I have good news." He sounded surprised. Attorneys didn't usually sound surprised. "Carlos's counsel contacted me this morning. Your ex has agreed to restore full access to the joint account effective Monday. Additionally, he's signed an interim support agreement. He continues the mortgage payments directly, plus five hundred a month to you for living expenses. Backdated to November first."
 
 Maria sat down. "He did that?"
 
@@ -114,7 +114,7 @@ Maria sat down. "He did that?"
 
 Maria thanked him. She hung up. She sat in her kitchen and looked at the wall.
 
-Richard wasn't the type to reconsider anything. He just didn't. Richard decided, and then the world arranged itself around his decision, and if it didn't, he pushed harder until it did. That was who he was. That was who he had always been.
+Carlos wasn't the type to reconsider anything. He just didn't. Carlos decided, and then the world arranged itself around his decision, and if it didn't, he pushed harder until it did. That was who he was. That was who he had always been.
 
 Someone had changed his mind. Someone had made reconsidering seem like the better option.
 
@@ -122,6 +122,6 @@ She thought about the paper. The handwriting. The three phone numbers, and the S
 
 She stayed in her kitchen. She breathed. And she understood, for the first time clearly, that whatever Aldric Venn was, whatever he had been before Maple Lane, whatever he did on those mornings when he left early and came back after dark, he had done this for her. Quietly. Without asking. Without explaining.
 
-The five hundred would arrive on Monday. The mortgage would stay paid. Richard had reconsidered his position.
+The five hundred would arrive on Monday. The mortgage would stay paid. Carlos had reconsidered his position.
 
 Maria peeled a Satsuma. Her hands were steady. She ate it slowly, standing at the counter, looking out the window at the street where nothing ever happened.

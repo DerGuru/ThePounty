@@ -6,9 +6,9 @@ A physical, handwritten, ruled-paper list in a second notebook. The first notebo
 
 The list said:
 
-*June 14: Amazon box, Alvarez. Delivered 2:14 PM. Gone by 4:30 PM. Mrs. Alvarez reports "never arrived."*
-*June 18: FedEx, Parkers. Delivered 11:40 AM. Gone by 1:00 PM. Filed complaint with carrier.*
-*June 22: USPS Priority, Muñoz. Delivered 3:05 PM. Gone by 5:15 PM. Third incident.*
+*July 14: Amazon box, Alvarez. Delivered 2:14 PM. Gone by 4:30 PM. Mrs. Alvarez reports "never arrived."*
+*July 18: FedEx, Parkers. Delivered 11:40 AM. Gone by 1:00 PM. Filed complaint with carrier.*
+*July 22: USPS Priority, Muñoz. Delivered 3:05 PM. Gone by 5:15 PM. Third incident.*
 
 Three packages in eight days. Same street. Same pattern: delivered when residents were at work or indoors, gone within two hours. The carriers were different. The times were different. But the window was consistent. Always midday. Always Maple Lane.
 
@@ -147,7 +147,7 @@ He paused. Then:
 *Questions:*
 *1. "Had a conversation." What does that mean? Tyler "enthusiastically" agreed. What made it enthusiastic?*
 *2. He went outside the moment the Honda left. Not before. After. He was watching it and chose not to act until it moved.*
-*3. Coat on at eleven-thirty in June. Why?*
+*3. Coat on at eleven-thirty in July. Why?*
 *4. He identified the vehicle, traced it to Birch Street, found the driver, and resolved the situation. In a week. With walks.*
 *5. "I merely followed it to its conclusion." That's what he said. Like it was simple. Like anyone could have done it.*
 

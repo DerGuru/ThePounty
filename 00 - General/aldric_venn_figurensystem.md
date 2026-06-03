@@ -301,9 +301,9 @@ Sie ist nicht sein Feind. Sie ist sein Gegenüber in einem System, das er respek
 ### Der Marktmann
 **Funktion:** Erste Demonstration des Gerechtigkeitsprinzips.
 
-Gibt zu wenig heraus. Drei Cent. Immer. Nicht aus Bosheit — aus Gewohnheit, weil es nie jemanden gestört hat.
+Gibt zu wenig heraus. Meist einen Vierteldollar, bei wechselnden Kunden. Nicht aus Bosheit — aus Gewohnheit, weil es nie jemanden gestört hat.
 
-Aldric kauft selbst ein — und gibt ihm exakt drei Cent zu wenig zurück. Freundlich. Mit einem Lächeln. Der Marktmann versteht. Aldric kauft dort nie wieder ein. Er empfiehlt ihn auch nie weiter. Das reicht.
+Aldric kauft selbst ein — und gibt ihm exakt fünfundzwanzig Cent zu wenig zurück. Freundlich. Mit einem Lächeln. Kauft dann ein zweites Glas „für genau zwölf Dollar" und erwähnt höflich, dass der Marktmann sonst seine Stand-Lizenz verlieren könnte. Der Marktmann versteht. Aldric kauft dort nie wieder ein. Er empfiehlt ihn auch nie weiter. Das reicht.
 
 ---
 

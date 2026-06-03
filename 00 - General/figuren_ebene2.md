@@ -23,15 +23,15 @@ Ebene-2-Figuren sind keine Staffage. Sie sind die Textur der Straße — das, wa
 **Funktion:** Erste sichtbare Demonstration des Gerechtigkeitsprinzips.
 
 **Wer er ist:**
-Ray Kowalski betreibt seit neunzehn Jahren den Obst- und Gemüsestand auf dem Samstagmarkt zwei Blocks von Maple Lane. Er ist nicht böse. Er ist bequem. Irgendwann hat er angefangen, beim Herausgeben zu runden — nach unten, immer nach unten, immer drei bis fünf Cent — und niemand hat es je angesprochen, weil es zu wenig war um einen Streit zu rechtfertigen und zu oft passierte um Zufall zu sein. Das ist sein System. Es hat nie jemanden gestört.
+Ray Kowalski betreibt seit neunzehn Jahren den Marmeladen- und Honigstand auf dem Samstagmarkt zwei Blocks von Maple Lane. Er ist nicht böse. Er ist bequem. Irgendwann hat er angefangen, beim Herausgeben zu runden — nach unten, immer nach unten, meist um eine Vierteldollarmünze bei wechselnden Kunden — und niemand hat es je angesprochen, weil es zu wenig war um einen Streit zu rechtfertigen und zu oft passierte um Zufall zu sein. Das ist sein System. Es hat nie jemanden gestört.
 
 Bis jetzt.
 
 **Ton (wie andere ihn wahrnehmen):**
-Laut, herzlich, kennt alle beim Vornamen außer den Neuen. Ruft Preise aus. Gibt Tipps, welche Tomaten diese Woche gut sind. Das Rausgeben macht er schnell und nebenbei, was hilft.
+Laut, herzlich, kennt alle beim Vornamen außer den Neuen. Ruft Preise aus. Gibt Tipps, welche Sorte diese Woche neu ist. Das Rausgeben macht er schnell und nebenbei, was hilft.
 
 **Sein Aldric:**
-Er bemerkt ihn zuerst nicht. Aldric kauft drei Mal, zahlt genau, sagt immer danke. Beim vierten Mal gibt Ray zu wenig heraus. Aldric zählt nach, lächelt, sagt nichts. Beim fünften Mal gibt Aldric Ray beim Bezahlen exakt drei Cent zu wenig. Lächelt. Wartet.
+Er bemerkt ihn zuerst nicht. Aldric kauft, zahlt genau, sagt danke. Beim entscheidenden Samstag gibt Aldric beim Bezahlen exakt fünfundzwanzig Cent zu wenig, lässt Ray nachzählen, kauft dann ein zweites Glas „für genau zwölf Dollar". Sagt höflich, dass Ray seinen Standplatz verlieren könnte, wenn das jemand anderes bemerkt.
 
 Ray starrt auf die Münzen.
 
@@ -48,7 +48,7 @@ Ray taucht gelegentlich im Hintergrund auf — auf dem Markt, beim Gemeindegrill
 
 > Dave sah es nicht, aber Rosa erzählte es ihm später. Aldric hatte beim Bezahlen gezählt. Nicht hektisch, nicht auffällig. Einfach gezählt, wie man eine Uhrzeit abliest.
 > 
-> Dann hatte er drei Cent auf den Tresen gelegt, extra, separat von dem Rest.
+> Dann hatte er einen Vierteldollar auf den Tresen gelegt, extra, separat von dem Rest.
 > 
 > „Ich glaube, das gehört Ihnen noch,” hatte Ray gesagt.
 > 

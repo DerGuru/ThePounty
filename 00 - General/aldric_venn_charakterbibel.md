@@ -575,9 +575,9 @@ Japanische 4-Akt-Struktur ohne erzwungenen Konflikt. Die Wendung entsteht nicht 
 
 **Beispiel:**
 
-> Ki: Marktdienstag. Frau Ortega kauft Tomaten. Alles normal.
-> Shō: Aldric bemerkt, dass der Händler immer denselben Kunden zu wenig herausgibt. Drei Cent. Immer.
-> Ten: Er kauft selbst ein — und gibt dem Händler exakt drei Cent zu wenig zurück. Freundlich. Mit einem Lächeln.
+> Ki: Samstagmarkt. Eine Nachbarin kauft Marmelade. Alles normal.
+> Shō: Aldric bemerkt, dass der Händler bei wechselnden Kunden zu wenig herausgibt. Meist einen Vierteldollar.
+> Ten: Er kauft selbst ein — und gibt dem Händler exakt fünfundzwanzig Cent zu wenig zurück. Freundlich. Mit einem Lächeln.
 > Ketsu: Der Händler versteht. Aldric kauft dort nie wieder ein. Er empfiehlt ihn auch nie weiter. Das reicht.
 
 ### Story Circle
