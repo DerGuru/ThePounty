@@ -16,7 +16,7 @@ Aldric's front yard smelled like charcoal and something herbal she couldn't iden
 
 "Yes."
 
-"Then it's an act of generosity, not a side dish. Thank you." He carried it to the fold-out table on the porch where three other dishes were already waiting. A pasta salad that was definitely Rosa's, a cheese plate with the plastic wrap still half on, and something in a Tupperware container she didn't recognize. She place the tacos next to the guacamole and stepped back.
+"Then it's an act of generosity, not a side dish. Thank you." He carried it to the fold-out table on the porch where three other dishes were already waiting. A pasta salad that was definitely Rosa's, a cheese plate with the plastic wrap still half on, and something in a Tupperware container she didn't recognize. She placed the tacos next to the guacamole and stepped back.
 
 Maria stood there for a moment. She should talk to people. She knew every single person here. She'd known most of them for over twenty years. This should not feel difficult. Yet somehow it did.
 

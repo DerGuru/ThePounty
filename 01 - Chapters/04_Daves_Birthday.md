@@ -110,7 +110,7 @@ She went back to the food table. Dave stayed at the grill. He didn’t know what
 
 An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his third beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who'd charged her two hundred dollars to tighten a pipe. The story involved hand gestures. Mrs. Alvarez laughed at the right moments, but when Sandra paused for breath, she said something about her own week — her lawyer hadn't returned her calls, the paperwork was sitting somewhere between two offices, and nobody seemed to think it was important. Sandra squeezed her arm. "Men," she said, which covered approximately none of the actual problem but all of the sentiment. 
 
-Aldric had went to playground and was crouching in the grass near the swing set now. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
+Aldric had gone to the playground and was crouching in the grass near the swing set now. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
 
 “What’s that?” Aldric said to the kid.
 

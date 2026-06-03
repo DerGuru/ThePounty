@@ -149,7 +149,7 @@ He asked Dave about the neighborhood. How long they’d been here. Eleven years,
 
 "And children?" Aldric asked. "Are there children on the street?"
 
-Rosa answered that one. "Ours. Three. The oldest is ten, the youngest just started kindergarten. The Hoopers' son is grown. He visits sometimes, brings the grandkids. Maria at number eight has a boy, but he just moved out. The Chens are too young for kids. Or too smart." She almost smiled again. "The Greens have a daughter, fifteen. And the dog. That counts, according to them."
+Rosa answered that one. "Ours. Lina is ten and Marcus turns six in October. The Hoopers' son is grown. He visits sometimes, brings the grandkids. Maria at number eight has a son, but he just moved out. The Chens are too young for kids. Or too smart." She almost smiled again. "Nadine Solis at twelve has twins, about Marcus's age. Kenny Park at eleven is eighteen, lives alone, technically still a teenager if anyone asks. The Greens have a daughter, fifteen, and the dog. That counts, according to them. And the Parkers up in the cul-de-sac have a boy, seven or eight, allergic to everything that tastes good."
 
 Aldric nodded. He made a note.
 

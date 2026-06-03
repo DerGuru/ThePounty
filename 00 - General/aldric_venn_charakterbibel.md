@@ -200,6 +200,24 @@ Running Gag und Community-Symbol. Der Rahmen steht das ganze Buch über leer auf
 
 Resolution: Das Gruppenfoto vom Frühlingsfest kommt hinein. Der Rahmen war nie für Miranda gedacht — er war für die Straße. Das Versprechen (Miranda) läuft parallel, hat aber kein physisches Objekt im Haus.
 
+### Die 48 Stunden — der Jahresaudit
+
+Einmal im Jahr nimmt sich Aldric ein festes Fenster für sich allein: **vom Abend des 24. Dezember bis zum Abend des 26. Dezember.** Knapp 48 Stunden. Konsequent. Niemals Ausnahme. Das Fenster ist nicht verhandelbar.
+
+Drei Schichten, in dieser Reihenfolge:
+
+1. **Hauptgrund: Audit.** Christmas ist sein interner Stichtag. Einmal im Jahr setzt er sich allein hin, holt die Akten heraus — die Notizen zu *ihr*, zu den Menschen unter seinem Schutz, zur Frage, ob der Codex noch hält und ob er noch das ist, was er sein wollte. Säkulare Gewissenserforschung. Ein Codex, der jeden Tag neu entschieden wird, braucht einen jährlichen Ankerpunkt. Christmas ist das Fenster, in dem die Welt um ihn herum still genug wird, um die Architektur zu inspizieren — keine Geschäfte, keine Anrufe, keine operativen Signale. Für ihn ist es kein Fest, sondern die wichtigste Arbeit des Jahres. Arbeit an sich selbst. Zwei Tage, weil ein Tag nicht reicht: Der 25. ist die Inspektion, der 26. ist das Nachjustieren und das Schreiben dessen, was im kommenden Jahr anders sein muss.
+
+2. **Nebeneffekt: Erleichterung.** 363 Tage im Jahr performt er Menschlichkeit — Lächeln konstruiert, Wärme konstruiert, Anteilnahme übersetzt. Christmas ist die Phase mit der höchsten emotionalen Erwartungsdichte: spontane Wärme, geteilte Rührung, Familie als Selbstverständlichkeit. Genau das, was er nur *bauen* kann. Allein zu sein in diesem Fenster ist Wartung: kein Publikum, keine Konstruktion, keine Sprache. Er sucht die Ruhe nicht — er nutzt sie. Aber er würde nicht lügen, wenn jemand fragte, ob er die Tage genießt.
+
+3. **Faktenlage: keine Familie.** Niemanden zum Hingehen, niemanden zum Empfangen. Kein Bedauern, keine Lücke. Wenn er Einladungen annähme, säße er in einer fremden Familienfeier und würde so tun, als wäre es seine. Das verstößt gegen seine Regel emotionaler Aufrichtigkeit. Er nimmt nicht, was er nicht zurückgeben kann.
+
+**Die Kerze im Fenster.** Kein Schmuck. Markierung. Einmal im Jahr ein Zeichen für den Anderen — dass das Versprechen noch steht. Brennt durch das gesamte Fenster, wird am Abend des 26. ausgeblasen. Audit abgeschlossen.
+
+**Ablauf:** Heiligabend bis spätestens 16 Uhr letzte Botengänge auf der Straße, Geschenke verteilt. Danach Tür zu. Ein Gedeck. Ein Glas Wein. Ein Buch (oder Akten). Lange, langsame Mahlzeiten. Spaziergänge nur zu Stunden, in denen die Straße leer ist. Kein Anruf raus, keiner rein. **Es wird nicht aufgemacht.** Wer am 25. oder 26. klopft, bekommt keine Antwort — auch wenn das Licht brennt, auch wenn die Kerze sichtbar ist, auch wenn Bewegung im Haus zu sehen ist. Einzige Ausnahme: erkennbarer Krisenfall auf der Straße (Feuer, medizinischer Notfall, Kind in Gefahr, sichtbare Bedrohung der Menschen unter seinem Schutz). Dann ist er sofort an der Tür, voll funktionsfähig, Audit unterbrochen. Sobald die Lage geklärt ist, zurück ins Fenster. Am Abend des 26. wieder ansprechbar, am 27. zurück im normalen Tagesablauf.
+
+**Wenn jemand fragt:** *"It isn't sadness. It's a choice."* Das ist die ehrlichste Aussage, die er auf der Straße je macht — alle drei Schichten stützen sie. Er muss nichts performen. Wer genau hinhört, merkt, dass darunter noch mehr Wahrheit liegt. Aber er erklärt sie nicht.
+
 ### Was auf der Seite landet
 
 Nichts davon direkt. Alles davon indirekt.

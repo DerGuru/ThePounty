@@ -49,7 +49,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, mitten in der Scheidung (Sohn ausgezogen → nichts mehr gemeinsam). Scheidung läuft noch — potentieller Storyline-Strang. |
 | 9 | Ms. Yuen | ungerade | 83, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
 | 10 | Mieter: Jill & Tom Weaver | gerade | Eigentümer: Blanchard (verzogen). Mitte 40, kinderlos, ruhiges Paar, arbeiten beide remote. Ebene 3. |
-| 11 | Kenny Park | ungerade | Jugendlicher, Mitte Teenager. Ebene 2. |
+| 11 | Kenny Park | ungerade | 18, gerade noch offiziell Teenager — darf allein leben. Ebene 2. |
 | 12 | Mieter: Nadine Solis | gerade | Eigentümer: Pratt (Erbengemeinschaft). Anfang 30, alleinerziehend, Zwillinge (~6), Krankenschwester, Tagschicht (wegen der Kinder). Ebene 3. |
 | 13 | Steve & Carol Rigby | ungerade | Ende 50, erwachsene Kinder aus dem Haus. Leise. Kümmern sich um ihren Garten. Ebene 3. |
 | 14 | Garcia (Eigentümer, vermietet) | gerade | Wohnen nicht dort. Aktuelle Mieter: Miller. Frühere Mieterin: "quiet girl", braune Haare, 2018/19 weggezogen. Ebene 3. |
@@ -87,6 +87,10 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Hector Blum | 17. November | 1966 | 58 | |
 | Dolores Marsh | 8. Mai | 1953 | 71 | Nr. 16 — 40 Jahre auf der Straße. |
 | Hoopers' Sohn | 25. März | 1990 | 34 | Name offen. Besucht mit Enkeln. |
+| Kenny Park | 2. Februar | 2006 | 18 | #11. Gerade noch Teenager — darf allein leben. |
+| Mateo Solis | 11. März | 2018 | 6 | #12. Zwilling. |
+| Mia Solis | 11. März | 2018 | 6 | #12. Zwilling. |
+| Indigo Parker | 24. August | 2017 | 7 | #20 (Cul-de-sac). Zahlreiche Essensallergien. |
 | Aldric Venn | unbekannt | 1981 | 43 | Wird nie erwähnt. Niemand auf der Straße kennt sein Geburtsdatum. |
 
 ---

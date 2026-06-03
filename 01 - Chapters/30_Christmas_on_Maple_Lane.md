@@ -6,15 +6,15 @@ The radio in the kitchen was playing the station that did Christmas music for si
 
 It was three in the afternoon on Christmas Eve. The light coming through the window was the pale flat winter kind that made every color look honest.
 
-Rosa cut a length of ribbon, tied it once, and decided it was good enough.
+Rosa cut a length of ribbon, tied it, and decided it was good enough.
 
-She got up to check the ham. The kitchen was warm. The oven was on low. The pot of mole was on the back burner, lid on, doing what mole did when you left it alone for an hour. Twenty-three years of cooking this meal. She could do it with her eyes closed.
+She got up to check the ham. The kitchen was warm. The oven was on low. The pot of *mole de olla* was on the back burner, lid on, left alone for an hour, simmering. Twenty-two years of cooking this meal. She could do it with her eyes closed.
 
-She would not close her eyes. Last year Lina had wandered in, stuck a finger in the bowl of icing while Rosa wasn't looking, and that had cost an hour plus a fresh batch.
+She would not close her eyes. Last year Lina had wandered in, stuck a finger in a bowl of icing while Rosa wasn't looking, and that had cost an hour plus a fresh batch.
 
-Through the kitchen window she could see the street. The snowstorm had been a week and a day ago. The snow was still there in dirty piles along the curb, melted and refrozen into something gray. Sandra and Gerald's house at number one was lit up like a small department store: white lights on the eaves, a wreath the size of a tractor tire on the door, two illuminated reindeer in the yard. Dave had been studying it since Thanksgiving, taking mental notes for the upgrade.
+Through the kitchen window she could see the street. The snowstorm had been a week and a day ago. The snow was still there in dirty piles along the curb, melted and refrozen into something gray. No white christmas this year either. Sandra and Gerald's house at number three was lit up like a small department store: white lights on the eaves, a wreath the size of a tractor tire on the door, two illuminated reindeer in the yard. Dave had been studying it since Thanksgiving, taking mental notes for the upgrade.
 
-Aldric's house at number six had a single strand of warm white lights along the porch railing. Nothing else. No wreath. No reindeer. The lights were on already, even though the sun was still up, and they looked correct in a way the Hoopers' display somehow did not. Like the difference between someone who'd read a book and someone who'd held the book up at a party.
+Aldric's house at number four had a single strand of warm white lights along the porch railing. Nothing else. No wreath. No reindeer. The lights were on already, even though the sun was still up, and they looked correct in a way the Hoopers' display somehow did not. Like the difference between someone who'd read a book and someone who'd held the book up at a party.
 
 There was a candle in his front window. Just the one. Real flame, by the way it moved.
 
@@ -32,9 +32,21 @@ There was a candle in his front window. Just the one. Real flame, by the way it 
 
 He thought about that, decided it was acceptable, and ran back to his truck.
 
-The doorbell rang at four-fifteen.
+The front door opened. Cold air accompanied Dave as he came in, stamping snow off his boots, the second string of icicle lights bunched in one hand, the plug end dangling.
 
-Rosa wiped her hands on the dishtowel and went. Through the side panel she saw the dark wool coat and the silver hair, and she felt the small involuntary thing she'd started feeling whenever Aldric was at the door. Not nerves. Something quieter. The kind of attention you bring to a guest you respect more than you understand.
+"Third of it's dead."
+
+"Out of the box?"
+
+"Out of the box. I'm driving to the hardware store before they close. Forty minutes, tops."
+
+"It's Christmas Eve, Dave."
+
+"That's why I'm going now and not at six." He kissed the side of her head in passing, grabbed his keys off the hook, and was back out the door.
+
+Five minutes later, the doorbell rang.
+
+Rosa wiped her hands on the dishtowel and went. Through the side panel she saw the dark wool coat and silver templed hair, and she felt the small involuntary thing she'd started feeling whenever Aldric was at the door. Not nerves. Something quieter. The kind of attention you bring to a guest you respect more than you understand.
 
 She opened the door.
 
@@ -53,6 +65,12 @@ She took the stack. It was heavier than she'd expected. The boxes were the kind 
 "It isn't. It's four things from four different places. The driving did most of the work." He smiled. "And it's Christmas."
 
 She brought the stack to the kitchen island and set it down carefully. He followed as far as the doorway, no further. He kept his coat buttoned. The signal was clear. He was not staying.
+
+"Would you open them now? Marcus's stays wrapped, of course — that one is for tomorrow. But the other three." He paused. "If I got something wrong, I'd like to know while the bakeries are still open. There's an hour of daylight left."
+
+"On Christmas Eve."
+
+"Call it quality control. The gifts are still for tomorrow. Tonight is for catching my mistakes."
 
 She undid the twine.
 
@@ -92,7 +110,7 @@ A chocolate fudge cake, square, the icing thick and matte and slightly crackled 
 
 Rosa pressed her fingers against her mouth.
 
-She had not told him about the library book. She had not told anyone. Dave had not noticed it on the kitchen table in November, and even if he had, he wouldn't have known what to make of it. Lina had carried that book in her backpack for three months. Rosa had seen her reading it at the table when she thought no one was watching, turning to V's Mystery Fudge Cake every time she got hungry.
+She had not told him about the library book. She had not told anyone. Dave had not noticed it on the kitchen table in November, and even if he had, he wouldn't have known what to make of it. Lina had carried that book in her backpack for three months. Rosa had seen her reading it, turning to V's Mystery Fudge Cake every time she got hungry.
 
 Rosa swallowed.
 
@@ -108,11 +126,9 @@ Rosa swallowed.
 
 He didn't answer that. He didn't try to soften it. He stood in her kitchen doorway with his hands behind his back and let her have the moment.
 
-She opened Marcus's last, because she suspected and wanted to be sure.
+She picked up Marcus's last, because she suspected and wanted to be sure. A hexagonal shape wrapped in brown paper, folded along each of the six edges with surgical precision, taped on the inside corner so the tape didn't show, the lopsided paper snowflake on the front. She turned it once in her hands. The paper was too good to open and rewrap.
 
-A tube of Smarties. The big one, the family-share size. Wrapped in brown paper that had been folded twice with surgical precision, taped on the inside corner so the tape didn't show, the paper snowflake taped to the front. The snowflake was lopsided in one quadrant, which somehow made it perfect.
-
-"He still loves them?" Aldric asked.
+"It's a tube of Smarties," Aldric said quietly. "He still loves them?"
 
 "He's six. He'd marry them if he could."
 
@@ -122,7 +138,7 @@ She laughed. It came out wetter than she'd meant.
 
 "You asked the paper boy."
 
-"I asked the paper boy. He took it very seriously. He gave me a list."
+"I did. He took it very seriously."
 
 She wiped her eye with the heel of her hand and tried to look like she was just brushing hair back.
 
@@ -132,21 +148,21 @@ She wiped her eye with the heel of her hand and tried to look like she was just 
 
 "How many stops?"
 
-"A few." He didn't elaborate. "Rosa. Merry Christmas."
+"A few." He didn't elaborate. "Merry Christmas, Rosa."
 
 "You'll come tomorrow."
 
-He hesitated. Half a second. Less.
+He hesitated.
 
-"I have a quiet day planned. Thank you, though. Truly."
+"I have a quiet couple of days planned. Thank you, though. Truly."
 
-"You'll have it alone."
+"You'll have them alone."
 
 "Yes."
 
 "Aldric—"
 
-"It's how I prefer it on this particular day. It isn't sadness. It's a choice."
+"It's how I prefer these days. It isn't sadness. It's a choice."
 
 She didn't believe him entirely. She didn't disbelieve him either. She nodded, because what else.
 
@@ -154,9 +170,9 @@ He stepped back onto the mat. The cold rolled in for a moment, then he closed th
 
 She stood at the island with four bakery boxes and a tube of Smarties and the radio playing something faster now, a tinny choir, and she did not move for almost a minute.
 
-Dave came in from the garage at five with his fingers red and a roll of electrical tape in one hand.
+When Dave came back, he placed the final string of lights before he went in, his fingers red and a roll of electrical tape in one hand.
 
-"Whose bakery boxes."
+"Bakery boxes?"
 
 "Aldric's."
 
@@ -174,7 +190,9 @@ Dave lifted the lid of his and stopped moving.
 
 "I know, Dave."
 
-He picked one up. He smelled it. He set it down. He stood there at the island with his coat still on and his cheeks still red from outside, and his face did the thing it did when he was trying to be a grown man about something. He cleared his throat. He picked up the buñuelo again. He took a bite.
+He picked one up. He smelled it. He set it down. He stood there at the island with his coat still on and his cheeks still red from outside. His face did the thing, when he was trying to be a grown man about something. He cleared his throat and picked up the buñuelo again. 
+
+He took a bite.
 
 "Christ," he said quietly. With his mouth full. "Christ, Rosa."
 
@@ -188,7 +206,7 @@ He picked one up. He smelled it. He set it down. He stood there at the island wi
 
 "Route 9. He drove out this morning."
 
-Dave looked at her. Then at the buñuelo. Then at her again.
+Dave looked at her.
 
 "He drove to Route 9. On Christmas Eve. For me."
 
@@ -200,39 +218,45 @@ Dave put the buñuelo down. He took his coat off, finally, and hung it on the ho
 
 She showed him.
 
-He looked at *Matilda* for a long time without picking it up. He looked at the Smarties. He looked at his wife.
+He looked at the book for a long time without picking it up. He looked at the Smarties. He looked at his wife.
 
-"He's been listening," Dave said.
+"He— " Dave said.
 
 "Yes."
 
-"To everything."
+"Everything."
 
 "Yes."
 
 Dave nodded slowly. He took the buñuelo and finished it standing up.
 
-The Christmas Eve service was at seven. The Ortegas walked to the church at the end of Maple Lane because the road was clear and the night was cold and the kids needed the air. The street had quieted as it always did on Christmas Eve, every house lit, very few cars. Smoke from chimneys. The white lights on the Hoopers' reindeer blinking on a timer Sandra had calibrated to the second.
+The Christmas Eve service was at seven. The Ortegas walked to the church. The night was cold and the kids needed the air. The streets had quieted as it always did on Christmas Eve, every house lit, very few cars. Smoke from chimneys. The white lights on the Hoopers' reindeer blinking on a timer in unison.
 
 Aldric's house was dark except for the porch strand and the candle in the window.
 
-Rosa noticed because she always noticed.
+She did not say anything to Dave. He'd noticed too. She could tell by the half-second pause in his stride when they crossed in front of number four.
 
-She did not say anything to Dave. He'd noticed too. She could tell by the half-second pause in his stride when they crossed in front of number six.
+The church was warm and smelled of pine and beeswax. Father Reeves did a short service with more singing than talking, the way he did every year. Rosa sang the alto line on *Silent Night*, Lina sang along quietly and Marcus tried to sing and mostly hummed. Dave stood beside her and did not sing because Dave never sang, but he was there. He was there.
 
-The church was warm and smelled of pine and beeswax. Father Reeves did the short service, the one with more singing than talking, the way he did every year. Rosa sang the alto line on *Silent Night* and Lina sang along quietly and Marcus tried to sing and mostly hummed, and Dave stood beside her and did not sing because Dave never sang, but he was there. He was there.
+She thought about Aldric in his house at number four with one candle in the window.
 
-She thought about Aldric in his house at number six with one candle in the window.
-
-She thought about the eight buñuelos and the *Matilda* book and the way he had said *it isn't sadness, it's a choice.*
+She thought about the eight buñuelos and the book and the way he had said *it isn't sadness, it's a choice.*
 
 She did not know which of those statements was true.
 
-They walked home at eight-fifteen under a sky that had cleared enough to show some stars. Maria's house at number eight had a candle in the window too, Rosa noticed. So did Ms. Yuen's at number nine. She wondered, as she walked, how many windows on Maple Lane had a candle in them tonight because Aldric Venn had set the example without ever telling anyone he was setting it.
+They walked home at eight-fifteen under a sky that had cleared enough to show some stars. Maria's house at number eight had a candle in the window too. So did Ms. Yuen's at number nine. She wondered, as she walked, how many windows on Maple Lane had a candle in them tonight because Aldric Venn had set the example without ever telling anyone he was setting it.
 
-She put the kids to bed at nine. She put the gifts under the tree at nine-thirty. She and Dave sat on the couch with the lights off and the tree on and a glass of wine each, and they did not talk much, because the house was warm and the day had been long and there wasn't much that needed saying.
+Dave took the kids upstairs at nine. While he wrestled Marcus into pajamas and kissed Lina goodnight, Rosa put the gifts under the tree.
 
-She fell asleep before he did. He carried her upstairs at midnight. She remembered that later, in the morning, when Marcus came pounding into the bedroom at six-forty shouting that Santa had come.
+Then she went to the hall closet, found a box of candles, and set one in a small brass holder on the sill of the front window. She lit it with a kitchen match. The flame caught, steadied, and did the slow real-flame thing. She stood there a moment looking at it, then at number four across the street, where Aldric's candle was still burning.
+
+Dave came down at nine-thirty and saw the candle. He didn't ask.
+
+They sat on the couch with the lights off, the tree on and a glass of wine each. They did not talk much, because the house was warm and the day had been long and there wasn't much that needed saying.
+
+She fell asleep before he did. He picked her up and carried her upstairs. 
+
+It was morning, when Marcus came pounding into the bedroom at six-forty shouting that Santa had come. And they went down together to see what Santa had left.
 
 Christmas morning was Christmas morning. Wrapping paper everywhere. Marcus screaming at the sight of the Lego set he had specifically and repeatedly and exclusively requested. Lina opening the bracelet from her grandmother with the kind of polite restraint that meant she liked it more than she would ever admit. Dave's new gloves from Rosa. Rosa's new boots from Dave, which were the boots she'd pointed at twice in October and never mentioned again.
 
@@ -242,37 +266,31 @@ Marcus saw the Smarties tube and made a noise that did not have a vowel. He held
 
 "From Mr. Aldric," Rosa said.
 
-"He KNOWS."
-
-"He knows."
-
-"Can I have one."
+"Can I have one?"
 
 "After breakfast."
 
-"After breakfast is forever."
+"But after breakfast is forever."
 
-"Then forever it is."
-
-Lina opened her box and went still.
+Lina lifted the lid of her box and went still.
 
 She picked up *A Tangle of Knots* first. She turned it over in her hands. She opened it to the title page and read the inscription, and her face did something Rosa had not seen it do in maybe a year. It softened. The ten-year-old armor came off for about three seconds. She looked up at Rosa.
 
-"Where did he get this."
+"Where did he get this?"
 
 "I don't know."
 
-"It's a hardcover. Mine at school is the paperback."
+"It's a hardcover."
 
-"I know."
+"I see."
 
-"How did he know."
+"How did he know?"
 
 "He pays attention, Lina."
 
 Lina set the book down with both hands, very carefully. She did not eat the fudge cake. She put the lid back on the box. She wanted to keep it intact for a few minutes longer.
 
-Dave ate two buñuelos for breakfast, gave Rosa a third, and Rosa ate hers slowly with coffee and tried to taste only the buñuelo and not the eighty-mile drive that had brought it. She failed. She tasted the drive in every bite. She didn't mind.
+Dave ate two buñuelos for breakfast, gave Rosa a third, and Rosa ate hers slowly with coffee and tried to taste only the buñuelo and not the sixty-mile drive that had brought it. She failed. She tasted the drive in every bite. She didn't mind.
 
 She got dressed at nine-thirty and walked down the street with a small tin of polvorones for Maria.
 
@@ -280,25 +298,19 @@ She wasn't expecting to see anything in particular.
 
 She saw everything.
 
-Sandra was on her front porch in her bathrobe and a winter coat thrown over it, in slippers, in the cold, watering a small potted lemon tree. The tree was maybe three feet tall, sitting in a glazed terracotta pot beside the front door, with two yellow fruits hanging from its branches like ornaments someone had hung on purpose. Sandra was talking to it. Talking to the tree. Quietly, like she didn't want anyone to hear, except Rosa was across the street and could see her lips moving.
+Through the bay window at number three, Sandra was in her bathrobe and slippers, watering a small potted lemon tree. The tree was maybe three feet tall, sitting in a glazed terracotta pot on a plant stand pulled up close to the glass to catch what light there was, with two yellow fruits hanging from its branches like ornaments someone had hung on purpose. Sandra was talking to it. Talking to the tree. Quietly, lips moving, no one else in the room.
 
-Sandra saw Rosa and waved. Big, both hands.
+Sandra saw Rosa on the sidewalk and waved. Big, both hands. Then beckoned her in.
 
-"Rosa! Come look!"
+Rosa crossed the street.
 
-Rosa crossed.
+Inside, the house smelled of coffee and pine. Sandra had the watering can still in one hand.
 
-"Meyer," Sandra said. She was beaming. Her face was pink from the cold and from something else. "He sent me a *Meyer lemon tree*. The card said *for the casserole*. Rosa. He remembered."
+"Meyer," Sandra said. She was beaming. Her face was pink from the warm kitchen and from something else. "He sent me a *Meyer lemon tree*. The card said *for the casserole*."
 
-"From the HOA meeting."
+Sandra was almost crying. 
 
-"That was August. That was *August.*"
-
-"I know."
-
-Sandra was almost crying. Sandra Hooper, who did not cry at things, was almost crying over a citrus plant.
-
-"Gerald is furious," Sandra added, brightening further. "He says it's manipulation. He says nobody remembers a casserole comment for sixteen months. He says it proves something. I told him to shut up and bring me the watering can."
+"Gerald is furious," Sandra added, brightening further. "He says it's manipulation. He says nobody remembers a casserole comment for half a year. He says it proves something. I told him to shut up and bring me the watering can."
 
 "What did Gerald get?"
 
@@ -306,13 +318,13 @@ Sandra was almost crying. Sandra Hooper, who did not cry at things, was almost c
 
 "Of course he's reading it."
 
-"He's furious *while* reading it. Which is the most Gerald thing he has ever done."
+"He's furious *while* reading it."
 
 Rosa laughed. She squeezed Sandra's arm. She walked on.
 
 At number eight, Maria's front porch had a small wooden box on it, the kind a wine bottle came in, lid open. Rosa stopped on the sidewalk.
 
-Inside the box: a roll-up canvas pouch with a row of paintbrushes in graduated sizes, the handles a pale wood, the bristles still factory-stiff. Beside the brushes, a screwdriver set in a hard plastic case, eight pieces, Phillips and flathead, the handles fitted to a woman's grip rather than a man's. On top, a small card. Rosa could not read it from the sidewalk and did not try.
+Inside the box was a roll-up canvas pouch with a row of paintbrushes in graduated sizes, the handles a pale wood, the bristles still factory-stiff. Beside the brushes, a screwdriver set in a hard plastic case, eight pieces, Phillips and flathead, the handles fitted to a smaller hand. On top, a small card. Rosa could not read it from the sidewalk and did not try.
 
 Maria came to her door before Rosa had decided whether to knock.
 
@@ -320,23 +332,17 @@ Maria came to her door before Rosa had decided whether to knock.
 
 "Merry Christmas, Maria."
 
-"He left this on my porch this morning. Before six. I heard him on the steps."
-
-"I saw."
+"He left this on my porch this morning."
 
 Maria looked at the box. She did not pick it up. She had not picked it up yet, Rosa understood. She had been standing in her doorway looking at it for a while.
 
-"The card says *for the next thing you decide to fix.*" Maria's voice was even. "He chose them for my hand. The screwdrivers. I picked one up. It fits."
-
-"He measured."
-
-"He didn't measure. He looked." A pause. "Maybe both."
+"The card says *for the next thing you decide to fix.*" Maria's voice was even. "He chose them for me."
 
 Rosa held out the tin of polvorones.
 
 Maria took it without looking. She was still looking at the box.
 
-"Rosa. What do you do with this."
+"Rosa. What do you do with this?"
 
 "You fix something."
 
@@ -346,11 +352,11 @@ Rosa knew it wasn't.
 
 "I don't know, Maria. I really don't."
 
-They stood there for a moment in the cold. Then Maria reached down and picked up the box and carried it inside, and Rosa walked home.
+They stood there for a moment in the cold. Then Maria reached down and picked up the box and carried it inside, and Rosa went back to the street.
 
-Number five was the Yuen house. The curtain in the front room moved as Rosa passed. Not a wave. Just movement. Ms. Yuen at her window, watching what Rosa had been watching.
+Number nine was the Yuen house. The curtain in the front room moved as Rosa passed. Not a wave. Just movement. Ms. Yuen at her window, watching what Rosa had been watching.
 
-Number four was home.
+Number two was home.
 
 Rosa took her coat off in the entryway and stood there with her hand on the banister for a moment, not because she was tired but because she needed a beat before going back into her own family.
 
@@ -364,7 +370,7 @@ One plate. One glass. One man.
 
 Rosa stood at her sink with her husband at her side and did not look away.
 
-"He didn't get a single gift back, did he," Dave said. Quietly.
+"He didn't get a single gift back, did he?" Dave said quietly.
 
 "No."
 
@@ -380,7 +386,7 @@ Dave drank his coffee.
 
 Outside, the candle in Aldric's window kept burning, very slow, the way a real flame did.
 
-Inside, on the table behind them, *A Tangle of Knots* lay closed beside the empty fudge cake box. Lina had eaten two slices and gone upstairs with the book. Marcus was asleep on the rug with the Lego instructions clutched to his chest and a single Smartie stuck to his cheek.
+Inside, on the table behind them, *A Tangle of Knots* lay closed beside the empty fudge cake box. Marcus was asleep on the rug with the Lego instructions clutched to his chest and a single Smartie stuck to his cheek.
 
 Rosa put her hand on the small of Dave's back. He leaned into it slightly.
 
