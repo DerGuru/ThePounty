@@ -129,9 +129,39 @@ They sat for another minute without saying anything. A car went by at the far en
 
 He nodded once, slowly, and looked out at the street. "Good."
 
-That was all he said about it. Her thoughts drifted back to the letter in the envelope on the counter, to the call she had made, to the appraiser coming on Thursday. 
+That was all he said about it. He did not ask which screw or which hinge or which problem in which room. He drank from his mug and looked at the empty lot at number six.
 
-He finished his coffee and stood up. "I won't keep you. I hope your day is a good one."
+"The realtor sign blew over again," he said. "Third time this winter."
+
+"I noticed."
+
+"Whoever's listing it has stopped coming out to fix it."
+
+"They've stopped coming out to do anything."
+
+He almost smiled at that. He did not, quite. He set his mug back on the railing and looked at her front steps.
+
+A while passed. The cold was getting into her hands through the ceramic. The sun had moved a few inches along the porch boards.
+
+"How are things with the divorce?" he asked. "If I may."
+
+She had known he might ask. She had not known until that moment what she would say.
+
+She thought about telling him. About the letter. About Thursday. About the four hundred and seventy-five dollars and the woman named Patricia who had answered her own phone. The words were lined up in her mouth like change on a counter. She did not spend them. She did not know exactly why. He would not have asked a follow-up question she could not answer. He would have nodded once, the way he had nodded about the screwdriver, and said *Good,* and that would have been the end of it. 
+
+But she didn't.
+
+The letter was hers. Thursday morning was hers. The four hundred and seventy-five dollars she did not have were hers. And she found, sitting on her own porch beside her neighbor, that she wanted to keep them that way a little longer.
+
+"Not done yet. A few things still to sort out. Property side, mostly."
+
+He nodded, slowly. He did not look at her. "If there's anything that would help."
+
+"Thank you." She said it the way she meant it, which was: heard, registered, not taken up. "I think I've got the next piece."
+
+"Good."
+
+He finished his coffee in two more sips and stood up. "I won't keep you. I hope your day is a good one."
 
 "Thank you, Aldric."
 
