@@ -105,7 +105,7 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 | 30 | **Weihnachten auf Maple Lane** | 24.–25. Dez | Rosa | Aldrics Geschenke: chirurgisch persönlich. Jedes zeigt monatelanges Zuhören. Das Schönste oder das Beunruhigendste. | Bittersweet |
 | 31 | **Der Wasserhahn** | 4. Jan (Sa) | Maria | Erster Versuch, etwas allein zu reparieren. Wasserhahn weint am Sockel, sobald sie aufdreht. YouTube-Tutorial, alte Zange greift nicht an der Nutmutter. Sie denkt daran, den Sohn anzurufen — tut es nicht. Fährt selbst in den Baumarkt an der Ecke Route 9 / Elm, der Mann in der grünen Schürze berät sie (Channel Locks, Dichtungs-Sortiment, Teflonband). Repariert es allein, putzt vorher den Sitz mit Essig. Stille kleine Kompetenz: *„I did that.“* Aldrics Werkzeuggeschenk wird zum ersten Mal benutzt. | Komisch, frustrierend, ehrlich — endet leise stolz |
 | 32 | **Der Brief** | 13.–14. Jan | Maria | Post vom Scheidungsanwalt. Das Haus muss bewertet werden. Eine Unterschrift fehlt. Der Ex verzögert — das Haus ist sein letztes Druckmittel, nachdem er beim Konto eingeknickt ist. Maria sitzt am Küchentisch mit dem Umschlag und denkt: das ist mein Haus. Seit 23 Jahren. Aldric sieht den Umschlag am nächsten Tag auf der Veranda — sagt nichts, bringt Kaffee. *Beiläufig: Aldric gratuliert Maria zum Geburtstag (14. Jan) — etwas Kleines, Präzises. Kein Aufwand. Genau richtig.* | Leise Wut, Ohnmacht, Würde |
-| 33 | **Pater Reeves** | 25. Jan (Sa) | Rosa | Gespräch auf der Veranda. Aldrics Verhältnis zu Moral und Institution. "Gleichgewicht ist keine Gegenleistung. Es ist eine Voraussetzung." Reeves erwähnt beiläufig eine junge Frau, die seit kurzem sonntags in die Gemeinde kommt — *"Reminds me a bit of you, actually."* Aldric reagiert nicht sichtbar. Der Leser bemerkt es nicht. Beim zweiten Lesen: da hat er den Hinweis bekommen. | Philosophisch, ruhig + Versprechen-Spur |
+| 33 | **Pater Angelo** | 25. Jan (Sa) | Rosa | Gespräch auf der Veranda. Aldrics Verhältnis zu Moral und Institution. "Gleichgewicht ist keine Gegenleistung. Es ist eine Voraussetzung." Angelo erwähnt beiläufig eine junge Frau, die seit kurzem sonntags in die Gemeinde kommt — *"Reminds me a bit of you, actually."* Aldric reagiert nicht sichtbar. Der Leser bemerkt es nicht. Beim zweiten Lesen: da hat er den Hinweis bekommen. | Philosophisch, ruhig + Versprechen-Spur |
 | 34 | **Ms. Yuens Fenster** | 8. Feb (Sa) | Ms. Yuen | DAS große Ms.-Yuen-Kapitel. Sie beobachtet seit Monaten. Sieht alles. Versteht mehr als alle anderen — weil sie nicht fragt und einfach schaut. Die meiste Leser-Information über Aldric in einem Kapitel. Hier zahlt sich CH12 (Abfahrt) aus — der Leser weiß: sie hat diesen Moment seit September. | Still, gewichtig, Schlüsselkapitel |
 | 35 | **Der Baumarkt** | 12. Feb (Wednesday) | Maria | Allein im Baumarkt an der Ecke Route 9 / Elm — derselbe Laden wie beim Wasserhahn, derselbe Mann in der grünen Schürze. Diesmal kennt er sie wieder. Sie kauft das Richtige. Zu Hause liegen die Teile drei Tage auf dem Küchentisch. Aber sie sind da. | Leise Eigeninitiative, ohne Fanfare |
 | 36 | **Die Häusliche Gewalt** | 24.–28. Feb | Rosa/Kim | Die Frau aus dem Community Center. Rosa bemerkt seit Wochen: abgesagte Treffen, blaue Flecken mit Erklärungen, ein Flinchen. Sie weiß nicht, was sie tun soll. Aldric liest es an Rosa ab — nicht am Opfer. Er handelt. Tier 3. Kim ermittelt danach. Die Straße sieht eine dunklere Seite — aber nicht die dunkelste. | Dunkel, kathartisch |
@@ -284,7 +284,7 @@ Aldric wird sich ihr nähern. Anfreunden. Evaluieren. Die Frage wird: nudgen ode
 | Phase | Wie die Suche sichtbar wird |
 |-------|----------------------------|
 | Sommer | Fragen bei der HOA. Lokalzeitung. "Spaziergänge." Gespräche über Zugezogene. |
-| Herbst | Hilfe beim Schulfest (Gesichter). Gespräche mit Alteingesessenen. Gezielte Fragen an Pater Reeves (Gemeinde-Register?). |
+| Herbst | Hilfe beim Schulfest (Gesichter). Gespräche mit Alteingesessenen. Gezielte Fragen an Pater Angelo (Gemeinde-Register?). |
 | Winter | Weniger sichtbar — aber Gerald notiert die Muster. Aldric prüft etwas im Rathaus? Bibliothek? |
 | Frühling | Die Suche konvergiert. Er fährt öfter in eine bestimmte Richtung. Er weiß es vielleicht schon — und beobachtet nur noch. |
 | Ende | Er hat sie gefunden. Er entscheidet. |
@@ -372,7 +372,7 @@ Vier Feiertags-/Event-Episoden als Zeitanker:
 | **Frühlingsfest (Spring Cleanup + Potluck)** | ~10 | Letzte Community-Episode vor der Eskalation. Die Ruhe vor dem Sturm. Sandra organisiert; Gemeinschaftsarbeit macht sichtbar, was Aldric gebaut hat. |
 
 ### Versprechen-Person: Die beiläufige Erwähnung
-In Episode 33 (Pater Reeves) erwähnt Reeves im Gespräch auf der Veranda eine junge Frau, die seit kurzem sonntags in die Gemeinde kommt. Ein Halbsatz, eingebettet in ein Gespräch über Moral und Gemeinschaft: *"We have a new face on Sundays — young woman, keeps to herself mostly. Reminds me a bit of you, actually — polite, observant, doesn't say much."*
+In Episode 33 (Pater Angelo) erwähnt Angelo im Gespräch auf der Veranda eine junge Frau, die seit kurzem sonntags in die Gemeinde kommt. Ein Halbsatz, eingebettet in ein Gespräch über Moral und Gemeinschaft: *"We have a new face on Sundays — young woman, keeps to herself mostly. Reminds me a bit of you, actually — polite, observant, doesn't say much."*
 
 Aldric fragt nichts. Sagt etwas über die Gemeinde als Institution. Das Gespräch geht weiter. Rosa (POV) denkt sich nichts dabei.
 
@@ -382,7 +382,7 @@ Beim zweiten Lesen: dieser Moment ist der Wendepunkt der Suche. Danach besucht A
 - In der **Mitte** des Gesprächs landen, nicht am Ende (wird sonst zum Cliffhanger)
 - Von 2–3 weiteren Gesprächsthemen **begraben** werden, damit Rosa sich hinterher ans Moralgespräch erinnert, nicht an den Halbsatz
 - Aldrics Reaktion: **null Differenz** zu seinem sonstigen Gesprächsverhalten. Keine Pause, kein Blick, keine Nachfrage. Absolut flach.
-- Für den Erstleser: interessante Charakterisierung von Reeves (er beobachtet Menschen wie Aldric). Nicht mehr.
+- Für den Erstleser: interessante Charakterisierung von Angelo (er beobachtet Menschen wie Aldric). Nicht mehr.
 - Für den Zweitleser: sofort erkennbar als Wendepunkt der gesamten Suche.
 
 ### Häusliche Gewalt: Verbindung über Rosa
@@ -394,7 +394,7 @@ Das Opfer ist eine Frau, die Rosa durch ihr Ehrenamt im Community Center kenneng
 
 - [x] Häusliche Gewalt: Verbindung über Rosa (Frau aus dem Community Center, drei Straßen weiter)
 - [x] Der Hired Muscle: Nathan Calvey, 38, Ex-Royal Marines, Tochter (8), pragmatisch-professionell
-- [x] Versprechen-Person: Pater Reeves erwähnt sie beiläufig in Episode 33 ("Reminds me a bit of you")
+- [x] Versprechen-Person: Pater Angelo erwähnt sie beiläufig in Episode 33 ("Reminds me a bit of you")
 - [x] Frühlingsfest: Neighborhood Spring Cleanup + Potluck (Sandra organisiert, Spielplatz streichen, Beete, Essen)
 
 ---
@@ -421,7 +421,7 @@ Ab dem ersten Besuch (Monat 5) fährt Kims Wagen regelmäßig an Maple Lane vorb
 Er ist ein Profi. Die Suche ist nicht vage — sie ist nur fragmentiert sichtbar:
 - Rathaus: öffentliche Records, Meldedaten (Dave sieht ihn mal dort, denkt: Verwaltungskram)
 - Bibliothek: Lokalarchiv, Mikrofiche, Jahrbücher (Gerald bemerkt regelmäßige Besuche)
-- Pater Reeves: Gemeinde-Verzeichnisse (Aldric besucht einen Gottesdienst — nicht aus Glaube)
+- Pater Angelo: Gemeinde-Verzeichnisse (Aldric besucht einen Gottesdienst — nicht aus Glaube)
 - Postbote: Er kennt ihn nach 4 Monaten beim Namen. Fragt Dinge, die Dave nie fragen würde.
 - Gerald notiert: "Er fotografiert Briefkästen. WARUM fotografiert jemand Briefkästen?"
 - Die "Spaziergänge" sind systematisch: verschiedene Viertel, verschiedene Tage, gleiches Muster.

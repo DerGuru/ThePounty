@@ -83,7 +83,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Green-Tochter | 13. Februar | 2009 | 15 | Schwieriger Teenager. |
 | Mr. Chen | 12. Oktober | 1996 | 28 | |
 | Mrs. Chen | 30. Juni | 1997 | 27 | |
-| Pater Reeves | 2. April | 1971 | 53 | |
+| Pater Angelo | 2. April | 1971 | 53 | |
 | Hector Blum | 17. November | 1966 | 58 | |
 | Dolores Marsh | 8. Mai | 1953 | 71 | Nr. 16 — 40 Jahre auf der Straße. |
 | Hoopers' Sohn | 25. März | 1990 | 34 | Name offen. Besucht mit Enkeln. |
@@ -307,10 +307,10 @@ Aldric kauft selbst ein — und gibt ihm exakt fünfundzwanzig Cent zu wenig zur
 
 ---
 
-### Pater Reeves
+### Pater Angelo
 **Funktion:** Aldrics Verhältnis zu Moral und Institution.
 
-Der Gemeindepfarrer. Gut gemeint, manchmal etwas selbstgefällig in seiner Rolle als moralische Autorität der Straße. Aldric behandelt ihn mit demselben höflichen Respekt wie jeden anderen — was Pater Reeves gleichzeitig schätzt und irritiert, weil er nicht mehr und nicht weniger bekommt als der Marktmann.
+Der Gemeindepfarrer. Gut gemeint, manchmal etwas selbstgefällig in seiner Rolle als moralische Autorität der Straße. Aldric behandelt ihn mit demselben höflichen Respekt wie jeden anderen — was Pater Angelo gleichzeitig schätzt und irritiert, weil er nicht mehr und nicht weniger bekommt als der Marktmann.
 
 ---
 
@@ -364,7 +364,7 @@ Der schönste Trick: Episodenfiguren, die Aldric Wochen später auf der Straße 
 | Officer Kim | 1 | Ja | Ja | Das System |
 | Hund von Nr. 7 | 1 | Nein | Nein | Intuitives Urteil |
 | Der Marktmann | 2 | Nein | Nein | Gerechtigkeitsprinzip |
-| Pater Reeves | 2 | Nein | Nein | Moral und Institution |
+| Pater Angelo | 2 | Nein | Nein | Moral und Institution |
 | Kinder Ortegas | 2 | Nein | Nein | Aldrics sanfte Seite |
 | Episodenfiguren | 3 | Nein | Nein | Je ein Prinzip |
 

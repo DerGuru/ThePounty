@@ -236,7 +236,7 @@ Aldric's house was dark except for the porch strand and the candle in the window
 
 She did not say anything to Dave. He'd noticed too. She could tell by the half-second pause in his stride when they crossed in front of number four.
 
-The church was warm and smelled of pine and beeswax. Father Reeves did a short service with more singing than talking, the way he did every year. Rosa sang the alto line on *Silent Night*, Lina sang along quietly and Marcus tried to sing and mostly hummed. Dave stood beside her and did not sing because Dave never sang, but he was there. He was there.
+The church was warm and smelled of pine and beeswax. Father Angelo did a short service with more singing than talking, the way he did every year. Rosa sang the alto line on *Silent Night*, Lina sang along quietly and Marcus tried to sing and mostly hummed. Dave stood beside her and did not sing because Dave never sang, but he was there. He was there.
 
 She thought about Aldric in his house at number four with one candle in the window.
 

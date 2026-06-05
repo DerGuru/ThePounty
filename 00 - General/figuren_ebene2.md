@@ -76,12 +76,12 @@ Tauchen auf, wenn die Straße ein junges, optimistisches Gesicht braucht. Kein K
 
 -----
 
-### Pater Reeves — Father Michael Reeves
+### Pater Angelo — Father Michael Angelo
 
 **Funktion:** Aldrics Verhältnis zu Moral, Institution und dem Unterschied zwischen beidem.
 
 **Wer er ist:**
-Father Michael Reeves ist seit elf Jahren der Pfarrer der St. Catherine’s, zwei Straßen weiter. Er ist ein guter Mann. Das ist das Problem — er weiß es. Nicht aus Eitelkeit, sondern aus der stillen Gewissheit eines Mannes, der jeden Sonntag Moral erklärt und unter der Woche wenig Widerspruch erfährt. Er ist freundlich, engagiert, gut vernetzt auf Maple Lane. Er macht Hausbesuche. Er bringt Kuchen. Er hört zu.
+Father Michael Angelo ist seit elf Jahren der Pfarrer der St. Catherine’s, zwei Straßen weiter. Er trägt seinen Namen mit der ruhigen Heiterkeit eines Mannes, der weiß, dass er als zweiter Michael Angelo geboren wurde und sich gegen den Pinsel und für die Kanzel entschieden hat — was er, wenn man ihn fragt, als die langweiligere, aber zuverlässigere Wahl beschreibt. Er ist ein guter Mann. Das ist das Problem — er weiß es. Nicht aus Eitelkeit, sondern aus der stillen Gewissheit eines Mannes, der jeden Sonntag Moral erklärt und unter der Woche wenig Widerspruch erfährt. Er ist freundlich, engagiert, gut vernetzt auf Maple Lane. Er macht Hausbesuche. Er bringt Kuchen. Er hört zu.
 
 Er ist auch die moralische Instanz der Straße — und das ist eine Rolle, die ihm niemand gegeben hat außer ihm selbst.
 
@@ -89,33 +89,33 @@ Er ist auch die moralische Instanz der Straße — und das ist eine Rolle, die i
 Warm, etwas formell, redet gerne ein bisschen länger als nötig. Meint es gut. Wird von den meisten auf Maple Lane gemocht, von einigen leicht gefürchtet — weil man bei ihm das Gefühl hat, bewertet zu werden, auch wenn er das gar nicht tut.
 
 **Sein Aldric:**
-Aldric behandelt Pater Reeves mit demselben höflichen Respekt wie jeden anderen. Das ist das Problem. Pater Reeves bekommt nicht mehr und nicht weniger als Ray Kowalski. Kein besonderer Respekt vor dem Amt. Kein Zögern. Keine Ehrerbietung.
+Aldric behandelt Pater Angelo mit demselben höflichen Respekt wie jeden anderen. Das ist das Problem. Pater Angelo bekommt nicht mehr und nicht weniger als Ray Kowalski. Kein besonderer Respekt vor dem Amt. Kein Zögern. Keine Ehrerbietung.
 
 Er behandelt ihn wie einen Nachbarn. Weil er das ist.
 
-Das irritiert Pater Reeves tief, ohne dass er sagen könnte warum. Er versucht es mehrfach, theologisch zu verpacken. Aldric hört immer aufmerksam zu, stellt präzise Fragen, und kommt zu Schlussfolgerungen, die nicht falsch sind — aber auch nicht die, die Pater Reeves erwartet hatte.
+Das irritiert Pater Angelo tief, ohne dass er sagen könnte warum. Er versucht es mehrfach, theologisch zu verpacken. Aldric hört immer aufmerksam zu, stellt präzise Fragen, und kommt zu Schlussfolgerungen, die nicht falsch sind — aber auch nicht die, die Pater Angelo erwartet hatte.
 
 **Der entscheidende Moment:**
-Pater Reeves sagt einmal, nach einem Vorfall auf der Straße, dass Vergebung Gnade sei — etwas, das man gibt, ohne Gegenleistung.
+Pater Angelo sagt einmal, nach einem Vorfall auf der Straße, dass Vergebung Gnade sei — etwas, das man gibt, ohne Gegenleistung.
 
 Aldric denkt kurz nach. „Ich stimme zu,” sagt er. „Ich finde nur, dass Gleichgewicht keine Gegenleistung ist. Es ist eine Voraussetzung.”
 
 Stille.
 
-„Das ist eine interessante Unterscheidung,” sagt Pater Reeves schließlich.
+„Das ist eine interessante Unterscheidung,” sagt Pater Angelo schließlich.
 
 „Danke,” sagt Aldric. „Darf ich Ihnen noch Tee anbieten?”
 
 **Wiederkehrendes Muster:**
-Pater Reeves kommt regelmäßig auf Maple Lane vorbei. Er und Aldric haben Gespräche, die beide als angenehm empfinden und aus denen beide mit einem leichten Gefühl herausgehen, dass der andere die Welt etwas seltsam sieht. Keiner von beiden sagt das.
+Pater Angelo kommt regelmäßig auf Maple Lane vorbei. Er und Aldric haben Gespräche, die beide als angenehm empfinden und aus denen beide mit einem leichten Gefühl herausgehen, dass der andere die Welt etwas seltsam sieht. Keiner von beiden sagt das.
 
 **Szene (aus Rosas POV):**
 
-> Rosa hatte sie durch das Küchenfenster beobachtet. Pater Reeves, der auf der Veranda saß und redete. Aldric, der zuhörte — wirklich zuhörte, nicht höflich-zuhörte.
+> Rosa hatte sie durch das Küchenfenster beobachtet. Pater Angelo, der auf der Veranda saß und redete. Aldric, der zuhörte — wirklich zuhörte, nicht höflich-zuhörte.
 > 
 > Dann hatte Aldric etwas gesagt. Kurz. Ruhig.
 > 
-> Pater Reeves hatte einen Moment lang seinen Kaffeebecher angesehen, als hätte er etwas darin vergessen.
+> Pater Angelo hatte einen Moment lang seinen Kaffeebecher angesehen, als hätte er etwas darin vergessen.
 > 
 > Sie hatte sich gefragt, was Aldric gesagt hatte. Sie hatte nicht gefragt. Manche Gespräche gehörten auf Veranden.
 
@@ -426,7 +426,7 @@ Er ist einfach der Mann von Nr. 4, der kommt wenn man klopft.
 |Name             |Funktion                              |Verbindung zu Aldric|Erstes Auftreten|
 |-----------------|--------------------------------------|--------------------|----------------|
 |Ray Kowalski     |Gerechtigkeitsprinzip (klein, präzise)|Marktstand          |Frühe Kapitel   |
-|Father Reeves    |Moral vs. Institution                 |Gemeindeleben       |Frühe Kapitel   |
+|Father Angelo    |Moral vs. Institution                 |Gemeindeleben       |Frühe Kapitel   |
 |Lina, Marcus    |Aldrics sanfteste Seite               |Kinder Ortegas      |Einzugstag      |
 |Hector Blum      |Kompetenz und Handwerk                |Hausreparatur       |Erste Wochen    |
 |Dolores Marsh    |Gedächtnis der Straße                 |Langzeit-Nachbarin  |Erste Wochen    |

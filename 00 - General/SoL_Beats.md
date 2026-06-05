@@ -53,7 +53,7 @@ Diese tauchen regelmäßig auf — nie als eigene Szene, sondern als Detail in a
 | **Bäume benennen** | #14 (Geralds Irrtum) | Teil des "Nerd"-Eindrucks. |
 | **Insekten** | #18 (Rosas Projekt) | "That's a mason bee. Good for your lavender." |
 | **Tierspuren** | #19 (Schneesturm) | Spuren im Schnee. Aldric benennt das Tier sofort. |
-| **Sterne** | #21 (Pater Reeves) | Abends auf der Veranda, nach dem Gespräch. |
+| **Sterne** | #21 (Pater Angelo) | Abends auf der Veranda, nach dem Gespräch. |
 | **Sonnenuntergang** | Background | Er richtet seinen Abend danach. Dave bemerkt das Muster erst nach Monaten. |
 | **Bibliotheksbesuche** | #14 (Geralds Irrtum) | Gerald folgt ihm. Findet: Lokalgeschichte. False Security. |
 | **Halloween-Süßigkeiten** | #15 (Halloween) | Bereits die Hauptepisode. |
