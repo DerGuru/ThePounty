@@ -421,6 +421,54 @@ Er ist einfach der Mann von Nr. 4, der kommt wenn man klopft.
 
 -----
 
+### Die Laskos — Brian, Nora und Lily
+
+**Funktion:** Auslöser für Aldrics einzige Tier-3-Intervention. Häusliche Gewalt als das, was Aldric nicht stehen lässt — und zwar so, dass das Gewalt-Ende nicht im Buch steht, sondern nur seine Konsequenz.
+
+**Wer sie sind:**
+Brian Lasko, vierunddreißig (geb. 5. Mai 1990), Installateur, eigener Betrieb (*Lasko Plumbing & Heating*, blauer Pickup mit Magnetschild). Wohnt drei Straßen weiter, Birch Street. Nicht laut, nicht auffällig, zahlt seine Rechnungen, geht zur Arbeit. Niemand auf Maple Lane kennt ihn. Auf Birch Street weiß man, dass er manchmal trinkt und dass die Frau still ist, und mehr will man nicht wissen.
+
+Nora Lasko, zweiunddreißig (geb. 11. September 1992), dunkelbraune Haare zurückgebunden, graue Strickjacken, lange Ärmel. Bringt Lily zweimal die Woche zur Hausaufgabenhilfe ins Greenfield Community Center. Steht in der Tür wie jemand, der den Ausgang misst. Sagt wenig. Sagt nie das Falsche.
+
+Lily Lasko, sieben (geb. 22. November 2017), erste Klasse seit September 2024, zeichnet die ganze Zeit. Häuser meistens. Manchmal mit einem Fenster offen, manchmal mit allen geschlossen. Hört zu, auch wenn es so aussieht, als hörte sie nicht — das ist das, was Aldric Rosa am Briefkasten sagt, ohne das Kind je gesehen zu haben.
+
+**Ton (wie andere sie wahrnehmen):**
+Nora: höflich, zurückhaltend, pünktlich. Frauen wie Rosa sehen die Ärmel. Männer wie Dave sehen, dass sie höflich ist.
+Brian: in seinen Szenen physisch präsent, verbal minimal. „I fell." sagt er zweimal — einmal zu Kim auf dem Küchenboden, einmal im Krankenhaus. Beim dritten Mal, an der Tür, sagt er etwas anderes.
+
+**Ihr Aldric:**
+Brian sieht Aldric genau einmal. Donnerstagnachmittag, Birch Street, in seinem eigenen Haus. Was zwischen ihnen passiert, steht nicht im Buch. Was nach Aldrics Abfahrt im Haus liegt, steht im Polizeibericht: bilateral, beide Kahnbeine, beide Hamatumbeine, rechts drei Mittelhandknochen, links der Daumen. Das Gesicht unberührt. Die Beine funktionieren. Brian läuft zwischen den Sanitätern hinaus.
+
+Nora sieht Aldric nicht. Sie hört nur, was Brian ihr nie erzählt — über die Frage, die Aldric ihm gestellt hat: ob er aufhören wolle. Brian gibt diese Frage einmal weiter, an Kim, an der Krankenhaustür, in dem Tonfall eines Mannes, der gerade festgestellt hat, dass jemand es ernst gemeint hat.
+
+Lily sieht Aldric gar nicht. Aldric weiß über Lily nur, was Rosa über Lily weiß. Das reicht ihm.
+
+**Wiederkehrendes Muster:**
+Die Laskos sind keine Maple-Lane-Familie. Sie tauchen drei Mal auf: Nora am Center (Ch28, Ch36), die Familie als Fall (Ch37), und danach als Abwesenheit — keiner von ihnen kommt wieder auf der Straße vor. Was sich verändert hat, verändert sich nicht zurück und wird nicht aufgelöst. Das ist der Punkt.
+
+**Funktion für das Mosaik:**
+Die Laskos sind das einzige Tier 3 in einem Buch voller Tier 1 und Tier 2. Sie sind der Beweis, dass die Skala existiert — und dass Aldric weiß, wo darauf sie liegt. Das Buch zeigt nicht den Akt. Es zeigt die Hände vorher (Briefkasten, Frage, ein Mittwochmittag, an dem das Auto wegfährt), die Lücke (zwei Tage Abwesenheit), und die Hände nachher (Krankenhausbett, Liste, „I fell."). Der Leser muss den Rest selber sehen.
+
+**Szene (aus Rosas POV, am Briefkasten):**
+
+> Er kam in seinem Tempo herüber, um das Ende des Zauns zwischen den Auffahrten.
+>
+> „Morgen, Rosa."
+>
+> „Morgen."
+>
+> Er fragte nichts. Er stand und sortierte zwei Werbeflyer in die richtige Hand. Dann sagte er, ohne sie anzusehen: „Die Mutter von dem Mädchen, das immer zeichnet. Hat sie diese Woche lange Ärmel getragen?"
+>
+> Rosa antwortete, bevor sie wusste, warum sie antwortete. „Ja."
+>
+> Aldric nickte einmal. Er sah auf die Werbeflyer in seiner Hand, als wären sie das, worüber sie geredet hatten.
+>
+> „Manchmal ist man dem Kind nah," sagte er.
+>
+> „Ja," sagte Rosa.
+
+-----
+
 ## Figurenübersicht Ebene 2 — komplett
 
 |Name             |Funktion                              |Verbindung zu Aldric|Erstes Auftreten|
@@ -434,6 +482,7 @@ Er ist einfach der Mann von Nr. 4, der kommt wenn man klopft.
 |Carol Jeffries   |Soziale Struktur                      |Straßenorganisatorin|Frühe Kapitel   |
 |Tom Greer        |Geduld als Kalkulation                |Schwieriger Nachbar |Frühe Kapitel   |
 |Mae Okonkwo      |Der unvoreingenommene Blick           |Neue Nachbarin      |Mittlere Kapitel|
+|Laskos (Brian, Nora, Lily)|Tier-3-Auslöser (DV)         |Birch Street, drei Straßen weiter|Ch28 / Ch36 / Ch37|
 
 -----
 

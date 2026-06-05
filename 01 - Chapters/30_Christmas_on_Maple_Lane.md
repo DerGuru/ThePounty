@@ -248,7 +248,7 @@ They walked home at eight-fifteen under a sky that had cleared enough to show so
 
 Dave took the kids upstairs at nine. While he wrestled Marcus into pajamas and kissed Lina goodnight, Rosa put the gifts under the tree.
 
-Then she went to the hall closet, found a box of candles, and set one in a small brass holder on the sill of the front window. She lit it with a kitchen match. The flame caught, steadied, and did the slow real-flame thing. She stood there a moment looking at it, then at number four across the street, where Aldric's candle was still burning.
+Then she went to the hall closet, found a box of candles, and set one in a small brass holder on the sill of the front window. She lit it with a kitchen match. The flame caught, steadied, and did the slow real-flame thing. She stood there a moment looking at it, and thought about number four next door, where Aldric's candle was still burning.
 
 Dave came down at nine-thirty and saw the candle. He didn't ask.
 
@@ -389,5 +389,3 @@ Outside, the candle in Aldric's window kept burning, very slow, the way a real f
 Inside, on the table behind them, *A Tangle of Knots* lay closed beside the empty fudge cake box. Marcus was asleep on the rug with the Lego instructions clutched to his chest and a single Smartie stuck to his cheek.
 
 Rosa put her hand on the small of Dave's back. He leaned into it slightly.
-
-Across the street, Aldric turned a page.

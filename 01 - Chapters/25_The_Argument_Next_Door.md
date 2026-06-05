@@ -30,7 +30,7 @@ The glasses came out cloudy. The film was still there. He called a repair servic
 
 Wednesday. 
 
-Marcus threw up at school, so Rosa picked him up. He threw up again in the car and a third time on the couch while Rosa was still getting the bucket. Dave came home from work to the smell of Lysol and the sound of his wife not talking to him. He asked what was wrong. She said nothing. He asked again. She said nothing louder.
+Marcus threw up at kindergarten, so Rosa picked him up. He threw up again in the car and a third time on the couch while Rosa was still getting the bucket. Dave came home from work to the smell of Lysol and the sound of his wife not talking to him. He asked what was wrong. She said nothing. He asked again. She said nothing louder.
 
 Thursday.
 
