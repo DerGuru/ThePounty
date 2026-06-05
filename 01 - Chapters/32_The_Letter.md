@@ -29,9 +29,9 @@ She had lived in this house for twenty-three years. She had brought Jesús home 
 
 The house was not hers. Not legally. Carlos's name was on the deed beside hers. He could hold that name there as long as he wanted. He wanted to.
 
-She stood up and walked through the house. She didn't know why. She went into the living room and looked at the couch, the lamp, the bookshelf. She went into the hallway and put her hand flat against the door frame on the marks. Jesús, age seven. Age nine. Age twelve. Her own handwriting in pencil, the numbers getting smaller as she had run out of room near the top. She went into the bedroom. The water stain on the ceiling above the closet was the same shape it had been in September. She had not done anything about it. She did not know what to do about it.
+She stood up and walked through the house. She didn't know why. She went into the living room and looked at the couch, the lamp, the bookshelf. She went into the hallway and put her hand flat against the door frame on the marks. Jesús, age seven. Age nine. Age twelve. Her own handwriting in pencil, the numbers getting smaller as she had run out of room near the top.
 
-She went back to the kitchen.
+She went back to the kitchen. She tipped her head back. The water stain on the ceiling above the table was the same shape it had been in September. She had not done anything about it. She did not know what to do about it.
 
 She picked up her phone. She did not call Jesús. She did not call her mother. She did not call her sister. She put it down and opened the laptop instead. She typed *certified residential appraiser Westchester County* into the search bar.
 

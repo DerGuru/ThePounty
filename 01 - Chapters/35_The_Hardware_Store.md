@@ -2,19 +2,17 @@
 
 The stain had grown.
 
-Not by much. By a half-inch, maybe, along the eastern edge, where the cream of the ceiling paint met the brown of the water in a soft uneven scallop. Maria stood in the bedroom in her socks on Wednesday morning, the closet door open, her head tipped back, the cold light from the window flat across the ceiling. The scallop had been a smaller curve in September. It was a longer curve now. The new growth was a shade paler than the old. She had not been imagining it.
-
-She closed the closet door. She went downstairs.
+Not by much. By a half-inch, maybe, along the eastern edge, where the cream of the ceiling paint met the brown of the water in a soft uneven scallop. Maria stood in the kitchen in her socks on Wednesday morning, her head tipped back, the cold light from the window over the sink flat across the ceiling. The scallop had been a smaller curve in September. It was a longer curve now. The new growth was a shade paler than the old. She had not been imagining it.
 
 She had decided last night, sitting on the couch with the cardigan in her lap, that she would do something about it today. She had decided this before, on at least three occasions she could remember, and the day had passed each time without her doing anything. The difference today was that she had said the word out loud to the empty living room. *Today.* Saying it out loud had been a small thing. It was, she suspected, going to be enough.
 
-She made coffee. She drank it standing at the counter. The screwdriver case was still where she had left it after the faucet. She had put it back in the closet twice, mentally, and then left it on the counter both times. The channel locks were on top.
+She made coffee. The screwdriver case was still where she had left it after the faucet. She had put it back in the closet multiple times, mentally, and then left it on the counter both times. The channel locks were on top.
 
 She opened the laptop.
 
-She typed *water stain on bedroom ceiling under bathroom*. She did not type *what to do about a water stain*. She had learned, with the faucet, that the right search was the one that named the thing as specifically as she could name it. Vague searches got vague answers. Specific searches got people in workshops with the right tools.
+She typed *water stain on ceiling under bathroom*. She did not type *what to do about a water stain*. She had learned, with the faucet, that the right search was the one that named the thing as specifically as she could name it. Vague searches got vague answers. Specific searches got people in workshops with the right tools.
 
-The first three results agreed with each other, which she now understood was a good sign. The likely culprit, in a house her age with a tub directly above the closet, was failed caulk around the base of the tub or the tile-to-tub joint. Water crept behind the wall a little at a time, ran down the framing, and emerged in a slow brown spread on the ceiling below. The fix was not the ceiling. The fix was the caulk. The ceiling could be patched and painted later, once the source had been closed.
+The first three results agreed with each other, which she now understood was a good sign. The likely culprit, in a house her age with the tub directly overhead, was failed caulk around the base of the tub or the tile-to-tub joint. Water crept behind the wall a little at a time, ran down the framing, and emerged in a slow brown spread on the ceiling below. The fix was not the ceiling. The fix was the caulk. The ceiling could be patched and painted later, once the source had been closed.
 
 She watched two videos. The first was the same woman in the sweatshirt who had taught her about the slip nut. She had bookmarked the woman's channel without thinking about it after the faucet. The video was titled *re-caulking a bathtub the right way*. The woman said up front that doing it the wrong way was worse than not doing it at all, because the wrong caulk over the old would trap the moisture and make the leak worse next year.
 
@@ -36,13 +34,11 @@ Maria wrote each item on a line. She looked at the list. She wrote the address o
 
 She put her coat on. She took her keys.
 
-Outside the air was cold and dry. The snow from last week was gone from the lawns but still piled at the curbs where the plows had pushed it. The Hoopers' driveway was already plowed clean. Her own driveway was not, but it was Wednesday, and the salt she had thrown down on Sunday was holding. Aldric's porch was empty. The candle was not lit. He was, she assumed, inside.
+Outside the air was cold and dry. The snow from last week was gone from the lawns but still piled at the curbs where the plows had pushed it. The Hoopers' driveway was already plowed clean. Her own driveway was not, but it was Wednesday, and the salt she had thrown down on Sunday was holding. Aldric's porch was empty. He was, she assumed, inside.
 
-She did not stop to think about whether to tell him where she was going. She got in the car.
+She got in the car. The drive to the corner of Route 9 and Elm took eleven minutes. The lot was almost empty. A pickup at the contractor entrance, a hatchback near the door. She parked in the row closest to the front and walked in.
 
-The drive to the corner of Route 9 and Elm took eleven minutes. The lot was almost empty. A pickup at the contractor entrance, a hatchback near the door. She parked in the row closest to the front and walked in.
-
-The fluorescent lights buzzed the same buzz. The older man at the register lifted his chin at her, which was a degree warmer than the nod he had given her in January. She lifted hers back.
+The fluorescent lights buzzed. The older man at the register lifted his chin at her, which was a degree warmer than the nod he had given her in January. She lifted hers back.
 
 She walked to the paint aisle first, picked up the roll of blue painter's tape, then to the plumbing aisle.
 
@@ -54,25 +50,31 @@ The man in the green apron was at the end of the aisle, sorting something into a
 
 "Did it hold?"
 
-"It held. It hasn't dripped since."
+"It held. It's dry since."
 
-"Good." He smiled. Not a wide smile. The smile of a man whose week had included some bad jobs and who was glad of a small piece of good news. "What's today?"
+"Good." He smiled. Not a wide smile. The smile of a man whose week had included some bad jobs and who was glad of a small piece of good news. "What is it today?"
 
 "Caulk around a tub. The old caulk is failing. There's a water stain on the ceiling below."
 
 "How old's the house?"
 
-"Built in ninety-eight. The caulk has been there since at least then, I think."
+"Built in eighteen-eighty. The caulk has been there since at least since ninety-eight."
 
-He nodded. "Yeah, that's overdue." He walked her two aisles down to the wall of caulk and stopped in front of a long row of tubes. "Silicone. Not latex. Not the cheaper stuff next to it. The cheaper stuff is acrylic with a silicone label on the front and it will peel in eighteen months. You want one-hundred-percent silicone, kitchen and bath, mildew inhibitor in the formula. White. This one." He took down a tube. "Eight dollars. Buy two. You will not use all of one tube on a single tub but you will be glad to have the second on the shelf the next time."
+He nodded. "Yeah, that's overdue." He walked her two aisles down to the wall of caulk and stopped in front of a long row of tubes. "Silicone. Not latex. Not the cheaper stuff next to it. The cheaper stuff is acrylic with a silicone label on the front and it will peel in eighteen months. You want one-hundred-percent silicone, kitchen and bath, mildew inhibitor in the formula. This one." He took down a tube. "Eight dollars. Buy two. You will not use all of one tube on a single tub but you will be glad to have the second on the shelf the next time."
 
 "All right."
 
-"Caulk gun." He turned, took the cheapest one off a peg and handed it to her. "Five dollars. Don't buy the one for twenty. It does the same thing."
+"White or grey?"
+
+"White."
+
+"Good." He handed her two tubes. "A caulk gun next." He turned, took the cheapest one off a peg and handed it to her. "Five dollars. Don't buy the one for twenty. It does the same thing."
 
 "Removal tool?"
 
-"Two aisles back." He led her. "This one." He picked up a plastic blade with a yellow handle. "Three dollars. Goes through old silicone in about ten minutes if you keep the angle low. Get a pack of single-edge razors for the corners, four dollars, you'll want them anyway in the house." He took a flat blue cardboard pack off the hook beside it.
+"Two aisles back." He led her. 
+
+"This one." He picked up a plastic blade with a yellow handle. "Three dollars. Goes around the whole tub in a few minutes if you keep the angle low. Get a pack of single-edge razors for the corners, four dollars, you'll want them anyway in the house." He took a flat blue cardboard pack off the hook beside it.
 
 She held everything in the crook of her arm. He looked at her load.
 
@@ -110,7 +112,7 @@ She had told herself, on the drive home, that she would start this afternoon. Ta
 
 She did not start this afternoon.
 
-She made lunch. She ate it at the table with the tools on the other side of the salt shaker. She did the dishes. She went into the living room and worked on the cardigan. She got through four rows. The light went gray at the windows. She heated up a piece of fish for dinner and ate it standing at the counter looking at the tools on the table.
+She made lunch. She ate it at the table with the tools on the other side of the salt shaker. She did the dishes. She went into the living room and worked on the cardigan. The light went gray at the windows. She heated up a piece of fish for dinner and ate between the tools on the table.
 
 She went to bed at ten.
 
@@ -118,9 +120,9 @@ Thursday she did not start either. She thought about starting after breakfast. T
 
 Friday she did not start. She watched the video again in the morning. She watched a different video in the afternoon, by a different person, in case there was a trick the first woman had not mentioned. There was not. The job was the job.
 
-The tools stayed on the table through Friday night. Saturday morning she would start. She had decided this on Wednesday. She had re-decided it twice since. She would re-decide it one more time tonight before bed, and then she would start.
+The tools stayed on the table through Friday night. Saturday morning she would start. She had decided on Wednesday. She had re-decided it twice since. She would re-decide it one more time tonight before bed, and then she would start.
 
-She knew this about herself now. She had not known it before the faucet. She needed the tools on the table for a few days before her hands believed that the job was hers. The tools sitting there were a kind of promise she made to herself, more reliable than any promise she made out loud, because the tools did not move and could not be talked out of being there. They sat. They waited. They were the second person in the house, the one who had agreed to do this with her.
+She knew this about herself now. She needed the tools on the table for a few days before her hands believed that the job was hers. The tools sitting there were a kind of promise she made to herself, more reliable than any promise she made out loud, because the tools did not move and could not be talked out of being there. They sat. They waited. They were the second person in the house, the one who had agreed to do this with her.
 
 She turned out the kitchen light and went upstairs.
 
