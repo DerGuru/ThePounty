@@ -631,6 +631,7 @@ Aldric hat keinen sichtbaren inneren Monolog — aber seine Taten sind einer. Er
 1. Man entschuldigt sich, wenn man jemanden im Weg gestört hat — auch Gegner.
 1. Wer schwächer ist, hat Vorrang. Das ist keine Frage.
 1. Ein gegebenes Wort wird gehalten. Immer. Von allen. Besonders von anderen.
+1. Man lügt nicht. Eine Ausnahme: Wenn die Wahrheit eine abgeschlossene Bilanz wieder öffnen würde, lügt man flach — drei Worte, keine Dekoration. Die Lüge ist Teil der Aufräumarbeit, nicht des Akts.
 1. *(… die anderen kennt niemand.)*
 
 -----

@@ -21,6 +21,8 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 ## Maple Lane — Hausnummern
 
+*Maple Lane liegt in **Greenfield**, einer Kleinstadt mit eigener Polizei (Greenfield PD), eigenem Community Center (Greenfield Community Center, an der Pine Street, drei Blocks südlich von Maple Lane) und einem regionalen Krankenhaus (Mercy Regional) in fahrbarer Entfernung. Nachbarorte/-straßen, die im Text vorkommen: Birch Street (drei Straßen weiter), Route 9 (Hauptverbindung), Whitfield (Regionalbibliothek).*
+
 *Gerade Nummern auf der Nordseite, ungerade auf der Südseite.*
 
 ### Grundriss
