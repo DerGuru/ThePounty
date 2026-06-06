@@ -114,12 +114,7 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 
 ### Frühling (März – April 2025) — Eskalation
 
-**Hintergrund: Die Antwort auf den September-Auftrag** *(off-page, nicht im Manuskript erklärt — Subtext, der ab Ch40 trägt)*
-
-- **Was im September 2024 geschah:** Aldrics Operation (Ch10–14) traf eine Geldwäsche-Struktur, deren Eigentümer den Schaden überlebte. Sechs Monate Rekonstruktion und Identifikation. Quelle für Aldrics Identität: gekauftes Altbestand-Dossier (Foto von 2023, passport quality, fluorescent light).
-- **Calveys Auftrag (April 2025):** *Disturb. Make the point. Walk away.* — bewusst gedrosselt. Kein Mordauftrag, sondern **Sondierung**. Der Klient weiß *wer*, weiß *nicht wie tief* Aldric noch vernetzt ist, will Aldrics Reaktion testen, bevor er entscheidet, ob er weiter eskaliert.
-- **Asymmetrie in der Kette:** Der Klient (oben) weiß ungefähr. Mosely (Vermittler in London) reicht das Briefing weiter, ohne Test-Charakter zu kennen. Calvey führt aus, was er für Routine hält. Mosely's Phrase *„Former contractor. Civilian profile now. Won't be expecting anyone."* ist nicht falsch, nur unvollständig — und niemand in der Kette weiß, wie unvollständig.
-- **Aldrics Status:** Semi-aktiv, freiberuflich. Nimmt Aufträge nach eigenem Urteil. Leute, die ihn beauftragen, wissen, wie er tickt. Maple Lane ist **privat**, nicht cover. Echter Name. Reagiert auf Calvey nicht über Dienstweg, sondern über alte Nummern.
+*(Hintergrund zur Eskalation siehe `## Der Auftrag (Details)` weiter unten — der Blowback aus dem September-Auftrag.)*
 
 | # | Episode | Datum | POV | Funktion | Ton |
 |---|---------|-------|-----|----------|-----|
@@ -172,7 +167,7 @@ Dave: "Wie jemand, der *übt*, normal auszusehen."
 (Der Leser erkennt: jemand wie Aldric, aber ohne den Charme.)
 
 ### Art des Auftrags: Disruption
-Aldric soll die digitale Infrastruktur eines Geldwäsche-Netzwerks zerstören. Kein Blut — gebrochene Systeme. Sauber, cerebral, passend zu Intelligence. Das Syndikat verliert Geld und Struktur, keine Menschen. Das ist ärgerlich genug, um jemanden zu schicken — aber nicht persönlich genug für einen Krieg.
+Aldric soll die digitale Infrastruktur eines Geldwäsche-Netzwerks zerstören. Kein Blut — gebrochene Systeme. Sauber, cerebral, passend zu Intelligence. Das Syndikat verliert Geld und Struktur, keine Menschen. Das ist ärgerlich genug, um jemanden zu schicken — aber nicht persönlich genug für einen Krieg. **Der Eigentümer der Struktur überlebt den Schaden — das ist die Saat für den Blowback sechs Monate später.**
 
 ### Vorbereitung (sichtbar)
 - Lieferungen über ~2 Wochen (kleine, unauffällige Pakete)
@@ -186,6 +181,18 @@ Aldric soll die digitale Infrastruktur eines Geldwäsche-Netzwerks zerstören. K
 
 ### Was schiefläuft
 Nicht sauber genug. Vielleicht eine Kamera, die er nicht gesehen hat. Vielleicht ein Zeuge, der nicht da hätte sein sollen. Vielleicht hat er alles richtig gemacht, aber das Syndikat ist gründlicher als erwartet. Irgendwas führt — über Monate, über Umwege — zu Maple Lane.
+
+### Zwischen den Stühlen (Sept 2024 → April 2025)
+Sechs Monate Rekonstruktion und Identifikation auf der Gegenseite. Quelle für Aldrics Identität: gekauftes Altbestand-Dossier (Foto von 2023, passport quality, fluorescent light). Keine Echtzeit-Aufklärung — der Klient arbeitet mit alten Daten und kennt die heutige Lage in Maple Lane nicht.
+
+### Aldrics Status (laufend)
+Semi-aktiv, freiberuflich. Nimmt Aufträge nach eigenem Urteil. Leute, die ihn beauftragen, wissen, wie er tickt. Maple Lane ist **privat**, nicht cover. Echter Name. Reagiert auf Calvey nicht über Dienstweg, sondern über alte Nummern.
+
+### Calveys Auftrag (April 2025) — Sondierung
+*Disturb. Make the point. Walk away.* — bewusst gedrosselt. Kein Mordauftrag, sondern Sondierung. Der Klient weiß *wer*, weiß *nicht wie tief* Aldric noch vernetzt ist, will seine Reaktion testen, bevor er entscheidet, ob er weiter eskaliert.
+
+### Asymmetrie in der Kette
+Drei Schichten, drei Wissensstände. Der Klient (oben) weiß ungefähr. Mosely (Vermittler in London) reicht das Briefing weiter, ohne Test-Charakter zu kennen. Calvey führt aus, was er für Routine hält. Moselys Phrase *„Former contractor. Civilian profile now. Won't be expecting anyone."* ist nicht falsch, nur unvollständig — und niemand in der Kette weiß, wie unvollständig.
 
 ---
 
