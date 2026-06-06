@@ -514,7 +514,7 @@ injured the man's throat.
 ### Beschreibung (richtig):
 
 ```
-The house was not impressive. White, modest, a porch that wrapped halfway
+The house was not impressive. Beige, modest, a porch that wrapped halfway
 around the front. The flower box was empty, the soil still dark. Someone
 had prepared this for whoever came next.
 ```

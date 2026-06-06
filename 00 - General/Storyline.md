@@ -114,10 +114,17 @@ Gerald recherchiert vom ersten Tag an. Sein Arc:
 
 ### Frühling (März – April 2025) — Eskalation
 
+**Hintergrund: Die Antwort auf den September-Auftrag** *(off-page, nicht im Manuskript erklärt — Subtext, der ab Ch40 trägt)*
+
+- **Was im September 2024 geschah:** Aldrics Operation (Ch10–14) traf eine Geldwäsche-Struktur, deren Eigentümer den Schaden überlebte. Sechs Monate Rekonstruktion und Identifikation. Quelle für Aldrics Identität: gekauftes Altbestand-Dossier (Foto von 2023, passport quality, fluorescent light).
+- **Calveys Auftrag (April 2025):** *Disturb. Make the point. Walk away.* — bewusst gedrosselt. Kein Mordauftrag, sondern **Sondierung**. Der Klient weiß *wer*, weiß *nicht wie tief* Aldric noch vernetzt ist, will Aldrics Reaktion testen, bevor er entscheidet, ob er weiter eskaliert.
+- **Asymmetrie in der Kette:** Der Klient (oben) weiß ungefähr. Mosely (Vermittler in London) reicht das Briefing weiter, ohne Test-Charakter zu kennen. Calvey führt aus, was er für Routine hält. Mosely's Phrase *„Former contractor. Civilian profile now. Won't be expecting anyone."* ist nicht falsch, nur unvollständig — und niemand in der Kette weiß, wie unvollständig.
+- **Aldrics Status:** Semi-aktiv, freiberuflich. Nimmt Aufträge nach eigenem Urteil. Leute, die ihn beauftragen, wissen, wie er tickt. Maple Lane ist **privat**, nicht cover. Echter Name. Reagiert auf Calvey nicht über Dienstweg, sondern über alte Nummern.
+
 | # | Episode | Datum | POV | Funktion | Ton |
 |---|---------|-------|-----|----------|-----|
 | 39 | **Frühlingsfest** | 22. Mär (Sa) | Dave/Sandra | Neighborhood Spring Cleanup + Potluck. Sandra organisiert (natürlich). Spielplatz streichen, Beete bepflanzen, alle bringen Essen. Aldric trägt etwas absurd Präzises bei (perfekt abgemessene Blumenerde, exakt zugeschnittene Bretter für die Parkbank). Die Straße funktioniert — nicht als Gefühl, sondern als Farbe auf Holz. Letzte Community-Episode vor dem Sturm. *Beiläufig: Aldric gratuliert Rosa zum Geburtstag (8. März) in einem Nebensatz. Ms. Yuens Geburtstag (27. April) — Aldric gratuliert ihr auf dem Morgenspaziergang. Sie nickt. Feiert nicht.* *Wave-Beat: Kims Streifenwagen fährt während des Cleanups vorbei. Aldric hebt die Hand mit der Heckenschere. Sie hebt ihre. Niemand außer Sandra bemerkt es — sie bemerkt alles.* | Warm, ahnungsvoll |
-| 40 | **Der Fremde (Ankunft)** | 7. Apr (Mo) | Hired Muscle | ERSTER POV des Hired Muscle. Er sitzt im Auto. Rückblende: wie er den Job bekam. Adresse, Foto, "stör ihn". Vorstadt. Blumenkästen. Sollte schnell gehen. Dann sieht er Aldric den Rasen mähen. Irgendetwas an der Bewegung... | Thriller / Neue Perspektive |
+| 40 | **The Stranger** | 7. Apr (Mo) | Calvey (Hired Muscle) | ERSTER POV von Calvey. Vom Auto aus. Briefing-Reflexion im Sitzen (keine Rückblende — drei „What Mosely had said / What the file had said / What Calvey had thought"-Blöcke). Adresse, Foto, *„Disturb. Make the point. Walk away."* Vorstadt. Blumenkästen. Sollte schnell gehen. Dann: der Pivot am Rasenmäher (eine Bewegung, kein Reset) — Calvey erkennt das Muster, weil er dasselbe Training hatte (Royal Marines). *Wave-Beat: Kims Streifenwagen kommt vorbei (zum 1. Mal diese Woche). Aldric winkt. Kim hält die Hand einen Beat zu lang.* SMS an Mosely: *RECCE* → *Need a week. Not three days.* → *Approved. Don't mess it up.* Schluss: *He could not shake the pivot.* | Thriller / Neue Perspektive |
 | 41 | **Der Fremde (Beobachtung)** | 8. Apr (Di) | Gerald | Gerald bemerkt das Auto. Gerald bemerkt, dass Aldric es bemerkt hat. Gerald bemerkt, dass Aldric sein Verhalten ändert. Gerald versteht nicht — aber sein Körper versteht. Er erkennt das Muster sofort — weil er Aldrics Abwesenheitsmuster seit September kennt. *Wave-Beat: Gerald sieht den Streifenwagen wieder vorbeifahren — zum dritten Mal diese Woche. Aldric winkt aus dem Garten. Gerald notiert auch das.* | Spannung steigt |
 | 42 | **Marias Fenster** | 9. Apr (Mi) | Maria | Sie sieht das Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. | Spannung, persönlich |
 | 43 | **Intelligence warnt** | 14. Apr (Mo) | Dave | Ein zweiter Besuch. Derselbe "zu glatte" Mann. Kürzer diesmal. Drei Minuten. Aldric danach: genauso. Aber er schließt den Keller ab. *Wave-Beat: Während der "zu glatte" Mann an der Tür steht, fährt Kims Streifenwagen die Straße runter. Aldric winkt. Der Mann sieht es. Aldric sagt nichts.* | Eskalation |
@@ -185,9 +192,12 @@ Nicht sauber genug. Vielleicht eine Kamera, die er nicht gesehen hat. Vielleicht
 ## Der Fremde (Blowback)
 
 ### Wer er ist
-**Nathan Calvey**, 38. Ex-Royal Marines, danach private Security, jetzt freiberuflich für Leute, die keine Fragen stellen. Nicht dumm, nicht sadistisch — pragmatisch. Hat eine Tochter (8), die er alle zwei Wochen sieht. Raucht nicht mehr, trinkt kontrolliert. Der Job ist ein Job. Er stellt keine moralischen Fragen, weil er die Antworten nicht will.
+**Nathan Calvey**, 38. Ex-Royal Marines, danach private Security, jetzt freiberuflich für Leute, die keine Fragen stellen. Nicht dumm, nicht sadistisch — pragmatisch. Hat eine Tochter (8) in Bristol, die er alle zwei Wochen sieht. Raucht nicht mehr, trinkt kontrolliert. Der Job ist ein Job. Er stellt keine moralischen Fragen, weil er die Antworten nicht will.
 
 Geschickt vom Syndikat, dessen Operation Aldric gestört hat. Nichts Persönliches. Ein Auftrag wie jeder andere: finde den Mann, löse das Problem.
+
+### Sein Handler
+**Mosely**, London. Vermittler, kein Auftraggeber. Sagt nie, wer zahlt. Zahlt am Tag der Abgabe. Knappe Briefings („Consultancy work, Stateside, ten days, twenty in dollars"). Über ihn läuft jede Job-Annahme. Off-page; existiert nur als Stimme am Telefon und als Empfänger von Calveys SMS auf dem Burner.
 
 ### Warum das funktioniert
 - Es ist professionell, nicht emotional. Keine Rache-Monologe.

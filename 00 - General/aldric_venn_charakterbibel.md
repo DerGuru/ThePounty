@@ -648,6 +648,8 @@ Amerikanische Vorstadt. Picket fences, sauber getrimmter Rasen, Briefkästen in 
 
 Er findet das Klischee nicht lächerlich. Er findet es bemerkenswert. Er studiert es wie ein Anthropologe — mit echtem Respekt. Er beschloss, sich einen Blumenkasten zu kaufen. Er wollte ein guter Nachbar sein. Nicht weil er weiß, wie man das ist. Sondern weil er es lernen will.
 
+**Der Blumenkasten (Kanon-Detail):** Hängt am Verandageländer, nicht auf dem Boden. Saisonal bepflanzt — Stiefmütterchen (lila) im Frühjahr, Ringelblumen (orange) im Sommer, im Winter leer aber sauber, Boden dunkel und gepflegt. Sichtbar von der Straße, immer ordentlich gestutzt. Funktion: einziges dekoratives Element auf der Veranda neben zwei Stühlen und einem Tisch.
+
 -----
 
 ## Der Einzugstag

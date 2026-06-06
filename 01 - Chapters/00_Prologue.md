@@ -22,7 +22,7 @@ He sat for a moment. Hands on the wheel. The leather warm from the drive.
 
 The house next door had a flag. Something with a bird on it. A personal choice, displayed publicly. The one beyond that, a wind chime made of spoons. Someone had made it and hung it where the whole street could hear it. That took confidence. He respected that enormously.
 
-His house was modest, white, with a porch that wrapped halfway around the front. The previous tenants had left a rocking chair. That was a kind thing to do, leaving something behind for a stranger. He would find out who they were. He would write them a note. A proper one, on paper, with his name and a mention of the rocking chair so they’d know it wasn’t a generic pleasantry. People deserved to know when they’d done something kind. Generic gratitude was worse than none at all.
+His house was modest, beige, with a porch that wrapped halfway around the front. The previous tenants had left a rocking chair. That was a kind thing to do, leaving something behind for a stranger. He would find out who they were. He would write them a note. A proper one, on paper, with his name and a mention of the rocking chair so they’d know it wasn’t a generic pleasantry. People deserved to know when they’d done something kind. Generic gratitude was worse than none at all.
 
 The flower box was empty, soil still dark and ready. The windows were clean. Someone had prepared this for whoever came next. He would thank that person too, once he identified them. There was always someone responsible. Finding them was a courtesy.
 

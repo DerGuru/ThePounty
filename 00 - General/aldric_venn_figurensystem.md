@@ -21,7 +21,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 ## Maple Lane — Hausnummern
 
-*Maple Lane liegt in **Greenfield**, einer Kleinstadt mit eigener Polizei (Greenfield PD), eigenem Community Center (Greenfield Community Center, an der Pine Street, drei Blocks südlich von Maple Lane) und einem regionalen Krankenhaus (Mercy Regional) in fahrbarer Entfernung. Nachbarorte/-straßen, die im Text vorkommen: Birch Street (drei Straßen weiter), Route 9 (Hauptverbindung), Whitfield (Regionalbibliothek).*
+*Maple Lane liegt in **Greenfield Township, Maryland**, einer Kleinstadt mit eigener Polizei (Greenfield PD / Greenfield Township cruisers — weiß über schwarz, Light Bar), eigenem Community Center (Greenfield Community Center, an der Pine Street, drei Blocks südlich von Maple Lane) und einem regionalen Krankenhaus (Mercy Regional) in fahrbarer Entfernung. Nachbarorte/-straßen, die im Text vorkommen: Birch Street (drei Straßen weiter), Route 9 (Hauptverbindung), Whitfield (Regionalbibliothek). Vollständige Adresse Aldric: 4 Maple Lane, Greenfield Township, Maryland.*
 
 *Gerade Nummern auf der Nordseite, ungerade auf der Südseite.*
 
