@@ -47,7 +47,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 4 | Aldric Venn | gerade | 43 |
 | 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst |
 | 6 | *leer / zum Verkauf* | gerade (neben Aldric) | Garten verwildert, "For Sale"-Schild |
-| 7 | Greens (+ Hund) | ungerade | Ende 30; Tochter (15, schwieriger Teenager) |
+| 7 | Greens (+ Tochter + Hund) | ungerade | Mr. Green = *Der schwierige Nachbar* (Ebene 2). 38, reibend, parkt zu breit, grüßt nicht zurück. Mrs. Green 37. Tochter 15, schwieriger Teenager, Bassmusik bis spät. Hund (gegenüber Aldric einzige Ausnahme). |
 | 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, mitten in der Scheidung (Sohn ausgezogen → nichts mehr gemeinsam). Scheidung läuft noch — potentieller Storyline-Strang. |
 | 9 | Ms. Yuen | ungerade | 83, Witwe (Ehemann vor einigen Jahren gestorben), älteste Bewohnerin |
 | 10 | Mieter: Jill & Tom Weaver | gerade | Eigentümer: Blanchard (verzogen). Mitte 40, kinderlos, ruhiges Paar, arbeiten beide remote. Ebene 3. |
@@ -59,7 +59,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 16 | Dolores Marsh | gerade (Cul-de-sac) | 71, lebt seit 40 Jahren hier. Gedächtnis der Straße. Ebene 2. |
 | 17 | Bob Muñoz | ungerade (Cul-de-sac) | HOA-Beisitzer, macht Slides/Projektor, hat den Compliance-Binder. Ebene 3. |
 | 18 | Henderson | gerade (Cul-de-sac) | 70+, vor 5 Jahren eingezogen. Ebene 3. |
-| 19 | Tamara Flynn | ungerade (Cul-de-sac) | Anfang 40, geschieden, zwei Katzen. Joggt morgens. Kennt jeden vom Sehen. Ebene 3. |
+| 19 | Tamara Flynn | ungerade (Cul-de-sac) | Anfang 40, geschieden, zwei Katzen. Joggt morgens. Kennt jeden vom Sehen. *Die Organisatorin* — WhatsApp-Gruppe, Weihnachtsdeko, Block-Party-Sign-up. Ebene 2. |
 | 20 | Parker | gerade (Cul-de-sac) | Kind mit zahlreichen Essensallergien. Ebene 3. |
 | 21 | *Park* | Scheitelpunkt Wendekreis | ~9 Grundstücke Fläche. Basketballplatz, Bank, Weg nach Süden. |
 
@@ -368,6 +368,8 @@ Der schönste Trick: Episodenfiguren, die Aldric Wochen später auf der Straße 
 | Der Marktmann | 2 | Nein | Nein | Gerechtigkeitsprinzip |
 | Pater Angelo | 2 | Nein | Nein | Moral und Institution |
 | Kinder Ortegas | 2 | Nein | Nein | Aldrics sanfte Seite |
+| Tamara Flynn | 2 | Nein | Nein | Soziale Struktur / Organisation |
+| Mr. Green | 2 | Nein | Nein | Geduld als Kalkulation / schwieriger Nachbar |
 | Episodenfiguren | 3 | Nein | Nein | Je ein Prinzip |
 
 ---

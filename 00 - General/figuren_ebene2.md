@@ -290,14 +290,16 @@ Am Ende des Buches hat Kenny eine Bewerbung fertig. Für was, wird nicht gesagt.
 
 -----
 
-### Carol Jeffries — Die Organisatorin
+### Tamara Flynn — Die Organisatorin
 
 **Funktion:** Die soziale Struktur der Straße — und was passiert, wenn Aldrics Prinzipien auf Gemeinschaftsorganisation treffen.
 
 **Wer sie ist:**
-Carol Jeffries, 49, Nr. 6, organisiert seit Jahren alles auf Maple Lane, was organisiert werden will und manches, was es nicht will: das Straßenfest, die Weihnachtsdekoration-Absprachen, die WhatsApp-Gruppe, die Unterschriftenliste gegen den neuen Mobilfunkmast. Sie ist nicht böse. Sie ist ein Motor. Motoren machen Lärm und bringen Dinge voran und fragen manchmal nicht genug, ob alle mitfahren wollen.
+Tamara Flynn, Anfang 40, Nr. 19 (Cul-de-sac), geschieden, zwei Katzen, joggt morgens. Sie kennt jeden auf der Straße vom Sehen — und seit der Scheidung auch mit Namen. Sie organisiert vom Cul-de-sac aus alles, was organisiert werden will, und manches, was es nicht will: die WhatsApp-Gruppe, die Weihnachtsdekoration-Absprachen, die Unterschriftenliste gegen den neuen Mobilfunkmast, das Sign-up für die jährliche Block Party im Juli. Sie ist nicht böse. Sie ist ein Motor. Motoren machen Lärm und bringen Dinge voran und fragen manchmal nicht genug, ob alle mitfahren wollen.
 
 Sie meint es gut. Das ist keine Frage. Sie meint es sehr gut, sehr laut, und sehr oft.
+
+Weil sie am hinteren Ende der Straße wohnt und das meiste über WhatsApp und kurze Sonntags-Stops bei der Joggingrunde läuft, bekommen die Bewohner des vorderen Blocks sie selten zu Gesicht. Sandra Hooper hat lange angenommen, dass sie das meiste selbst macht. Beide haben sich noch nie auf demselben Klemmbrett getroffen.
 
 **Ton:**
 Organisiert, enthusiastisch, hat immer einen Plan und eine Liste. Redet schnell. Fragt viele Fragen, wartet manchmal nicht auf die Antworten.
@@ -305,13 +307,13 @@ Organisiert, enthusiastisch, hat immer einen Plan und eine Liste. Redet schnell.
 **Ihr Aldric:**
 Aldric erscheint auf jedem Straßenfest. Er bringt immer etwas mit — gut gekocht, ordentlich beschriftet, mit einem Hinweis auf Allergene. Er hilft beim Aufbauen. Er hilft beim Abbauen. Er macht genau das, was ihm gesagt wird, präzise und ohne Rückfragen.
 
-Das irritiert Carol, weil sie auf Rückfragen eingestellt ist. Einwände. Verhandlungen. Aldric hat keine. Er liest die Liste, macht die Liste.
+Das irritiert Tamara, weil sie auf Rückfragen eingestellt ist. Einwände. Verhandlungen. Aldric hat keine. Er liest die Liste, macht die Liste.
 
-Einmal setzt Carol eine Entscheidung durch, die nicht alle auf der Straße wollen — eine Parkregel, eine Gartenordnung, irgendetwas Kleines mit großen Gefühlen. Sie stimmt es mit der Mehrheit ab. Die Minderheit ist unglücklich.
+Einmal setzt Tamara eine Entscheidung durch, die nicht alle auf der Straße wollen — eine Parkregel, eine Gartenordnung, irgendetwas Kleines mit großen Gefühlen. Sie stimmt es mit der Mehrheit ab. Die Minderheit ist unglücklich.
 
 Aldric stellt beim nächsten Treffen eine Frage. Ruhig, präzise. „Wurden Frau Kowalski und Herr Drummond informiert, bevor die Abstimmung stattfand, oder danach?”
 
-Carol sagt danach.
+Tamara sagt danach.
 
 „Ich dachte mir das,” sagt Aldric. „Danke für die Information.”
 
@@ -319,9 +321,9 @@ Er sagt nichts weiter. Er tut nichts weiter. Aber beim übernächsten Treffen is
 
 **Szene (aus Sandras POV):**
 
-> Sandra hatte Carol noch nie so still gesehen wie in dem Moment, nachdem Aldric seine Frage gestellt hatte.
+> Sandra hatte Tamara noch nie so still gesehen wie in dem Moment, nachdem Aldric seine Frage gestellt hatte.
 > 
-> Nicht wütend still. Nicht beleidigt still. Nachdenklich still. Carol war selten nachdenklich still.
+> Nicht wütend still. Nicht beleidigt still. Nachdenklich still. Tamara war selten nachdenklich still.
 > 
 > „Er hat sie nicht kritisiert,” sagte Sandra später zu Gerald. „Er hat nur gefragt.”
 > 
@@ -329,26 +331,28 @@ Er sagt nichts weiter. Er tut nichts weiter. Aber beim übernächsten Treffen is
 
 -----
 
-### Tom Greer — Der schwierige Nachbar
+### Mr. Green — Der schwierige Nachbar
 
 **Funktion:** Die erste echte Erprobung von Aldrics Tier-2-Prinzip auf engstem Raum. Und die Demonstration, dass Geduld keine Schwäche ist.
 
 **Wer er ist:**
-Tom Greer, 44, Nr. 2, ist der Nachbar, den jede Straße hat: nicht bösartig, aber reibend. Er parkt zu breit. Seine Musik geht zu lange. Er grüßt nicht zurück. Er hat drei Beschwerden bei der Gemeinde eingereicht wegen Kleinigkeiten, die ihn nicht wirklich betrafen. Er ist kein schlechter Mensch. Er ist jemand, dem das Leben irgendwo schiefgelaufen ist, und der das durch kleine Herrschaft über seinen unmittelbaren Umkreis kompensiert.
+Mr. Green, 38, Nr. 7 (gegenüber-schräg von Aldric), ist der Nachbar, den jede Straße hat: nicht bösartig, aber reibend. Er parkt zu breit — manchmal so, dass es auf der Straße eng wird. Er lässt seine Tochter abends ihre Musik so laut hören, dass man den Bass drei Häuser weiter hört. Er grüßt nicht zurück. Er hat drei Beschwerden bei der Gemeinde eingereicht wegen Kleinigkeiten, die ihn nicht wirklich betrafen. Er ist kein schlechter Mensch. Er ist jemand, dem das Leben irgendwo schiefgelaufen ist — 38 Jahre alt, eine Frau, mit der er kaum noch redet, eine 15-jährige Tochter, die ihn anschreit, ein Hund, den er vergisst zu füttern — und der das durch kleine Herrschaft über seinen unmittelbaren Umkreis kompensiert.
 
-Er mag Aldric von Anfang an nicht. Kein konkreter Grund. Aldric ist zu ordentlich, zu höflich, zu gar nichts, an dem man sich reiben kann. Das stört Tom.
+Er mag Aldric von Anfang an nicht. Kein konkreter Grund. Aldric ist zu ordentlich, zu höflich, zu gar nichts, an dem man sich reiben kann. Das stört ihn.
+
+Dass der Familienhund ihn nicht stört — dass der Hund jeden ankläfft außer Aldric — stört ihn besonders. Er sagt das nicht. Er denkt es jedes Mal.
 
 **Ton:**
 Defensiv-aggressiv. Redet über Recht und Regel wenn es ihm passt, ignoriert sie wenn nicht. Hat immer eine Beschwerde bereit.
 
 **Sein Aldric:**
-Aldric grüßt Tom jeden Morgen. Tom grüßt nicht zurück. Aldric grüßt trotzdem.
+Aldric grüßt Mr. Green jeden Morgen über die Straße. Mr. Green grüßt nicht zurück. Aldric grüßt trotzdem.
 
 Jeden Morgen.
 
 Wochenlang.
 
-Tom parkiert einmal so, dass Aldric seinen Wagen nicht herausbewegen kann. Aldric klopft an. Höflich. Tom kommt nach zwanzig Minuten. Keine Entschuldigung.
+Mr. Green parkt einmal so, dass Aldric mit dem Volvo nicht aus seiner Einfahrt herauskommt. Aldric klopft an. Höflich. Mr. Green kommt nach zwanzig Minuten. Keine Entschuldigung.
 
 „Danke,” sagt Aldric.
 
@@ -356,22 +360,22 @@ Tom parkiert einmal so, dass Aldric seinen Wagen nicht herausbewegen kann. Aldri
 
 „Dass Sie gekommen sind.”
 
-Tom wartet auf mehr. Es kommt keines.
+Mr. Green wartet auf mehr. Es kommt keines.
 
-Das Muster wiederholt sich einige Male, mit kleinen Variationen. Tom eskaliert leicht. Aldric skaliert exakt mit — nie mehr, nie weniger. Immer höflich, immer präzise, immer mit dem Angebot der einmaligen Chance, die Tom nie nimmt.
+Das Muster wiederholt sich einige Male, mit kleinen Variationen. Mr. Green eskaliert leicht. Aldric skaliert exakt mit — nie mehr, nie weniger. Immer höflich, immer präzise, immer mit dem Angebot der einmaligen Chance, die Mr. Green nie nimmt.
 
-Die Eskalation erreicht einen Moment, der nicht vollständig gezeigt wird. Dave sieht nur den Anfang. Gerald hört nur das Ende. Was dazwischen liegt, bleibt zwischen Tom und Aldric.
+Die Eskalation erreicht einen Moment, der nicht vollständig gezeigt wird. Dave sieht nur den Anfang. Gerald hört nur das Ende. Was dazwischen liegt, bleibt zwischen den beiden.
 
-Danach parkt Tom korrekt. Grüßt nicht zurück — aber parkt korrekt.
+Danach parkt Mr. Green korrekt. Grüßt nicht zurück — aber parkt korrekt.
 
 **Der Kern:**
-Tom ist nicht die Geschichte. Tom ist der Test. Er zeigt, dass Aldrics Geduld keine Naivität ist — sie ist Kalkulation. Er wartet auf den Moment, in dem die Antwort präzise möglich ist. Das macht ihn berechenbarer, nicht gutmütiger.
+Mr. Green ist nicht die Geschichte. Er ist der Test. Er zeigt, dass Aldrics Geduld keine Naivität ist — sie ist Kalkulation. Er wartet auf den Moment, in dem die Antwort präzise möglich ist. Das macht ihn berechenbarer, nicht gutmütiger.
 
 **Szene (aus Daves POV):**
 
-> Dave hatte nicht gewusst, was passiert war. Er hatte nur gesehen, dass Tom Greer seit drei Wochen korrekt parkte und Aldric jeden Morgen trotzdem grüßte.
+> Dave hatte nicht gewusst, was passiert war. Er hatte nur gesehen, dass Mr. Green seit drei Wochen korrekt parkte und Aldric jeden Morgen trotzdem grüßte.
 > 
-> Und dass Tom seit drei Wochen jedes Mal, wenn er grüßt, einen kleinen Moment zögerte.
+> Und dass Mr. Green seit drei Wochen jedes Mal, wenn er grüßt, einen kleinen Moment zögerte.
 > 
 > Er grüßte nie zurück. Aber er zögerte.
 > 
@@ -479,8 +483,8 @@ Die Laskos sind das einzige Tier 3 in einem Buch voller Tier 1 und Tier 2. Sie s
 |Hector Blum      |Kompetenz und Handwerk                |Hausreparatur       |Erste Wochen    |
 |Dolores Marsh    |Gedächtnis der Straße                 |Langzeit-Nachbarin  |Erste Wochen    |
 |Kenny Park       |Potential vs. Fehltritt               |Jugendlicher, Nr. 11|Mittlere Kapitel|
-|Carol Jeffries   |Soziale Struktur                      |Straßenorganisatorin|Frühe Kapitel   |
-|Tom Greer        |Geduld als Kalkulation                |Schwieriger Nachbar |Frühe Kapitel   |
+|Tamara Flynn     |Soziale Struktur                      |Straßenorganisatorin (Cul-de-sac, Nr. 19)|Ch39 (Spring Cleanup)|
+|Mr. Green        |Geduld als Kalkulation                |Schwieriger Nachbar (Nr. 7)|Frühe Kapitel   |
 |Mae Okonkwo      |Der unvoreingenommene Blick           |Neue Nachbarin      |Mittlere Kapitel|
 |Laskos (Brian, Nora, Lily)|Tier-3-Auslöser (DV)         |Birch Street, drei Straßen weiter|Ch28 / Ch36 / Ch37|
 
@@ -492,7 +496,7 @@ Die Ebene-2-Figuren zusammen zeigen das, was Ebene 1 nicht kann: **die Breite de
 
 Dave, Rosa, Gerald, Ms. Yuen, Sandra, Officer Kim — das sind die tiefen Linsen. Sie sehen Aldric lange und nah.
 
-Ray Kowalski, Hector Blum, Tom Greer, Kenny Park — das sind die kurzen Linsen. Sie sehen Aldric in einem Moment, einer Situation, einer Antwort. Und dieser eine Moment sagt manchmal mehr als ein ganzes Kapitel.
+Ray Kowalski, Hector Blum, Mr. Green, Kenny Park — das sind die kurzen Linsen. Sie sehen Aldric in einem Moment, einer Situation, einer Antwort. Und dieser eine Moment sagt manchmal mehr als ein ganzes Kapitel.
 
 Und Mae Okonkwo ist der Reset — sie sieht ihn ohne alles, was die anderen mitbringen, und ihr Urteil ist deshalb das einfachste und in gewisser Weise das ehrlichste im ganzen Buch.
 

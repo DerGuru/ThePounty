@@ -83,5 +83,5 @@
 46. **SoL-Szenen müssen arbeiten.** Jede Slice-of-Life-Szene muss mindestens EINS tun: (a) eine Beziehung vertiefen, (b) einen Charakter triggern/verändern, (c) spätere Stakes aufbauen, (d) Stimmung/Atmosphäre etablieren. Kein SoL als Füllmaterial.
 
 ## Grammatik
-47. **Jeder Satz, der ein Verb enthält, braucht ein Subjekt.** Keine subjektlosen Sätze. Fragments ohne Verb (Nominalsätze) sind erlaubt.
+47. **Jeder Satz, der ein Verb enthält, braucht ein Subjekt.** Keine subjektlosen Sätze. Fragments ohne Verb (Nominalsätze) sind erlaubt. Nach einem Fix des Regelverstoßes, wird erneut geprüft, ob damit nun ein Verstoß gegen Regel 48 (Aufzählungen enden mit "and") vorliegt. Wenn ja, wird weiter korrigiert, bis Regel 48 erfüllt ist.
 48. **Aufzählungen enden mit "and".** Komma-getrennte Listen innerhalb eines Satzes setzen ein "and" vor das letzte Glied. Beispiel: *She adjusted her grip, pulled the yarn taut and tried again.* Nicht: *She adjusted her grip, pulled the yarn taut, tried again.*
