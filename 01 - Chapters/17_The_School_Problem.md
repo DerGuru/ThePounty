@@ -1,4 +1,4 @@
-# Chapter 18: The School Problem
+# Chapter 17: The School Problem
 
 The thing about Aiden Parker was that he wasn't stupid. He was smart enough to only say things when no teachers were close. Smart enough to smile after, like it was a joke. Smart enough to pick the moments when Lina was alone or when the only people around were kids who'd laugh.
 

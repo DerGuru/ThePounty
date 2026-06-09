@@ -1,4 +1,4 @@
-# Chapter 25: The Argument Next Door
+# Chapter 24: The Argument Next Door
 
 Monday evening.
 

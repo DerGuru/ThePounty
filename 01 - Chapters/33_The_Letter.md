@@ -83,13 +83,13 @@ She thanked him and hung up. She sat at the kitchen table and looked at the back
 
 She picked up her phone again and made the call. A woman named Patricia answered the phone, which surprised Maria, because she had been expecting voicemail or a computer voice. Patricia listened. Patricia asked questions, all of them practical. Patricia said she could come Thursday morning at nine and the report would be in Maria's inbox the following Wednesday. The fee was four hundred and seventy-five dollars, half on inspection, half on delivery.
 
-Maria said yes. She said it without checking with anyone, without asking for time to think about it, without a single hesitation between the question and the answer. The word came out flat and clean and her own.
+Maria said yes.
 
 She wrote *Patricia Stephenson — Thursday 9 a.m.* on the envelope together with the phone number. She put the envelope on the corner of the counter beside the screwdriver case.
 
 The kitchen was quiet. She did not feel different than she had felt yesterday. She did not feel like anything had been solved. The letter from the law firm was still on the table. Carlos was still in Phoenix doing what Carlos did. The house was still not hers. She had spent four hundred and seventy-five dollars she did not really have on a piece of paper that would not, by itself, change anything.
 
-But she had made the call. Without crying, without asking Jesús, without asking Daniel Hartmann to make it for her. The appraiser was coming Thursday. That was a thing she had done.
+But when Carlos's number came, she would have an independent one to set against it. That was what the money bought. Not a feeling. A number.
 
 She picked up the law firm pages and put them back in the envelope. She put the envelope in the drawer of the kitchen desk where she kept the other paperwork from the divorce. 
 
@@ -187,4 +187,4 @@ She slept through the night.
 
 In the morning she would call Hartmann and tell him to draft the appraisal-consent letter with the parallel-appraisal clause. She would call Patricia and confirm Thursday. She would put the screwdriver case in the closet, or she would not. She had not decided yet about the case.
 
-But the appraiser was coming Thursday. And someone had made the call.
+But the appraiser was coming Thursday. The house would be valued by two strangers with clipboards now, not by Carlos alone. It was not much. It was more than she'd had on Monday.

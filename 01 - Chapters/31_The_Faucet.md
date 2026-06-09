@@ -142,4 +142,16 @@ She thought: *I did that.*
 
 It wasn't a big thought. It didn't go anywhere. It just sat in her chest where the wiping had been this morning, and it took up about the same amount of room.
 
-Outside, a car drove past, slow, as cars did on Maple Lane in January when the road was salt-rough and the drivers were being careful. Maria heard it but did not look up. She had three more rows to do before the sleeve increase. She wanted to get them done before lunch.
+But it would not let her sit. After a few rows she set the knitting down and went back to the kitchen.
+
+She had crossed it a thousand times under the brown scallop on the ceiling, where the upstairs tub had been bleeding into the plaster since September. She had looked at it the way she looked at weather, as a thing that happened to her. Now, with the faucet dry behind her, she looked at it the way she had looked at the faucet that morning. A thing with a cause. A cause with a fix.
+
+The laptop was still open on the table. She searched the tub, the joint, and the seal under the tile. The same woman in the sweatshirt came up, bookmarked after the faucet without Maria quite deciding to. Old caulk, dried and split, letting water creep behind the wall. Take all of it out. The new bead is the easy part.
+
+She wrote the list at the bottom of the same page. Silicone, kitchen and bath. A cheap gun. A plastic scraper. Tape. She was still buoyed enough to put her coat back on and drive the eleven minutes before the feeling could talk her out of it. She knew the store now. She did not need the man in the green apron to walk her down the aisles. She found the silicone, the gun, the scraper, and the blue tape. She paid and drove home with the bag on the seat beside her.
+
+By the time she carried it inside, the lift had gone out of the day.
+
+She laid the things on the kitchen table in the order she would use them. Scraper, razors, two tubes of silicone, the gun, the tape. She would start after lunch. She did not start after lunch. She made a sandwich. She picked up the cardigan. The light went gray at the windows and the tools stayed where she had put them, untouched.
+
+She knew this about herself now, in a way she hadn't before this morning. Her hands needed the tools on the table a while before they believed the work was hers. The faucet had waited ten days on the counter before she opened the case. The tub would wait too. That was all right. She had done the one thing today. The other was bought and paid for and sitting on her own table, hers, waiting only for her hands to catch up to what she already knew.

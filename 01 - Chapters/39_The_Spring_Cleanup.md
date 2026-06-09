@@ -1,4 +1,4 @@
-# Chapter 40: The Spring Cleanup
+# Chapter 39: The Spring Cleanup
 
 Saturday morning, a little past eight. Dave came down the stairs in his oldest jeans and the sweatshirt Rosa had been trying to throw out for two years. The kitchen smelled like coffee and the warm yeast of the cinnamon rolls she had pulled from the oven ten minutes ago. The pan was already in the carrier on the counter, the foil tucked under at the corners, every fold the same width.
 

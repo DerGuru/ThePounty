@@ -1,4 +1,4 @@
-# Chapter 24: Gerald's Mistake
+# Chapter 23: Gerald's Mistake
 
 Gerald had been following Aldric Venn for eleven minutes.
 

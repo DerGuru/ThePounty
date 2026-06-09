@@ -1,4 +1,4 @@
-# Chapter 27: The Account
+# Chapter 26: The Account
 
 Monday morning.
 

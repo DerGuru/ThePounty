@@ -1,4 +1,4 @@
-# Chapter 39: Officer Kim's Second Visit
+# Chapter 38: Officer Kim's Second Visit
 
 Monday morning. Kim took the long way to Maple Lane. She had no reason to come. She had every reason. She had a hospital chart and a single sentence and a wave from Friday evening she had returned without thinking.
 

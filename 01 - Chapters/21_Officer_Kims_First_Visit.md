@@ -1,4 +1,4 @@
-# Chapter 22: Officer Kim's First Visit
+# Chapter 21: Officer Kim's First Visit
 
 The file was thin. Two pages, a supplement, and a withdrawal form. Kim had it open on the passenger seat while she finished her coffee in the station parking lot, engine idling, heater on. November mornings in this part of the state started at forty-two degrees and didn't commit to warming up until noon.
 

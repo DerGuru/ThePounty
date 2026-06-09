@@ -1,4 +1,4 @@
-# Chapter 41: The Stranger
+# Chapter 40: The Stranger
 
 Monday morning. The light coming off Maple Lane was the pale spring-gold that did not warm anything yet. Seven forty-two. Calvey had been parked since six.
 

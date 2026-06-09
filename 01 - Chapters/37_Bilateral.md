@@ -1,4 +1,4 @@
-# Chapter 38: Bilateral
+# Chapter 37: Bilateral
 
 Thursday afternoon. Kim was on Route 9 northbound when dispatch came on with a welfare check. A 911 hang-up from a residence on Birch Street, no answer on the callback. The address was familiar from the file — two prior domestic disturbance calls, eighteen months apart, both withdrawn by the wife. She put on her flashers and turned at the next light.
 

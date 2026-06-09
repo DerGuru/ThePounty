@@ -153,4 +153,4 @@ The basement light came on at eight. Gerald watched it from the kitchen window w
 
 At ten Sandra went to bed and Gerald stood at the kitchen sink, looking across the dark street at that faint glow.
 
-He went to bed at ten-thirty. He didn't sleep well.
+It was still burning when he went up at half past ten. A man was allowed a light in his own basement. Gerald left the bedroom blinds open anyway.

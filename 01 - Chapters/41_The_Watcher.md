@@ -1,4 +1,4 @@
-# Chapter 42: The Watcher
+# Chapter 41: The Watcher
 
 *April 8. Gray Hyundai, MD plate ending 47B. Parked yesterday by the playground. This morning in front of the Chens'. Same car. Same man.*
 

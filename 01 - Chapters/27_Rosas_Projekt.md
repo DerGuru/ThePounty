@@ -1,4 +1,4 @@
-# Chapter 28: Rosa's Project
+# Chapter 27: Rosa's Project
 
 The community center smelled like floor wax and somebody's microwaved soup. Rosa stood in the entrance hall with her tote bag over one shoulder, the one with the broken zipper she kept meaning to replace, and read the bulletin board without seeing any of it. A flyer for a blood drive. A lost cat named Dusty. A sign-up sheet for a spring garden swap that still had November's date crossed out on top.
 

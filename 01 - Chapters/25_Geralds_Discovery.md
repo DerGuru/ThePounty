@@ -1,4 +1,4 @@
-# Chapter 26: Gerald's Discovery
+# Chapter 25: Gerald's Discovery
 
 It started with a name.
 
@@ -78,7 +78,7 @@ He wrote: *No LinkedIn. No Facebook. No prior address. No voter registration. No
 
 He put the pen down. Picked it up again.
 
-*A man with no past moved to Maple Lane five months ago. He paid cash for a house. He owns a car registered to a name that didn't exist a year ago. He researches local history in the public library.*
+*A man with no past moved to Maple Lane five months ago. He paid cash for a house. He owns a car registered to a name that didn't exist a year ago. He left for two days in September and came back as if he had never gone. He researches local history in the public library.*
 
 *I was not wrong.*
 
@@ -110,4 +110,4 @@ A history nerd. That's what he'd told Sandra. That's what he'd told himself. A h
 
 Gerald closed his eyes.
 
-He did not sleep well that night.
+He did not sleep. Somewhere under the envelopes the blue notebook held a single question with no answer, and it would still be there in the morning.

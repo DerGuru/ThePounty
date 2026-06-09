@@ -448,7 +448,7 @@ Nora sieht Aldric nicht. Sie hört nur, was Brian ihr nie erzählt — über die
 Lily sieht Aldric gar nicht. Aldric weiß über Lily nur, was Rosa über Lily weiß. Das reicht ihm.
 
 **Wiederkehrendes Muster:**
-Die Laskos sind keine Maple-Lane-Familie. Sie tauchen drei Mal auf: Nora am Center (Ch28, Ch37), die Familie als Fall (Ch38), und danach als Abwesenheit — keiner von ihnen kommt wieder auf der Straße vor. Was sich verändert hat, verändert sich nicht zurück und wird nicht aufgelöst. Das ist der Punkt.
+Die Laskos sind keine Maple-Lane-Familie. Sie tauchen drei Mal auf: Nora am Center (Ch27, Ch36), die Familie als Fall (Ch37), und danach als Abwesenheit — keiner von ihnen kommt wieder auf der Straße vor. Was sich verändert hat, verändert sich nicht zurück und wird nicht aufgelöst. Das ist der Punkt.
 
 **Funktion für das Mosaik:**
 Die Laskos sind das einzige Tier 3 in einem Buch voller Tier 1 und Tier 2. Sie sind der Beweis, dass die Skala existiert — und dass Aldric weiß, wo darauf sie liegt. Das Buch zeigt nicht den Akt. Es zeigt die Hände vorher (Briefkasten, Frage, ein Mittwochmittag, an dem das Auto wegfährt), die Lücke (zwei Tage Abwesenheit), und die Hände nachher (Krankenhausbett, Liste, „I fell."). Der Leser muss den Rest selber sehen.
@@ -483,10 +483,10 @@ Die Laskos sind das einzige Tier 3 in einem Buch voller Tier 1 und Tier 2. Sie s
 |Hector Blum      |Kompetenz und Handwerk                |Hausreparatur       |Erste Wochen    |
 |Dolores Marsh    |Gedächtnis der Straße                 |Langzeit-Nachbarin  |Erste Wochen    |
 |Kenny Park       |Potential vs. Fehltritt               |Jugendlicher, Nr. 11|Mittlere Kapitel|
-|Tamara Flynn     |Soziale Struktur                      |Straßenorganisatorin (Cul-de-sac, Nr. 19)|Ch40 (Spring Cleanup)|
+|Tamara Flynn     |Soziale Struktur                      |Straßenorganisatorin (Cul-de-sac, Nr. 19)|Ch39 (Spring Cleanup)|
 |Mr. Green        |Geduld als Kalkulation                |Schwieriger Nachbar (Nr. 7)|Frühe Kapitel   |
 |Mae Okonkwo      |Der unvoreingenommene Blick           |Neue Nachbarin      |Mittlere Kapitel|
-|Laskos (Brian, Nora, Lily)|Tier-3-Auslöser (DV)         |Birch Street, drei Straßen weiter|Ch28 / Ch37 / Ch38|
+|Laskos (Brian, Nora, Lily)|Tier-3-Auslöser (DV)         |Birch Street, drei Straßen weiter|Ch27 / Ch36 / Ch37|
 
 -----
 

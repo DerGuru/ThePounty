@@ -1,4 +1,4 @@
-# Chapter 23: The Fence
+# Chapter 22: The Fence
 
 The fence had been white once. Maria could see it from the kitchen window every morning while she waited for the coffee to brew, which meant she'd been looking at it for twenty-three years without really seeing it. It was the kind of thing that happened so gradually you only noticed when you tried to remember what it had looked like before. The pickets were gray now, the paint cracked and peeling in long vertical strips that curled away from the wood like old wallpaper. In some spots, near the base, the bare wood was turning green. Moss or mildew. She didn't know the difference.
 

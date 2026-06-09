@@ -1,4 +1,4 @@
-# Chapter 21: Halloween
+# Chapter 20: Halloween
 
 Sandra had been decorating since breakfast. The fake cobwebs were up on the porch railings, stretched thin between the posts the way the YouTube tutorial had shown her. The plastic jack-o'-lanterns lined the walkway. The motion-activated skeleton by the door worked after Gerald tightened a connection she couldn't reach without the step stool.
 

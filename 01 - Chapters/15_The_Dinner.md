@@ -1,4 +1,4 @@
-# Chapter 16: The Dinner
+# Chapter 15: The Dinner
 
 Rosa had spent the afternoon in the kitchen and most of it had been good. The rice was done. The black beans were simmering with cumin and a bay leaf. The corn was roasted and cooling on a sheet pan, the kernels browning at the edges. The chorizo was cooked and resting in a bowl, sliced thin, releasing orange into a paper towel.
 

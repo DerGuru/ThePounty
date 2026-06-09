@@ -1,4 +1,4 @@
-# Chapter 37: Three Streets Over
+# Chapter 36: Three Streets Over
 
 Tuesday afternoon. The community center was warm to the point of stuffiness. The radiators clanking under the windows, the air thick with crayon wax and the last of the afternoon's microwaved soup. Rosa was packing up at the far table when Nora came in for pickup. Lily ran to her with her water bottle. Nora bent to take it, and the sleeve of her gray sweater rode up an inch on her right arm.
 

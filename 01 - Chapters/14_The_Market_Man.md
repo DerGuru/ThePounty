@@ -1,4 +1,4 @@
-# Chapter 15: The Market Man
+# Chapter 14: The Market Man
 
 The Saturday market on Greenfield took up half the parking lot behind the Methodist church. Dave went most weeks, not because he needed anything, but because Rosa gave him a list and the list gave him a reason to leave the house before the kids woke up.
 
