@@ -54,7 +54,7 @@ He smiled.
 
 "Yes."
 
-Kim produced her badge wallet, though the uniform made it redundant. "Officer Kim, Greefield PD. I'm following up on a complaint filed by your neighbor, Mrs. Hooper. Do you have a few minutes?"
+Kim produced her badge wallet, though the uniform made it redundant. "Officer Kim, Greenfield PD. I'm following up on a complaint filed by your neighbor, Mrs. Hooper. Do you have a few minutes?"
 
 "Of course. Would you like to come in, or would you prefer to speak here?"
 
