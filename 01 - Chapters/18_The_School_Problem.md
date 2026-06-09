@@ -212,6 +212,8 @@ He tilted his head. "I explained the situation."
 
 Lina turned that over. It didn't quite make sense. But it did not *not* make sense either.
 
+It was more than the grown-ups got, she thought. When they asked him things, they got the nice voice and no answer. He had actually told her something true.
+
 "Okay," she said.
 
 "Tell your mother I said hello."

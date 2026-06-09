@@ -76,7 +76,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Lina Ortega | 4. Mai | 2014 | 10 | |
 | Marcus Ortega | 16. Oktober | 2019 | 5 | Kindergeburtstag-Kapitel im Herbst. |
 | Gerald Robert Hooper | 3. November | 1961 | 63 | |
-| Sandra Hooper | 19. Juni | 1963 | 61 | Vor Aldrics Ankunft (25. Juni). Kein Kontakt. Feier in Buch-Jahr = Ep 43b. |
+| Sandra Hooper | 19. Juni | 1963 | 61 | Vor Aldrics Ankunft (25. Juni). Kein Kontakt. Feier in Buch-Jahr = Ep 49. |
 | Maria Alvarez | 14. Januar | 1982 | 42 | |
 | Jesús Alvarez | 9. August | 2002 | 22 | Marias Sohn. Mäht ihren Rasen sonntags. |
 | Ms. Yuen | 27. April | 1941 | 83 | Älteste Bewohnerin. |

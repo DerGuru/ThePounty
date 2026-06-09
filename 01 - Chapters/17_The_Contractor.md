@@ -134,7 +134,21 @@ On Saturday afternoon, Aldric crossed the street with two glasses of iced lemona
 
 By Sunday evening, the garden looked better than it had before.
 
-When the man loaded his tools onto the truck bed, Aldric appeared again. This time he carried a bottle — non-alcoholic beer, still beaded with cold. He handed it to the man. They stood by the tailgate for a minute, not speaking much. The man drank. Aldric said something and smiled. The man nodded and they shook hands. Then he closed the tailgate and left.
+When the man loaded his tools onto the truck bed, Aldric appeared again. This time he carried a bottle, non-alcoholic beer, still beaded with cold. He handed it to the man. They stood by the tailgate for a minute, not speaking much. The man drank. Aldric said something and smiled. The man nodded and they shook hands. Aldric walked back across the street.
+
+The man did not get into the truck. He stood a moment, then came up the walk and knocked, the first time in two days he had gone near the house.
+
+Sandra opened the door.
+
+He turned his cap once in his hands. "The paths drain away from the foundation, ma'am. The bed's cedar, it'll outlast the fence. The grass will fill in by June." He stopped. "Are you happy with it? Is it what you wanted?"
+
+"It's lovely," Sandra said. "More than I asked for."
+
+"Good." Something let go in his shoulders. "Good." Then, with a care that did not fit a man loading a truck: "Would you tell your neighbor that? That you're happy. That I did it right."
+
+"I will," Sandra said.
+
+"Thank you." He relaxed, turned, and went back to the truck. He closed the tailgate, and drove slowly, careful on a street where children lived.
 
 Sandra stood at the kitchen window and looked at the garden. Gerald came up behind her and looked too.
 
@@ -166,9 +180,7 @@ The sentence was light. Conversational. But somewhere underneath the politeness 
 
 "Did he." A pause. "Perhaps he felt he owed more than the original scope."
 
-Sandra wanted to ask. She wanted to ask what Aldric had said, exactly what words he'd used, what tone. She wanted to know what made a man who'd stolen from five people show up at seven fifty on a Saturday and work for free for two days.
-
-She didn't ask.
+Sandra did not ask what Aldric had said to the man. She had seen his face at her door. She had heard how carefully he asked her to carry the message back across the street. She had the shape of it now, even without the words. The words she did not want.
 
 "Gerald wants to know if you'd like to come for dinner Saturday," she said instead.
 

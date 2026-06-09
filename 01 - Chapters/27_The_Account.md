@@ -90,7 +90,7 @@ At the bottom, in the same neat handwriting: *The branch manager has discretion 
 
 Maria stared at the paper. She stared at it for a long time.
 
-She didn't ask how he'd gotten a branch manager's direct number or a judge's clerk's name or the existence of a form she'd never heard of in fourteen minutes on hold with the bank's general line.
+She let go of the question of how he had gotten a branch manager's direct number, a judge's clerk's name, and a hardship waiver she had never heard of, all in the fourteen minutes she had spent on hold with the bank's main line.
 
 She went inside. She called Jennifer Okafor. The woman answered on the second ring. Maria explained. Jennifer said yes, she could come in today. Yes, there is a way. Yes, it would take about half an hour.
 
