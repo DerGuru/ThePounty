@@ -56,7 +56,7 @@ He told himself it was nothing.
 
 At eight thirty-six the man stood, closed the book, and went inside. The door closed. Calvey waited.
 
-At eight forty-eight the side door of the garage opened and the man came out wheeling a push mower. He set it on the grass and bent to check something on the underside. He stood up, walked to the garden tap, filled a small can with water and walked back. He did not pour it into the mower. He poured it into the flower box on the porch railing. He set the can down. He pulled the cord.
+At nine o'clock exactly, the side door of the garage opened and the man came out wheeling a push mower. He set it on the grass and bent to check something on the underside. He stood up, walked to the garden tap, filled a small can with water and walked back. He did not pour it into the mower. He poured it into the flower box on the porch railing. He set the can down. He pulled the cord.
 
 The mower started on the first pull.
 

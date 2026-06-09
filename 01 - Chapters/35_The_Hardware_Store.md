@@ -64,7 +64,7 @@ He nodded. "Yeah, that's overdue." He walked her two aisles down to the wall of 
 
 "All right."
 
-"White or grey?"
+"White or gray?"
 
 "White."
 

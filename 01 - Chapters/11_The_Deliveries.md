@@ -1,6 +1,6 @@
 # Chapter 11: The Deliveries
 
-Gerald was refilling his coffee when an unmarked, grey truck pulled up in front of number four. He stood at the kitchen window, mug in hand, and watched the driver carry a small brown box up Aldric's porch steps. Plain cardboard. No branding, no logo, no tape with Amazon's smile on it. The driver set it by the door and walked back to the truck without ringing the bell.
+Gerald was refilling his coffee when an unmarked, gray truck pulled up in front of number four. He stood at the kitchen window, mug in hand, and watched the driver carry a small brown box up Aldric's porch steps. Plain cardboard. No branding, no logo, no tape with Amazon's smile on it. The driver set it by the door and walked back to the truck without ringing the bell.
 
 He looked at the clock on the microwave. 10:42. Thursday morning.
 

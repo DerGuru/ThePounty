@@ -20,12 +20,12 @@ Beachte die Stil-Vorgaben und Regeln aus den Dateien in `00 - General/`:
 - `00 - General/Writing Rules.md` – Schreibregeln
 - `00 - General/POV_Tone_Examples.md` – Beispiele für POV-Töne
 - `00 - General/aldric_venn_charakterbibel.md` – Charakterbibel für Aldric Venn
-- `00 - General/aldric_venn_figurensystem.md` – Venn-Diagramm und Figurensystem für Aldric Venn
+- `00 - General/aldric_venn_figurensystem.md` – Figurensystem für Aldric Venn inkl. Straßenplan
 - `00 - General/figure_ebene2.md` – Definitionen der Figuren-Ebene 2
 - `00 - General/SoL_Beats.md` – Liste der Slice-of-Life-Beats und ihre Funktionen
 - `00 - General/StoryLine.md` – Die Ereignisse im Buch - quasi die Story in Kurzform
 
-Falls eine oder mehrere dieser Dateien nicht vollständig und im Original (unkomprimiert) im Kontext liegen, lade sie.
+Falls eine oder mehrere dieser Dateien nicht vollständig und im Original (unkomprimiert) im Kontext liegen, lade sie vollständig neu.
 
 ### Kernprinzipien:
 Sofern nicht anders in den Stilregeln angegeben, gilt:
@@ -35,7 +35,7 @@ Sofern nicht anders in den Stilregeln angegeben, gilt:
 - Die Szene trägt die Länge, die sie braucht, um ihre Funktion zu erfüllen. Es gibt keine Mindest- oder Höchstlänge pro Szene.
 
 ## Wichtige Projekt-Dateien 
-- `00 - General/**` - Refernzdateien mit Anweisungen, Regeln, Stilrichtlinien, Charakterbibel, etc. Diese müssen immer im Kontext vorliegen, bevor du mit der Arbeit am Manuskript beginnst. Sie enthalten wichtige Informationen, die du kennen musst, um die Qualität des Manuskripts sicherzustellen. Wenn sie nicht im Kontext liegen, lade sie.
+- `00 - General/**` - Refernzdateien mit Anweisungen, Regeln, Stilrichtlinien, Charakterbibel, etc. Diese müssen immer im Kontext vorliegen, bevor du mit der Arbeit am Manuskript beginnst. Sie enthalten wichtige Informationen, die du kennen musst, um die Qualität des Manuskripts sicherzustellen. Wenn sie nicht im Kontext liegen, lade sie vollständig neu.
 
 ## Formatierung
 - Verwende Markdown-Formatierung

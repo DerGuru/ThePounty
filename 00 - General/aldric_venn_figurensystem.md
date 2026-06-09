@@ -139,6 +139,8 @@ Sie macht am Einzugstag mehr Essen als geplant. Sagt nichts dazu. Das ist ihr Ch
 **Rolle:** Der Antagonist ohne Böswilligkeit
 **Funktion:** Der eigentliche Lernbogen des Buches. Er ist nicht böse — er ist ängstlich. Das macht ihn interessanter.
 
+**Beruf:** Auditor — 31 Jahre, inzwischen pensioniert. Prägt sein Denken, seine Sprache und seine Methodik: Listen, Querverweise, Datenpunkte, Mustersuche. *„Drei sind Zufall. Fünf ist ein begründeter Verdacht. Sieben ist ein Trend."* Sein Verhältnis zur Welt ist das eines Mannes, der sein Leben damit verbracht hat, Bücher gegenzuprüfen, die andere geführt haben. Bei Aldric stimmen die Bücher zu sauber — und das ist für einen Auditor das Verdächtigste überhaupt.
+
 | Eigenschaft | Beschreibung |
 |---|---|
 | Ton | Listen. Verdacht. Logik ohne Kontext. Denkt wie ein schlecht kalibrierter Detektiv. Kurze Sätze. Direkt. Unterschwelliges Unbehagen, nie Hysterie. Beispiel: „How long does a man spend watching other people's children to write those?" |

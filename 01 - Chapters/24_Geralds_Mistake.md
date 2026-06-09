@@ -30,7 +30,7 @@ Gerald moved closer. Not obvious. He went to the reference section, which was on
 
 The books. He needed to see the books.
 
-The first one was face-down, spine up. Gerald squinted. Gold lettering on dark green. *Maple Creek Township: A History, 1847–1987.* The second was thinner, lighter cover. He couldn't read the title from here. The third was open in front of Venn. Large format. Old photographs. Gerald could see the sepia from here.
+The first one was face-down, spine up. Gerald squinted. Gold lettering on dark green. *Greenfield Township: A History, 1847–1987.* The second was thinner, lighter cover. He couldn't read the title from here. The third was open in front of Venn. Large format. Old photographs. Gerald could see the sepia from here.
 
 Local history. Aldric Venn was researching local history.
 

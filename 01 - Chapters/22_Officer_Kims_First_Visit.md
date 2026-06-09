@@ -44,7 +44,7 @@ She got out, adjusted her duty belt from habit, and walked up the path. Three fl
 
 She pressed the bell. A muted chime inside. She stepped back one pace and positioned herself to the hinge side. Training.
 
-The door opened within ten seconds. Not rushed, not delayed. The man standing in the frame was tall, lean, early forties. Dark hair, gray at the temples. Clean-shaven. He wore a collared shirt and khaki trousers. No shoes. Socks, dark. His posture was relaxed but centered. Balanced weight. His hands were visible. Both of them.
+The door opened within ten seconds. Not rushed, not delayed. The man standing in the frame was tall, lean, early forties. Dark hair, gray at the temples. Clean-shaven. He wore a collared shirt and khaki pants. No shoes. Socks, dark. His posture was relaxed but centered. Balanced weight. His hands were visible. Both of them.
 
 He smiled.
 

@@ -16,7 +16,7 @@ That night, at eleven, he was in his study. His own computer. The screen reflect
 
 He typed: *Aldric Venn*
 
-Google returned four results. A white pages listing with no associated address history. A mention in the Maple Creek Township Newsletter from September. The HOA membership roster, posted publicly by mistake in July and taken down within a day. A duplicate of the white pages listing on a mirror site.
+Google returned four results. A white pages listing with no associated address history. A mention in the Greenfield Township Newsletter from September. The HOA membership roster, posted publicly by mistake in July and taken down within a day. A duplicate of the white pages listing on a mirror site.
 
 Four results.
 

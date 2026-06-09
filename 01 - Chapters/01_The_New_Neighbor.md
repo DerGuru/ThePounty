@@ -181,7 +181,7 @@ The questions came naturally after that. They always did on move-in days. Sandra
 
 “Which part is that?”
 
-“The part without much to report.” Smile. “I enjoy the weather here already. Less grey.”
+“The part without much to report.” Smile. “I enjoy the weather here already. Less gray.”
 
 “Family?”
 

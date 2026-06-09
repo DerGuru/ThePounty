@@ -2,7 +2,7 @@
 
 Gerald was in his study when the Volvo turned onto Maple Lane.
 
-He heard it before he saw it. The engine had a particular sound — older, diesel-adjacent, the kind of low rumble that newer cars didn't make. He'd catalogued it the second Venn moved in. Dark green, 1987 or '88, well-maintained. Not the car of a man who couldn't afford better. The car of a man who'd chosen it.
+He heard it before he saw it. The engine had a particular sound — older, diesel-adjacent, the kind of low rumble that newer cars didn't make. He'd cataloged it the second Venn moved in. Dark green, 1987 or '88, well-maintained. Not the car of a man who couldn't afford better. The car of a man who'd chosen it.
 
 He looked at the clock. 7:03 PM. Saturday. He pulled the blinds down one notch and watched.
 

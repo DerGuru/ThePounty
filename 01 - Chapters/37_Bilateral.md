@@ -138,7 +138,7 @@ She keyed her mic at the cruiser.
 
 "Scene at Birch Street is clear. I have the photos. Cancel the second unit."
 
-"Copy, twelve. Second unit cancelled."
+"Copy, twelve. Second unit canceled."
 
 She drove home. She did not sleep much.
 
