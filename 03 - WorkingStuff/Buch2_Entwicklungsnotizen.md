@@ -25,7 +25,7 @@ Keine gesicherte Familienbeziehung. Wahrscheinlichste Variante: der Andere hat i
 
 Er hat sie gefunden — und Aldric gebeten, sie zu finden. Nicht zu schützen. Nicht zu warnen. *Do what you think is right.*
 
-Mögliche Lesart: er wollte, dass jemand mit einem Codex sie findet, bevor jemand ohne Codex es tut. Bevor Intelligence sie findet. Bevor jemand erkennt, was sie ist, und sie benutzt.
+Mögliche Lesart: er wollte, dass jemand mit einem Codex sie findet, bevor jemand ohne Codex es tut. Bevor Intelligence sie findet. Bevor jemand erkennt, was sie ist, und sie benutzt. Oder bevor sie etwas tut, was sie nicht ungeschehen machen kann.
 
 ---
 
@@ -53,6 +53,8 @@ Ihre Toleranzgrenze ist anders kalibriert. Sein Konto darf nie unter null. Ihres
 ## Aldrics Aufgabe in Buch 2
 
 Er sucht den Kontakt. Freundet sich mit ihr an — was für jemanden mit seiner Verdrahtung schwer ist, weil er kein natürliches Werkzeug für echte, nicht-funktionale Freundschaft hat.
+Greift ihr vorweg, ehe sie was tun kann, was sie nicht ungeschehen machen kann. Das ist die einzige Art von Eingriff, die er vornehmen kann, ohne dass sie es merkt. Er kann sie nicht vor sich selbst schützen, aber er kann sie vor anderen schützen — und vor sich selbst, bevor sie etwas tut, das ihre Regeln nicht tragen.
+
 
 **Drei Phasen:**
 

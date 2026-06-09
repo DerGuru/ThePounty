@@ -230,13 +230,12 @@ Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusamme
 | Kontrast | Dankbarkeit | Sie sieht jemanden, der beschäftigt ist — und merkt, dass sie es nie ist. |
 | Auslöser | Regenrinne | Jesús fixiert etwas in fünf Minuten. Sie steht daneben. Hasst das Muster zum ersten Mal bewusst. |
 | Wende | Zaun | Aldric lehrt statt zu erledigen. Sie macht es selbst. Kompetenz als Geschenk. |
-| Rückschlag | Wasserhahn | Wasserhahn. Scheitert. Ruft den Sohn. Schritt zurück. |
+| Eigeninitiative | Wasserhahn | Erster Solo-Erfolg, ohne Aldric, ohne Sohn. „I did that.“ Coda am selben Tag: kauft beglügelt das Material fürs nächste Projekt (Wannenfuge), lässt es aber liegen — zwei Schritte vor, einer zurück. |
 | Ohnmacht | Brief | Der Brief vom Anwalt. Das Haus, das sie 23 Jahre bewohnt hat, ist juristisch nicht ihrs. |
-| Eigeninitiative | Baumarkt | Baumarkt. Allein. Ohne Aldric. Überfordert, aber da. Der Arc funktioniert ohne ihn. |
 | Erkenntnis | Marias Fenster | Sie kennt Aldric anders als die anderen — durch Arbeit, nicht Beobachtung. Sieht, dass er sich verändert. |
 | Landing | Danach | Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch. Das Haus gehört ihr. |
 
-**POV-Beats (10 Episoden):**
+**POV-Beats (9 Episoden):**
 
 1. **Die Einzugsparty** (Sommer): Aldrics Dankeschön-Abend. Marias Establishment — ein Mann, der allein lebt und es aussehen lässt wie eine Erfindung. Leiser Neid, den sie nicht einordnen kann.
 
@@ -250,17 +249,15 @@ Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusamme
 
 5. **Der Zaun** (Herbst): Aldric bietet an, den Zaun zusammen zu streichen. Nicht für sie — mit ihr. Er zeigt: Grundierung zuerst, Pinsel in eine Richtung, Kanten mit dem schmalen Pinsel. Sie macht es. Er korrigiert kaum. Am Ende des Tages hat sie einen gestrichenen Zaun, Farbe an den Händen und etwas, das sich anfühlt wie der Anfang von etwas.
 
-6. **Der Wasserhahn** (Winter): YouTube-Tutorial. Falsches Werkzeug. Wasser überall. Sie ruft den Sohn an. Hasst, dass sie angerufen hat. Der Rückschlag ist wichtig — er zeigt, dass Kompetenz nicht linear ist. Ein guter Tag mit dem Zaun bedeutet nicht, dass alles danach funktioniert.
+6. **Der Wasserhahn** (Winter): YouTube-Tutorial, das richtige Werkzeug aus dem Baumarkt an Route 9, Essig gegen den Kalk. Sie schafft es allein — ohne Aldric, ohne den Sohn. *„I did that.“* Coda am selben Tag: beglügelt nimmt sie sich als Nächstes die Wannenfuge vor, kauft das Material, lässt es dann aber liegen.
+   *Funktion:* Erster Solo-Erfolg — der eigentliche Wendepunkt des Arcs. Die Coda zeigt, dass Kompetenz nicht linear ist (zwei Schritte vor, einer zurück), ohne den Erfolg zurückzunehmen. (Das früher eigenständige Baumarkt-Kapitel ist hier eingegangen.)
 
 7. **Der Brief** (Winter): Post vom Scheidungsanwalt. Das Haus muss bewertet werden. Eine Unterschrift fehlt. Der Ex verzögert. Maria sitzt am Küchentisch mit dem Umschlag und denkt: das ist mein Haus. Seit 23 Jahren. Aldric sieht den Umschlag am nächsten Tag auf der Veranda — sagt nichts, bringt Kaffee. Die richtige Reaktion. Keine Lösung anbieten. Keine Fragen. Nur Kaffee und Anwesenheit.
    *Funktion:* Ohnmacht, die NICHT durch Kompetenz lösbar ist. Manche Dinge brauchen Zeit und Anwälte. Der Arc ist kein Märchen.
 
-8. **Der Baumarkt** (Winter): Maria allein im Baumarkt. Ohne Aldric, ohne Jesús. Sie braucht einen Siphon, eine Rohrzange, Teflonband. Sie steht in Gang 7 und weiß nicht, welche Größe. Sie fragt einen Mitarbeiter. Der erklärt es ihr wie einem Kind. Sie kauft trotzdem das Richtige. Zu Hause probiert sie es nicht sofort — die Teile liegen drei Tage auf dem Küchentisch. Aber sie sind da. Sie hat sie gekauft. Das ist der Schritt.
-   *Funktion:* Der Arc funktioniert ohne Aldric. Er hat ihr nicht den Siphon gezeigt. Er hat ihr gezeigt, dass man Dinge lernen KANN. Der Rest ist ihrer.
+8. **Marias Fenster** (Frühling): Sie sieht das fremde Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. Und sie weiß, dass sie nicht die Person ist, die helfen kann. Das ist neu: zu wissen, was man nicht kann, ohne sich dafür zu hassen.
 
-9. **Marias Fenster** (Frühling): Sie sieht das fremde Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. Und sie weiß, dass sie nicht die Person ist, die helfen kann. Das ist neu: zu wissen, was man nicht kann, ohne sich dafür zu hassen.
-
-10. **Danach** (Resolution): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch — irgendwann im Frühling, leise, fast antiklimaktisch. Das Haus gehört ihr. Juristisch und praktisch. Sie hat Farbe an den Händen. Die richtige Farbe, die richtige Technik. Aldric hat ihr das nicht gezeigt. Aldric hat ihr gezeigt, dass sie es sich selbst zeigen kann.
+9. **Danach** (Resolution): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch — irgendwann im Frühling, leise, fast antiklimaktisch. Das Haus gehört ihr. Juristisch und praktisch. Sie hat Farbe an den Händen. Die richtige Farbe, die richtige Technik. Aldric hat ihr das nicht gezeigt. Aldric hat ihr gezeigt, dass sie es sich selbst zeigen kann.
 
 ---
 
