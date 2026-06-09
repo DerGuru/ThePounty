@@ -118,7 +118,7 @@ He had been right.
 
 He did not feel right. He felt like a man who had been waiting in a chair for a doctor to come in with a piece of paper, and the doctor had come in, and now there was the piece of paper.
 
-Pruitt's voice came back to him from January, flat over the bad phone line. *A file that clean has people behind it. They don't take kindly to prying eyes.* Gerald had thanked him and kept the notebook anyway. Now there was a man at the curb with a cup of coffee, and the file had a new face added.
+Pruitt's voice came back to him from January, flat over the bad phone line. *A file that clean has people behind it. They don't take kindly to prying eyes.* Gerald had thanked him and kept the notebook anyway. Now there was a man at the curb with a cup of coffee, and the file had a new face in it.
 
 Sandra moved in the kitchen. He heard the kettle, the cupboard. He heard her say something to herself about the toaster, which had been on the verge of giving up since New Year's eve, and which Sandra had been speaking to since then in the conviction that civility would keep it going a little longer.
 
