@@ -193,6 +193,8 @@ Die Komik: Sie ist die aktivste Nachforscherin — und die mit den wenigsten Erg
 
 ### Die Hoopers als Paar
 
+Gerald und Sandra sind seit 42 Jahren verheiratet. Hochzeitstag im Frühling.
+
 Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weisen. Er wittert Gefahr, sie wittert Geheimnis. Szenen aus Sandras POV, in denen Gerald seine Theorien erklärt und sie die Augen verdreht, sind gleichzeitig Komik UND Geralds Charakterisierung durch eine andere Linse. Umgekehrt: Geralds POV zeigt Sandra als naiv — was der Leser besser weiß.
 
 ---

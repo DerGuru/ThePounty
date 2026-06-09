@@ -1,4 +1,4 @@
-﻿# Uncommon Courtesy — Charakterbibel: Aldric Venn
+﻿# Uncommon Courtesy — Charakterbibel: Aldric Jonathan Venn
 
 *Action Comedy · Slice of Life · Fremd-POV · Werk in Entwicklung*
 
@@ -67,7 +67,7 @@ Dieser Satz ist die komplette Charakterbeschreibung.
 |--------------|--------------------------------------------------------------------------------------------------|
 |Name          |Aldric Venn                                                                                       |
 |Alter         |43                                                                                                |
-|Herkunft      |„Aus dem Norden. Dem ruhigeren Teil.” (1.100 Meilen Fahrt, ohne längeren Halt als Tanken/Toilette)|
+|Herkunft      |Fairbank bei Sudbury, Ontario, Kanada. „Aus dem Norden. Dem ruhigeren Teil." (1.100 Meilen Fahrt, ohne längeren Halt als Tanken/Toilette)|
 |Beruf          |„Ich habe Probleme gelöst." — Intelligence. Aktiv. Wird nie direkt erwähnt.                       |
 |Verdrahtung    |Subklinischer Psychopath. Reduzierte Empathie, analytisch-dominant. Grundausstattung, nicht Folge.|
 |Fahrzeug      |Volvo 240 GL, Baujahr 1987, dunkelgrün                                                            |
