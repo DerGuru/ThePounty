@@ -2,9 +2,9 @@
 
 *Monday, the 14th of April 2025*
 
-The first warm Monday of the year, and Aldric Venn was under his car.
+Aldric Venn was under his car.
 
-Dave saw the legs, coming back from the curb with the empty trash cans. Dark trousers, good socks, the rest of him swallowed by the green Volvo where it sat up on a pair of ramps in the driveway. A drop cloth under the whole thing, folded square at the corners, so that a forty-year-old car leaking its forty-year-old oil would not leave a mark on concrete that already had forty years of marks on it.
+Dave saw the legs, coming back from the curb with the empty trash cans. Dark trousers, good socks, the rest of him swallowed by the green Volvo where it sat up on a pair of ramps in the driveway. A drop cloth under the whole thing, folded square at the corners, so that a forty-year-old car letting go of its old oil would not leave a mark on concrete that already had forty years of marks on it.
 
 Dave set the cans down and wandered over. It was warm, the kids were at school, Rosa had the afternoon at the center, and a man under a car was the closest thing the street offered to entertainment.
 
@@ -28,23 +28,23 @@ That was when the car pulled up.
 
 Dave heard it before he placed it, a quiet engine slowing where engines did not slow on Maple Lane, and he looked up over the Volvo's hood and felt the afternoon change temperature.
 
-He knew the car. Not the make. He could never have told you the make. He knew it like a face you saw once at a funeral. Current year, no stickers, no plate frame, the kind of car you forgot while you were still looking at it. It had been here in September. A different one, maybe, but the same car. He was sure of it before he could have said why.
+He knew the car. Not the make. He could never have told you the make. He knew it like a face you saw once at a funeral. Current year, no stickers, no plate frame. It had been here in September. A different one, maybe, but wrong in the same way, too clean, too much like nothing. He was sure of it before he could have said why.
 
-The man who got out was the man from September. Older than Aldric, gray suit, no tie, the collar open. Sunglasses he took off and folded into his breast pocket in one practiced motion. The same too-good shoes. He looked at the house, then at the driveway, then at the two of them, the neighbor holding a drain pan and the legs sticking out from under the car, and something passed over his face that was not quite a smile.
+The man who got out was the man from September. Forty-five, maybe fifty, gray suit, no tie, the collar open. Sunglasses he took off and folded into his breast pocket in one practiced motion. The same too-good shoes. He looked at the house, then at the driveway, then at the two of them, Dave holding a drain pan and the legs sticking out from under the car, and something passed over his face that was not quite a smile. He buttoned the one button of his jacket.
 
 "Mr. Venn."
 
 Under the car, Aldric went still. Just for a second. Dave felt it more than saw it, the way you feel a song stop in another room.
 
-Then he slid out from under the Volvo, unhurried, wiped his hands on the rag one finger at a time, and stood. He did not hurry and he did not dawdle. He came up off the ground in one motion, no hand to the knee, no grunt, a man half his apparent age getting up off concrete.
+Then he slid out from under the Volvo, unhurried, wiped his hands on the rag one finger at a time, and stood. He did not hurry, but he did not dawdle either. He came up off the ground in one motion, no hand to the knee, no grunt, a man half his apparent age getting up off concrete.
 
 "Take your time with that, Dave." He said it lightly, his eyes already on the visitor. "Set the pan down on the cloth if your arms tire. I won't be long."
 
 He walked to the man. He did not offer his hand, and the man did not offer his. They spoke for a moment too low for Dave to catch. Then Aldric gestured, not at the house but at the porch, and the two of them walked up the path and stood at the porch rail, half-turned away, the way men stand when the conversation is not for the street.
 
-Dave set the pan down on the cloth. He did not mean to watch. He watched.
+Dave set the pan down on the cloth. He did not mean to watch. He watched anyway.
 
-He could not hear them. He could read them, a little, as fifteen years of crews had taught him to read two men talking at the far end of a site. The visitor did most of it. He talked with his hands close to his body, small economical movements, nothing thrown away. Aldric listened. That was the thing Dave kept landing on, even from here: Aldric was *listening*, the upright, complete attention he gave to a six-year-old explaining a dinosaur, except there was no warmth coming off him now, none of the porch in him at all. He took it in. He nodded once. He asked something short. The man answered shorter.
+He could not hear them. But he could read them, a little, as fifteen years of crews had taught him to read two men talking at the far end of a site. The visitor did most of it. He talked with his hands close to his body, small economical movements, nothing thrown away. Aldric listened. That was the thing Dave kept landing on, even from here: Aldric was *listening*, the upright, complete attention he gave to a six-year-old explaining a dinosaur, except there was no warmth coming off him now, none of the porch in him at all. He took it in. He nodded once. He asked something short. The man answered shorter.
 
 A Greenfield Township cruiser came up Maple Lane.
 
@@ -58,11 +58,11 @@ The visitor watched it go. When it was gone he turned back to Aldric and said so
 
 Dave looked down at the drain pan very fast and studied the oil in it like it owed him money.
 
-He did not hear what Aldric said back. When he risked another look, the conversation was already closing. The man had stepped back from the rail. He buttoned the one button of his jacket. Aldric said something, three or four words, and put out his hand at last, and the visitor looked at it for a moment before he took it.
+He did not hear what Aldric said back. When he risked another look, the conversation was already closing. The man had stepped back from the rail. Aldric said something, three or four words, and put out his hand at last, and the visitor looked at it for a moment before he took it.
 
 "Thank you for the warning." Aldric's voice, low and even and perfectly clear in the warm afternoon. Not the voice he used for the street. A flatter one, a working one. "I'll see to it."
 
-The man said nothing. He went back down the path, past the Volvo, past Dave, and he gave Dave one short look on the way that was not unfriendly and not anything else either, a look that filed him and moved on. He got into the forgettable car. He pulled away under the speed limit. He did not look back.
+The man said nothing. He went back down the path, past the Volvo, past Dave, and he gave Dave one short look on the way that was not unfriendly and not anything else either, a look that filed him and moved on. He unbuttoned his jacket and got into the forgettable car. He pulled away under the speed limit. He did not look back.
 
 Aldric came back down the path.
 
@@ -76,16 +76,16 @@ He wanted to ask. He had the questions lined up as he always did around Aldric, 
 
 "Hand me the filter, would you? The box by your foot."
 
-Dave handed him the filter. Their hands met around the small cardboard box, Aldric's smelling of clean oil, and Dave thought about September, the dark windows, the empty porch the night the first one of these men had come. He thought about how Aldric had said *I'll see to it*, the flat working voice, a voice with no street in it at all.
+Dave handed him the filter. Their hands met around the small cardboard box, Aldric's smelling of clean oil, and Dave thought about September, the dark windows, the empty porch the night the first one of these men had come. He thought about how Aldric had said *I'll see to it*, in a flat, working voice, a voice with no neighbor in it at all.
 
-Then Aldric spun the new filter on by hand and gave it the last quarter turn with the wrench, and the afternoon was just an afternoon again, two men and a car and the smell of warm oil. Dave decided, as he always decided, not to think about it too hard.
+Then Aldric spun the new filter on by hand and gave it the last quarter turn with the wrench. The afternoon was just an afternoon again, two men and a car and the smell of warm oil. Dave decided, as he always decided, not to think about it too hard.
 
 He stayed another forty minutes. He watched a forty-year-old engine take fresh oil. It was, Aldric was right, oddly satisfying.
 
-That evening, from his own kitchen window, Dave saw Aldric come out into the blue dusk and walk the perimeter of his property. Not a stroll. He checked the side gate. He checked the garage door, both the big one and the service door. He stood for a moment at the door of the little garden shed at the back, the one nobody on the street had ever seen open, and then he locked it, tried the handle, and locked it again.
+That evening, from his own kitchen window, Dave saw Aldric come out into the blue dusk and walk the perimeter of his property. Not a stroll. He checked the side gate. He checked the garage door, both the big one and the service door. He stood for a moment at the door of the little garden shed at the back, the one nobody on the street had ever seen open. Then he locked it, tried the handle, and gave it a second turn.
 
 Dave had never seen him lock the shed. In ten months he had never seen anyone lock anything on Maple Lane that wasn't a front door at night.
 
-He almost said something to Rosa. She was at the table with the kids' homework, and Marcus was explaining why his volcano needed more red, and the kitchen was warm and full of the ordinary noise of his ordinary life.
+He almost said something to Rosa. She was at the table with the kids' homework. Marcus was explaining why his volcano needed more red. The kitchen was warm and full of the ordinary noise of his ordinary life.
 
 He let the curtain fall and went to look at the volcano.

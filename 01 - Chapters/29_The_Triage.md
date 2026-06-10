@@ -34,7 +34,7 @@ Then Dolores Marsh, number sixteen. Aldric escorted her four doors over to Ms. Y
 
 Gerald wrote it down. The flashlight was off, but he wrote by the glow of his phone screen, small letters in the notebook he'd reopened three weeks ago:
 
-*16 Dec. Power out 6:14 PM. Venn outside by 6:18. Order: Ortega, Yuen (brought electricity, must have power generator). Then stopped in the street and surveyed lit windows. Identified two wood-burning heat sources (Alvarez, Henderson). Negotiated host arrangements in under fifteen minutes. Reassigned eight people across the block. Pairings: Ortega family + Alvarez (friends, children welcome). Solis + twins + Henderson (room for kids, widow alone). Marsh + Yuen (longstanding acquaintance). Did not consult anyone before knocking. Knew who would say yes. Did not check on us.*
+*December 16. Power out 6:14 PM. Venn outside by 6:18. Order: Ortega, Yuen (brought electricity, must have power generator). Then stopped in the street and surveyed lit windows. Identified two wood-burning heat sources (Alvarez, Henderson). Negotiated host arrangements in under fifteen minutes. Reassigned eight people across the block. Pairings: Ortega family + Alvarez (friends, children welcome). Solis + twins + Henderson (room for kids, widow alone). Marsh + Yuen (longstanding acquaintance). Did not consult anyone before knocking. Knew who would say yes. Did not check on us.*
 
 Gerald set the pen down.
 

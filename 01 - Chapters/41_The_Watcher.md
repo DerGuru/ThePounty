@@ -34,7 +34,7 @@ Gerald watched.
 
 There was nothing to watch. That was the point. The book opened to a place where the bookmark had been. The mug went down and came up at intervals that had been the same for nine months, except when it was too cold for outside reading. Everything as usual.
 
-Gerald wrote, very small, on the back of yesterday's page: *7:02 Venn enters the porch. As usual.*
+Gerald wrote, very small, on the back of yesterday's page: *7:02 — Venn enters the porch. As usual.*
 
 He had thought, when he started keeping the blue notebook in November, that the hard part of watching a man across the street would be catching him doing something. He had been wrong about that. The hard part was catching him doing *exactly* what he always did when there were reasons for him to do something else.
 
@@ -58,7 +58,7 @@ Aldric trimmed.
 
 He spread the tarp along the foot of the hedge and worked from the porch end outward, the shears moving in a steady rhythm Gerald could almost hear through the closed window. He trimmed the front face square and level. Then the east section. Then the west section. He had cut the west section to the same square line on March twenty-first. It did not need cutting today. And to take it one step further, he worked along it twice. The second pass was even slower than the first. The shears closed on almost nothing.
 
-The west side faced the Chens', across the empty lot at number six.
+The west side faced the Chens', across the empty yard of number six.
 
 Gerald wrote: *9:00 — hedge. Not due. West section ×2. Sightline.*
 
@@ -100,7 +100,7 @@ The cruiser slowed. Gerald could not see the officer's face from this angle, but
 
 Aldric finished folding the tarp.
 
-Gerald wrote, in the blue notebook, on the same page: *9:11 Kim. He waves. She waves. She waits the extra beat.*
+Gerald wrote, in the blue notebook, on the same page: *9:11 — Kim. He waves. She waves. She waits the extra beat.*
 
 He looked at the line. He underlined *waits the extra beat*. Then he sat back.
 

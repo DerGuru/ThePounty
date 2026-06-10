@@ -97,9 +97,9 @@ She picked up the law firm pages and put them back in the envelope. She put the 
 
 She made lunch at noon. A sandwich and an apple. She ate it standing at the counter, looking out the window at the street.
 
-After lunch she poured a fresh cup of coffee and carried it out to the front porch. The air was cold, but the sun was on the steps and there was no wind. She sat in the wicker chair and held the mug in both hands and looked at the empty lot at number six.
+After lunch she poured a fresh cup of coffee and carried it out to the front porch. The air was cold, but the sun was on the steps and there was no wind. She sat in the wicker chair, held the mug in both hands, and looked at the empty house at number six.
 
-Aldric came out of his house a few minutes later with a mug of his own. She raised hers from across the way. He raised his back, then came down his driveway, walked along the sidewalk past the empty lot, and turned up her walk. He climbed her three steps and stopped at the railing.
+Aldric came out of his house a few minutes later with a mug of his own. She raised hers from across the way. He raised his back, then came down his driveway, walked along the sidewalk past the empty house, and turned up her walk. He climbed her three steps and stopped at the railing.
 
 "Good afternoon, Maria."
 
@@ -131,7 +131,7 @@ They sat for another minute without saying anything. A car went by at the far en
 
 He nodded once, slowly, and looked out at the street. "Good."
 
-That was all he said about it. He did not ask which screw or which hinge or which problem in which room. He drank from his mug and looked at the empty lot at number six.
+That was all he said about it. He did not ask which screw or which hinge or which problem in which room. He drank from his mug and looked at the empty house at number six.
 
 "The realtor sign blew over again," he said. "Third time this winter."
 
@@ -167,7 +167,7 @@ He finished his coffee in two more sips and stood up. "I won't keep you. I hope 
 
 "Thank you, Aldric."
 
-He went down the steps, past the empty lot and into his house.
+He went down the steps, past number six, and into his house.
 
 She stayed on the porch a little longer with her coffee. 
 

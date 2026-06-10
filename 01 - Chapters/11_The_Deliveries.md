@@ -6,15 +6,15 @@ Gerald was refilling his coffee when an unmarked, gray truck pulled up in front 
 
 He looked at the clock on the microwave. 10:42. Thursday morning.
 
-He took his coffee to the study. The desk was the way he liked it: newspaper folded to the crossword, pen parallel to the notebook, reading glasses on top of the morning's mail. He sat down, opened the notebook to the current page and wrote: *Thu Sep 5, 10:42 — Delivery, small box, plain, no branding. Left on porch.*
+He took his coffee to the study. The desk was the way he liked it: newspaper folded to the crossword, pen parallel to the notebook, reading glasses on top of the morning's mail. He sat down, opened the notebook to the current page and wrote: *Thu Sep 5, 10:42 AM — Delivery, small box, plain, no branding. Left on porch.*
 
 He didn't think much of it. People got packages. He wrote it down anyway.
 
-Friday, he was eating a turkey sandwich at his desk when Kevin the mailman came up Aldric's walk, a padded envelope in hand. It was flat, manila-colored, Kevin leaned it against the door frame and moved on to the Chens'. Gerald wiped his fingers on his napkin and wrote: *Fri Sep 6, 13:15 — Delivery, padded envelope, flat. Kevin delivery.*
+Friday, he was eating a turkey sandwich at his desk when Kevin the mailman came up Aldric's walk, a padded envelope in hand. It was flat, manila-colored, Kevin leaned it against the door frame and moved on to the Chens'. Gerald wiped his fingers on his napkin and wrote: *Fri Sep 6, 1:15 PM — Delivery, padded envelope, flat. Kevin delivery.*
 
 Monday brought a third. UPS this time. Gerald watched the driver from behind the newspaper he wasn't reading. This one was heavier. He could tell by the way the man adjusted his grip halfway up the steps, shifting the weight from one hand to both. Gerald had moved enough boxes in forty years of marriage to read the carrier's posture like a sentence.
 
-*Mon Sep 9, 10:08 — UPS, medium box, heavier (~25lbs?). Driver grip-shifted.*
+*Mon Sep 9, 10:08 AM — UPS, medium box, heavier (~25lbs?). Driver grip-shifted.*
 
 Three packages in five days. Not unusual for most people. Rosa Ortega got three a week. Dave ordered tools from places Sandra said only existed to take men's money. Sandra herself had once received six Amazon boxes in a single day, which Gerald knew because he'd counted them while pretending to check the mailbox.
 
@@ -31,10 +31,10 @@ The next week brought four more.
 Tuesday a FedEx box. Wednesday another small padded envelope, USPS. Friday something long and thin that might have been a tube or a rod. Saturday a heavy box the UPS driver needed both hands for. Gerald watched each one arrive from his study window, the binoculars Sandra had given him for birdwatching pressed to his face. The binoculars had never seen a bird. They had, however, seen that none of the packages had visible return addresses. No company logos. No sender labels Gerald could make out, even with the 10x magnification.
 
 *Week of September 9:*
-*Tue 11:30 — FedEx, box, medium, no branding*
-*Wed 09:45 — USPS, small padded envelope*
-*Fri 14:22 — UPS, long thin package (tube? rod?)*
-*Sat 10:55 — UPS, box, heavy, driver used both hands*
+*Tue 11:30 AM — FedEx, box, medium, no branding*
+*Wed 9:45 AM — USPS, small padded envelope*
+*Fri 2:22 PM — UPS, long thin package (tube? rod?)*
+*Sat 10:55 AM — UPS, box, heavy, driver used both hands*
 
 Seven in ten days. And something else.
 
@@ -56,7 +56,7 @@ Gerald looked. She was right. The porch lamp was on, same as always — it came 
 
 "Hm," Gerald said. He ate his meatloaf.
 
-After dinner he went to the study. He opened the notebook and wrote: *Sept 14, ~19:40 — Porch dark. First observed absence.*
+After dinner he went to the study. He opened the notebook and wrote: *Sept 14, ~7:40 PM — Porch dark. First observed absence.*
 
 He watched the following week. Monday Aldric was out there. Tuesday he wasn't. Wednesday he was, but only until nine, and then he went inside. Gerald was about to close the notebook when he saw it: a faint glow from the narrow ground-level windows on the side of number four that faced the Ortega's house.
 
@@ -66,9 +66,9 @@ Gerald had lived across from that house for twelve years, through two previous o
 
 He checked the clock. 9:17 PM. He wrote it down.
 
-*Basement light. First observed Sept 18, 21:17. Visible from study window.*
+*Basement light. First observed Sept 18, 9:17 PM. Visible from study window.*
 
-He watched. The light stayed on. At eleven he made himself a cup of decaf and brought it back. Still on. At eleven-forty Sandra called from the bedroom that he was being ridiculous and she was turning off his bedside lamp. He wrote: *Still on at 23:40. Duration: minimum 2h23m.* Then he went to bed, lay in the dark and listened to Sandra breathe. What does a man do in a basement at midnight.
+He watched. The light stayed on. At eleven he made himself a cup of decaf and brought it back. Still on. At eleven-forty Sandra called from the bedroom that he was being ridiculous and she was turning off his bedside lamp. He wrote: *Still on at 11:40 PM. Duration: minimum 2h23m.* Then he went to bed, lay in the dark and listened to Sandra breathe. What does a man do in a basement at midnight.
 
 The next Thursday, Sandra brought it up at breakfast. She was buttering toast, and Gerald was working on the crossword. Seven across: "Surveillance tool." Eight letters. He'd already written BINOCULAR and had to erase it. Too many letters.
 

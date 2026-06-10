@@ -28,7 +28,7 @@ He stood up, brushed his hands on a handkerchief, and noticed her. He raised one
 
 "Good morning, Maria."
 
-He'd walked closer. Not all the way to her, just to the edge of the empty lot between them, where the sidewalk passed the dead lawn of number six. Close enough to talk without raising his voice much.
+He'd walked closer. Not all the way to her, just to the edge of the property between them, where the sidewalk passed the dead lawn of number six. Close enough to talk without raising his voice much.
 
 "Morning." She dropped her hand from the fence. "Checking your mailbox?"
 
