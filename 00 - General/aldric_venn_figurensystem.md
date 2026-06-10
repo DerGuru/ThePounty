@@ -368,7 +368,8 @@ Der schönste Trick: Episodenfiguren, die Aldric Wochen später auf der Straße 
 | Hund von Nr. 7 | 1 | Nein | Nein | Intuitives Urteil |
 | Der Marktmann | 2 | Nein | Nein | Gerechtigkeitsprinzip |
 | Pater Angelo | 2 | Nein | Nein | Moral und Institution |
-| Kinder Ortegas | 2 | Nein | Nein | Aldrics sanfte Seite |
+| Lina Ortega | 2 | Ja (gelegentlich) | Klein | Direkte Kinderfragen / Unschuldslinse |
+| Marcus Ortega | 2 | Nein | Nein | Aldrics sanfteste Seite |
 | Tamara Flynn | 2 | Nein | Nein | Soziale Struktur / Organisation |
 | Mr. Green | 2 | Nein | Nein | Geduld als Kalkulation / schwieriger Nachbar |
 | Episodenfiguren | 3 | Nein | Nein | Je ein Prinzip |

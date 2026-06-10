@@ -1,8 +1,8 @@
 # Chapter 42: Maria's Window
 
-The tape never went on straight the first time. Maria had learned that with the fence and again with the tub. She had learned not to mind it. She peeled back the crooked inch, set it down again along the edge of the glass and pressed it flat with her thumbnail, as the man at the hardware store had shown her, without making it a lesson. Blue tape along the muntins. Newspaper on the sill. The window frames had been the gray of old teeth since before Carlos left, and this week she had decided they would be white by Sunday.
+The tape never went on straight the first time. Maria had learned that with the fence and again with the tub. She had also learned not to mind it. She peeled back the crooked inch, set it down again along the edge of the glass and pressed it flat with her thumbnail, as the man at the hardware store had shown her, without making it a lesson. Blue tape along the muntins. Newspaper on the sill. The window frames had been the gray of old teeth since before Carlos left, and this week she had decided they would be white by Sunday.
 
-The faucet had been first, back in January. Then the tub, once the caulk had sat on the kitchen table long enough to shame her into it, the old bead scraped out and a clean white line run in its place. The brown scallop on the ceiling underneath had stopped spreading after that, and last month she had primed it and painted over it, and now it was just ceiling. Some mornings she stood under it with her coffee and could not find where it had been. At this rate, she had told Jesús on the phone, she would have to put up a second shingle. Crochet on Etsy and handyman on Thumbtack. He had laughed. She had half meant it.
+The faucet had been first, back in January. Then the tub, once the caulk had sat on the kitchen table long enough to shame her into it, the old bead scraped out and a clean white line run in its place. The brown scallop on the ceiling underneath had stopped spreading after that, and last month she had primed it and painted over it, and now it was just ceiling. Some mornings she stood under it with her coffee and could not find where it had been. At this rate, she had told Jesús on the phone, she would have to put up a second shingle. Crochet on Etsy and handyman on Thumbtack. He had laughed, but she had half meant it.
 
 It was a little after nine on Wednesday morning. The light came in low and clean across the front room. She worked the tape down the long edge. She was reaching for the scissors when she looked up through the glass and saw the car.
 
@@ -14,7 +14,7 @@ She did not write it down. She did not call anyone. She held the scissors and lo
 
 Aldric was on his porch.
 
-He was not reading. The mug sat on the table. The book lay beside it, closed. He stood at the rail with his hands resting on the top of it, looking out at his own street on a Wednesday morning. Coffee. Spring coming in. Nothing in it.
+He was not reading. The mug sat on the table. The book lay beside it, closed. He stood at the rail with his hands resting on the top of it, looking out at his own street on a Wednesday morning. He had her cardigan on, the slate blue one, the one she had made him. From here, across the street and the empty lot, the color went gray in the morning light, the way it did. She had spent eleven days on that yarn and she could still find her own tension in it from her kitchen window. He wore it most mornings now. Coffee. Spring coming in. Nothing in it.
 
 Except that Maria had spent a whole Saturday three feet from those hands.
 
