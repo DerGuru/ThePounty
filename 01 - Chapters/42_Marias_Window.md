@@ -1,5 +1,7 @@
 # Chapter 42: Maria's Window
 
+*Wednesday, the 9th of April 2025*
+
 The tape never went on straight the first time. Maria had learned that with the fence and again with the tub. She had also learned not to mind it. She peeled back the crooked inch, set it down again along the edge of the glass and pressed it flat with her thumbnail, as the man at the hardware store had shown her, without making it a lesson. Blue tape along the muntins. Newspaper on the sill. The window frames had been the gray of old teeth since before Carlos left, and this week she had decided they would be white by Sunday.
 
 The faucet had been first, back in January. Then the tub, once the caulk had sat on the kitchen table long enough to shame her into it, the old bead scraped out and a clean white line run in its place. The brown scallop on the ceiling underneath had stopped spreading after that, and last month she had primed it and painted over it, and now it was just ceiling. Some mornings she stood under it with her coffee and could not find where it had been. At this rate, she had told Jesús on the phone, she would have to put up a second shingle. Crochet on Etsy and handyman on Thumbtack. He had laughed, but she had half meant it.

@@ -1,5 +1,7 @@
 # Chapter 37: Bilateral
 
+*Thursday, the 27th of February 2025*
+
 Thursday afternoon. Kim was on Route 9 northbound when dispatch came on with a welfare check. A 911 hang-up from a residence on Birch Street, no answer on the callback. The address was familiar from the file — two prior domestic disturbance calls, eighteen months apart, both withdrawn by the wife. She put on her flashers and turned at the next light.
 
 The house was a one-story with brown trim and a chain-link fence set back from the street. The driveway held a blue pickup with a magnetic sign on the tailgate that said Lasko Plumbing & Heating. The front walk was clear. The blinds in the front room were down. The porch light was on in the middle of the afternoon.

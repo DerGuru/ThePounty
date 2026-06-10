@@ -1,5 +1,7 @@
 # Chapter 19: The Gutter
 
+*Sunday, the 27th of October 2024*
+
 The water had been running down the wall for three days before Maria called Jesús.
 
 She'd noticed it on Thursday. A dark stripe on the siding below the gutter, wet even when it hadn't rained in hours. She'd gone outside and looked up. The gutter was sagging near the downspout, pulling away from the fascia board. Leaves packed in tight, a greenish-brown paste that smelled like decay when she stood close enough.

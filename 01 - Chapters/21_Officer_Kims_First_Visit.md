@@ -1,5 +1,7 @@
 # Chapter 21: Officer Kim's First Visit
 
+*Tuesday, the 5th of November 2024*
+
 The file was thin. Two pages, a supplement, and a withdrawal form. Kim had it open on the passenger seat while she finished her coffee in the station parking lot, engine idling, heater on. November mornings in this part of the state started at forty-two degrees and didn't commit to warming up until noon.
 
 Case number 24-4471. Theft by deception. Complainant: Sandra Hooper, 3 Maple Lane. Amount: $1,100. Suspect: unknown male using the alias "Kyle Brewer," operating through the Thumbtack platform under fraudulent credentials. Method: deposit collected for landscaping services, partial demolition completed, contractor absconded with funds.

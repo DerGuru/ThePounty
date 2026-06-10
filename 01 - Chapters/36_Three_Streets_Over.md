@@ -1,5 +1,7 @@
 # Chapter 36: Three Streets Over
 
+*Tuesday, the 25th of February 2025*
+
 Tuesday afternoon. The community center was warm to the point of stuffiness. The radiators clanking under the windows, the air thick with crayon wax and the last of the afternoon's microwaved soup. Rosa was packing up at the far table when Nora came in for pickup. Lily ran to her with her water bottle. Nora bent to take it, and the sleeve of her gray sweater rode up an inch on her right arm.
 
 A band of yellow-green at the heel of the hand, fading at the edges, a few days old. The kind of bruise that came from being held forcefully, not from bumping a doorframe.

@@ -1,5 +1,7 @@
 # Chapter 18: Marcus Turns Six
 
+*Saturday, the 19th of October 2024*
+
 The backyard looked like a piñata had exploded in a paint factory. Rosa had been decorating since seven in the morning, and Dave had been told three times to stop touching the streamers. They were fine. They were more than fine. They were aggressively festive.
 
 Marcus was still in his pajamas at nine-thirty, running laps around the kitchen table. He'd been up since five. Dave had heard him whispering to himself in bed: "Today. Today. Today." Like a countdown reaching zero.

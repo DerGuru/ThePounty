@@ -1,5 +1,7 @@
 # Chapter 31: The Faucet
 
+*Saturday, the 4th of January 2025*
+
 The leak had been there since November. Maria had noticed it the morning after she painted the fence, when she ran the cold tap to rinse her brushes and water came up around the base of the spout at the same time it came out the end. Not a stream. A weeping. The chrome darkened, a film spread under the collar, a small bead built up at the back where the metal met the deck. When she shut the tap off the weeping stopped. When she opened it again, cold or hot, either handle, even a quarter turn, the weeping came back. Every time. She had wiped it with a paper towel. Five minutes later, when she ran the tap to fill the kettle, the ring was back.
 
 For six weeks she had kept a dishtowel folded on the edge of the sink and wiped the base of the spout dry every time she shut the water off. Wash a cup, wipe. Fill the kettle, wipe. Rinse a plate, wipe. The towel got wet through and she swapped it for a dry one. That was the system.

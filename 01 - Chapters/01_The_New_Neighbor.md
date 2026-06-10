@@ -1,5 +1,7 @@
 # Chapter 1: The New Neighbor
 
+*Tuesday, the 25th of June 2024*
+
 Dave saw the Volvo before he saw the man.
 
 It was old. Dark green, clean, no bumper sticker, no rust. The kind of old that meant someone took care of it. The trailer behind it was too big. Half empty. Dave had helped three people move in over the years and the trailer was always too small. Mattresses on the roof, garbage bags in the gaps, someone sitting in the passenger seat holding a lamp. This one looked like the guy couldn’t fill it.

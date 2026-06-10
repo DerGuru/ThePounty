@@ -1,5 +1,7 @@
 # Chapter 4: Dave's Birthday
 
+*Saturday, the 20th of July 2024*
+
 Rosa had started the tradition three years ago. Dave's birthday fell on a Saturday this year, which meant the full production: grill, yard, neighbors, the clipboard.
 
 The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers' kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called "Contingencies" which meant things that would go wrong and whose fault it would be.

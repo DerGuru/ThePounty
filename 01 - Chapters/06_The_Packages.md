@@ -1,5 +1,7 @@
 # Chapter 6: The Packages
 
+*July–August 2024*
+
 Gerald kept a list.
 
 A physical, handwritten, ruled-paper list in a second notebook. The first notebook was for general observations. The second was for patterns. Patterns required their own book because patterns were where the truth lived, and truth did not share space with speculation.

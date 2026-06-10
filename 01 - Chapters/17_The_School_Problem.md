@@ -1,5 +1,7 @@
 # Chapter 17: The School Problem
 
+*Friday, the 11th of October 2024*
+
 The thing about Aiden Parker was that he wasn't stupid. He was smart enough to only say things when no teachers were close. Smart enough to smile after, like it was a joke. Smart enough to pick the moments when Lina was alone or when the only people around were kids who'd laugh.
 
 It had started in September. First week back. Lina had been eating lunch at her usual table, the one near the window where Emma and Sofía sat, and Aiden had walked past and said, "What *is* that?" He was looking at her food. Mom had made rice and beans with leftover chicken and a lime wedge. Normal food. Home food.

@@ -1,5 +1,7 @@
 # Chapter 43: Intelligence
 
+*Monday, the 14th of April 2025*
+
 The first warm Monday of the year, and Aldric Venn was under his car.
 
 Dave saw the legs, coming back from the curb with the empty trash cans. Dark trousers, good socks, the rest of him swallowed by the green Volvo where it sat up on a pair of ramps in the driveway. A drop cloth under the whole thing, folded square at the corners, so that a forty-year-old car leaking its forty-year-old oil would not leave a mark on concrete that already had forty years of marks on it.

@@ -1,5 +1,7 @@
 # Chapter 28: The Snowstorm
 
+*Monday, the 16th of December 2024*
+
 The forecast said four inches. Dave checked it Monday morning on his phone while the coffee brewed, scrolled past the winter storm warning, and thought: fine. Four inches meant shoveling once, maybe twice. Marcus would want to build something. Lina would refuse to go outside. It was December and winter had finally arrived.
 
 By noon, the sky was a flat gray lid pressed down over the rooftops. The first flakes came at one-thirty. By three, when Rosa picked up the kids from school, the driveway was already covered. Dave stood at the kitchen window and watched the plows go past on the main road. They wouldn't come down Maple Lane until late evening. They never did.

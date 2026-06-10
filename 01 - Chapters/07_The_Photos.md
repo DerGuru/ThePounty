@@ -1,5 +1,7 @@
 # Chapter 7: The Photos
 
+*Thursday, the 1st of August 2024*
+
 The crochet hook kept slipping. Maria adjusted her grip, pulled the burnt-orange yarn taut between her fingers and tried again. The blanket for the woman in Tucson was almost done. Three more rows. She'd been working on it all morning, but her hands weren't cooperating, the tension uneven, the stitches too tight in some places and loose in others.
 
 The kitchen table was covered in her work. Yarn, pattern printout, her laptop open to the Etsy dashboard and a mug of coffee that had gone lukewarm. Through the open window she could hear Rosa's kids in their backyard, the high distant shouts of a game with rules only they understood. Normal Thursday sounds.

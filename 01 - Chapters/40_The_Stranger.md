@@ -1,5 +1,7 @@
 # Chapter 40: The Stranger
 
+*Monday, the 7th of April 2025*
+
 Monday morning. The light coming off Maple Lane was the pale spring-gold that did not warm anything yet. Seven forty-two. Calvey had been parked since six.
 
 He sat low in the rental, a charcoal Hyundai Elantra picked because it vanished into any American suburb without trying, with a paper cup of motel coffee gone cold in the holder and a copy of yesterday's *Washington Post* open across the steering wheel. Anyone who looked twice would see a man waiting for a colleague. A salesman. A surveyor on his break. Nothing.

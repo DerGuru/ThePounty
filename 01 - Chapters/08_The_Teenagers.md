@@ -1,5 +1,7 @@
 # Chapter 8: The Teenagers
 
+*Tuesday, the 13th of August 2024*
+
 Ms. Yuen's morning walk took her past the Henderson fence at 6:15, same as every Tuesday. The air was cool, the street empty, the oak at the corner still holding its nighttime silence. She was thinking about breakfast when she saw the red.
 
 Three large letters on Mrs. Henderson's white picket fence. Freshly painted last April, ruined overnight. The letters didn't spell anything. They were practice marks. Someone learning to tag, not someone with something to say.

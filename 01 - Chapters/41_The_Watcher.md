@@ -1,6 +1,6 @@
 # Chapter 41: The Watcher
 
-*April 8. Gray Hyundai, MD plate ending 47B. Parked yesterday by the playground. This morning in front of the Chens'. Same car. Same man.*
+*Tuesday, the 8th of April 2025*
 
 Gerald had been up since five. He had not meant to be. He had gone to bed at the usual time, read three pages of a book about the Erie Canal and turned off the light at ten thirty-five. Then he had lain there with his eyes open until the clock read two forty-one. He got up to drink some water, went back and lay down again.
 
@@ -20,7 +20,9 @@ The Hyundai had been there until ten fourteen. Gerald had logged each end of tha
 
 A guest's car parked in someone's drive, or at the curb in front of the house they were visiting, or directly opposite it. A guest's car did not park at the playground end of the street with the engine off and the driver's seat reclined two clicks.
 
-This morning it was back. One door west. In front of the Chens'. Different angle. Same man. Same cap.
+This morning it was back, and he had seen it the moment he raised the blinds. His hand had the pen moving before he had decided to write anything. He opened the blue notebook and added the morning's line under the others.
+
+*April 8. Gray Hyundai, MD plate ending 47B. Parked yesterday by the playground. This morning in front of the Chens'. Same car. Same man.*
 
 Gerald drank his coffee and watched the sky over the playground go from black to gray to the color milk got when it had been left out.
 

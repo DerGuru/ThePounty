@@ -1,5 +1,7 @@
 # Chapter 13: The Absence
 
+*Thursday, the 19th of September 2024*
+
 Dave almost forgot about the mail.
 
 It was Thursday evening, and Marcus was screaming because Lina had taken the remote, and Lina was screaming because Marcus had bitten her hand, and Rosa was in the kitchen saying something about consequences that neither of them were hearing. Dave was standing in the hallway with his work bag still over his shoulder, keys still in his hand, shoes still on. He had not moved past the threshold. The noise had caught him like a net.

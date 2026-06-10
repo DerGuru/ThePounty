@@ -1,5 +1,7 @@
 # Chapter 30: Christmas on Maple Lane
 
+*Tuesday, the 24th of December 2024*
+
 Rosa peeled the tape off her thumb, pressed it back to the corner of the box, lined up the seam, and pressed once more. The wrapping paper was red with small white deer on it. Last year's roll. Half a roll left. Enough for the rest of the gifts if she was careful with the cuts.
 
 The radio in the kitchen was playing the station that did Christmas music for six weeks straight, currently a slow Spanish version of *Noche de Paz* she remembered from her mother's house. Marcus was somewhere behind her on the living room rug, pushing a plastic truck into the leg of the coffee table with the focus of a man on a mission. Lina was upstairs, ostensibly wrapping her gift for Dave, actually probably on her tablet. Dave was outside hanging the second string of icicle lights he'd bought on impulse the day after the snowstorm, because his original set had survived the wind in only the most theoretical sense.

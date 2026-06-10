@@ -1,5 +1,7 @@
 # Chapter 35: Ms. Yuen's Window
 
+*Saturday, the 8th of February 2025*
+
 The kettle clicked off at five-forty. Ms. Yuen warmed the pot, measured out the oolong and poured the water over the leaves. The tin had been Aldric's gift at Christmas. A loose-leaf oolong with a small card that said only *for the morning cup*. Other people would have kept a tin like that for a Sunday, or for company. She had opened it the day after Christmas. Tea did not improve by sitting in a closed tin. She carried the cup to the front window. Snow sat on the lawns in flat panels, with wind-edges visible at the curbs. The streetlamps were on. Saturday morning had not yet begun, which was the version of Saturday morning she preferred.
 
 She stood at the window.

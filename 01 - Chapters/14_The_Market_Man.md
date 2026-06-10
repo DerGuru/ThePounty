@@ -1,5 +1,7 @@
 # Chapter 14: The Market Man
 
+*Saturday, the 28th of September 2024*
+
 The Saturday market on Greenfield took up half the parking lot behind the Methodist church. Dave went most weeks, not because he needed anything, but because Rosa gave him a list and the list gave him a reason to leave the house before the kids woke up.
 
 Late September had turned the air sharp. He could smell woodsmoke from somewhere, faint and sweet under the diesel of the food trucks. The stalls were half-set when he arrived, vendors hauling crates of late-season squash, jars of honey, bread wrapped in wax paper. A woman was arranging flowers in metal buckets, big ones in reds and oranges. A man in a flannel shirt was stacking apple crates three high, the apples sorted by color in a way that looked accidental.

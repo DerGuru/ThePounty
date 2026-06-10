@@ -1,5 +1,7 @@
 # Chapter 32: Clean Books
 
+*Friday, the 10th of January 2025*
+
 The blue notebook was on its fourth page now. Gerald had already filled three of them in the dark.
 
 Not the dark of the room. The dark of the season. January came on at four-thirty in the afternoon, took the color out of the street, and left him a window that showed mostly his own reflection by five. He had learned to work around it. The desk lamp threw a circle on the page and nothing on the glass, so a man could sit at his own window after dinner and not announce himself to the street. He had tested it from the sidewalk in December, in his coat, pretending to check the mailbox. From outside, the study was a dim square. The lamp didn't reach the blinds. Good.

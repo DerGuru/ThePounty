@@ -1,5 +1,7 @@
 # Chapter 15: The Dinner
 
+*Saturday, the 5th of October 2024*
+
 Rosa had spent the afternoon in the kitchen and most of it had been good. The rice was done. The black beans were simmering with cumin and a bay leaf. The corn was roasted and cooling on a sheet pan, the kernels browning at the edges. The chorizo was cooked and resting in a bowl, sliced thin, releasing orange into a paper towel.
 
 The delicata had taken the longest. Dave had brought two from the market. She'd sliced them into half-moons, tossed them with olive oil and smoked paprika, and roasted them until the edges crisped. They smelled like fall. The house smelled like fall. She'd opened the kitchen window to let the heat out, and the October air came in cold and clean.

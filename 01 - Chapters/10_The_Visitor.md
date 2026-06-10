@@ -1,5 +1,7 @@
 # Chapter 10: The Visitor
 
+*Wednesday, the 4th of September 2024*
+
 The driveway had needed cleaning since June. Rosa had mentioned it twice. Now it was early September, the kids were in the backyard, and Dave was attacking the concrete with a rental pressure washer that sounded like a jet engine. The strip work was satisfying. Dark gray turning to pale gray, years of dirt lifting in clean lines.
 
 He was halfway through the moss stain by the garage when a silver sedan pulled up across the street.

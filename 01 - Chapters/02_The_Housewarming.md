@@ -1,5 +1,7 @@
 # Chapter 2: The Housewarming
 
+*Saturday, the 29th of June 2024*
+
 The guacamole had too much lime. Maria could taste it before she left the kitchen, standing at the counter with a chip in one hand and a half-squeezed lime in the other. Too much. She should start over. She had another avocado, a ripe one, in the basket by the window. She could make a new batch in ten minutes.
 
 She did not make a new batch. She covered the bowl with cling wrap, took the other one with the tacos and told herself it was fine. People liked lime. Rosa liked lime. Rosa would eat it and say something nice and that would be enough.

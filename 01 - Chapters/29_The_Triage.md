@@ -1,5 +1,7 @@
 # Chapter 29: The Triage
 
+*Monday, the 16th of December 2024*
+
 The power failed at six-fourteen, and Gerald lost the first four minutes of it to the outage map on his phone.
 
 By the time he looked up, the man across the street was already out his own front door. Jacket, boots, lantern. Gerald knew it was four minutes because he had checked the clock when the lights died and checked it again when the figure crossed the porch. It was not the scramble of someone reacting. It was the efficiency of someone executing a plan already made.

@@ -1,5 +1,7 @@
 # Chapter 25: Gerald's Discovery
 
+*Friday, the 29th of November 2024*
+
 It started with a name.
 
 Gerald wasn't looking. He'd stopped looking. Two weeks. Fourteen days of normal. The drawer stayed closed. The blinds stayed level. He slept through the night and didn't think about license plates or shoe polish or the exact time Venn's porch light came on.

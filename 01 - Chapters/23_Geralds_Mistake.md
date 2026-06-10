@@ -1,5 +1,7 @@
 # Chapter 23: Gerald's Mistake
 
+*Thursday, the 14th of November 2024*
+
 Gerald had been following Aldric Venn for eleven minutes.
 
 Not following. Walking in the same direction. At roughly the same pace, three blocks behind. That was different. Anyone could be walking to the library on a Thursday afternoon. Gerald went to the library. Not often, but sometimes. Sandra had books on hold. He could pick those up. That was a reason to be here.

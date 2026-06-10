@@ -1,5 +1,7 @@
 # Chapter 20: Halloween
 
+*Thursday, the 31st of October 2024*
+
 Sandra had been decorating since breakfast. The fake cobwebs were up on the porch railings, stretched thin between the posts the way the YouTube tutorial had shown her. The plastic jack-o'-lanterns lined the walkway. The motion-activated skeleton by the door worked after Gerald tightened a connection she couldn't reach without the step stool.
 
 "You've got enough candy?" Gerald asked from the living room. He was in his chair with the newspaper, not reading it.

@@ -1,5 +1,7 @@
 # Prologue
 
+*Tuesday, the 25th of June 2024*
+
 The last forty miles had been the best. Flat land opening up. Houses growing smaller, farther apart, then clustering again into neighborhoods with names. Oak Ridge. Birchwood Estates. Maple Lane was between those two, which amused him. An entire taxonomy of trees within a three-mile radius. Someone had lacked imagination. Or someone had loved trees very much and named accordingly. He preferred the second interpretation. He always preferred the generous interpretation. That was a rule.
 
 Eleven hundred miles had taken fourteen hours. He could have done it in twelve, but speed limits existed for a reason, and the reason was that other people were on the road and deserved to arrive safely. He had not exceeded the posted limit once. He considered that a minor accomplishment. Not because it was difficult — the Volvo didn’t encourage speed — but because patience, exercised consistently, was a form of respect for the system one operated within.

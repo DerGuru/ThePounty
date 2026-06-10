@@ -1,5 +1,7 @@
 # Chapter 33: The Letter
 
+*Monday, the 13th of January 2025*
+
 The envelope was in the mailbox on Monday afternoon, between the electric bill and a flyer for a roofing company that had been mailing the same flyer since November. Under the flyer was a smaller envelope, hand-addressed in her mother's thin uphill writing. Probably for tomorrow. But this envelope looked important. Maria saw the law firm's name in the top left corner before she had the rest of the mail out of the slot. *Hartmann & Reyes, Family Law, White Plains, NY.* She knew the firm. They had been her firm for ten months. 
 
 She carried the stack into the kitchen and put it on the counter beside the screwdriver case. The case had been on the counter for nine days. She had told herself twice that she would put it back in the closet and twice she had not. The channel locks were on top of the case. The faucet was still dry.

@@ -1,5 +1,7 @@
 # Chapter 24: The Argument Next Door
 
+*Monday, the 18th of November 2024*
+
 Monday evening.
 
 Dave stood at the kitchen counter, sorting through the mail. Electric bill. Coupon mailer. Lina's report card. He opened it with his thumb and held it under the light. Three Bs, two Cs, and one D. The D was in math.

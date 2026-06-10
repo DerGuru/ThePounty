@@ -1,5 +1,7 @@
 # Chapter 5: The Dog
 
+*Friday, the 26th of July 2024*
+
 The petunias were past their first bloom. Rosa could tell by the weight of the heads, how they drooped toward the soil instead of the sun. She’d been meaning to deadhead them since Monday, but Monday had been groceries and Tuesday the dentist and Wednesday Lina’s soccer practice and Thursday was the first afternoon in a week where nobody needed her anywhere except here, kneeling in the front bed with her trowel and a paper bag for the spent flowers.
 
 It was late July. The soil was almost too warm under her knees. The heat had that thickness to it, the kind that pressed on the back of your neck and didn't lift until sundown. Somewhere past the Hoopers' house she could hear Kevin's mail truck idling, the rattle of his sliding door and the soft thud of a package on a porch.

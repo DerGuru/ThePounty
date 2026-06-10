@@ -1,5 +1,7 @@
 # Chapter 16: The Contractor
 
+*October 2024*
+
 The garden looked like someone had started a war and then lost interest halfway through. The boxwood hedge was gone, ripped out in sections and left in piles on the lawn. The old paving stones lay stacked by the fence, except for the ones that didn't stack, which lay where they'd been dropped. The rose bed along the south side was dirt now. Just dirt. Sandra had loved those roses.
 
 It had been nine days.

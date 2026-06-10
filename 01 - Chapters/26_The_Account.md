@@ -1,5 +1,7 @@
 # Chapter 26: The Account
 
+*Monday, the 2nd of December 2024*
+
 Monday morning.
 
 Maria found the letter between the electric bill and a Bed Bath coupon. The envelope was thin, white, from First National. She opened it standing at the counter with her coffee still too hot to drink.

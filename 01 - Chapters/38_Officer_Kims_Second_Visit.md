@@ -1,5 +1,7 @@
 # Chapter 38: Officer Kim's Second Visit
 
+*Monday, the 3rd of March 2025*
+
 Monday morning. Kim took the long way to Maple Lane. She had no reason to come. She had every reason. She had a hospital chart and a single sentence and a wave from Friday evening she had returned without thinking.
 
 She had knocked on two doors on Birch Street already, three days back. Both neighbors had been polite. Neither had seen anything. One had asked if Brian was all right. The other had not.

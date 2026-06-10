@@ -1,5 +1,7 @@
 # Chapter 34: Father Angelo
 
+*Saturday, the 25th of January 2025*
+
 Saturday started slow. Dave had taken Lina and Marcus to the indoor pool at the Y. The one good thing about January, he said, was that you could pretend it was summer for two hours if you had enough chlorine. Rosa had the house to herself for the first time in three weeks. She made a second cup of coffee, stood at the kitchen window for a few minutes and watched the snow that had fallen overnight. The heat rising from the radiator below the sill.
 
 She was supposed to be doing the laundry, but she didn't feel like it. Today was her day.

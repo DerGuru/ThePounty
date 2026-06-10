@@ -1,5 +1,7 @@
 # Chapter 12: The Departure
 
+*Thursday, the 19th of September 2024*
+
 The kettle clicked off at five-forty. Ms. Yuen poured the water over the leaves and set the timer on the counter. Three minutes. She carried the cup to the front window. She stood there in the gray light waiting for the tea and the morning to arrive together.
 
 Maple Lane was quiet. The streetlamps were still on, their orange glow thinning as the sky lightened behind the rooftops. No cars. No sprinklers. The Ortegas' porch light was off, which meant Rosa had remembered to switch it this time. The Hoopers' newspaper sat on their driveway in its plastic sleeve, white against the dark concrete. No one was awake. Ms. Yuen was always the first one awake.
