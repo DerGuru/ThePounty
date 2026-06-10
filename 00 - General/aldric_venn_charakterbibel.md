@@ -524,17 +524,7 @@ Das bedeutet: **Der Leser weiß genau so viel wie die Figuren um ihn herum.** Un
 
 ### Die POV-Prismen
 
-Jeder POV-Charakter sieht eine andere Facette von Aldric.
-
-|POV-Figur            |Was sie in Aldric sieht                                                      |
-|---------------------|-----------------------------------------------------------------------------|
-|Dave Ortega          |Einen seltsamen, aber netten Kerl. Vielleicht einsam.                        |
-|Rosa Ortega          |Einen Mann, der allein ist und es gewohnt ist. Das macht sie traurig.        |
-|Gerald Hooper        |Eine Bedrohung. Irgendetwas stimmt nicht. Er weiß es.                        |
-|Ms. Yuen             |Einen Mann mit einer Vergangenheit. Sie fragt nicht. Sie wartet.             |
-|Sandra Hooper        |Ein Rätsel, das sie lösen will — durch Auflauf und offene Schränke.          |
-|Officer Kim          |Jemanden, der jede Frage beantwortet und danach weniger preisgibt als vorher.|
-|Antagonist (variiert)|Einen höflichen Mann, der plötzlich aufhört, höflich zu sein.                |
+→ Zentral gepflegt im **Figurensystem** (`aldric_venn_figurensystem.md`, Abschnitt „Was jede POV-Linse in Aldric sieht").
 
 ### Die Technik: Jeder POV hat einen eigenen Ton
 

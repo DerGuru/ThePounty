@@ -374,6 +374,21 @@ Der schönste Trick: Episodenfiguren, die Aldric Wochen später auf der Straße 
 | Mr. Green | 2 | Nein | Nein | Geduld als Kalkulation / schwieriger Nachbar |
 | Episodenfiguren | 3 | Nein | Nein | Je ein Prinzip |
 
+### Was jede POV-Linse in Aldric sieht
+
+Jede POV-Figur sieht eine andere Facette. Keiner sieht das ganze Bild.
+
+| POV-Figur | Was sie in Aldric sieht |
+|---|---|
+| Dave Ortega | Einen seltsamen, aber netten Kerl. Vielleicht einsam. |
+| Rosa Ortega | Einen Mann, der allein ist und es gewohnt ist. Das macht sie traurig. |
+| Lina Ortega (10) | Einen Erwachsenen, der sie ernst nimmt und jede Frage beantwortet — nur sind die Antworten nie ganz Antworten. |
+| Gerald Hooper | Eine Bedrohung. Irgendetwas stimmt nicht. Er weiß es. |
+| Ms. Yuen | Einen Mann mit einer Vergangenheit. Sie fragt nicht. Sie wartet. |
+| Sandra Hooper | Ein Rätsel, das sie lösen will — durch Auflauf und offene Schränke. |
+| Officer Kim | Jemanden, der jede Frage beantwortet und danach weniger preisgibt als vorher. |
+| Antagonist (variiert) | Einen höflichen Mann, der plötzlich aufhört, höflich zu sein. |
+
 ---
 
 *„Jeder sieht einen anderen Aldric. Keiner sieht das vollständige Bild. Der Leser auch nicht — aber er kommt am nächsten ran."*
