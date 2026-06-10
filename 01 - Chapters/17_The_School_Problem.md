@@ -16,7 +16,7 @@ But it kept happening.
 
 Then, six weeks in, the one that stuck: "Why don't you go back to where you came from?"
 
-Lina was from here. She was born at Mercy General, twelve minutes away. She'd lived on Maple Lane her whole life. She knew every crack in the sidewalk between her house and the park. She was *from here*.
+Lina was from here. She was born at Mercy Regional, twelve minutes away. She'd lived on Maple Lane her whole life. She knew every crack in the sidewalk between her house and the park. She was *from here*.
 
 She didn't say that. She didn't say anything. She picked up her tray and walked away, and her face felt hot and her chest felt tight and she thought: *I'm not going to cry about this. I'm not.*
 
