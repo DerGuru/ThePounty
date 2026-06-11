@@ -18,7 +18,7 @@ Monday brought a third. UPS this time. Gerald watched the driver from behind the
 
 Three packages in five days. Not unusual for most people. Rosa Ortega got three a week. Dave ordered tools from places Sandra said only existed to take men's money. Sandra herself had once received six Amazon boxes in a single day, which Gerald knew because he'd counted them while pretending to check the mailbox.
 
-But Aldric didn't get packages. In over two months on Maple Lane, Gerald had logged exactly four deliveries to number four. Four. This was a man who drove to the grocery store, walked to the dry cleaners and received almost nothing by mail except the occasional letter in a cream-colored envelope. No catalogs. No subscription boxes. Nothing that suggested an online life of any kind.
+But Aldric didn't get packages. In over two months on Maple Lane, Gerald had logged exactly four deliveries to number four. Four. This was a man who drove to the grocery store, walked to the dry cleaners, and received almost nothing by mail except the occasional letter in a cream-colored envelope. No catalogs. No subscription boxes. Nothing that suggested an online life of any kind.
 
 Three packages in five days was not a pattern. Three points were coincidence. Gerald knew that. He'd been an auditor for thirty-one years. You needed seven data points for a trend. Five for a reasonable suspicion. Three was nothing.
 

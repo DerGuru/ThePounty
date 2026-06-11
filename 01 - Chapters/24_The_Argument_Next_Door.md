@@ -110,7 +110,7 @@ Dave stared at him. "How do you know that?"
 
 "I spent two hours on a forum before I ordered. I dislike returning things."
 
-Dave drank his coffee. He thought about asking how Aldric knew all that stuuf. Dishwasher repairs, woodworking and the exact wine that went perfectly with a meal. He didn't ask. That was the thing about Aldric. The questions were always there, but the answers never mattered more than the moment you were in.
+Dave drank his coffee. He thought about asking how Aldric knew all that stuuf. Dishwasher repairs, woodworking, and the exact wine that went perfectly with a meal. He didn't ask. That was the thing about Aldric. The questions were always there, but the answers never mattered more than the moment you were in.
 
 They finished the shelf by noon. It stood against the garage wall, temporary, waiting to be moved into the study. The bottom shelf was at fourteen inches. The alignment was perfect. Dave stepped back and looked at it.
 

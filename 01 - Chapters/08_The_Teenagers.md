@@ -40,7 +40,7 @@ He was wearing his usual smile and walked his usual pace. Unhurried. He passed t
 
 Something left his face. Ms. Yuen couldn't name it from this distance, but she could see the absence. The pleasantness that usually sat on his features like a default setting — gone. For three seconds, maybe four, the man standing in front of Mrs. Henderson's ruined fence was not the man who waved at neighbors and asked about their children. He was someone else. Someone looking at a problem the way you'd look at a stain on a shirt you intended to keep.
 
-Then it passed. His shoulders settled. His chin lifted. He touched the paint with one finger, rubbed it between his thumb and forefinger, looked at the red on his skin and wiped it on his handkerchief.
+Then it passed. His shoulders settled. His chin lifted. He touched the paint with one finger, rubbed it between his thumb and forefinger, looked at the red on his skin, and wiped it on his handkerchief.
 
 He looked at the park. Then he walked to the park.
 

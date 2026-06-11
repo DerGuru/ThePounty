@@ -42,7 +42,7 @@ Ms. Yuen watched the shift. It was visible, if you knew where to look. Aldric's 
 
 "Thank you."
 
-He got in. The door closed. The engine started, quiet and low. The headlights came on. The green Volvo pulled out of the driveway, turned left at the end of the street and was gone.
+He got in. The door closed. The engine started, quiet and low. The headlights came on. The green Volvo pulled out of the driveway, turned left at the end of the street, and was gone.
 
 Dave stood in his driveway for a moment. He looked at the empty space where the car had been. Then he put his earbuds in, stretched his calves against the curb and started running toward the park.
 

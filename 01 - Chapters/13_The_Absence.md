@@ -24,7 +24,7 @@ The remote changed hands. Marcus mumbled something that was technically an apolo
 
 Dave set his bag down and took off his shoes. Then he remembered. The mail.
 
-He went back outside in his socks, crossed the lawn and walked up Aldric's driveway. The house was dark. All of it. Not just the porch lamp, which Aldric always turned on at dusk whether he was sitting outside or not. The windows too. No kitchen light behind the curtain. No reading lamp in the front room. The house sat there looking at the street with blank eyes.
+He went back outside in his socks, crossed the lawn, and walked up Aldric's driveway. The house was dark. All of it. Not just the porch lamp, which Aldric always turned on at dusk whether he was sitting outside or not. The windows too. No kitchen light behind the curtain. No reading lamp in the front room. The house sat there looking at the street with blank eyes.
 
 Dave opened the mailbox. Three envelopes and some flyers. No packages today. He tucked them under his arm and walked back.
 
@@ -86,7 +86,7 @@ Rosa was folding laundry in the upstairs bedroom when she heard the car. It was 
 
 She did not run to the window, but she carried the shirt she was folding to the upstairs hallway, where the window faced the street, and looked out.
 
-The green Volvo was pulling into the driveway at number four. It stopped. The engine went off. Aldric stepped out, opened the trunk and took out a dark canvas bag. He closed the car and walked to his porch. Same steps. Same unhurried pace. He unlocked the front door and went inside.
+The green Volvo was pulling into the driveway at number four. It stopped. The engine went off. Aldric stepped out, opened the trunk, and took out a dark canvas bag. He closed the car and walked to his porch. Same steps. Same unhurried pace. He unlocked the front door and went inside.
 
 Five seconds later, the porch light came on.
 

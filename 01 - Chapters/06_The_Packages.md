@@ -20,7 +20,7 @@ The camera had caught nothing.
 
 That was worse. That meant whoever was doing it knew about sightlines. Knew where to approach from. Knew that Gerald's porch faced south and the Alvarez porch had no clear view from the north.
 
-Gerald was eating breakfast — toast, black coffee and the paper on his tablet — when he heard the UPS truck. He was at the window in five seconds. The truck stopped at their house. A box. Medium. Left at the front step. The driver was gone in under a minute.
+Gerald was eating breakfast — toast, black coffee, and the paper on his tablet — when he heard the UPS truck. He was at the window in five seconds. The truck stopped at their house. A box. Medium. Left at the front step. The driver was gone in under a minute.
 
 Gerald checked the time: 10:47 AM. Sandra was at her book club until noon. Gerald was home. Gerald was watching.
 

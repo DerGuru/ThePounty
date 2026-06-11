@@ -60,7 +60,7 @@ Then Aldric turned his head. Saw Dave standing there with the pressure washer wa
 
 He went inside. The door closed. The porch was empty.
 
-Dave finished the driveway. He put the pressure washer back in the garage, wiped it down and wrapped the cord how the rental place wanted. He found the lost earbud in the grass by the spigot, went inside and showered. He came downstairs to the smell of Rosa's sofrito and the sound of Marcus explaining why his dinosaur had seven legs.
+Dave finished the driveway. He put the pressure washer back in the garage, wiped it down, and wrapped the cord how the rental place wanted. He found the lost earbud in the grass by the spigot, went inside and showered. He came downstairs to the smell of Rosa's sofrito and the sound of Marcus explaining why his dinosaur had seven legs.
 
 "More legs, more speed," Marcus said to his drawing.
 
@@ -76,7 +76,7 @@ Dave kissed Rosa's temple on his way to the fridge. She was stirring the pot one
 
 "Fine. Just stood too long at the market." She tilted her head toward the stove. "Taste."
 
-He took the wooden spoon. Tomato, garlic and cumin. Perfect. "Good."
+He took the wooden spoon. Tomato, garlic, and cumin. Perfect. "Good."
 
 "I know." She smiled. "Beer's in the door." Then, without turning: "Why did you let Marcus have a popsicle? Dinner's in twenty minutes."
 

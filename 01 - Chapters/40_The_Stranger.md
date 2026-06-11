@@ -56,7 +56,7 @@ That was the kind of glance most civilians did not do. Most civilians moved the 
 
 He told himself it was nothing.
 
-At eight thirty-six the man stood, closed the book, and went inside. The door closed. Calvey waited.
+At eight thirty-six the man stood, closed the book and went inside. The door closed. Calvey waited.
 
 At nine o'clock exactly, the side door of the garage opened and the man came out wheeling a push mower. He set it on the grass and bent to check something on the underside. He stood up, walked to the garden tap, filled a small can with water and walked back. He did not pour it into the mower. He poured it into the flower box on the porch railing. He set the can down. He pulled the cord.
 
@@ -100,7 +100,7 @@ The look took less than two seconds. The head did not move. The eyes did.
 
 Calvey turned a page of the *Post*.
 
-The look passed the Hyundai, paused for half a beat that might have been nothing, and went on. East along the street. West along the street. Back at the lawn. Then Venn went inside.
+The look passed the Hyundai, paused for half a beat that might have been nothing, then went on. East along the street. West along the street. Back at the lawn. Then Venn went inside.
 
 Calvey sat very still for a long minute.
 

@@ -6,7 +6,7 @@ Dave saw the Volvo before he saw the man.
 
 It was old. Dark green, clean, no bumper sticker, no rust. The kind of old that meant someone took care of it. The trailer behind it was too big. Half empty. Dave had helped three people move in over the years and the trailer was always too small. Mattresses on the roof, garbage bags in the gaps, someone sitting in the passenger seat holding a lamp. This one looked like the guy couldn’t fill it.
 
-Dave watched from the porch. The man had gotten out of the car, stretched once, and walked to the back of the trailer. Then he didn’t unload. He went inside the house first, came back out a few minutes later and carried one thing in. A small metal case. Then he sat in the rocking chair on the porch for a moment, looking at the street. Like he was getting his bearings. Or like he was waiting.
+Dave watched from the porch. The man had gotten out of the car, stretched once, and walked to the back of the trailer. Then he didn’t unload. He went inside the house first, came back out a few minutes later, and carried one thing in. A small metal case. Then he sat in the rocking chair on the porch for a moment, looking at the street. Like he was getting his bearings. Or like he was waiting.
 
 Dave told Rosa he’d be back in a minute and walked across the lawn in his flip-flops, coffee still in one hand.
 
@@ -58,7 +58,7 @@ Brief silence. A lawn mower started up two streets over. The sound carried in th
 
 “Right,” Gerald said. “Well. Need help with the boxes?”
 
-There were three boxes, a chair and a small toolbox. That was what was left in the trailer.
+There were three boxes, a chair, and a small toolbox. That was what was left in the trailer.
 
 Dave carried the one marked *Kitchen*. It had the normal, expected weight. Plates, pots, maybe some mugs. It clinked when he shifted it. Gerald took *Books*, which was heavier than it looked. He grunted but didn’t comment. The third said *Miscellaneous* and had an extra layer of packing tape. The thick kind, applied carefully, no bubbles, no wrinkles. 
 

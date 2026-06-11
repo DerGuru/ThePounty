@@ -125,6 +125,16 @@ Der Leser führt das Buch mit. Jede Szene aus ihrem POV ist gleichzeitig eine Bu
 
 ---
 
+## Offene Fäden aus Buch 1
+
+**Das Geldwäsche-Syndikat (laufende Bedrohung):**
+Calvey war nur die Sondierung — *„the way they ask it"* (K45). Der Eigentümer der gestörten Struktur überlebt (Kanon: Auftrag K10–13 nahm Geld/Struktur, keine Menschen). Calveys Bericht (*Ziel zu hart, Preis zu hoch*) kauft Zeit, beendet aber nichts. Das Syndikat wägt weiter ab, ob/wie es eskaliert. Mögliche Wiederkehr in Buch 2 oder später: ernster, persönlicher, nicht mehr nur „disturb". Spannung: Aldric ist auf Maple Lane unter echtem Namen, privat, nicht im Cover — das macht ihn auffindbar. Kollidiert mit der Miranda-Aufgabe (er kann nicht gleichzeitig unsichtbar sein und für sie da sein).
+
+**Calvey als möglicher Ally (Buch 2 oder später):**
+Kein toter Faden — Calvey lebt, fliegt heim, Arm in 3 Monaten wieder brauchbar. Zwischen ihm und Aldric steht jetzt etwas Seltenes: gegenseitiger Berufsrespekt, ein ehrlicher Handschlag, eine gemeinsame Erfahrung von Regel-gegen-Regel. Idee: Calvey taucht später wieder auf — diesmal auf Aldrics Seite. Plausibler Auslöser: das Syndikat schickt jemand Schlimmeren / geht gegen Aldric oder die Straße vor, und Calvey (der die Gegenseite kennt) warnt oder hilft. Oder: das Syndikat verbrennt Calvey selbst, und der gemeinsame Gegner macht sie zu Verbündeten. Sein Codex (*„a man who finishes"*) muss tragen — er wird kein Ally aus Sentiment, sondern weil die Arithmetik / ein neuer Auftrag es deckt.
+
+---
+
 ## Offene Fragen
 
 - [ ] Mirandas Beruf

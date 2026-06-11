@@ -270,7 +270,7 @@ The car came from the east. A dark sedan with tinted rear windows. Fourteen, fif
 
 Aldric didn't look up. Looking up was information. Looking up said: *I noticed you. I consider you noteworthy.* Neither message was useful at this stage.
 
-He set his right foot down, next to his left, redistributed his weight to the balls of both feet and continued the brush circles without breaking rhythm. Under a second to stand from this position. Acceptable.
+He set his right foot down, next to his left, redistributed his weight to the balls of both feet, and continued the brush circles without breaking rhythm. Under a second to stand from this position. Acceptable.
 
 The sedan passed. It sounded like a four-cylinder, well-maintained. No exhaust rattle. Possibly a rental or recent purchase. Purring tires, even at this speed. That meant all-season, standard, not performance. A single silhouette was sitting on the driver seat, left hand on the wheel, right hand below the window line — phone, armrest or a concealed weapon.
 

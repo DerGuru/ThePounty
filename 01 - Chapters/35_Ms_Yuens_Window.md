@@ -28,7 +28,7 @@ She did not call to thank him. She did not write a note. He had not knocked. He 
 
 She put the mail on the kitchen table and comed through it.
 
-She took her walk at nine, when the light was good and the ice had begun to grain under the sun. Her knee was tolerable today. She went down to the end of the block, around the loop, through the park and back. The street had woken up. A delivery van was reversing at the Hoopers'. Marcus Ortega was building something out of the cleared snow in his front yard that looked more and more like a fortress with every day passed and every inch of snow, that fell.
+She took her walk at nine, when the light was good and the ice had begun to grain under the sun. Her knee was tolerable today. She went down to the end of the block, around the loop, through the park, and back. The street had woken up. A delivery van was reversing at the Hoopers'. Marcus Ortega was building something out of the cleared snow in his front yard that looked more and more like a fortress with every day passed and every inch of snow, that fell.
 
 The cleared walks led down her side of the street like a thread. The Alvarez house. The Chens', who were young enough to do it themselves and would not have minded the help. Then his own. Then nothing past that, because past that was the Bukoviches', who had a service.
 
@@ -106,7 +106,7 @@ She did not wonder what was in the box, but it was the carrying that stayed with
 
 Her husband had done the same thing. Twice, in thirty years of marriage. Both times he had brought it down, set it on the kitchen table, sat with it for an hour, then put it back upstairs without opening it. She had never asked.
 
-She made dinner. She ate at the table by the window with the small lamp on. After dinner she washed the plate, dried it and put it away. She refilled the kettle for the evening tea but did not turn it on yet. She sat in the armchair by the window with the lamp off. The street settled into its evening quiet. The Ortegas' kitchen window glowed yellow. The Hoopers' television flickered blue through the blinds, illuminating the snow in strobes of color. Number four's porch light was on, low and warm, the same setting it had held since the first weekend he had moved in.
+She made dinner. She ate at the table by the window with the small lamp on. After dinner she washed the plate, dried it, and put it away. She refilled the kettle for the evening tea but did not turn it on yet. She sat in the armchair by the window with the lamp off. The street settled into its evening quiet. The Ortegas' kitchen window glowed yellow. The Hoopers' television flickered blue through the blinds, illuminating the snow in strobes of color. Number four's porch light was on, low and warm, the same setting it had held since the first weekend he had moved in.
 
 She thought about her husband.
 

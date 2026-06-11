@@ -54,7 +54,7 @@ Jesús raised his eyebrows. "You knit him a whole cardigan?"
 
 "Always do."
 
-The screen door slapped shut. The truck started. She listened to it pull away, the rattle of the mower on the ramp fading at the end of the street. The house was quiet again. The lawn was done. The grass smell came through the open window, thick, green and warm.
+The screen door slapped shut. The truck started. She listened to it pull away, the rattle of the mower on the ramp fading at the end of the street. The house was quiet again. The lawn was done. The grass smell came through the open window, thick, green, and warm.
 
 She looked at the bag by the door. She'd blocked and dried the cardigan yesterday. This morning she folded it into tissue paper. The bag looked almost too nice for a simple thank-you gift and not nice enough for a real present. She thought about waiting until tomorrow.
 
@@ -94,7 +94,7 @@ Maria stared at him. "How do you know that?"
 
 It hadn't been accidental. She'd spent forty minutes on the yarn website comparing swatches. But she hadn't expected anyone to notice. Carlos had never noticed. Jesús wouldn't know a colorway from a paint chip.
 
-Aldric put it on. Right there, on the porch, over his shirt. He shrugged it onto his shoulders, adjusted the collar and buttoned the middle button. It fit. The shoulders were slightly wide because she'd measured by eye, not by tape. But it fit the way a hand-knit was supposed to fit. Loose. Comfortable. Worn.
+Aldric put it on. Right there, on the porch, over his shirt. He shrugged it onto his shoulders, adjusted the collar, and buttoned the middle button. It fit. The shoulders were slightly wide because she'd measured by eye, not by tape. But it fit the way a hand-knit was supposed to fit. Loose. Comfortable. Worn.
 
 "Maria." He looked at her. The full smile. The one that used the whole face. "This is one of the most thoughtful gifts I have ever received. Thank you."
 
