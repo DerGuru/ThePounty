@@ -32,7 +32,7 @@ Nothing unusual. Nothing wrong. That was the point of streets like this. One bui
 
 He had done the drive-by on Saturday afternoon. He had done it again Sunday morning. Now he was here on a Monday, the day the street started moving, because you could not plan an approach until you had seen the rhythm. People in suburbs ran on rhythm. They left at the same time, came back at the same time, took the dog out at the same time. Find the gap. Use the gap.
 
-By seven forty-five the gap was already filling. Directly across from number four, a man in his sixties came out with a coffee mug and a recycling bin, set the bin at the kerb, did not look up. Further down on the same side, a woman in scrubs got into a Camry and reversed out without checking her mirrors. Down at the cul-de-sac end, someone was walking a small white dog that took its time at every shrub.
+By seven forty-five the gap was already filling. Directly across from number four, a man in his sixties came out with a coffee mug and a recycling bin, set the bin at the kerb, but did not look up. Further down on the same side, a woman in scrubs got into a Camry and reversed out without checking her mirrors. Down at the cul-de-sac end, someone was walking a small white dog that took its time at every shrub.
 
 Standard. He logged each of them and went back to number four.
 

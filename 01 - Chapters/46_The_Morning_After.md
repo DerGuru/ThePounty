@@ -2,76 +2,52 @@
 
 *Saturday, the 26th of April 2025*
 
-Dave was up before the kids, which never happened on a Saturday.
+Dave was up before the kids, which almost never happened on a Saturday.
 
-He had slept badly and not bothered to work out why. Something in the night, a car door or a branch or one of those sounds a house makes when it's settling, had put him half awake for a while around one. He had listened, heard nothing more, and gone back under. Now it was a little after six, the coffee was going, and the kitchen had the gray light it got before the sun cleared the rooftops. He stood at the window over the sink and waited for the pot.
+He had slept badly and not bothered to work out why. Something around one had brought him half up out of sleep, a sound he hadn't chased, and he'd gone to the window without really waking. There had been a car down by the empty house at six, the one that kept turning up on the street lately, its inside light on, the weak yellow it gives off with a door open. Two shapes stood beside it. One had looked like Aldric. The other had been holding an arm against his body, careful, like it hurt. Then the light went and there was nothing to see, and he hadn't been sure he'd seen any of it even while he was still looking. He'd gone back to bed, listened, heard nothing more, and gone under. By morning it had the feel of a dream, the kind you can't be bothered to put back together. Now it was a little after six, the coffee was going, and the kitchen had the gray light it got before the sun cleared the rooftops. He stood at the window over the sink and waited for the pot.
 
-It was a good morning. The Hoopers' paper sat on their driveway in its sleeve. The Chens' recycling was out. A sprinkler ticked on somewhere down the block. Spring had finally committed to itself; the lawns had gone the deep green that meant mowing season, and the air through the cracked window was soft and a little wet.
+It was a good morning. The Hoopers' paper sat on their driveway in its sleeve. The Chens' recycling bin stood out at the curb. They had gone Friday evening for the week and set it out before they left; bringing it in after Monday's pickup had landed on Dave's list, along with their mail. A sprinkler ticked on somewhere down the block. Spring had finally committed to itself; the lawns had gone the deep green that meant mowing season, and the air through the cracked window was soft and a little wet.
 
-He poured the coffee and drank half of it standing up, thinking about nothing more pressing than whether the gutters needed doing before the next rain.
+He took the coffee out to the porch. The morning asked for it, soft and washed, not yet warm, and the inside of the house felt like the wrong place to stand with the light coming up the way it was. He sat on the top step with the mug between his hands and thought about nothing more pressing than the gutter. The corner on the south side had been pulling away since winter. He kept meaning to get the ladder out and kept not doing it.
 
-At six-forty he saw Aldric come down his front steps with something held flat in both hands.
+A little before seven, Aldric came out of number four.
 
-He crossed his own lawn, crossed the strip that was Dave's, and came up the porch steps, and Dave was already opening the door, because it would have been strange to make a man knock when you were looking right at him through the glass.
+He had a canvas holdall in one hand, the kind of bag a man takes to the gym or the hardware store, nothing in the look of it worth a second glance. He carried it to the Volvo, opened the trunk, and set it inside, taking the half-second to lay it flat that he took with everything. Then he closed the trunk and stood a moment in his own driveway, looking at the morning, two men up before their street had bothered to be.
 
-"Morning, Dave. I'm sorry for the hour." Aldric looked the way he always looked, pressed and easy, a man at the front end of a pleasant day. "I baked last night and made far too much, which happens when I get an idea late. I thought your family might rescue me from it."
+He saw Dave on the porch. He lifted a hand, and moved toward the fence.
 
-It was a cake. Chocolate, in a square tin, the icing thick and matte and crackled a little along the edges. Dave knew it on sight. Aldric had made one like it at Christmas, for Lina, the fudge cake out of that book she wouldn't put down, and she had talked about it for a solid week and then asked for it twice since.
+"Good morning, Dave. You're up early for a Saturday."
 
-"You did not have to do that," Dave said.
+"Could say the same to you."
 
-"I know. That's rather the point." Aldric held it out. "The children will fight over the corners. There's more icing there. I cut it square on purpose."
+"Errands. Easier before the day fills up." He glanced once, without seeming to, at the line of Dave's roof. "Your gutter's pulling away at the south corner. The bracket, I'd guess. It'll hold through a soft rain and let go in a hard one."
 
-Dave took it. It was still faintly warm through the tin. "Lina's going to lose her mind."
+Dave looked up at the sag he'd been thinking about thirty seconds earlier, the one Aldric had read off the house in the time it took to shut a trunk.
 
-"That is the intended effect." Aldric glanced at the kitchen window behind Dave, where no one was up yet. "How is she? The reading. She told me in the fall she wanted to write one of her own."
+"Yeah. It's on the list."
 
-"Still at it. We've got a notebook now we're not allowed to read." Dave shifted the cake to one arm. "You want coffee? It's made."
+"Lists are good. I'm a great believer in lists." Almost a smile. "I'm going by the hardware store on Route 9, among other places. I could bring the bracket back, if you measure the old one. Save you the trip."
 
-"Thank you, no. I've been up too long already and I mean to make up for it." Aldric said it lightly, a man admitting to a lazy Saturday and not ashamed of it.
+"I'll get to it. But thanks." It came out easy, the way you wave off a neighbor without it meaning anything. "Appreciate the eye."
 
-That was when the cruiser came up Maple Lane, as it had most days for weeks now. Window down. Officer Kim, one arm on the sill, hair pulled back. Dave lifted his free hand to her the way he did to anyone. Beside him, Aldric raised his.
+"Of course."
 
-Kim raised hers back. She slowed a touch as she passed, the small courtesy of a person who knows a street, and then she was on down toward the bottom and around.
+The cruiser came up Maple Lane then, window down, Officer Kim with one arm on the sill, the same slow pass she'd been making for weeks. Dave lifted his mug to her. Aldric, half-turned by the fence, raised his hand. Kim raised hers and slowed the small slow that never quite became a stop, and then she was down to the bottom of the street and around. Dave had stopped wondering, a while back, why she came by so much. But people had their routes.
 
-Dave watched her go without really watching. He had stopped wondering, weeks ago, why she came by so often. People found their routes. Maybe Maple Lane was on the way to wherever she started her shift, and a quiet street with kids on it was a nice thing to roll through before the day got loud. That was as far as he took it. That was as far as he wanted to take it.
+"I'll let you drink that in peace." Aldric stepped back toward his car. "Tell Rosa good morning. And tell Lina I'm still expecting a chapter, regardless of what she says about not showing anyone."
 
-"She's around a lot," he said, mild, because it was something to say.
+He went back across the lawns, got into the Volvo, and backed out of the drive. The old engine caught soft and even. He turned at the bottom of the street and was gone, off to the hardware store on Route 9, among other places.
 
-"She strikes me as someone who likes to know her neighborhood is well." Aldric watched the cruiser turn at the end. "I find that reassuring. Not everyone would."
+Dave sat with the coffee going cool and felt, under the ordinary of the morning, a small thing he couldn't name and didn't try to. He didn't chase things. That was most of what kept a marriage, a job and a street running. Whatever the night had been, whatever the early errand was, it belonged to Aldric, and the morning was too good to spend trying to make it his.
 
-"Sandra thinks she's sweet on someone on the block."
+The screen door opened behind him. Rosa came out in her robe with her own mug, hair flat on one side, and lowered herself onto the step beside him.
 
-"Sandra," Aldric said, "thinks everyone is sweet on someone. It's one of her finest qualities. She lives in a warmer world than the rest of us." He stepped back toward the steps. "I'll let you get to your morning. Tell Rosa good morning, and tell Lina the corner piece on the left is the best one. I tasted the batter. I have no shame about it."
+"Was that Aldric?"
 
-"I'll pass it along."
+"Off to the hardware store. Told me the gutter's about to come down."
 
-Aldric went down the steps and back across the two lawns, unhurried, and let himself into number four, and the street was just the street on a Saturday morning. A screen door banged somewhere. A kid laughed. The sun came up over the Hoopers' roof and laid itself across everything, the wet grass, the parked cars, the whole ordinary block.
+"Is it?"
 
-Dave stood a moment with the warm cake and felt, under the simple pleasure of it, a small thing he couldn't name and didn't try to. Aldric had been up all night over something. You didn't bake at one in the morning because the day had gone well. But the man had carried a cake across two lawns to give it away, and had asked after a ten-year-old's notebook, and there were people in the world who used their bad nights worse than that.
+"Probably. He's usually right about that stuff." Dave drank his cooling coffee. Down the block a sprinkler shut off. A kid that wasn't theirs was already awake somewhere, already shouting about something, and in a minute their own two would be up and the quiet would be over for the day.
 
-He decided not to chase it. He was good at that, deciding not to chase things; it was most of what kept a marriage and a job and a street running. Whatever had kept Aldric up was Aldric's. The cake was Dave's, and it was getting no colder out here.
-
-He went inside and set it on the counter, then thought about it and left it there in plain sight, because Marcus would be down soon, and a kid ought to come downstairs and *find* a cake, not be told there was one in the fridge.
-
-Rosa came down at seven in her robe, hair flat on one side, and stopped in the doorway looking at the chocolate cake sitting on the counter like it had grown there overnight.
-
-"Is that—"
-
-"Aldric. Couldn't sleep, made too much." Dave handed her a coffee. "Same as Christmas."
-
-"Same as Christmas," she said. She looked at the cake a second longer than the cake required, and Dave thought, not for the first time, that Rosa noticed more than she said, the same as he did, and that the two of them had spent fifteen years building a thing where you didn't always have to say it. Then she got down plates. "Don't tell the kids until they've had something that isn't cake."
-
-"Wouldn't dream of it."
-
-She cut two squares from the corner where the icing was thickest and slid one across to him. They ate standing up in the morning light, before the house woke, and it was very good, of course it was, and Dave thought that a man who could make a thing taste like that had at least one part of his life completely in order, whatever else he did with his nights.
-
-Upstairs, a door opened. Small feet hit the floor at a run.
-
-"Incoming," Rosa said, and slid the plates into the sink, and put the lid back on the tin most of the way, and braced.
-
-Marcus arrived in the kitchen at full speed, saw the cake, and stopped like he'd hit glass.
-
-Dave watched his son's whole face rearrange around the fact of it. It was, he thought, the correct response. Aldric had said so himself.
-
-It was going to be a good day. He could feel the ordinary shape of it, eggs and cartoons and the gutters if he got to them. He cut Marcus the smallest defensible sliver, told him it was a down payment on after breakfast, and went to wake his daughter, who was going to lose her mind, in the best way, about the corner piece on the left.
+Rosa leaned her shoulder into his. They sat there a while and watched the street wake up, and Dave thought there were worse things to be than a man who didn't need to know everything, on a good street, on a good morning, with the coffee not quite cold yet.

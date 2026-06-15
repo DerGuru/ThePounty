@@ -14,7 +14,7 @@ He had got on the plane back. The job was not finished, and he was a man who fin
 
 Mosely had run out of patience before the holiday. *It's a disturbance, not a siege. Do the thing or come home.* So Calvey had gone home, which was not what Mosely meant, then flown back, which Mosely did not know. He had let London think the job was still running. The truth was harder to put on a burner. He had watched a man mow a lawn, carry a drain pan and wave at a police cruiser. Every day the gap between what the file said and what his eyes said had got wider, until the gap was the whole job.
 
-He had settled on tonight somewhere over the Atlantic. Friday. Bins out in the morning, so a car at the empty house drew no second look. No school run to complicate the early hours. A long quiet weekend on the far side of it to disappear into.
+He had settled on tonight somewhere over the Atlantic. Friday. No school run to complicate the early hours, and a long quiet weekend on the far side of it to disappear into. The Chens across the way had helped without knowing it. They had loaded a car at dusk and driven off for the week, their recycling bin left at the kerb for Monday, their windows dark now. Between that and the empty house at his back, there was no one near enough to take an interest in him.
 
 He thought about Ellie, because he always did before a thing, and because it steadied his hands rather than shook them. She'd be asleep now, four hours ahead. He had been given his week with her. Tonight was the cost of the week, and he had never once pretended the work was anything else.
 
@@ -100,7 +100,7 @@ Calvey drew.
 
 Gerald was at the study window because he was always at the study window. He saw the two shapes in the parked car in front of the empty house, had seen Venn go down to it twenty minutes earlier, walking as he always did, and had written the time. Now he saw the inside of the car light up. Not the dome light. One flat white flash, low, with no sound that reached him through the double glazing, there and gone, like someone striking a camera flash inside a closed box.
 
-He had been an auditor for thirty-one years and he knew the difference between a thing he could explain and a thing he could not. His hand had stopped writing. He did not pick the pen back up.
+He had been an auditor for thirty-one years and he knew the difference between a thing he could explain and a thing he could not.
 
 Dave woke because the house told him to. Not a sound exactly. A sound that had already finished. He lay in the dark and listened, and there it was again, from somewhere outside and to the left, toward number four: a heavy, short, contained thud, the sound a couch makes when a grown man drops onto it, except outdoors, except wrong.
 

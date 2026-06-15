@@ -25,6 +25,8 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 *Gerade Nummern auf der Nordseite, ungerade auf der Südseite.*
 
+*Müllabfuhr: **Recycling montags (mittags)**, **Restmüll dienstags**. Zwei getrennte Abholtage. US-Recycling ist Single-Stream — eine Tonne für Papier, Karton, Plastik, Glas, Dosen (kein Flaschenpfand in Maryland, keine Biotonne als Standard; Gartenabfall saisonal separat). Aldric spült & sortiert Flaschen übergenau (K4), obwohl man es nicht müsste — Charakterdetail. Kanon-Stützen: K11 "takes trash out Tuesday" (Restmüll Di ✓), K40 (Recyclingtonne Mo früh ✓).*
+
 ### Grundriss
 
 ```
@@ -45,7 +47,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | 2 | Dave & Rosa Ortega | gerade (neben Aldric) | Mitte 30; Lina (10), Marcus (5) |
 | 3 | Gerald & Sandra Hooper | ungerade (gegenüber Aldric) | 60+; Sohn besucht mit Enkeln, Schwiegertochter kommt nicht |
 | 4 | Aldric Venn | gerade | 43 |
-| 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst |
+| 5 | Chen (Paar) | ungerade | Ende 20, keine Kinder, frisch eingezogen, renovieren alles selbst. *Verreist Fr-Abend 25. Apr → So 4. Mai; stellt vor der Abfahrt die Recyclingtonne raus (Leerung Mo 28.). Dave-Dienst: Tonne nach Mo-Leerung reinholen, Restmüll Di raus/rein, Post. #5 liegt schräg gegenüber #6 (Süd-/Nordseite) — dunkle Fenster dort erklären den fehlenden Zeugen bei K45; stehende Tonne in K45/K46.* |
 | 6 | *leer / zum Verkauf* | gerade (neben Aldric) | Garten verwildert, "For Sale"-Schild |
 | 7 | Greens (+ Tochter + Hund) | ungerade | Mr. Green = *Der schwierige Nachbar* (Ebene 2). 38, reibend, parkt zu breit, grüßt nicht zurück. Mrs. Green 37. Tochter 15, schwieriger Teenager, Bassmusik bis spät. Hund (gegenüber Aldric einzige Ausnahme). |
 | 8 | Alvarez | gerade | Alleinerziehend, Anfang 40, mitten in der Scheidung (Sohn ausgezogen → nichts mehr gemeinsam). Scheidung läuft noch — potentieller Storyline-Strang. |

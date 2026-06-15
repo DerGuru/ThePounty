@@ -133,6 +133,15 @@ Calvey war nur die Sondierung — *„the way they ask it"* (K45). Der Eigentüm
 **Calvey als möglicher Ally (Buch 2 oder später):**
 Kein toter Faden — Calvey lebt, fliegt heim, Arm in 3 Monaten wieder brauchbar. Zwischen ihm und Aldric steht jetzt etwas Seltenes: gegenseitiger Berufsrespekt, ein ehrlicher Handschlag, eine gemeinsame Erfahrung von Regel-gegen-Regel. Idee: Calvey taucht später wieder auf — diesmal auf Aldrics Seite. Plausibler Auslöser: das Syndikat schickt jemand Schlimmeren / geht gegen Aldric oder die Straße vor, und Calvey (der die Gegenseite kennt) warnt oder hilft. Oder: das Syndikat verbrennt Calvey selbst, und der gemeinsame Gegner macht sie zu Verbündeten. Sein Codex (*„a man who finishes"*) muss tragen — er wird kein Ally aus Sentiment, sondern weil die Arithmetik / ein neuer Auftrag es deckt.
 
+**Gerald Hooper (laufender Arc — gräbt weiter):**
+Geralds Bogen schließt in K47 *nicht* mit Akzeptanz. Die Nacht der Kollision liefert ihm ein Protokoll, das nicht aufgeht — und macht seinen Aufklärungsdurst größer statt kleiner. Alle anderen lassen los (Kim, die Straße, Ms. Yuen sagt ihm wörtlich, er könne aufhören); Gerald kann nicht. Das blaue Notizbuch bleibt offen auf dem Schreibtisch, letzte Zeile leer, mit fünf nummerierten offenen Fragen. Das ist sein Motor für Buch 2.
+
+- **Eskalation Zeuge → Eindringling:** In Buch 1 hat er beobachtet und notiert. In Buch 2 *handelt* er. Er recherchiert über Maple Lane hinaus, kontaktiert Pruitt erneut (oder einen Nachfolger), versucht an Aldrics Vergangenheit jenseits der zu sauberen Akte zu kommen.
+- **Der Einbruchsversuch:** Höhepunkt seiner Eskalation. Gerald dringt bei Aldric ein — Haus, Keller, oder der Schuppen, den Aldric in K43 zum ersten Mal abschloss. Zum ersten Mal überschreitet er die Linie vom Zeugen zum Täter.
+- **Die Tragik / Spannung:** Er sucht Beweise ausgerechnet bei dem einen Mann auf der Straße, der jeden Eindringling bemerkt. Wie Aldric reagiert — Nachsicht? Eine Lektion? Eine stille Warnung? — ist offen. Sein Rechthaben treibt ihn genau auf die Gefahr zu, vor der er die Straße schützen wollte.
+- **Mögliche Kollision mit dem Miranda-Strang:** Gerald, der zwanghaft Aldrics Bewegungen kartiert, könnte versehentlich auf die Suche/Miranda stoßen — ein Beobachter, der ein Geheimnis findet, das viel größer ist als das, das er gesucht hat.
+- **Sandra:** Sieht den grauen, schlaflosen Mann, fragt nicht mehr (K47-Coda). Wie lange trägt diese Ehe-Stille? Möglicher eigener Druckpunkt in Buch 2.
+
 ---
 
 ## Offene Fragen
