@@ -155,5 +155,3 @@ The shape raised a hand.
 He had seen that lift before, when a cruiser had slowed and the officer had held her own wave a beat longer than the wave required. He had logged it then. He understood it now. It was how the man saw the street to bed, and tonight the street included him. Calvey's good hand was on the wheel. It was the only one he had, and he did not take it off to answer.
 
 Eighteen days, and he had got exactly one thing for it that he would keep. He had met a man who had every reason to kill him and a rule that said he didn't have to. Two men with a rule each, and tonight both had held. His own had let him stop, once he could no longer go on. The other man's had let him live.
-
-He turned toward the airport and the long flight and the aquarium, and he did not look in the mirror again.
