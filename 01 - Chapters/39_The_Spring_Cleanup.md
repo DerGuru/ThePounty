@@ -148,7 +148,7 @@ She did not.
 
 He went back to the spade. He filed it. He did not know where, but he filed it.
 
-By one in the afternoon the bench was assembled, the playground was green and the beds were planted. Sandra had laid out the potluck on the table in a configuration that left no question about where anybody should sit. Marcus was eating a cinnamon roll with both hands. Lina was eating two of Ms. Yuen's sesame brittle pieces while watching her brother's paint smeared face.
+By three in the afternoon the bench was assembled, the playground was green and the beds were planted. Sandra had laid out the potluck on the table in a configuration that left no question about where anybody should sit. Marcus was eating a cinnamon roll with both hands. Lina was eating two of Ms. Yuen's sesame brittle pieces while watching her brother's paint smeared face.
 
 Aldric stood at the edge of the grass with a paper plate and an upright posture. He took small bites of everything. He commented on Mrs. Chen's potato salad with a specificity that made her flush. He thanked Sandra for organizing. He thanked Tamara for the pansies, which Mrs. Chen had brought but which Tamara had selected, and Tamara smiled the first real smile of the morning.
 
@@ -166,7 +166,7 @@ Aldric took the phone out of Tamara's hand. "Allow me. You organized the day. Yo
 
 For a second Dave thought he might actually argue it. There was a small pause, the kind most people filled without noticing, the one Aldric always seemed to have to work through while everyone else just moved. Then he smiled, stepped in at the end of the back row beside Hector, and let himself be photographed.
 
-Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, squinting into the noon sun in front of a bench that had not been there that morning.
+Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, the low afternoon sun in their faces, in front of a bench that had not been there that morning.
 
 "I'll send it round," she said. "And I'll print a few, for those of us who don't live on our phones." She said it in Gerald's direction, but she was looking at Ms. Yuen.
 

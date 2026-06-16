@@ -108,7 +108,7 @@ Rosa went back to stirring. The sofrito bubbled. Marcus had moved on to giving h
 
 Dave turned and looked through the kitchen window. Aldric's porch. The lamp was on, same as every evening. But the chair was empty. At seven-thirty on a Wednesday evening in early September, when the heat finally broke and the street smelled like barbecue and cut grass, Aldric wasn't out there.
 
-In three months, Dave had never seen that chair empty on a warm evening. Not once.
+In all the time, Aldric had been there, Dave had never seen that chair empty on a warm evening. Not once.
 
 "No," he said. "He's not."
 

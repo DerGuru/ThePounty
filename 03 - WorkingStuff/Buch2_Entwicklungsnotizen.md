@@ -58,6 +58,8 @@ Greift ihr vorweg, ehe sie was tun kann, was sie nicht ungeschehen machen kann. 
 
 **Drei Phasen:**
 
+*(Gilt für die verdeckte Vorphase — bis Miranda ihn stellt. Danach siehe „Die Katz-und-Maus-Dynamik": die Beobachtung wird beidseitig und schließlich offen.)*
+
 **Phase 1 — Beobachtung:**
 Er lernt ihre Regeln, ohne direkt danach zu fragen. Liest sie wie eine Akte, die sich selbst schreibt. Führt ihr Buch.
 
@@ -76,6 +78,8 @@ Kein Bevormunden. Sanfter Druck in die Richtung, von der er meint, dass sie dort
 Beobachtung und Bewertung sind neutral — das tut jeder. Das eigentliche Problem ist die Macht zu handeln. Ein normaler Beobachter bewertet und tut nichts damit. Aldric bewertet und könnte eingreifen — und sie weiß das nicht.
 
 Die Asymmetrie liegt nicht in der Beobachtung. Sie liegt darin, dass er ein Urteil fällen kann, das ihr Leben verändert, ohne dass sie weiß, dass ein Verfahren läuft.
+
+*Wichtig: Diese Asymmetrie ist der Ausgangszustand, nicht der Endzustand. Sobald Miranda ihn konfrontiert (siehe Katz-und-Maus-Dynamik, Phase C), nimmt sie sich Stimme zurück — sie weiß dann, dass „ein Verfahren läuft", auch wenn sie dessen Ursprung (das Versprechen, den Anderen) noch nicht kennt. Das ethische Problem verschiebt sich dadurch von „sie hat keine Stimme" zu „beide verhandeln, wer über wen urteilen darf".*
 
 **Die eigentliche Last:**
 
@@ -98,6 +102,38 @@ Sie liest ihn auch. Nicht vollständig — er ist zwanzig Jahre geübter. Aber s
 Irgendwann tut sie etwas, das deutlich ins Minus geht. Nicht böse — aber nach seiner Arithmetik problematisch. Er muss entscheiden: eingreifen, nudgen, oder akzeptieren, dass ihre Regeln das abdecken, auch wenn seine es nicht würden.
 
 Das ist der Moment, wo *do what you think is right* seine volle Bedeutung bekommt. Nicht als Versprechen. Als Prüfung.
+
+---
+
+## Die Katz-und-Maus-Dynamik (Engine von Buch 2)
+
+*Die zentrale Neuerung gegenüber dem ursprünglichen „er beobachtet, sie ahnt"-Konzept: Buch 2 ist symmetrisch. Beide beobachten. Beide versuchen, den anderen zu lesen, ohne selbst gelesen zu werden. Die Asymmetrie aus Buch 1 (er weiß alles, sie nichts) kippt im Lauf von Buch 2 in ein Spiel auf Augenhöhe — und dann in eine offene Konfrontation.*
+
+### Der Verlauf
+
+**Phase A — Doppelte Observation (verdeckt):**
+Aldric beobachtet sie (Versprechen). Aber sie hat ihn am Ende von Buch 1 bereits *bemerkt* — den Mann, der in der Kirche auftauchte und sich nicht um den Gottesdienst kümmerte, denselben Mann am Markt. Sie weiß nicht, wer er ist oder was er will, aber ihre Verdrahtung hat angeschlagen. Also dreht sie den Spieß um: Sie beobachtet *ihn*. Beide spielen dasselbe Spiel — jeder versucht, den anderen zu sehen, ohne selbst gesehen zu werden. Treffpunkte: die Straße, die Kirche, der Markt, weitere Orte, an denen man sich „zufällig" begegnet.
+
+*Asymmetrie im Können (nicht im Wissen):* Sie sehen einander durchaus gegenseitig — aber nicht gleich oft. Aldric hat zwanzig Jahre Vorsprung; er erwischt sie häufiger, als sie ihn erwischt. Sie weiß, dass er da ist; sie kann ihn nur seltener verorten. Das hält die Spannung schief, ohne sie einseitig zu machen.
+
+*Aldrics Genuss (wichtige Charakternote):* Zum ersten Mal seit dem Anderen hat Aldric ein Gegenüber, das auf seinem Niveau spielt. Wenn er sie entdeckt, wo sie ihn zu beobachten versuchte, schmunzelt er innerlich. Das Spiel macht ihm — und das ist neu, fast verstörend für einen Mann, der Gefühle baut statt sie zu haben — tatsächlich *Spaß*. Es ist die natürliche Fortsetzung der Entdeckung am Ende von Buch 1 (dass ihm das Nachbar-Sein gefiel): Hier gefällt ihm das Erkanntwerden, das Erkennen, der Austausch mit einem ebenbürtigen Verstand. Gefahr für seinen Codex: Genuss ist ein Motiv, das er nicht auditiert hat. Ein Mann, der ein Spiel genießt, trifft vielleicht nicht mehr nur korrekte Entscheidungen, sondern auch befriedigende — und der Unterschied war ihm immer heilig (vgl. K49, leerer Rahmen).
+
+**Phase B — Sie kommt auf die Straße (keep your enemies closer):**
+Sie wohnt *nicht* auf Maple Lane, wird aber zum häufigen Gast. Ihr Weg dorthin ist sauber motiviert und kein Zufall: Sie beobachtet die Straße, sieht die Ortegas, erkennt sie aus der Kirche wieder, und freundet sich dort mit ihnen an. So kommt sie als *Freundin der Familie* auf die Straße — zu den Ortegas, deren Nachbar Aldric ist. Sie nähert sich der Gefahr (oder dem Rätsel) über die warme, ahnungslose Mitte der Community. Dramatische Ironie: Die Straße, die Aldric ein Jahr lang aufgebaut hat, wird zur Bühne, auf der seine Zielperson ihn ausspäht. Rosa/Dave adoptieren sie arglos, genau wie sie Aldric adoptiert haben.
+
+**Phase C — Die Konfrontation (Dynamik-Wechsel):**
+Nach einer Weile Katz-und-Maus stellt *sie* *ihn*. Sie konfrontiert ihn direkt: Sie hat bemerkt, dass er sie beobachtet, seit der Kirche, und sie will wissen, warum. *„What do you want from me?"* Das ist der Wendepunkt des Buches: Ab hier darf sie ihn erkennen. Die verdeckte Asymmetrie ist vorbei; was bleibt, ist die offene Frage zwischen zwei Menschen, die einander lesen können. Wie viel Aldric preisgibt (das Versprechen? den Anderen? den Codex?) ist die nächste große Schreibentscheidung.
+
+### Warum das stärker ist
+
+- **Agency für Miranda.** Sie ist nicht länger das beobachtete Objekt eines Verfahrens, von dem sie nichts weiß. Sie ist Mit-Spielerin, mit eigenem Zug. Das löst zugleich das ethische Asymmetrie-Problem teilweise auf, weil sie sich Stimme *nimmt*.
+- **Spiegelung wird Handlung.** „Zwei Exemplare derselben Spezies" wird nicht mehr nur behauptet, sondern *gespielt* — als Observationsduell, das nur zwei Menschen mit dieser Verdrahtung überhaupt führen können.
+- **Die Community bleibt zentral.** Ihr Eintritt über die Ortegas/Kirche hält Maple Lane als Herz des Buches und gibt jeder Nebenfigur neue Reibungsfläche (Gerald wird sie bemerken; Ms. Yuen wird sie *lesen*).
+- **Er ist nicht ihr Feind** — und sie weiß es nicht. „Keep your enemies closer" ist ihr Kalkül; die Tragik/Ironie ist, dass der Mann, den sie umkreist, der einzige ist, der ihr ein Versprechen geschuldet ist.
+
+### Konsequenz für die Coda (K50)
+
+Die Coda darf jetzt mehr zeigen: Miranda *bemerkt* ihn bewusst (Kirche + Markt = derselbe Mann), und das ist nicht verfrüht, weil das Erkennen ohnehin der Startschuss für Buch 2 ist. Sie muss ihn nicht „lösen" — nur registrieren, dass da ein Mann ist, der schaut, wie sie schaut, und dass sie es ihm nicht durchgehen lässt. Das Ende kippt von „er hat sie gefunden" zu „sie haben einander gefunden, und nur einer von beiden weiß noch nicht, dass der andere das weiß."
 
 ---
 

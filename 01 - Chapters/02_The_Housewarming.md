@@ -46,7 +46,7 @@ Sandra beamed. Gerald's hands stayed in his pockets.
 
 Maria watched from the porch steps, beer growing warm between her palms. She watched Aldric move between the grill and the table, between Sandra's story about cheese and Dave's question about propane versus charcoal. He answered everything. He asked follow-up questions. He remembered that Dave had mentioned the kids liked corn on the cob, and there was corn on the grill, four ears, wrapped in foil.
 
-He'd been here less than a week.
+He'd been here for about a week.
 
 The Chens arrived next, awkward and cheerful, carrying a store-bought pie and apologizing for it. Aldric told them the pie was perfect and meant it. He set it beside the guacamole with the same careful precision as he had placed the other dishes. He told them their paint job on the bedroom window looked professional. They hadn't told him they were painting the bedroom window. He'd noticed.
 
@@ -90,7 +90,7 @@ Dave snorted. "She's been complaining about tres leches for twenty years. Nothin
 
 "Because nothing ever is."
 
-Maria ate her burger and listened. The evening was warm, the porch was full and she was surrounded by people she'd known for decades. And somehow the new person was the one making it feel like home. That was strange. That was a strange thing to think about a man she'd met only a few days ago.
+Maria ate her burger and listened. The evening was warm, the porch was full and she was surrounded by people she'd known for decades. And somehow the new person was the one making it feel like home. That was strange. That was a strange thing to think about a man she'd met only a week ago.
 
 He lived alone. That was the thing she kept coming back to. He lived alone in this house with a rocking chair and a grill he'd bought for the express purpose of feeding other people. He did it like it was easy. He did it like solitude was a room he'd decorated carefully, and company was the door he opened when he chose to, and both states were fine. Both states were his.
 

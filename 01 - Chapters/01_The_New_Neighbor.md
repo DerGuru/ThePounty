@@ -1,6 +1,6 @@
 # Chapter 1: The New Neighbor
 
-*Tuesday, the 25th of June 2024*
+*Friday, the 21st of June 2024*
 
 Dave saw the Volvo before he saw the man.
 

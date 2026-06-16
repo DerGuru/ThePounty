@@ -1,6 +1,6 @@
 # Prologue
 
-*Tuesday, the 25th of June 2024*
+*Friday, the 21st of June 2024*
 
 The last forty miles had been the best. Flat land opening up. Houses growing smaller, farther apart, then clustering again into neighborhoods with names. Oak Ridge. Birchwood Estates. Maple Lane was between those two, which amused him. An entire taxonomy of trees within a three-mile radius. Someone had lacked imagination. Or someone had loved trees very much and named accordingly. He preferred the second interpretation. He always preferred the generous interpretation. That was a rule.
 
@@ -8,7 +8,7 @@ Eleven hundred miles had taken fourteen hours. He could have done it in twelve, 
 
 He had eaten nothing since a gas station outside of Erie. A granola bar, unremarkable, consumed standing beside the car while the pump ran. He had cleaned his hands afterward. Twice. Once with the napkin from the wrapper. Once with the small bottle of hand sanitizer he kept in the glove compartment. Not because of germs. Because the texture of processed sugar on fingertips was distracting, and distraction behind the wheel was discourteous to everyone sharing the road.
 
-Aldric Venn turned the Volvo onto Maple Lane at fourteen minutes past two on a Tuesday afternoon in late June. The first thing he noticed was that someone had planted marigolds in a tire rim. Bright orange, almost aggressive against the white fence behind them. Deliberate. He approved. He wanted to know who. He wouldn’t ask today.
+Aldric Venn turned the Volvo onto Maple Lane at fourteen minutes past two on a Friday afternoon in late June. The first thing he noticed was that someone had planted marigolds in a tire rim. Bright orange, almost aggressive against the white fence behind them. Deliberate. He approved. He wanted to know who. He wouldn’t ask today.
 
 The street had symmetry. White fences, all the same height. Driveways, all the same width. Mailboxes evenly spaced, upright, freshly painted. The lawns were green in the specific way that required commitment. Someone on this street had standards. Several someones, probably, enforcing them without a committee. He respected that. A neighborhood that maintained itself through mutual expectation rather than rules on paper was, in his experience, the strongest kind.
 
@@ -42,7 +42,7 @@ He would buy a flower box. Something with color, not just green. He had opinions
 
 The rearview mirror showed the trailer. Three boxes. A chair. A toolbox. A flat metal case he’d packed last and would unpack first. Plenty of room left over. He traveled light. He’d always traveled light.
 
-He opened the door. The air smelled like cut grass, warm asphalt, and something baking. Someone on this street was making something in an oven at two in the afternoon on a Tuesday. That suggested a household with time, or one that made time. Either was admirable. He wanted to know what it was, and who it was for, and whether they’d made it from scratch or from a box. If they offered him some, he would accept. Declining food was rude. If they didn’t offer, he would compliment the smell the next time they met. People should know when their home smelled wonderful. He would not knock to ask. But not today. Today was for arriving.
+He opened the door. The air smelled like cut grass, warm asphalt, and something baking. Someone on this street was making something in an oven at two in the afternoon on a Friday. That suggested a household with time, or one that made time. Either was admirable. He wanted to know what it was, and who it was for, and whether they’d made it from scratch or from a box. If they offered him some, he would accept. Declining food was rude. If they didn’t offer, he would compliment the smell the next time they met. People should know when their home smelled wonderful. He would not knock to ask. But not today. Today was for arriving.
 
 He stepped out. Stretched once, the way a man stretches after eleven hundred miles. 
 
