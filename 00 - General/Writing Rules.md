@@ -55,7 +55,7 @@
 31. **Warm statt melodramatisch.** Schmerz wird konkret und persönlich gezeigt (Körper, Handlung, Untertext), nie überhöht oder pathetisch deklariert.
 
 ## Stil
-32. **Avoid Apophasis or Via Negativa.** (e.g. *I said nothing. Not as a strategy. Not as a refusal. The silence was the sound of a door…*)
+32. **Avoid Apophasis or Via Negativa.** (e.g. *I said nothing. Not as a strategy. Not as a refusal. The silence was the sound of a door…*). Except in direct speech, if that fits the pattern of the character's dialogue. 
 33. **Analogien müssen sich ihren Platz verdienen.** Ein Vergleich muss etwas enthüllen, das die wörtliche Beschreibung nicht kann. Test: Analogie entfernen. Wenn der Satz noch funktioniert, war sie ornamental. Sparsam einsetzen, den Text nicht überladen.
 34. **Keine Anthropomorphismen mit Bewusstsein.** Tiere, Natur, unbelebte Objekte haben keine Meinungen, Absichten oder Bewertungen. Sie können nicht *wollen*, *entscheiden* oder *urteilen*. Idiomatische Verben, die Wahrnehmung oder physische Dynamik ausdrücken, sind erlaubt (*silence rushed in*, *shadows crept*, *the cold bit*). Test: Setzt der Satz dem Objekt ein Innenleben voraus? Dann streichen. Beschreibt er eine physisch erlebbare Wirkung? Dann OK.
 35. **Smooth Reading Experience.** Sätze so formulieren, dass sie leicht und flüssig zu lesen sind. Unnötige Komplexität vermeiden. Balance finden — weder zu kurz noch zu verschachtelt. Der Leser soll sich auf die Geschichte konzentrieren, nicht über Formulierungen stolpern.

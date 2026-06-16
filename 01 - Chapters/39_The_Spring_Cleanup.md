@@ -154,6 +154,22 @@ Aldric stood at the edge of the grass with a paper plate and an upright posture.
 
 Hector ate standing up beside his truck. Gerald sat at the bench they had just built and tested it with his weight. He nodded at Aldric. Aldric inclined his head.
 
+They were packing up when Tamara clapped her hands twice, the call she used at the top of every block meeting.
+
+"Before everyone scatters. We're taking a picture, for the newsletter." She already had her phone up. "By the bench. Everybody. The bench is the whole point of the day."
+
+People groaned and got up anyway. Sandra herded. Mrs. Chen nudged the empty pansy flats out of frame with her foot. Gerald gave up his seat, and Ms. Yuen was installed in the middle of the bench, which she accepted as her due. The rest of them filled in behind, Marcus in front with his painted face, Lina with one hand on the back rail.
+
+Aldric took the phone out of Tamara's hand. "Allow me. You organized the day. You should be in it."
+
+"Nice try." She took it back. "You cut the boards. You're in the picture."
+
+For a second Dave thought he might actually argue it. There was a small pause, the kind most people filled without noticing, the one Aldric always seemed to have to work through while everyone else just moved. Then he smiled, stepped in at the end of the back row beside Hector, and let himself be photographed.
+
+Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, squinting into the noon sun in front of a bench that had not been there that morning.
+
+"I'll send it round," she said. "And I'll print a few, for those of us who don't live on our phones." She said it in Gerald's direction, but she was looking at Ms. Yuen.
+
 Dave found himself sitting on the grass next to Rosa. She had taken her shoes off. The sun was on her face. The brown along the lawns was, from down here, mostly green underneath.
 
 "Good day," Rosa said.
