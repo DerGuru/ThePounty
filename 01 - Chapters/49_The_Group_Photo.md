@@ -54,7 +54,7 @@ He knew that stillness. He had worn it at a market stall himself, in the autumn,
 
 He was looking. He had looked for a year. The dying man had not said what he was meant to see, and Aldric saw, now, what there was to see, which was a person built the way he was built standing at the edge of a small decision with no rule to catch her, and behind that small decision a life full of larger ones, coming toward her as they came toward everyone, except that she would meet them with his equipment and not theirs.
 
-She paid for the tomatoes. She said something to the stallholder, quiet, pleasant, and the man's face did something complicated, and she walked on. Aldric did not follow, because today was not for following. Today was for looking. He had the rest of it, however much of it there was, to decide what right meant. He was in no hurry. Hurry was how you got things wrong.
+She paid for the tomatoes. She said something to the stallholder, quiet, pleasant, and the man's face did something complicated, and she moved on down the green to the fruit stall, where the first cherries had come in beside the last of the strawberries. He followed at the edge of the green, a slow drift that kept her in sight without ever closing on her. He watched her turn the cherries over with the same care she had given the scale, buying nothing, her hands busy so the rest of her could be still. He would not approach. Today was not for approaching, only for looking. He was in no hurry. Hurry was how you got things wrong.
 
 He had found her. The search was over. That was one thing closed, and he allowed himself to mark it closed as he had allowed himself to look at the photograph, briefly, and then set down.
 

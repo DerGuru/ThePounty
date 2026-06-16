@@ -73,12 +73,13 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 | Figur | Datum | Geb.-Jahr | Alter 2024 | Anmerkung |
 |-------|-------|-----------|------------|---|
+| Aldric Venn | 25. Dezember | 1980 | 44 | Bei Ankunft (Juni 2024) noch 43, wird am 25.12.2024 44. **Geburtstag = sein privates Audit-/Rückzugsfenster (24.–26. Dez.), NICHT Weihnachten.** Niemand auf der Straße weiß, dass es sein Geburtstag ist. |
 | Dave Ortega | 20. Juli | 1988 | 36 | Block Party = sein Geburtstag (Sa). Keine Geschenke, alle bringen was für den Abend mit. |
 | Rosa Ortega | 8. März | 1990 | 34 | |
 | Lina Ortega | 4. Mai | 2014 | 10 | |
 | Marcus Ortega | 16. Oktober | 2019 | 5 | Kindergeburtstag-Kapitel im Herbst. |
 | Gerald Robert Hooper | 3. November | 1961 | 63 | |
-| Sandra Hooper | 19. Juni | 1963 | 61 | Vor Aldrics Ankunft (25. Juni). Kein Kontakt. Feier in Buch-Jahr = Ep 49. |
+| Sandra Hooper | 19. Juni | 1963 | 61 | Zwei Tage vor Aldrics Ankunft (21. Juni). Feier im Buch-Jahr 2025 = Ch 48. |
 | Maria Alvarez | 14. Januar | 1982 | 42 | |
 | Jesús Alvarez | 9. August | 2002 | 22 | Marias Sohn. Mäht ihren Rasen sonntags. |
 | Ms. Yuen | 27. April | 1941 | 83 | Älteste Bewohnerin. |

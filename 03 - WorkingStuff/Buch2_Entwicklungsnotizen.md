@@ -7,15 +7,33 @@
 
 | Eigenschaft | Details |
 |---|---|
-| Name | Miranda (lebt unter anderem Namen) |
-| Alter | Mitte 30 |
-| Herkunft | Verbindung zum Anderen — genaue Beziehung offen |
+| Name | Miranda (der Name, unter dem alle sie kennen; als ihr echter zu behandeln) |
+| Geburtsjahr | **1988** → 37 im Buch-Jahr (Juni 2025); geht als „Mitte 30" durch |
+| Geburtsdatum | *neutral, kein symbolischer Tag* (Equinox verworfen); Vorschlag 3. Aug 1988, Tag frei |
+| Herkunft | **Tulsa, Oklahoma** (Öl, Bibelgürtel-Rand; NICHT Kanada = Aldrics Spur) |
+| Beruf | **Controlling** (Tag, unscheinbar, findet Unstimmigkeiten — Resonanz Gerald/Auditor + Aldric/Konto) + **Poker** (Nebenquelle, liest Tells) |
+| Alter | Mitte 30 (s. Geburtsjahr) |
 | Verdrahtung | Dieselbe Grundausstattung wie Aldric — subklinisch, analytisch-dominant |
+| Verbindung z. Anderen | Genaue Beziehung offen (s. Abschnitt „Die Verbindung zum Anderen") |
 | Wissen | Weiß nichts: nicht wer ihr Vater war, nicht dass sie beobachtet wird, nicht dass ein Buch geführt wird |
 | Beruf | Noch offen |
 
 ### Der Name
 Miranda. Gewicht ohne Aufdringlichkeit. Klingt nicht wie Codename, nicht wie Alltagsname — sitzt dazwischen. Stille Ironie: *Miranda rights.* Das Recht zu schweigen. Das Recht, nicht gegen sich selbst auszusagen. Sie hat keine Ahnung, dass ein Verfahren läuft — und alle Rechte, die Aldric ihr nie erklärt hat. Wird nicht ausgesprochen. Reicht, dass es da ist.
+
+### Wer sie ist (Charakter & Stimme)
+
+**Sie ist, was Aldric ohne sein Korsett wäre.** Gleiche Verdrahtung, gleiches People-Reading, gleiche analytische Schärfe. Aber drei entscheidende Unterschiede, die sie zur freieren, wilderen Version machen:
+
+1. **Kein Korsett (oder ein viel flexibleres).** Aldric hat einen rigiden Codex, jeden Tag neu entschieden, Architektur statt Instinkt. Sie hat das nicht. Sie funktioniert auf Gefühl, nicht auf System — „a thing was crooked and her hands wanted it straight." Andere Menschen haben ihre Mauern aus Prinzipien; sie hat nie eine gebraucht. Das macht sie unberechenbarer, spontaner, lebendiger.
+
+2. **Kein konstruierter Mounty-Modus.** Aldric *baut* Wärme als Ingenieursarbeit, um unter Menschen zu existieren (Lächeln, Höflichkeit, Anteilnahme — alles echt gewollt, aber konstruiert). Sie macht sich die Mühe nicht. Sie *kann* freundlich sein (ein Werkzeug, das sie einsetzt: „Fair scale today"), aber sie *wohnt* nicht darin und meint es „about as much as he'd meant the smile." Blunter, unbekümmerter darum, gemocht zu werden.
+
+3. **Stillgelegter Punisher-Impuls (konditioniert, nicht von Natur schwach) — der Grund, warum sie kein Korsett *braucht*.** Aldrics Codex existiert, *weil* sein Punisher real und gefährlich ist (der Andere = dieselbe Verdrahtung OHNE Codex → tötete die Falschen). Aldric muss sich einzäunen. Mirandas Impuls sprang als **Kind EINMAL an** — danach wurde sie getrimmt/fast konditioniert, „das" nie wieder zu tun. Was heute schwach/dormant aussieht, ist **erlernte Unterdrückung**, kein Fehlen. **Zentraler Kontrast:** Aldrics Käfig ist selbst gebaut + bewusst; ihrer wurde ihr als Kind auferlegt + unbewusst → **fragiler.** Das „bisher" ist der ominöse Faden: die Konditionierung kann reißen, und dahinter steht kein bewusster Codex. Vielleicht ist genau das Aldrics „right": ihr den bewussten Zaun geben, den sie nie selbst gebaut hat. (Detail: `00 - General/miranda_charakterbibel.md`.) **Jetzt konkretisiert (Autor-Runde):** Der Vorfall = sie „korrigierte" als Kind ein Unrecht *zu kalt, zu weit*; die Konditionierung war **religiös/scham-basiert** (Tulsa — „etwas Böses in dir", Loop zu K50: hintere Kirchenreihe als Beobachtungsposten); heute **klar erinnert, weg-rationalisiert**; die Leine wirkt **zweischichtig** (Vermeidung außen, automatisches Zurückzucken innen).
+
+4. **Overconfidence — ihre Schwachstelle (Buch-2-Saat, etabliert in K50).** Sie ist leicht arrogant auf ihre „Gabe". Sie hat ihr ganzes Erwachsenenleben lang Menschen durchschaut und *jeden* geknackt, an dem sie es versucht hat — „she'd never met the front she couldn't find the seam in." Ihr blinder Fleck: **Sie hat bisher nur Normalos gelesen.** Sie hat nie jemanden getroffen, der besser ist als sie, und projiziert diese Erfahrung ahnungslos auf Aldric (sie liest seine Sicherheit als knackbar, „given a few quiet Saturdays"). Der Leser weiß aus K49: Er ist zwanzig Jahre geübter, hat sie längst gefunden, amüsiert sich womöglich. Ihre Hybris ist die tragische Ironie der Anfangsphase — sie hält sich für die Jägerin, ist aber selbst längst gelesen. In Buch 2 wird sie das schmerzhaft korrigieren müssen (Moment, wo ihr klar wird, dass sie *nicht* die Bessere im Raum ist). Schlüsselsatz K50: *„It hadn't yet occurred to her that she'd only ever practiced on ordinary people."*
+
+**Stimm-Signatur (Erzähltext in ihrem POV):** Kontraktionen (er: keine), kurze Stöße, Fragmente, Polysyndeton-Runs, körperlich-konkret statt Klischee (*a gut feeling she couldn't pinpoint* — NICHT die „body first, head a beat behind"-Schablone, Regel 49), „guy" statt „man", trocken-lakonisch mit Kante. Der Kontrast Aldric/Miranda muss auf Satzebene hörbar sein: er = gebaute, vollständige, korsettierte Sätze; sie = ungeglättet, instinktiv, wild. (Etabliert in K50 „Epilogue: The Guy From Church".)
 
 ---
 
@@ -120,6 +138,8 @@ Aldric beobachtet sie (Versprechen). Aber sie hat ihn am Ende von Buch 1 bereits
 
 **Phase B — Sie kommt auf die Straße (keep your enemies closer):**
 Sie wohnt *nicht* auf Maple Lane, wird aber zum häufigen Gast. Ihr Weg dorthin ist sauber motiviert und kein Zufall: Sie beobachtet die Straße, sieht die Ortegas, erkennt sie aus der Kirche wieder, und freundet sich dort mit ihnen an. So kommt sie als *Freundin der Familie* auf die Straße — zu den Ortegas, deren Nachbar Aldric ist. Sie nähert sich der Gefahr (oder dem Rätsel) über die warme, ahnungslose Mitte der Community. Dramatische Ironie: Die Straße, die Aldric ein Jahr lang aufgebaut hat, wird zur Bühne, auf der seine Zielperson ihn ausspäht. Rosa/Dave adoptieren sie arglos, genau wie sie Aldric adoptiert haben.
+
+*Gerald als Verbündeter (Autor-Entscheid):* **Gerald schließt Miranda sofort ins Herz** und zeigt ihr irgendwann seine Notizbücher — sein ganzes Aldric-Dossier. Damit übergibt der Auditor, der Aldric nie lesen konnte, einem Raubtier die komplette Akte über das andere. Sie werden Verbündete. Doppelfunktion: (1) Engine — Gerald + Miranda gegen das Rätsel Aldric, während Aldric beide liest; (2) **POV-Vehikel** — unter der „beide-außen"-Architektur zeigt Geralds POV Miranda fern von Aldric. Spiegelt Aldric/Dave aus Buch 1 (jeder Raubtier-MC hat seinen warmen, ahnungslosen Vertrauten).
 
 **Phase C — Die Konfrontation (Dynamik-Wechsel):**
 Nach einer Weile Katz-und-Maus stellt *sie* *ihn*. Sie konfrontiert ihn direkt: Sie hat bemerkt, dass er sie beobachtet, seit der Kirche, und sie will wissen, warum. *„What do you want from me?"* Das ist der Wendepunkt des Buches: Ab hier darf sie ihn erkennen. Die verdeckte Asymmetrie ist vorbei; was bleibt, ist die offene Frage zwischen zwei Menschen, die einander lesen können. Wie viel Aldric preisgibt (das Versprechen? den Anderen? den Codex?) ist die nächste große Schreibentscheidung.
