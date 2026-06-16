@@ -1,0 +1,1 @@
+This is the folder where the current book's chapters are stored. Each chapter is a separate markdown file, named with its number and title (e.g., `01_The_Beginning.md`). The final chapter, `50_Coda.md`, serves as an epilogue to the story.
