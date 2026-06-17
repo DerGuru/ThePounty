@@ -50,7 +50,7 @@ Venn looked up.
 
 "Sandra has books on hold." The lie came easily. He'd prepared it.
 
-"Please give her my regards." Venn smiled. The polite one. The one that covered everything and revealed nothing. "Have you seen this?" He turned the book toward Gerald. The aerial photograph. "This is Maple Lane in 1962. Before the cul-de-sac was built. It used to go straight through to Birch. Fascinating how much the topology changed."
+"Please give her my regards." Venn smiled. The polite one. The one that covered everything and revealed nothing. "Have you seen this?" He turned the book toward Gerald. The aerial photograph. "This is Maple Lane in 1962. Before the cul-de-sac was built. It used to go straight through from Birch. Fascinating how much the topology changed."
 
 Gerald looked at the photograph. He could see it. The road, straight and narrow, cutting through what was now the park at the end. No houses past number seven. Fields beyond that. A barn where the Weavers' house stood now.
 

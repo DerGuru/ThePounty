@@ -58,7 +58,7 @@ Aldric trimmed.
 
 He spread the tarp along the foot of the hedge and worked from the porch end outward, the shears moving in a steady rhythm Gerald could almost hear through the closed window. He trimmed the front face square and level. Then the east section. Then the west section. He had cut the west section to the same square line on March twenty-first. It did not need cutting today. And to take it one step further, he worked along it twice. The second pass was even slower than the first. The shears closed on almost nothing.
 
-The west side faced the Chens', across the empty yard of number six.
+The west side faced the empty yard of number six.
 
 Gerald wrote: *9:00 — hedge. Not due. West section ×2. Sightline.*
 

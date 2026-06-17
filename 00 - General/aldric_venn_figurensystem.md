@@ -29,17 +29,23 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 
 ### Grundriss
 
+*Orientierung: **Norden oben, Osten rechts** (Karten-Standard). **Spielplatz / #1-Ende = OSTEN; Cul-de-sac / Park #21 = WESTEN.** Gerade Nr. = Nordseite, ungerade = Südseite. So steht es im Manuskript (z. B. K41 „the playground at the east end of the street"; K23 „the west end … the lots there are larger"; Autos kommen „up Maple Lane from the east"). Das Manuskript ist maßgeblich.*
+
 ```
-                    16 18 20  /‾‾‾‾‾‾|
-2 4 6 8 | 10 12 14   /----\  /       |
---------------------<   o  |     21  |
-1 3 5 7 |  9 11 13   \----/  \       |
-                    15 17 19  \______|
+   WEST  <------------- Maple Lane ------------->  EAST
+   (Cul-de-sac, Park #21)                      (Spielplatz, #1-Ende)  
+               \ 20  18  16                      | B S | 
+                \  /‾‾‾‾\  14 12 10 | | 8 6 4 2  | I T | [N = gerade]       N
+   (21) Park     ><  o   >====================== | R R | ========         W + E
+                /  \____/  13 11  9 | | 7 5 3 1  | C E | [S = ungerade]     S
+               / 19  17  15                      | H E |
+              /                                  |   T |
 ```
 
-- `|` = Querstraße (zwischen 7/8 und 9/10)
-- Am Ende: Cul-de-sac (Wendekreis) mit #15–21 im Kreis angeordnet
-- `o` / #21 = Park am Scheitelpunkt des Wendekreises, nach hinten ~3 Grundstücke breit × 3 tief (~9 Grundstücke Fläche). Basketballplatz, Bank, Weg nach Süden.
+- `| |` = Querstraße (zwischen 7/8 und 9/10)
+- **Westende:** Cul-de-sac (Wendekreis) mit #15–21 im Kreis angeordnet; `o` / #21 = Park am Scheitelpunkt (~3 Grundstücke breit × 3 tief, ~9 Grundstücke Fläche; Basketballplatz, Bank, Weg nach Süden).
+- **Ostende:** offenes Eingangsende mit Spielplatz (#1; Schaukeln, Rutsche, Sandkasten). Fahrzeuge fahren von Osten auf die Straße (Manuskript: „from the east").
+- ⚠️ *Hinweis: Das ASCII-Bild war früher mit Osten links gezeichnet (Verwechslungsquelle). Jetzt gespiegelt — Osten rechts, passend zum Manuskript.*
 
 | # | Bewohner | Seite | Details |
 |---|----------|-------|---------|

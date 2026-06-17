@@ -16,9 +16,10 @@
 - **Status:** Manuskript komplett (51 Dateien: Prolog + Kap. 1–48 + 2 Epiloge). Archiv: `10.1 - Maple Lane/`.
 
 ## Buch 2
-- **Arbeitstitel:** `[OFFEN]`
+- **Arbeitstitel:** „Cat and Mouse" *(de „Katz und Maus"; gängige Phrase, finaler Titel TBD)*
+- **Cover-/Anzeigetitel (vorläufig):** Uncommon Courtesy – Cat and Mouse
 - **Serienangabe:** Uncommon Courtesy, Band 2
-- **Status:** in Planung (Storyline-Gerüst: `00 - General/Storyline.md`)
+- **Status:** in Planung (volle Storyline: `00 - General/Storyline.md`)
 
 ## Noch offen (KDP-spezifisch, später)
 - Klappentext / Blurb (Buch 1)

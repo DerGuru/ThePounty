@@ -166,7 +166,7 @@ Aldric took the phone out of Tamara's hand. "Allow me. You organized the day. Yo
 
 For a second Dave thought he might actually argue it. There was a small pause, the kind most people filled without noticing, the one Aldric always seemed to have to work through while everyone else just moved. Then he smiled, stepped in at the end of the back row beside Hector, and let himself be photographed.
 
-Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, the low afternoon sun in their faces, in front of a bench that had not been there that morning.
+Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, the low afternoon sun in their backs, in front of a bench that had not been there that morning.
 
 "I'll send it round," she said. "And I'll print a few, for those of us who don't live on our phones." She said it in Gerald's direction, but she was looking at Ms. Yuen.
 
@@ -182,7 +182,7 @@ Dave found himself sitting on the grass next to Rosa. She had taken her shoes of
 
 She leaned against him. He let her. The street was quiet in the way of a street that had something to show for itself. The bench held Gerald's weight. The paint was drying. The pansies were where they were supposed to be.
 
-Aldric paused at the corner of the playground on his way back to his house. He stood there for a moment and looked east. Birch Street was three blocks that way, not visible from here, but it was the direction. Then he turned, walked across the grass, said something polite to Mrs. Chen, and went home.
+Aldric paused at the corner of the playground on his way back to his house. He stood there for a moment and looked east, towards Birch Street. Then he turned, walked across the grass, said something polite to Mrs. Chen, and went home.
 
 Dave watched him go.
 
