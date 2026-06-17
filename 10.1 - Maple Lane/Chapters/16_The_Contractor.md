@@ -70,7 +70,7 @@ Aldric stood on her porch with his hands at his sides. His expression didn't cha
 
 “Eleven hundred.”
 
-“And the work?
+“And the work?”
 
 Sandra gestured at the demolished garden. “He removed everything but built nothing.”
 
