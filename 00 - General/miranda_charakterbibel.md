@@ -22,7 +22,7 @@
 8. [Der Punisher-Impuls (dormant)](#der-punisher-impuls)
 9. [Die Overconfidence](#die-overconfidence)
 10. [Das Katz-und-Maus mit Aldric](#das-katz-und-maus)
-11. [Die Erzählstruktur: interner POV (Kontrast zu Aldric)](#die-erzählstruktur)
+11. [Die Erzählstruktur: beide bleiben außen — kein Innen-POV](#die-erzählstruktur)
 12. [Stimme & Schreibtechnik](#stimme--schreibtechnik)
 13. [Die Verbindung zum Anderen / das Versprechen](#die-verbindung)
 14. [Beziehungen](#beziehungen)
@@ -47,10 +47,10 @@ Der dramatische Motor von Buch 2: **Zwei Exemplare derselben Spezies beobachten 
 
 *Aldrics Bibel benennt Benton Fraser (Mounty), Frank Castle (Punisher) und den Dr.-Who-Satz. Mirandas Inspirationsquellen sind bewusst das Gegenbild: kein höflicher Fremder, keine kodifizierte Selbstkontrolle.*
 
-**[VORSCHLAG]** Tonale Ankerpunkte (zu bestätigen / ergänzen):
-- Die **rohe, ungeschliffene Version** dessen, was Intelligence in Aldric formte — Talent ohne Institution.
-- Eine Figur, die Menschen liest wie ein Kartenspieler die Tells am Tisch, aber nie gelernt hat (oder nie gebraucht hat), das System dahinter zu bauen.
-- **[OFFEN]** Konkrete Vorbilder/Referenzen (Film, Buch, Archetyp) — der Autor hat hier noch nichts vorgegeben. Siehe Abschnitt 16.
+**[KANON] Tonaler Ankerpunkt: die Morgan-Geschwister aus *Dexter* — Dexter + Debra in einer Person.**
+- **Dexter = die Verdrahtung.** Das Raubtier unter einer normal wirkenden Oberfläche, das People-Reading, die analytische Kälte. Wichtig: Dexters „Harry's Code" (der Codex, den eine Vaterfigur dem Raubtier auferlegt, um es zu kanalisieren) gehört motivisch zu **Aldric** — Aldric ist der reine Dexter-mit-Code. Von Dexter nimmt Miranda nur die *Natur*, nicht den Code.
+- **Debra = das Temperament.** Laut, kantig, instinktiv, flucht, Bauchgefühl statt System, warm auf raue Weise, ein guter Mensch ohne Politur. Das ist Mirandas hörbare Oberfläche: die Frau, die man mag, die „guy" sagt und nichts glättet.
+- **Die Synthese:** Dexters Verdrahtung im Temperament von Debra. Ein Raubtier, das klingt und sich bewegt wie der impulsive, warmherzige, ungeschliffene Mensch — und das genau deshalb niemand für das hält, was sie ist. Kurzformel: **Aldric = Dexter mit Code; Miranda = Dexter-Verdrahtung + Debra-Temperament, ohne Code.**
 
 **Der entscheidende Kontrast-Satz (analog zum Dr.-Who-Zitat bei Aldric):**
 Aldric: *„Good men don't need rules — and today is not the day to find out why I have so many of them."*
@@ -62,12 +62,12 @@ Miranda **[VORSCHLAG]**: *Sie hat nie ein Regelwerk gebraucht. Das ist nicht St�
 
 | Eigenschaft | Wert |
 |-------------|------|
-| Name | **[KANON]** Miranda (der Name, unter dem alle sie kennen; gilt als ihr echter). Nachname **[OFFEN — Kandidaten: Grady / Whitaker]**. |
+| Name | **[KANON]** Miranda **Whitaker**. So stellt sie sich bei Rosa vor (Buch 2, Kap. 1). Gilt als ihr echter Name. |
 | Geburtsjahr | **[KANON]** 1988 → 37 im Buch-Jahr (Juni 2025); geht als „Mitte 30" durch |
-| Geburtsdatum | **[KANON-Entscheid]** neutraler Tag ohne Symbolik (kein Equinox-Reim — verworfen). **[VORSCHLAG]** z. B. 3. August 1988; konkreter Tag frei änderbar |
+| Geburtsdatum | **[KANON]** 3. August 1988 (neutraler Tag, keine Symbolik — Equinox-Reim verworfen) |
 | Herkunft | **[KANON]** Tulsa, Oklahoma (Öl, Rand des Bibelgürtels; NICHT Kanada = Aldrics Spur) |
-| Wohnort jetzt | **[KANON]** In der Gegend von Maple Lane, aber NICHT auf der Straße (deshalb ist Aldric hier). Genauer Ort **[OFFEN]** |
-| Beruf | **[KANON]** Tagberuf: **Controllerin / Controlling** (unscheinbar, Zahlen, findet Unstimmigkeiten — dreifache Resonanz: Gerald=Auditor, Aldric=Konto-Metapher, ihr eigenes „krummes Bild geraderücken"). Nebenquelle: **Poker** (liest Tells professionell, finanziert sie; hier lebt ihre Arroganz/Überlegenheit). |
+| Wohnort jetzt | **[KANON]** Zu Beginn **zur Miete** in/bei Greenfield, NICHT auf Maple Lane (deshalb ist Aldric hier). **Im Kern eine Reisende** — bleibt nirgends lange (s. Beruf). **Wendepunkt Mitte Buch 2: Sie kauft Nr. 6 Maple Lane** — das leere Kollisionshaus direkt neben Aldric (#4); die Nomadin wird sesshaft (s. Storyline-Landmarke „der Kauf von Nr. 6"). Mietadresse davor **[OFFEN — Karte folgt]** |
+| Beruf | **[KANON]** **Innenrevision / Auditorin** (interne bzw. forensische Revision) bei einem großen Konzern mit vielen Standorten. Reist beruflich von Niederlassung zu Niederlassung — verstärkt das Nomaden-Motiv und macht ihre Mobilität plausibel. Ihre „Gabe": Sie **weiß, *wo* zu suchen ist, bevor die Zahlen es zeigen**; die Firma schätzt die Ergebnisse, kennt aber nicht die Methode (Spiegel dazu, wie die Nachbarn Aldric sehen). **Doppelte Resonanz mit Gerald** (auch Auditor i. R. → sofortige fachliche Verwandtschaft; erklärt, warum er sie ins Herz schließt) + Aldrics Konto-Metapher / K26 „The Account". **Kontrast zu Gerald:** er prüft per *Methode* (Notizbücher, „drei ist Zufall, fünf ist Verdacht"), sie prüft per *Instinkt* und liefert die Belege nach — dasselbe System-vs-Instinkt-Gefälle wie Aldric/Miranda, gespiegelt im gemeinsamen Beruf. **Nebenquelle: Poker** — finanziert ihre Mobilität; sie gewinnt so konsequent, dass irgendwann niemand mehr mit ihr spielt → dann zieht sie weiter (= der Motor ihres Nomadentums). |
 | Verdrahtung | **[KANON]** Dieselbe Grundausstattung wie Aldric — subklinisch, analytisch-dominant, reduzierte emotionale Interferenz |
 | Status | **[KANON]** Weiß nichts: nicht wer der Andere war, nicht vom Versprechen, nicht von Aldric, nicht dass „ein Buch geführt wird" |
 
@@ -105,10 +105,11 @@ Miranda **[VORSCHLAG]**: *Sie hat nie ein Regelwerk gebraucht. Das ist nicht St�
 ### Kindheit / Herkunft
 **[KANON]** Tulsa, Oklahoma. Anonym aufgewachsen, früh gelernt, nicht aufzufallen („she'd spent her whole adult life learning not to be the kind of woman a look caught on", K50).
 
-**[KANON] Der Vorfall (Tulsa, Kindheit).** Als Kind sah Miranda ein Unrecht — und „korrigierte" es. Nicht im Affekt, nicht heißblütig: kalt, vollständig, ohne den Bremsweg, den andere Kinder haben. Der Impuls feuerte aus einem Gerechtigkeitsgefühl (dasselbe „ein Ding ist krumm, meine Hände wollen es gerade" wie heute am Marktstand) — aber das Ausmaß und die Kälte erschreckten die Erwachsenen mehr als die Tat selbst. Nicht *dass* sie reagierte, sondern *wie*: ohne Reue, ohne Zögern, mit der ruhigen Gründlichkeit eines Menschen, der eine Gleichung löst. (Konkrete Tat — was genau, gegen wen — bewusst **[OFFEN]**, um Spielraum zu lassen.)
+**[KANON] Der Vorfall (Tulsa, Kindheit — in der Sonntagsschule).** Als Kind sah Miranda in der Sonntagsschule ein Unrecht — und „korrigierte" es. Nicht im Affekt, nicht heißblütig: kalt, vollständig, ohne den Bremsweg, den andere Kinder haben. Der Impuls feuerte aus einem Gerechtigkeitsgefühl (dasselbe „ein Ding ist krumm, meine Hände wollen es gerade" wie heute am Marktstand) — aber das Ausmaß und die Kälte erschreckten die Erwachsenen mehr als die Tat selbst. Nicht *dass* sie reagierte, sondern *wie*: ohne Reue, ohne Zögern, mit der ruhigen Gründlichkeit eines Menschen, der eine Gleichung löst. (Konkrete Tat — was genau, gegen wen — bleibt bewusst **[OFFEN]**, bis ein Kapitel sie braucht. Fest steht der Ort: die Sonntagsschule. Schöne Verschränkung: Ort des Vorfalls = Ort der Konditionierung = ihr heutiger Beobachtungsposten, s. Loop zu K50.)
 
-**[KANON] Die Konditionierung (religiös / scham-basiert).** Tulsa, Rand des Bibelgürtels. Die Reaktion der Erwachsenen war nicht Therapie, sondern Glaube: *etwas Böses in dir*, Scham, Buße, Gebet. Man trimmte ihr ein, dass „das" Sünde ist, dass etwas mit ihr nicht stimmt, dass man es wegbeten/wegschämen muss. Sie lernte nicht *warum* (kein Codex, keine Architektur) — sie lernte nur *dass*. Fremd auferlegt, von außen, als Kind. Darum **fragiler** als Aldrics selbst gebauter Zaun.
+**[KANON] Die Konditionierung (religiös / scham-basiert; Eltern + Kirchengemeinde).** Tulsa, Rand des Bibelgürtels. Die Reaktion war nicht Therapie, sondern Glaube — und sie kam aus **zwei Richtungen zugleich: den Eltern und den Vertretern der Kirchengemeinde** (Pfarrer, Nonnen, Sonntagsschul-Autoritäten). *Etwas Böses in dir*, Scham, Buße, Gebet. Man trimmte ihr ein, dass „das" Sünde ist, dass etwas mit ihr nicht stimmt, dass man es wegbeten/wegschämen muss. Sie lernte nicht *warum* (kein Codex, keine Architektur) — sie lernte nur *dass*. Fremd auferlegt, von außen, als Kind, von gleich mehreren Autoritäten. Darum **fragiler** als Aldrics selbst gebauter Zaun.
 > **Loop zu K50:** Sie sitzt heute hinten in Kirchen — nicht zum Beten, sondern zum Beobachten. Der Ort ihrer Konditionierung ist ihr Beobachtungsposten geworden; sie kehrt an die Stelle zurück, die sie geformt hat, und schaut von dort auf alle anderen. Genau dort sah sie Aldric.
+> **Bruch in Buch 2 (K1):** Ausgerechnet hier durchbricht sie das Muster — sie rückt aus der hinteren Reihe nach vorn zu den Ortegas und macht aktiver mit. Ein kleiner, aber echter Riss in ihrer lebenslangen Deckung (Spiegel zu Aldrics Genuss-Riss): Beide Raubtiere beginnen Buch 2 damit, ihre eigene Schutzroutine zu verlassen.
 
 **[KANON] Ihr Verhältnis heute: klar erinnert, weg-rationalisiert.** Sie weiß genau, was war. Sie spricht nie darüber. Aber sie hat es als „Kinderkram" abgelegt — kein offener Schmerz, keine bewusste Scham mehr, ein zugeklapptes Kapitel. (Kontrast zu Aldric, der ALLES jährlich auditiert; sie auditiert gar nicht — sie hat es einfach zugeklappt.) **Gefahr:** Was man zuklappt statt versteht, kann wieder aufgehen.
 
@@ -116,7 +117,7 @@ Miranda **[VORSCHLAG]**: *Sie hat nie ein Regelwerk gebraucht. Das ist nicht St�
 
 **Zentraler Kontrast zu Aldric:** Aldrics Codex ist **selbst gebaut**, bewusst, als Erwachsener entschieden (Architektur, jeden Tag neu). Mirandas „Zaun" wurde ihr als **Kind von außen auferlegt**, unbewusst, über Scham und Glauben. Fremd-konditioniert ist **fragiler** als selbst-gewählt. → Buch-2-Gefahr: Die Konditionierung kann reißen, und dahinter steht kein bewusster Codex, der sie auffängt.
 
-Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und wie sie nach Maryland kam: **[OFFEN]**.
+Familienverhältnisse und Konditionierung sind jetzt gesetzt (Eltern + Kirchengemeinde; Ort = Sonntagsschule). Wie sie nach Maryland kam: gesetzt (Reise/Job/Poker, s. Profil). **[OFFEN]** bleibt nur die *konkrete Tat* des Vorfalls — bewusst, bis ein Kapitel sie braucht.
 
 -----
 
@@ -155,7 +156,7 @@ Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und 
 - **Kontrast zu Aldric (zentral):** Sein Käfig ist selbst gebaut und bewusst gewählt; ihrer wurde ihr auferlegt. Eine auferlegte Konditionierung ist **fragiler** als ein selbst-entschiedener Codex.
 - **Das „bisher".** Buch-2-Faden: Die Konditionierung könnte reißen. Was passiert, wenn der Impuls zurückkehrt, ohne dass je ein *bewusster* Codex an seine Stelle trat? Vielleicht ist genau das „what you think is right": ihr den bewussten Zaun zu geben, den sie nie selbst gebaut hat — oder zu erkennen, dass sie ohne auskommt.
 - **Die Leine heute (Kanon, zwei Schichten):** außen **Vermeidung** (Ränder, hintere Reihen, keine Szenen), innen **automatisches körperliches Zurückzucken**, falls die Vermeidung versagt. Kein bewusstes Steuern — sie erlebt es als „so bin ich halt". Details s. Vergangenheit.
-- **[KANON jetzt] Vorfall + Konditionierung** (s. Vergangenheit): als Kind ein Unrecht zu kalt „korrigiert"; danach religiös/scham-basiert konditioniert (Tulsa); heute klar erinnert, weg-rationalisiert. **[OFFEN]** bleibt nur die konkrete Tat + wer genau (Elternteil/Gemeinde).
+- **[KANON jetzt] Vorfall + Konditionierung** (s. Vergangenheit): als Kind ein Unrecht zu kalt „korrigiert" (Ort: Sonntagsschule); danach religiös/scham-basiert konditioniert durch **Eltern + Kirchengemeinde** (Tulsa); heute klar erinnert, weg-rationalisiert. **[OFFEN]** bleibt nur die konkrete Tat.
 
 -----
 
@@ -180,18 +181,19 @@ Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und 
 
 -----
 
-## Die Erzählstruktur: beide bleiben Außen-POV (Empfehlung)
+## Die Erzählstruktur: Innensicht nur in Prolog/Epilog (Kanon)
 
-**[VORSCHLAG — vom Autor zu bestätigen; Autor tendiert dazu]** Buch 2 gibt **WEDER Aldric NOCH Miranda** durchgehende Innensicht. Das Katz-und-Maus wird von drei Mitteln getragen:
+**[KANON — Autor-Entscheid Juni 2026]** Buch 2 spiegelt exakt die Buch-1-Architektur: **Innensicht NUR im Prolog und (optional) im Epilog; der gesamte Hauptteil ist extern.**
 
-1. **Nachbar-POVs, die jetzt auch Miranda einschließen.** Wie der Leser Aldric in Buch 1 nur von außen zusammensetzte (Dave, Gerald, Rosa, Ms. Yuen, Kim), setzt er in Buch 2 **beide Raubtiere** von außen zusammen. Neu: Diese POV-Figuren interagieren jetzt auch mit Miranda. **Gerald wird Hauptvehikel** (s. Beziehungen).
-2. **Doppeldeutige Dialoge zwischen Aldric und Miranda.** Das Kerninstrument. Zwei Leute, die einander lesen, führen Gespräche, die für Umstehende harmlos klingen und für beide (und den Zweitleser) geladen sind. Subtext trägt, was sonst die Innensicht trüge.
-3. **Bookend-Symmetrie zu Buch 1.** Buch 1 = Aldric intern NUR in Prolog + Epilog. Buch 2 spiegelt das: **Miranda intern nur in einem Prolog + Epilog** — K50 „The Guy From Church" ist bereits ihr erster solcher Innen-Moment. Dazwischen: außen.
+- **Prolog = zweigeteilt, intern (erst Miranda, dann Aldric).** Spiegelt das Epilog-Paar K49/K50 aus Buch 1, nur gedreht — jetzt eröffnet *sie*. Ein erster/letzter Blick in beide Köpfe, dann fällt die Tür zu. (Inhalt: Markt + Verfolgung, s. Storyline.)
+- **Hauptteil = nur Nachbar-POVs + doppeldeutiger Dialog.** Weder Aldric noch Miranda bekommen interne Kapitel. **Gerald** = Hauptvehikel für Mirandas Außensicht.
+- **Epilog = optional intern** (Bookend; wer — Miranda, Aldric oder beide — noch offen).
 
-**Antwort auf die drei Fragen des Autors:**
-- *Geht es durch andere POVs?* Ja — exakt der Buch-1-Mechanismus, nur mit zwei Rätseln statt einem.
-- *Mit doppeldeutigen Dialogen?* Ja, das ist das tragende Element.
-- *Können beide ganz ohne Innensicht?* Ja — und es ist die mutigste, DNA-treueste Wahl: zwei Spiegel, die einander betrachten, und der Leser steht dazwischen.
+Drei Mittel im Hauptteil:
+
+1. **Nachbar-POVs, die jetzt auch Miranda einschließen.** Wie der Leser Aldric in Buch 1 von außen zusammensetzte (Dave, Gerald, Rosa, Ms. Yuen, Kim), setzt er in Buch 2 **beide Raubtiere** von außen zusammen.
+2. **Doppeldeutige Dialoge zwischen Aldric und Miranda.** Das tragende Kerninstrument — harmlos für Umstehende, geladen für beide (und den Zweitleser).
+3. **Subtext statt Innenschau.** Was sie wissen/planen, zeigt sich nur in Handlung + Rede.
 
 **Voraussetzung:** Es braucht POV-Figuren, die Miranda **ohne Aldric / fern von ihm** zeigen (für ihren eigenen Strang + die Konfrontation kurz vor Ende). Gerald liefert genau das.
 
@@ -216,7 +218,7 @@ Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und 
 - Em-Dashes nur bei Interruption; „the way" sparsam (Regel 36/38).
 - **US-Schreibweise** (sie ist Amerikanerin — anders als Calvey kein britisches Englisch).
 
-**[VORSCHLAG/KANON-Tendenz] K50 als Bookend.** Unter der „beide-außen"-POV-Architektur (s. Erzählstruktur) ist K50 „The Guy From Church" Mirandas einziger durchgehender Innen-Moment — das Gegenstück zu Aldrics Prolog/Epilog. Ihre Innenstimme wird also sparsam eingesetzt (Buch-2-Bookends), nicht flächig. Dazwischen erscheint sie von außen + im Dialog.
+**[KANON] Innenstimme nur in Prolog/Epilog.** Unter der bestätigten Architektur (s. Erzählstruktur) erscheint Mirandas Innenstimme in Buch 2 nur im zweigeteilten Prolog (und evtl. Epilog); K50 „The Guy From Church" war ihr Innen-Auftakt am Ende von Buch 1. Im Hauptteil trägt ihr **Dialog** die Stimmsignatur (Kontraktionen, Kante, „guy").
 
 -----
 
@@ -227,24 +229,24 @@ Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und 
 - Sie weiß **nichts** davon. Die Verbindung ist für sie unsichtbar.
 - Aldrics Auftrag: *„Look at her. Do what you think is right."* — kein Schutz, keine Warnung, nur ein Name.
 - **Ironie des Namens (aus Buch-2-Notizen):** *Miranda rights* — das Recht zu schweigen, nicht gegen sich selbst auszusagen. Sie ahnt nicht, dass ein „Verfahren" läuft.
-- **[OFFEN]** Erfährt sie in Buch 2, wer der Andere war / dass es ihn gab? Erfährt sie vom Versprechen? Siehe Abschnitt 16.
+- **[KANON] Wissensstand bei der Konfrontation.** Aldric weicht aus, solange er kann. Erst wenn Miranda direkt fragt — *„Why are you doing this?"* — gibt er zu, dass er **ein Versprechen** hält: jemand bat ihn, nach ihr zu sehen. Aber **wem** er es gab, verrät er nicht. Begründung, knapp: die Person ist tot — es ändert nichts, den Namen zu nennen. Miranda erfährt also: *dass* es ein Versprechen gibt und *dass* der Empfänger tot ist. Sie erfährt NICHT: wer der Andere war, die Verdrahtungs-Verbindung, Intelligence, das „Buch". Das Kernmysterium bleibt verschlossen.
 
 -----
 
 ## Beziehungen
 
 - **Aldric** **[KANON]** — Gegenspieler, Spiegel, der Mann, den sie umkreist. Nicht Feind, aber sie weiß es nicht. Buch-2-Kernbeziehung. Konfrontation kurz vor Ende Buch 2 (*„What do you want from me?"*).
-- **Gerald** **[KANON-SETUP, Autor-Entscheid]** — **schließt Miranda SOFORT ins Herz.** Tiefe Ironie: Der Auditor, der Aldric nie lesen konnte, bindet sich an eine Frau, die *dieselbe Spezies* ist. Irgendwann **zeigt er ihr seine Notizbücher** — sein ganzes Aldric-Dossier. Damit übergibt er unwissentlich einem Raubtier die komplette Akte über das andere. Sie werden **Verbündete.** Gerald ist das **Hauptvehikel für Mirandas Außen-POV-Darstellung** (zeigt sie fern von Aldric). Engine-Gold: Gerald + Miranda gegen das Rätsel Aldric, während Aldric beide liest. (Spiegelt zugleich Aldric/Dave aus Buch 1: jeder „Raubtier-MC" hat seinen warmen, ahnungslosen Vertrauten.)
-- **Die Ortegas** **[KANON-SETUP]** — ihr Einstieg auf Maple Lane. Sie erkennt sie aus der Kirche, freundet sich an, wird Familienfreundin. Rosa/Dave adoptieren sie arglos (wie sie Aldric adoptiert haben). Marcus/Lina als Reibungs-/Wärmeflächen.
+- **Gerald** **[KANON-SETUP, Autor-Entscheid]** — **schließt Miranda SOFORT ins Herz.** Türöffner ist der **gemeinsame Beruf**: Beide sind Auditoren — fachliche Verwandtschaft auf den ersten Satz. Tiefe Ironie: Der Auditor, der Aldric nie lesen konnte, bindet sich an eine Frau, die *dieselbe Spezies* (Raubtier) UND *denselben Beruf* (Revisor) teilt. Irgendwann **zeigt er ihr seine Notizbücher** — sein ganzes Aldric-Dossier. Damit übergibt er unwissentlich einem Raubtier die komplette Akte über das andere. Sie werden **Verbündete.** Gerald ist das **Hauptvehikel für Mirandas Außen-POV-Darstellung** (zeigt sie fern von Aldric). Engine-Gold: Gerald + Miranda gegen das Rätsel Aldric, während Aldric beide liest. (Spiegelt zugleich Aldric/Dave aus Buch 1: jeder „Raubtier-MC" hat seinen warmen, ahnungslosen Vertrauten.)
+- **Die Ortegas** **[KANON-SETUP]** — ihr Einstieg auf Maple Lane. In K1 (Kirche, So 6. Jul) rückt sie aktiv zu ihnen vor und stellt sich Rosa mit vollem Namen vor (**Miranda Whitaker**). Sie freundet sich an, wird Familienfreundin — später, mit dem Kauf von Nr. 6, **Nachbarin**. Rosa/Dave adoptieren sie arglos (wie sie Aldric adoptiert haben). Marcus/Lina als Reibungs-/Wärmeflächen.
 - **Ms. Yuen** **[VORSCHLAG]** — würde sie *lesen* (wie sie Aldric liest). Zwei Beobachterinnen, die einander erkennen.
-- **Die EINE lose Bindung** **[KANON]** — Miranda ist weitgehend Einzelgängerin, hat aber eine lose Bindung (genug Menschlichkeit, ohne sie weich zu machen). Wer/was = **[OFFEN]** (s. Abschnitt 16). Gerald könnte diese Rolle wachsend mit übernehmen.
+- **Die EINE lose Bindung = Gerald [KANON].** Miranda ist im Kern Einzelgängerin und lebt noch nicht lange in Greenfield — für tiefe Bindungen war keine Zeit. Genau darum **wächst Gerald in diese Rolle hinein**: die eine Verbindung, die sie zulässt, fast gegen ihren Willen (genug Menschlichkeit, ohne sie weich zu machen). Ironie bleibt: ihr einziger Mensch ist der ahnungslose Vertraute ihres Gegenspielers.
 
 -----
 
 ## Häufige Fehler vermeiden
 
 *Analog zu Aldrics Warnliste, auf Miranda gemünzt.*
-1. **Sie ist kein weiblicher Aldric-Klon.** Gleiche Verdrahtung, aber kein Codex, kein Mounty, schwacher Punisher. Wild statt gebaut. Der Unterschied muss auf jeder Seite spürbar sein.
+1. **Sie ist kein weiblicher Aldric-Klon.** Gleiche Verdrahtung, aber kein Codex, kein Mounty, **stillgelegter (nicht von Natur schwacher) Punisher**. Wild statt gebaut. Der Unterschied muss auf jeder Seite spürbar sein.
 2. **Ihre Overconfidence nicht als Dummheit schreiben.** Sie ist brillant — ihr Fehler ist mangelnde *Erfahrung mit Ihresgleichen*, nicht mangelnde Fähigkeit.
 3. **Kein Punisher-Aufblitzen ohne Bedacht.** Der schwache Impuls ist Kanon; ein Ausbruch wäre ein großes Ereignis, kein Beiläufiges.
 4. **Sie weiß nichts vom Meta-Plot.** Kein versehentliches Wissen über das Versprechen, den Anderen, Intelligence.
@@ -257,26 +259,19 @@ Familienverhältnisse (wer genau konditionierte — Elternteil + Gemeinde?) und 
 
 *Aktualisiert nach Autor-Runde (Juni 2026). ✓ = entschieden, ○ = noch offen.*
 
-✓ **Geburtsjahr** — 1988 (37 im Buch-Jahr).
-✓ **Geburtstag (Symbolik)** — neutraler Tag, kein Equinox. (Konkreter Tag noch frei, Vorschlag 3. Aug 1988.)
+✓ **Geburtsjahr / -datum** — 3. August 1988 (37 im Buch-Jahr; neutraler Tag).
+✓ **Name** — Miranda **Whitaker** (stellt sich so bei Rosa vor, Buch 2 Kap. 1).
 ✓ **Herkunft** — Tulsa, Oklahoma.
-✓ **Beruf** — Controlling (Tag) + Poker (Nebenquelle).
+✓ **Beruf** — **Innenrevision/Auditorin** für Großkonzern mit vielen Standorten; reist beruflich (Nomaden-Motiv); „Gabe" = weiß, WO zu suchen ist, bevor Zahlen es zeigen; Firma kennt nur die Ergebnisse. Resonanz + Anknüpfung an Gerald (auch Auditor). Poker als Nebenquelle + Nomaden-Motor.
+✓ **Wie sie reist / nach Maryland kam** — Dauerreisende; Poker finanziert sie, bis niemand mehr mitspielt → weiterziehen. Job ist remote/multi-standort. Greenfield = aktuelle Station.
 ✓ **Kampffähigkeit** — grundlegend wehrhaft, kein Profi; Hauptwaffe Lesen + Entkommen.
-✓ **Punisher-Vergangenheit** — Impuls sprang als Kind EINMAL an, danach konditioniert/getrimmt (fremd-auferlegt, fragil).
-✓ **Bindungen** — weitgehend Einzelgängerin, EINE lose Bindung (Gerald wächst in eine Verbündeten-Rolle).
-✓ **Gerald-Ally** — schließt sie sofort ins Herz, zeigt ihr seine Notizbücher; Verbündete; Hauptvehikel für ihren Außen-POV.
-✓ **Wissensstand-Ziel** — Katz-und-Maus trägt das ganze Buch; sie **konfrontiert Aldric kurz vor Ende**. (Wie viel sie dann erfährt — nur „er sucht mich" vs. Versprechen/der Andere — noch offen, s. u.)
-✓ **Eigenes Rätsel-Objekt** — nein; ihre Leere IST das Fehlen solcher Objekte.
-✓ **POV-Architektur (Tendenz)** — beide ohne durchgehende Innensicht; getragen von Nachbar-POVs (v. a. Gerald) + doppeldeutigen Dialogen; Miranda intern nur als Prolog/Epilog-Bookend (K50). **Endgültige Bestätigung noch ausstehend.**
+✓ **Kindheitsvorfall (Art + Ort + Akteure)** — als Kind ein Unrecht „korrigiert" (zu kalt/zu weit) **in der Sonntagsschule**; Konditionierung **religiös/scham-basiert durch Eltern + Kirchengemeinde** (Pfarrer/Nonnen, Tulsa); heute klar erinnert + weg-rationalisiert; **Leine zweischichtig** (Vermeidung außen + automatisches Zurückzucken innen).
+✓ **Bindungen / lose Bindung** — Einzelgängerin; **Gerald** wächst in die eine lose Bindung (zeigt ihr seine Notizbücher; Hauptvehikel für ihren Außen-POV).
+✓ **Wissensstand bei der Konfrontation** — erfährt vom Versprechen + dass der Empfänger tot ist; NICHT wer der Andere war / Verbindung / „Buch".
+✓ **Inspiration/Archetyp** — Dexter-Verdrahtung + Debra-Morgan-Temperament, ohne Code (Aldric = Dexter mit Code).
+✓ **POV-Architektur Buch 2 (final)** — Innensicht NUR in Prolog (zweigeteilt: Miranda→Aldric) + optional Epilog; Hauptteil extern + doppeldeutiger Dialog. Spiegelt Buch-1-Struktur.
 
-○ **Nachname** — Kandidaten Grady / Whitaker; ob/wann genannt.
-○ **Konkreter Geburtstag (Tag/Monat)**.
-○ **Genauer Wohnort jetzt** (Stadt/Viertel nahe Maple Lane).
-✓ **Kindheitsvorfall (Art)** — als Kind ein Unrecht „korrigiert", zu kalt/zu weit; Konditionierung **religiös/scham-basiert** (Tulsa, Bibelgürtel-Rand → Loop zu K50: hintere Kirchenreihe als Beobachtungsposten); heute klar erinnert + weg-rationalisiert; **Leine zweischichtig** (Vermeidung außen + automatisches Zurückzucken innen). (Vergangenheit.)
-○ **Kindheitsvorfall (Detail)** — die konkrete Tat (was/gegen wen) + wer genau konditionierte (Elternteil? Gemeinde? beides?).
-○ **Wie kam sie nach Maryland? Warum bleibt sie?**
-○ **Die EINE lose Bindung** — wer/was konkret (oder wächst Gerald vollständig in die Rolle?).
-○ **Wissensstand-Detail** — erfährt sie bei der Konfrontation vom Versprechen / vom Anderen, oder nur, dass Aldric sie beobachtet?
-○ **Inspirationsquellen/Archetyp** (Pendant zu Fraser/Castle bei Aldric).
-○ **POV-Architektur final bestätigen.**
+○ **Konkrete Tat des Kindheitsvorfalls** (was genau / gegen wen) — bewusst offen, bis ein Kapitel sie braucht.
+○ **Mietadresse vor dem Kauf** (Stadt/Viertel nahe Maple Lane) — Autor zeichnet noch eine Karte. (Späterer Wohnsitz = **Nr. 6 Maple Lane**, Kanon, gekauft Mitte Buch 2.)
+○ **Branche/Arbeitgeber konkret** — welcher Konzern/Sektor (Bank nicht zwingend; eine Auditorin reist ohnehin). Wird genannt?
 ○ **Arbeitstitel Buch 2.**

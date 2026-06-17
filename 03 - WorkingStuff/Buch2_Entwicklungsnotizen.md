@@ -7,11 +7,12 @@
 
 | Eigenschaft | Details |
 |---|---|
-| Name | Miranda (der Name, unter dem alle sie kennen; als ihr echter zu behandeln) |
+| Name | Miranda **Whitaker** (stellt sich so bei Rosa vor, Buch 2 Kap. 1; als echter Name zu behandeln) |
 | Geburtsjahr | **1988** → 37 im Buch-Jahr (Juni 2025); geht als „Mitte 30" durch |
-| Geburtsdatum | *neutral, kein symbolischer Tag* (Equinox verworfen); Vorschlag 3. Aug 1988, Tag frei |
+| Geburtsdatum | **3. August 1988** (neutral, keine Symbolik — Equinox verworfen) |
 | Herkunft | **Tulsa, Oklahoma** (Öl, Bibelgürtel-Rand; NICHT Kanada = Aldrics Spur) |
-| Beruf | **Controlling** (Tag, unscheinbar, findet Unstimmigkeiten — Resonanz Gerald/Auditor + Aldric/Konto) + **Poker** (Nebenquelle, liest Tells) |
+| Beruf | **Innenrevision/Auditorin** (interne/forensische Revision) für Großkonzern mit vielen Standorten, reist beruflich (Nomaden-Motiv); „Gabe" = weiß WO zu suchen, bevor Zahlen es zeigen; Firma kennt nur Ergebnisse. **Resonanz Gerald (auch Auditor) → sofortige Anknüpfung**; Kontrast: Gerald=Methode, Miranda=Instinkt + Belege nachliefern. **Poker** = Nebenquelle + Nomaden-Motor |
+| Inspiration | **Dexter-Verdrahtung + Debra-Morgan-Temperament, ohne Code** (Aldric = Dexter mit Code) |
 | Alter | Mitte 30 (s. Geburtsjahr) |
 | Verdrahtung | Dieselbe Grundausstattung wie Aldric — subklinisch, analytisch-dominant |
 | Verbindung z. Anderen | Genaue Beziehung offen (s. Abschnitt „Die Verbindung zum Anderen") |
@@ -130,7 +131,7 @@ Das ist der Moment, wo *do what you think is right* seine volle Bedeutung bekomm
 ### Der Verlauf
 
 **Phase A — Doppelte Observation (verdeckt):**
-Aldric beobachtet sie (Versprechen). Aber sie hat ihn am Ende von Buch 1 bereits *bemerkt* — den Mann, der in der Kirche auftauchte und sich nicht um den Gottesdienst kümmerte, denselben Mann am Markt. Sie weiß nicht, wer er ist oder was er will, aber ihre Verdrahtung hat angeschlagen. Also dreht sie den Spieß um: Sie beobachtet *ihn*. Beide spielen dasselbe Spiel — jeder versucht, den anderen zu sehen, ohne selbst gesehen zu werden. Treffpunkte: die Straße, die Kirche, der Markt, weitere Orte, an denen man sich „zufällig" begegnet.
+Aldric beobachtet sie (Versprechen). Aber sie hat ihn am Ende von Buch 1 bereits *bemerkt* — den Mann, der in der Kirche auftauchte und sich nicht um den Gottesdienst kümmerte, denselben Mann am Markt. Sie weiß nicht, wer er ist oder was er will, aber ihre Verdrahtung hat angeschlagen. Also dreht sie den Spieß um: Sie beobachtet *ihn*. Beide spielen dasselbe Spiel — jeder versucht, den anderen zu sehen, ohne selbst gesehen zu werden. Treffpunkte: die Straße, die Kirche, der Markt, weitere Orte, an denen man sich „zufällig" begegnet. *Charakter-Beat in K1:* Ausgerechnet in der Kirche durchbricht Miranda ihr lebenslanges Muster — sie rückt aus der hinteren Beobachterreihe nach vorn zu den Ortegas und macht aktiver mit (Spiegel zu Aldrics Genuss-Riss: beide verlassen zu Buch-Beginn ihre Schutzroutine).
 
 *Asymmetrie im Können (nicht im Wissen):* Sie sehen einander durchaus gegenseitig — aber nicht gleich oft. Aldric hat zwanzig Jahre Vorsprung; er erwischt sie häufiger, als sie ihn erwischt. Sie weiß, dass er da ist; sie kann ihn nur seltener verorten. Das hält die Spannung schief, ohne sie einseitig zu machen.
 
@@ -139,10 +140,14 @@ Aldric beobachtet sie (Versprechen). Aber sie hat ihn am Ende von Buch 1 bereits
 **Phase B — Sie kommt auf die Straße (keep your enemies closer):**
 Sie wohnt *nicht* auf Maple Lane, wird aber zum häufigen Gast. Ihr Weg dorthin ist sauber motiviert und kein Zufall: Sie beobachtet die Straße, sieht die Ortegas, erkennt sie aus der Kirche wieder, und freundet sich dort mit ihnen an. So kommt sie als *Freundin der Familie* auf die Straße — zu den Ortegas, deren Nachbar Aldric ist. Sie nähert sich der Gefahr (oder dem Rätsel) über die warme, ahnungslose Mitte der Community. Dramatische Ironie: Die Straße, die Aldric ein Jahr lang aufgebaut hat, wird zur Bühne, auf der seine Zielperson ihn ausspäht. Rosa/Dave adoptieren sie arglos, genau wie sie Aldric adoptiert haben.
 
-*Gerald als Verbündeter (Autor-Entscheid):* **Gerald schließt Miranda sofort ins Herz** und zeigt ihr irgendwann seine Notizbücher — sein ganzes Aldric-Dossier. Damit übergibt der Auditor, der Aldric nie lesen konnte, einem Raubtier die komplette Akte über das andere. Sie werden Verbündete. Doppelfunktion: (1) Engine — Gerald + Miranda gegen das Rätsel Aldric, während Aldric beide liest; (2) **POV-Vehikel** — unter der „beide-außen"-Architektur zeigt Geralds POV Miranda fern von Aldric. Spiegelt Aldric/Dave aus Buch 1 (jeder Raubtier-MC hat seinen warmen, ahnungslosen Vertrauten).
+*Eskalation Mitte Buch 2 — der Kauf von Nr. 6:* Aus dem häufigen Gast wird eine Bewohnerin. Miranda — bis dahin zur Miete, im Kern eine Reisende — kauft **Nr. 6**, das leere Kollisionshaus (K45) direkt neben Aldric (#4). Die Nomadin wird sesshaft, *neben* ihrer Beute, im einen Haus, das nie verkauft wurde. Geralds Beobachtungsfenster (#3) überblickt nun das Haus seiner neuen Verbündeten. „Keep your enemies closer" wörtlich. Braucht Aufbau in den Kapiteln davor; **Setup-Pflicht (Regel 9): #6 muss vorher on-page als verfügbar/leer etabliert sein**, bevor sie es kauft.
+
+*Gerald als Verbündeter (Autor-Entscheid):* **Gerald schließt Miranda sofort ins Herz** — Türöffner ist der **gemeinsame Beruf** (beide Auditoren; fachliche Verwandtschaft auf den ersten Satz). Irgendwann zeigt er ihr seine Notizbücher — sein ganzes Aldric-Dossier. Damit übergibt der Auditor, der Aldric nie lesen konnte, einem Raubtier die komplette Akte über das andere. Sie werden Verbündete. Doppelfunktion: (1) Engine — Gerald + Miranda gegen das Rätsel Aldric, während Aldric beide liest; (2) **POV-Vehikel** — unter der Außen-POV-Architektur des Hauptteils zeigt Geralds POV Miranda fern von Aldric. Spiegelt Aldric/Dave aus Buch 1 (jeder Raubtier-MC hat seinen warmen, ahnungslosen Vertrauten).
 
 **Phase C — Die Konfrontation (Dynamik-Wechsel):**
-Nach einer Weile Katz-und-Maus stellt *sie* *ihn*. Sie konfrontiert ihn direkt: Sie hat bemerkt, dass er sie beobachtet, seit der Kirche, und sie will wissen, warum. *„What do you want from me?"* Das ist der Wendepunkt des Buches: Ab hier darf sie ihn erkennen. Die verdeckte Asymmetrie ist vorbei; was bleibt, ist die offene Frage zwischen zwei Menschen, die einander lesen können. Wie viel Aldric preisgibt (das Versprechen? den Anderen? den Codex?) ist die nächste große Schreibentscheidung.
+Nach einer Weile Katz-und-Maus stellt *sie* *ihn*. Sie konfrontiert ihn direkt: Sie hat bemerkt, dass er sie beobachtet, seit der Kirche, und sie will wissen, warum. *„What do you want from me?"* Das ist der Wendepunkt des Buches: Ab hier darf sie ihn erkennen. Die verdeckte Asymmetrie ist vorbei; was bleibt, ist die offene Frage zwischen zwei Menschen, die einander lesen können.
+
+**Wie viel Aldric preisgibt (Autor-Entscheid):** Er weicht aus, solange er kann. Erst auf ihre direkte Frage gibt er zu, dass er **ein Versprechen** hält — jemand bat ihn, nach ihr zu sehen. **Wem** er es gab, verrät er nicht; knappe Begründung: die Person ist tot, es ändert nichts, den Namen zu nennen. Miranda erfährt also nur: *dass* es ein Versprechen gibt und *dass* der Empfänger tot ist. NICHT: wer der Andere war, die Verdrahtungs-Verbindung, Intelligence, das „Buch". Das Kernmysterium bleibt verschlossen (Material für später).
 
 ### Warum das stärker ist
 
@@ -183,11 +188,11 @@ Der Leser führt das Buch mit. Jede Szene aus ihrem POV ist gleichzeitig eine Bu
 
 ## Offene Fäden aus Buch 1
 
-**Das Geldwäsche-Syndikat (laufende Bedrohung):**
-Calvey war nur die Sondierung — *„the way they ask it"* (K45). Der Eigentümer der gestörten Struktur überlebt (Kanon: Auftrag K10–13 nahm Geld/Struktur, keine Menschen). Calveys Bericht (*Ziel zu hart, Preis zu hoch*) kauft Zeit, beendet aber nichts. Das Syndikat wägt weiter ab, ob/wie es eskaliert. Mögliche Wiederkehr in Buch 2 oder später: ernster, persönlicher, nicht mehr nur „disturb". Spannung: Aldric ist auf Maple Lane unter echtem Namen, privat, nicht im Cover — das macht ihn auffindbar. Kollidiert mit der Miranda-Aufgabe (er kann nicht gleichzeitig unsichtbar sein und für sie da sein).
+**Das Geldwäsche-Syndikat (dritter Akt — Autor-Entscheid):**
+Calvey war nur die Sondierung — *„the way they ask it"* (K45). Der Eigentümer der gestörten Struktur überlebt (Kanon: Auftrag K10–13 nahm Geld/Struktur, keine Menschen). Calveys Bericht (*Ziel zu hart, Preis zu hoch*) kauft Zeit, beendet aber nichts. **Festgelegt:** Das Syndikat kehrt **nach der Aldric-Miranda-Konfrontation** zurück (Phase D / dritter Akt) — größer und ernster als ein Mann im Auto, nicht mehr nur „disturb". Es wird zum **gemeinsamen Gegner**, der das Duell in eine Zweckallianz kippt: **Miranda unterstützt Aldric** (ihre Gabe wird erstmals *mit* statt *gegen* ihn operativ), **Aldric zieht Calvey heran** (s. u.). Spannung: Aldric ist auf Maple Lane unter echtem Namen, privat, nicht im Cover — das macht ihn auffindbar.
 
-**Calvey als möglicher Ally (Buch 2 oder später):**
-Kein toter Faden — Calvey lebt, fliegt heim, Arm in 3 Monaten wieder brauchbar. Zwischen ihm und Aldric steht jetzt etwas Seltenes: gegenseitiger Berufsrespekt, ein ehrlicher Handschlag, eine gemeinsame Erfahrung von Regel-gegen-Regel. Idee: Calvey taucht später wieder auf — diesmal auf Aldrics Seite. Plausibler Auslöser: das Syndikat schickt jemand Schlimmeren / geht gegen Aldric oder die Straße vor, und Calvey (der die Gegenseite kennt) warnt oder hilft. Oder: das Syndikat verbrennt Calvey selbst, und der gemeinsame Gegner macht sie zu Verbündeten. Sein Codex (*„a man who finishes"*) muss tragen — er wird kein Ally aus Sentiment, sondern weil die Arithmetik / ein neuer Auftrag es deckt.
+**Calvey kehrt zurück — auf Aldrics Seite (Autor-Entscheid):**
+Kein toter Faden — Calvey lebt, fliegt heim, Arm in 3 Monaten wieder brauchbar. Zwischen ihm und Aldric steht etwas Seltenes: gegenseitiger Berufsrespekt, ein ehrlicher Handschlag, eine gemeinsame Erfahrung von Regel-gegen-Regel. **Festgelegt:** Im dritten Akt zieht **Aldric ihn heran**. Plausibler Auslöser: das Syndikat schickt jemand Schlimmeren / geht gegen Aldric oder die Straße vor, und Calvey (der die Gegenseite kennt) hilft — oder das Syndikat verbrennt Calvey selbst, und der gemeinsame Gegner macht sie zu Verbündeten. Sein Codex (*„a man who finishes"*) muss tragen — kein Ally aus Sentiment, sondern weil die Arithmetik / ein Auftrag es deckt.
 
 **Gerald Hooper (laufender Arc — gräbt weiter):**
 Geralds Bogen schließt in K47 *nicht* mit Akzeptanz. Die Nacht der Kollision liefert ihm ein Protokoll, das nicht aufgeht — und macht seinen Aufklärungsdurst größer statt kleiner. Alle anderen lassen los (Kim, die Straße, Ms. Yuen sagt ihm wörtlich, er könne aufhören); Gerald kann nicht. Das blaue Notizbuch bleibt offen auf dem Schreibtisch, letzte Zeile leer, mit fünf nummerierten offenen Fragen. Das ist sein Motor für Buch 2.
@@ -195,7 +200,8 @@ Geralds Bogen schließt in K47 *nicht* mit Akzeptanz. Die Nacht der Kollision li
 - **Eskalation Zeuge → Eindringling:** In Buch 1 hat er beobachtet und notiert. In Buch 2 *handelt* er. Er recherchiert über Maple Lane hinaus, kontaktiert Pruitt erneut (oder einen Nachfolger), versucht an Aldrics Vergangenheit jenseits der zu sauberen Akte zu kommen.
 - **Der Einbruchsversuch:** Höhepunkt seiner Eskalation. Gerald dringt bei Aldric ein — Haus, Keller, oder der Schuppen, den Aldric in K43 zum ersten Mal abschloss. Zum ersten Mal überschreitet er die Linie vom Zeugen zum Täter.
 - **Die Tragik / Spannung:** Er sucht Beweise ausgerechnet bei dem einen Mann auf der Straße, der jeden Eindringling bemerkt. Wie Aldric reagiert — Nachsicht? Eine Lektion? Eine stille Warnung? — ist offen. Sein Rechthaben treibt ihn genau auf die Gefahr zu, vor der er die Straße schützen wollte.
-- **Mögliche Kollision mit dem Miranda-Strang:** Gerald, der zwanghaft Aldrics Bewegungen kartiert, könnte versehentlich auf die Suche/Miranda stoßen — ein Beobachter, der ein Geheimnis findet, das viel größer ist als das, das er gesucht hat.
+- **Miranda als Komplizin (Autor-Entscheid):** Gerald gräbt nicht mehr allein — Miranda wird seine **Ermittlungs-Komplizin**. Türöffner ist der gemeinsame Beruf (beide Auditoren). Er zeigt ihr die Notizbücher = übergibt dem Raubtier die Akte übers andere. Tragische Ironie: Er verbündet sich mit genau der Spezies, die er bei Aldric jagt.
+- **Mögliche Kollision mit dem Miranda-Strang:** Gerald, der zwanghaft Aldrics Bewegungen kartiert, kann versehentlich auf die Suche/das Versprechen stoßen — ein Beobachter, der ein Geheimnis findet, das viel größer ist als das gesuchte.
 - **Sandra:** Sieht den grauen, schlaflosen Mann, fragt nicht mehr (K47-Coda). Wie lange trägt diese Ehe-Stille? Möglicher eigener Druckpunkt in Buch 2.
 
 ---
