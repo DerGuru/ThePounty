@@ -36,21 +36,21 @@ The man's name was Dale Pruitt. A former county sheriff's deputy, twenty-six yea
 
 Pruitt answered on the fourth ring, around a mouthful of something.
 
-"Pruitt."
+“Pruitt.”
 
-"I need a background check on an individual. A neighbor. I have a name, an address, and a date of birth I'm not certain about."
+“I need a background check on an individual. A neighbor. I have a name, an address, and a date of birth I'm not certain about.”
 
-"Tenant screening? You a landlord?"
+“Tenant screening? You a landlord?”
 
-"Private. Personal."
+“Private. Personal.”
 
-A pause, the sound of a chair taking weight. "I can run him. Four hundred, half now. I'll need you to sign that you got a permissible purpose. You suspecting fraud, threat, anything I should know going in?"
+A pause, the sound of a chair taking weight. “I can run him. Four hundred, half now. I'll need you to sign that you got a permissible purpose. You suspecting fraud, threat, anything I should know going in?”
 
 Gerald looked across the street. The porch light at number four was on. The chair was empty. The reading lamp glowed behind the front curtain, steady and warm.
 
-"I suspect," Gerald said, "that he isn't who he says he is."
+“I suspect,” Gerald said, “that he isn't who he says he is.”
 
-"That's most people," Pruitt said. "Give me the name."
+“That's most people,” Pruitt said. “Give me the name.”
 
 Gerald gave him the name.
 
@@ -62,31 +62,31 @@ He paid the deposit. Two hundred dollars to D. PRUITT INVESTIGATIONS. Then he sa
 
 She brought the statement into the study on Thursday evening and set it on the desk beside the lamp. She didn't sit. She had her reading glasses pushed up into her hair, which meant she had already read it and decided how to come in.
 
-"Who's D. Pruitt."
+“Who's D. Pruitt.”
 
 Gerald considered the several available lies and discarded them. Sandra knew the shape of him too well for the small ones, and the large one would take more energy than he had after a day at the window.
 
-"He runs background checks."
+“He runs background checks.”
 
 Sandra was quiet for a moment. Her face did a thing it didn't often do. It got tired.
 
-"Gerald."
+“Gerald.”
 
-"I know what you're going to say."
+“I know what you're going to say.”
 
-"You told me you stopped."
+“You told me you stopped.”
 
-"I told you I'd run out of things to look at. That was true. This is a new thing to look at."
+“I told you I'd run out of things to look at. That was true. This is a new thing to look at.”
 
-"It's not a thing, Gerald. It's a man. A nice man who fixed my garden. Who gave me a lemon tree and shovels Ms. Yuen's walk before the sun's up." She put one hand flat on the statement. "Four hundred dollars to find out what, exactly? That he's polite? We know that. The whole street knows that."
+“It's not a thing, Gerald. It's a man. A nice man who fixed my garden. Who gave me a lemon tree and shovels Ms. Yuen's walk before the sun's up.” She put one hand flat on the statement. “Four hundred dollars to find out what, exactly? That he's polite? We know that. The whole street knows that.”
 
-"The whole street thinks he's polite. That's not the same as knowing who he is."
+“The whole street thinks he's polite. That's not the same as knowing who he is.”
 
-"Nobody knows who anybody is. I've been married to you for forty-two years and you still surprise me." She said it without warmth, which was worse than if she'd been angry. "I don't like this. I didn't like it in September and I don't like it now. It's not the watching. It's what the watching is doing to you. You're at that window every night. You used to read."
+“Nobody knows who anybody is. I've been married to you for forty-two years and you still surprise me.” She said it without warmth, which was worse than if she'd been angry. “I don't like this. I didn't like it in September and I don't like it now. It's not the watching. It's what the watching is doing to you. You're at that window every night. You used to read.”
 
-"I still read."
+“I still read.”
 
-"You read the street." She straightened up. "I'm going to bed. Cancel the man, or don't. But I'm not going to pretend I didn't see it, and I'm not going to ask about it again. I'm too old for that."
+“You read the street.” She straightened up. “I'm going to bed. Cancel the man, or don't. But I'm not going to pretend I didn't see it, and I'm not going to ask about it again. I'm too old for that.”
 
 She went out. The bedroom door didn't slam, which would have been easier to live with than the quiet click it made instead.
 
@@ -94,41 +94,41 @@ Gerald sat with the statement in the lamplight. He did not cancel the man.
 
 Pruitt called eleven days later, while Sandra was out and the house was his.
 
-"You want this on paper or you want the short version on the phone."
+“You want this on paper or you want the short version on the phone.”
 
-"The short version."
+“The short version.”
 
-"Short version is I don't have much, which is also the interesting part." Pruitt's chair creaked. "Your guy's real. Aldric Jonathan Venn checks out clean across the board. Social's valid, issued in-state, no flags. Credit file opened May of last year, thin but spotless, every account current. Property's his, free and clear. No liens, no judgments, no bankruptcies. No criminal, not even a sealed juvenile. No civil suits. No marriage on record, no divorce, no kids. No prior addresses I can pull, no prior employers, no utilities older than last June. Clean."
+“Short version is I don't have much, which is also the interesting part.” Pruitt's chair creaked. “Your guy's real. Aldric Jonathan Venn checks out clean across the board. Social's valid, issued in-state, no flags. Credit file opened May of last year, thin but spotless, every account current. Property's his, free and clear. No liens, no judgments, no bankruptcies. No criminal, not even a sealed juvenile. No civil suits. No marriage on record, no divorce, no kids. No prior addresses I can pull, no prior employers, no utilities older than last June. Clean.”
 
-"That's what I expected."
+“That's what I expected.”
 
-"Yeah, well." A pause. "I've been doing this thirty years between the badge and the office. You want to know what I tell people about clean?"
+“Yeah, well.” A pause. “I've been doing this thirty years between the badge and the office. You want to know what I tell people about clean?”
 
-"Yes."
+“Yes.”
 
-"Clean isn't innocent. Clean is rare. Real people are a mess. A real forty-three-year-old has a repo from his twenties, an old phone bill in collections, a fender bender, a forgotten credit card from 2009, and an address from a city he doesn't talk about anymore. Real people leak. I run more than a hundred of these a year and the honest ones are always the ugliest files." The chair creaked again. "Your guy's file isn't ugly. It starts last spring, and it's perfect from the first line. A file that starts last spring is a man who came from somewhere else. That much is ordinary. Most of the time somewhere else is two states over, and the paper's just slow to catch up."
+“Clean isn't innocent. Clean is rare. Real people are a mess. A real forty-three-year-old has a repo from his twenties, an old phone bill in collections, a fender bender, a forgotten credit card from 2009, and an address from a city he doesn't talk about anymore. Real people leak. I run more than a hundred of these a year and the honest ones are always the ugliest files.” The chair creaked again. “Your guy's file isn't ugly. It starts last spring, and it's perfect from the first line. A file that starts last spring is a man who came from somewhere else. That much is ordinary. Most of the time somewhere else is two states over, and the paper's just slow to catch up.”
 
-"And this time?"
+“And this time?”
 
-"This time the paper doesn't catch up, because it isn't where I look. So I ran it wider. Old habit. I've still got a fella I worked border files with, from back when I carried a badge." The chair creaked. "Your guy didn't come from two states over, Mr. Hooper. The trail runs north. Over the line."
+“This time the paper doesn't catch up, because it isn't where I look. So I ran it wider. Old habit. I've still got a fella I worked border files with, from back when I carried a badge.” The chair creaked. “Your guy didn't come from two states over, Mr. Hooper. The trail runs north. Over the line.”
 
 Gerald's pen stopped on the page.
 
-"Canada," he said.
+“Canada,” he said.
 
-"Canada. And before you make it into more than it is, that doesn't tell me what he is. Came from there, lived there, I can't say which, and it changes nothing for you either way. I am not telling you he works for anybody up north. I'm telling you where the paper's been. The paper's been north, and the paper's old."
+“Canada. And before you make it into more than it is, that doesn't tell me what he is. Came from there, lived there, I can't say which, and it changes nothing for you either way. I am not telling you he works for anybody up north. I'm telling you where the paper's been. The paper's been north, and the paper's old.”
 
-"How old."
+“How old.”
 
-"Twenty years, give or take. That's why you're getting a phone call and not an envelope." The ease had gone out of his voice. "It's clean up there too. Twenty years of it, a border through the middle, and not one ugly line on either side. Nothing at the crossing, which is the one place there's always something."
+“Twenty years, give or take. That's why you're getting a phone call and not an envelope.” The ease had gone out of his voice. “It's clean up there too. Twenty years of it, a border through the middle, and not one ugly line on either side. Nothing at the crossing, which is the one place there's always something.”
 
-"And that means what."
+“And that means what.”
 
-"Fresh clean I can explain. Witness protection takes a real person and builds him a tidy new life over a weekend. If you pulled those files and run a few years deep, the old dirt's still under the new boards if you know where to pry." The chair was still now. "This is not a few years, and there are no boards. Twenty years, two countries, and no dirt anywhere in any of it. A protected man is a messy man somebody cleaned up. Your guy was never messy. In thirty years I have seen that exactly once."
+“Fresh clean I can explain. Witness protection takes a real person and builds him a tidy new life over a weekend. If you pulled those files and run a few years deep, the old dirt's still under the new boards if you know where to pry.” The chair was still now. “This is not a few years, and there are no boards. Twenty years, two countries, and no dirt anywhere in any of it. A protected man is a messy man somebody cleaned up. Your guy was never messy. In thirty years I have seen that exactly once.”
 
 Gerald did not say anything.
 
-"So here is the part I don't bill for," Pruitt said. "Whatever this is, it isn't yours to open. A file that clean, that old, and that quiet has people behind it. Those people don't take kindly to prying eyes. I'll shred my copy tonight. Think hard about yours." A beat. "Good luck, Mr. Hooper. Don't call me again on this one."
+“So here is the part I don't bill for,” Pruitt said. “Whatever this is, it isn't yours to open. A file that clean, that old, and that quiet has people behind it. Those people don't take kindly to prying eyes. I'll shred my copy tonight. Think hard about yours.” A beat. “Good luck, Mr. Hooper. Don't call me again on this one.”
 
 He hung up.
 

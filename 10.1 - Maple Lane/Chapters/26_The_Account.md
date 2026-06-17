@@ -20,9 +20,9 @@ She sat down at the kitchen table. The chair made the sound it always made, the 
 
 She called the bank. Fourteen minutes on hold. The woman who answered was sympathetic the way bank employees are. Scripted, warm enough, unable to help. The restriction had been placed by the primary account holder. To lift it, he would need to authorize the change. Or Maria could open a new account and request a transfer of her funds through the legal process.
 
-"How long does that take?"
+“How long does that take?”
 
-"That depends on your attorney, ma'am."
+“That depends on your attorney, ma'am.”
 
 Maria hung up. She called her attorney. Voicemail. She left a message. Her voice was steady. She was proud of that, afterward. Steady voice, shaking hands.
 
@@ -36,13 +36,13 @@ She closed the laptop.
 
 The attorney called back the next day. He said he'd send a letter. He said these things take time. He said the court could compel access, but the process involved a motion, a hearing date, and a minimum of three weeks.
 
-"Three weeks."
+“Three weeks.”
 
-"I'm sorry, Maria. I know it's not what you want to hear."
+“I'm sorry, Maria. I know it's not what you want to hear.”
 
-"What do I do for the mortgage?"
+“What do I do for the mortgage?”
 
-A pause. "Do you have family who could help in the interim?"
+A pause. “Do you have family who could help in the interim?”
 
 She did. Jesús would give her the money in twenty minutes if she asked. Her mother would wire it from Tucson. Her sister would say yes before Maria finished the sentence.
 
@@ -50,15 +50,15 @@ She didn't call any of them.
 
 That afternoon, she was getting the mail when Aldric came out with his recycling bin. He set it at the curb and looked over.
 
-"Everything alright?"
+“Everything alright?”
 
-She should have said fine. She said, "Carlos froze the bank account."
+She should have said fine. She said, “Carlos froze the bank account.”
 
-Aldric was quiet for a moment. Then he nodded. "I'm sorry. That's a difficult thing to deal with on top of everything else." He set the bin down. "Is your attorney handling it?"
+Aldric was quiet for a moment. Then he nodded. “I'm sorry. That's a difficult thing to deal with on top of everything else.” He set the bin down. “Is your attorney handling it?”
 
-"He says three weeks. Minimum."
+“He says three weeks. Minimum.”
 
-"Three weeks is a long time with financial obligations." He said it simply, like stating a fact about the weather. Then he picked up the bin. "Let me know if there's anything I can do." He went back inside.
+“Three weeks is a long time with financial obligations.” He said it simply, like stating a fact about the weather. Then he picked up the bin. “Let me know if there's anything I can do.” He went back inside.
 
 That was Tuesday.
 
@@ -72,17 +72,17 @@ He looked at her. Then he went back inside.
 
 A few minutes later, his front door opened again. He came down the driveway carrying a paper bag, went over, and stopped at the bottom of her porch steps.
 
-"Good morning, Maria."
+“Good morning, Maria.”
 
-"Morning."
+“Morning.”
 
-"The Satsumas at the farmer's market this week were exceptional. I bought too many." He held the bag up. "Would you like some?"
+“The Satsumas at the farmer's market this week were exceptional. I bought too many.” He held the bag up. “Would you like some?”
 
-"Sure. Thank you."
+“Sure. Thank you.”
 
 He set it on the porch railing beside her.
 
-"I hope your week improves," he said. Nothing else. He went back to his house.
+“I hope your week improves,” he said. Nothing else. He went back to his house.
 
 Maria opened the bag. Six Satsumas, perfectly ripe. Underneath them, folded once, was a piece of paper. She unfolded it.
 
@@ -104,15 +104,15 @@ Thursday and Friday passed. She shipped the baby blanket. She took two new order
 
 Saturday. Maria was in her kitchen when the phone rang. Her attorney.
 
-"Maria. I have good news." He sounded surprised. Attorneys didn't usually sound surprised. "Carlos's counsel contacted me this morning. Your ex has agreed to restore full access to the joint account effective Monday. Additionally, he's signed an interim support agreement. He continues the mortgage payments directly, plus five hundred a month to you for living expenses. Backdated to November first."
+“Maria. I have good news.” He sounded surprised. Attorneys didn't usually sound surprised. “Carlos's counsel contacted me this morning. Your ex has agreed to restore full access to the joint account effective Monday. Additionally, he's signed an interim support agreement. He continues the mortgage payments directly, plus five hundred a month to you for living expenses. Backdated to November first.”
 
-Maria sat down. "He did that?"
+Maria sat down. “He did that?”
 
-"He did. Voluntarily. No hearing required."
+“He did. Voluntarily. No hearing required.”
 
-"Did he say why?"
+“Did he say why?”
 
-"His attorney said he'd 'reconsidered his position.' That's a direct quote."
+“His attorney said he'd 'reconsidered his position.' That's a direct quote.”
 
 Maria thanked him. She hung up. She sat in her kitchen and looked at the wall.
 

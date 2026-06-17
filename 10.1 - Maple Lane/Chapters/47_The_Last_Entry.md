@@ -62,11 +62,11 @@ On Friday he went out for the mail. The day was mild and the street had gone qui
 
 Gerald, at his own box, caught it across the quiet street the way he caught everything, without meaning to.
 
-"You came back," Ms. Yuen said.
+“You came back,” Ms. Yuen said.
 
 Aldric stopped what he was doing. Just for a moment, the smallest hitch in him, before he said something low and pleasant that Gerald did not get.
 
-"That's all I asked of you," she said, and the round carried her on past number four and down toward the Ortegas' house.
+“That's all I asked of you,” she said, and the round carried her on past number four and down toward the Ortegas' house.
 
 Gerald stood at his mailbox with three pieces of mail in his hand. *You came back.* Back from where. The man's car had been in its drive every morning he had looked, even on Saturday it had been back before noon. 
 
@@ -106,8 +106,8 @@ He went downstairs.
 
 Sandra was at the table with the paper and the second cup she always poured and he always came down too late to drink. She looked up when he sat. She had been looking up like that for the better part of a year, at a man who came to the table gray and somewhere else, and she did not look surprised to find him the same today.
 
-"You didn't sleep," she said. Not a question. After forty years she did not bother to make it one.
+“You didn't sleep,” she said. Not a question. After forty years she did not bother to make it one.
 
-"Not much."
+“Not much.”
 
-"You never do, lately." She said it without an edge, went back to her paper, and let him keep whatever he was keeping, as she had let him keep it all year.
+“You never do, lately.” She said it without an edge, went back to her paper, and let him keep whatever he was keeping, as she had let him keep it all year.

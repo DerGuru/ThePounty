@@ -63,23 +63,23 @@ At ten, she called Daniel Hartmann.
 
 He explained options. She could refuse to sign and force Carlos to seek a court order, which would take six to eight weeks and might or might not be granted. She could sign and consent to a single joint appraisal, which would lock in a value both sides would have to accept. She could sign and commission her own parallel appraisal, which would cost between four and six hundred dollars and would give her an independent number to negotiate against, which Hartmann thought was the strongest option.
 
-"How long does the parallel appraisal take?"
+“How long does the parallel appraisal take?”
 
-"Two weeks if you call today. Three if you wait."
+“Two weeks if you call today. Three if you wait.”
 
-"And what does it actually do for me?"
+“And what does it actually do for me?”
 
-"It gives you a number. If their number is higher than yours, you have a counter. You also have a number to compare, whether their number is reasonable. Either way, you stop being the person who has to wait for someone else's information."
+“It gives you a number. If their number is higher than yours, you have a counter. You also have a number to compare, whether their number is reasonable. Either way, you stop being the person who has to wait for someone else's information.”
 
 She thought about that.
 
-"Mrs. Alvarez?"
+“Mrs. Alvarez?”
 
-"I'm here."
+“I'm here.”
 
-"You don't have to decide today."
+“You don't have to decide today.”
 
-"I know."
+“I know.”
 
 She thanked him and hung up. She sat at the kitchen table and looked at the back of the electric bill envelope with the three appraiser numbers on it.
 
@@ -101,51 +101,51 @@ After lunch she poured a fresh cup of coffee and carried it out to the front por
 
 Aldric came out of his house a few minutes later with a mug of his own. She raised hers from across the way. He raised his back, then came down his driveway, walked along the sidewalk past the empty house, and turned up her walk. He climbed her three steps and stopped at the railing.
 
-"Good afternoon, Maria."
+“Good afternoon, Maria.”
 
-"Aldric. Sit, if you want."
+“Aldric. Sit, if you want.”
 
-"Thank you." He sat in the other wicker chair, the one Jesús used when he came by. He set his mug on the railing and looked out at the street. "Many happy returns of the day."
+“Thank you.” He sat in the other wicker chair, the one Jesús used when he came by. He set his mug on the railing and looked out at the street. “Many happy returns of the day.”
 
 She did not answer right away. She had not told him. She knew she had not told him. The street did not know. Rosa did not know, because if Rosa had known, Rosa would have brought something over already, and Rosa had not.
 
-"Thank you."
+“Thank you.”
 
 He nodded. He picked up his mug and took a sip. He did not look at her when he said it, and he did not look at her after. That was, she understood, on purpose.
 
-"The Carolina wrens are back early this year," he said. "I heard one in the rhododendron behind your fence this morning."
+“The Carolina wrens are back early this year,” he said. “I heard one in the rhododendron behind your fence this morning.”
 
-"Are they?"
+“Are they?”
 
-"They are. It's a good sign. They tend to come back when the worst of the cold is finished." He took another sip. "It isn't, of course. But they think so."
+“They are. It's a good sign. They tend to come back when the worst of the cold is finished.” He took another sip. “It isn't, of course. But they think so.”
 
 She almost smiled.
 
 They sat for another minute without saying anything. A car went by at the far end of the street. Somewhere down by the cul-de-sac a dog barked twice and stopped.
 
-"I never thanked you properly for the screwdriver set."
+“I never thanked you properly for the screwdriver set.”
 
-"It wasn't much."
+“It wasn't much.”
 
-"It was the right thing."
+“It was the right thing.”
 
-He nodded once, slowly, and looked out at the street. "Good."
+He nodded once, slowly, and looked out at the street. “Good.”
 
 That was all he said about it. He did not ask which screw or which hinge or which problem in which room. He drank from his mug and looked at the empty house at number six.
 
-"The realtor sign blew over again," he said. "Third time this winter."
+“The realtor sign blew over again,” he said. “Third time this winter.”
 
-"I noticed."
+“I noticed.”
 
-"Whoever's listing it has stopped coming out to fix it."
+“Whoever's listing it has stopped coming out to fix it.”
 
-"They've stopped coming out to do anything."
+“They've stopped coming out to do anything.”
 
 He almost smiled at that. He did not, quite. He set his mug back on the railing and looked at her front steps.
 
 A while passed. The cold was getting into her hands through the ceramic. The sun had moved a few inches along the porch boards.
 
-"How are things with the divorce?" he asked. "If I may."
+“How are things with the divorce?” he asked. “If I may.”
 
 She had known he might ask. She had not known until that moment what she would say.
 
@@ -155,17 +155,17 @@ But she didn't.
 
 The letter was hers. Thursday morning was hers. The four hundred and seventy-five dollars she did not have were hers. And she found, sitting on her own porch beside her neighbor, that she wanted to keep them that way a little longer.
 
-"Not done yet. A few things still to sort out. Property side, mostly."
+“Not done yet. A few things still to sort out. Property side, mostly.”
 
-He nodded, slowly. He did not look at her. "If there's anything that would help."
+He nodded, slowly. He did not look at her. “If there's anything that would help.”
 
-"Thank you." She said it the way she meant it, which was: heard, registered, not taken up. "I think I've got the next piece."
+“Thank you.” She said it the way she meant it, which was: heard, registered, not taken up. “I think I've got the next piece.”
 
-"Good."
+“Good.”
 
-He finished his coffee in two more sips and stood up. "I won't keep you. I hope your day is a good one."
+He finished his coffee in two more sips and stood up. “I won't keep you. I hope your day is a good one.”
 
-"Thank you, Aldric."
+“Thank you, Aldric.”
 
 He went down the steps, past number six, and into his house.
 

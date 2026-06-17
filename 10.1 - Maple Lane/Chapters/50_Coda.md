@@ -12,7 +12,7 @@ It bugged her. She'd never been able to say why, or stack the why into anything 
 
 She didn't make a scene. A scene gave a guy somewhere to put it, an argument to have instead of the quiet he had coming. So when it was her turn she set the tomatoes in the pan herself, watched the needle find its number, looked at the number, looked at him, and let him watch her read it.
 
-"Fair scale today." Friendly. Easy. "I'll know next week."
+“Fair scale today.” Friendly. Easy. “I'll know next week.”
 
 His face tried four things and landed on none of them. He gave her the right change without being asked. She thanked him, meant it about as much as he'd meant the smile, and moved on. Done. She didn't think about him again.
 

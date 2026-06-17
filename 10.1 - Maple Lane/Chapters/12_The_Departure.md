@@ -28,19 +28,19 @@ Dave Ortega's garage door opened.
 
 The sound carried in the still morning, the mechanical rattle cutting across the quiet street. Dave appeared in his driveway in gym shorts and running shoes, phone strapped to his arm. He saw Aldric and raised a hand.
 
-"Hey. Early start."
+“Hey. Early start.”
 
 Ms. Yuen watched the shift. It was visible, if you knew where to look. Aldric's shoulders moved back. His chin lifted. The line of his mouth changed. He turned, and when he faced Dave, he was the man from the porch again. The one who asked about the children and brought cookies at Christmas and waved at every passing car.
 
-"Good morning, Dave." The smile was there. Full, warm, present. "Just a short trip. Business. I should be back by Saturday."
+“Good morning, Dave.” The smile was there. Full, warm, present. “Just a short trip. Business. I should be back by Saturday.”
 
-"Need anything while you're gone? I can grab the mail."
+“Need anything while you're gone? I can grab the mail.”
 
-"That would be very kind. Thank you." Aldric opened the car door. "Give my best to Rosa and the children."
+“That would be very kind. Thank you.” Aldric opened the car door. “Give my best to Rosa and the children.”
 
-"Will do. Safe travels."
+“Will do. Safe travels.”
 
-"Thank you."
+“Thank you.”
 
 He got in. The door closed. The engine started, quiet and low. The headlights came on. The green Volvo pulled out of the driveway, turned left at the end of the street, and was gone.
 

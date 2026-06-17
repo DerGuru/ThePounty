@@ -4,41 +4,41 @@
 
 Saturday morning, a little past eight. Dave came down the stairs in his oldest jeans and the sweatshirt Rosa had been trying to throw out for two years. The kitchen smelled like coffee and the warm yeast of the cinnamon rolls she had pulled from the oven ten minutes ago. The pan was already in the carrier on the counter, the foil tucked under at the corners, every fold the same width.
 
-"Sandra's been at the corner since seven-thirty," Rosa said without turning around.
+“Sandra's been at the corner since seven-thirty,” Rosa said without turning around.
 
-"Of course she has."
+“Of course she has.”
 
-"With the clipboard."
+“With the clipboard.”
 
-"Of course."
+“Of course.”
 
 Dave poured a cup and stood at the window. From the angle of the kitchen he could see the south end of the block, where the bench and the bed of bark mulch sat in the small patch of grass that nobody officially owned and everybody mowed. The daffodil bulbs Rosa had planted in October were finally showing green tongues. Sandra was there with the clipboard. Tamara Flynn was there too, with what looked like a clipboard of her own. They were standing about four feet apart and not quite facing each other.
 
-"This is going to be a day," Dave said.
+“This is going to be a day,” Dave said.
 
-"It always is."
+“It always is.”
 
-"Where are the kids?"
+“Where are the kids?”
 
-"Garage. Marcus is trying to convince Lina that he can carry both paint cans."
+“Garage. Marcus is trying to convince Lina that he can carry both paint cans.”
 
-"Can he?"
+“Can he?”
 
-"He can carry neither."
+“He can carry neither.”
 
 Dave drank his coffee. It was already warmer outside than it had been all week. The brown along the front lawns had been brown since November, and the green was coming up underneath it in patches that did not connect yet. The trees on the block were still bare. The forsythia at the Chens' was just starting, yellow buds along the bare twigs, the kind of color that did not look like much from a distance and made the whole street look hopeful up close.
 
 Aldric's Volvo was in his driveway. The porch was empty. Not even a mug was on the table.
 
-"He's already over there," Rosa said, following his look. "I saw him cross with something."
+“He's already over there,” Rosa said, following his look. “I saw him cross with something.”
 
-"With what?"
+“With what?”
 
-"I couldn't tell. Long. Wrapped."
+“I couldn't tell. Long. Wrapped.”
 
-"That sounds promising."
+“That sounds promising.”
 
-"It sounded like wood."
+“It sounded like wood.”
 
 Dave thought about that for a second and then decided not to think about it any further until he had to.
 
@@ -54,23 +54,23 @@ Hector Blum's truck was at the curb. Hector was at the bench end with a tape, a 
 
 Aldric stood beside the tarp with a clipboard of his own. It was smaller than Sandra's. It had numbers on it.
 
-"Morning, Aldric."
+“Morning, Aldric.”
 
-"Good morning, Dave. The wood is dry. I let it sit in the garage through the week to acclimate."
+“Good morning, Dave. The wood is dry. I let it sit in the garage through the week to acclimate.”
 
-"Acclimate."
+“Acclimate.”
 
-"The shop kept it under a fan. Bench wood should sit indoors for at least four days before assembly. Otherwise it cups."
+“The shop kept it under a fan. Bench wood should sit indoors for at least four days before assembly. Otherwise it cups.”
 
-"Cups."
+“Cups.”
 
-"Bows in the middle. After a season."
+“Bows in the middle. After a season.”
 
-"Of course." Dave nodded the nod of a man who was not going to say *I have never thought about this in my life.* "Hector, you good with these?"
+“Of course.” Dave nodded the nod of a man who was not going to say *I have never thought about this in my life.* “Hector, you good with these?”
 
 Hector picked up one of the boards, sighted along the edge and set it down. He picked up another, did the same and nodded once.
 
-"Good wood," he said.
+“Good wood,” he said.
 
 Aldric inclined his head a quarter of an inch. The compliment was logged.
 
@@ -78,31 +78,31 @@ Rosa came over with the cinnamon roll pan and put it on the table next to the co
 
 Aldric crossed the grass to the table. He stopped in front of Rosa.
 
-"I owe you a belated greeting," he said. "March eighth was a Saturday. I let it pass without saying anything. I apologize."
+“I owe you a belated greeting,” he said. “March eighth was a Saturday. I let it pass without saying anything. I apologize.”
 
 Rosa blinked. Then she smiled the smile she had for people who said things she had not expected.
 
-"Aldric. You don't owe me anything."
+“Aldric. You don't owe me anything.”
 
-"I owe you the courtesy of having mentioned it on the day. I did not. I am mentioning it now."
+“I owe you the courtesy of having mentioned it on the day. I did not. I am mentioning it now.”
 
-"Thank you."
+“Thank you.”
 
-"Many happy returns."
+“Many happy returns.”
 
-"Thank you."
+“Thank you.”
 
 He turned, walked back to the tarp, and began handing Hector pre-counted screws from a small wax-paper envelope. 
 
 Dave looked at Rosa.
 
-"Did you know he knew when your birthday was?"
+“Did you know he knew when your birthday was?”
 
-"He asked. In November. He said he wanted to make sure not to miss it."
+“He asked. In November. He said he wanted to make sure not to miss it.”
 
-"And then he missed it."
+“And then he missed it.”
 
-"Two weeks late," Rosa said. "For Aldric, that's a moral injury."
+“Two weeks late,” Rosa said. “For Aldric, that's a moral injury.”
 
 She picked up the pan and went to set it down at a better angle.
 
@@ -116,13 +116,13 @@ Dave dug. The bed at the south end was his job. The soil was good, better than h
 
 Ms. Yuen came down the sidewalk with a paper bag and stopped at the table. Without a word she put the small, square bag down and set a folded note on top with one of the foil rocks. Then she nodded at Sandra, nodded at Rosa, and walked back the way she had come. Sandra opened the bag, looked inside and closed it again with a kind of reverence Dave had only ever seen her use for boxes from her mother.
 
-"What is it?" Dave called.
+“What is it?” Dave called.
 
-"Sesame brittle," Sandra said. "Don't touch it."
+“Sesame brittle,” Sandra said. “Don't touch it.”
 
-"I wouldn't."
+“I wouldn't.”
 
-"Don't even think about touching it."
+“Don't even think about touching it.”
 
 He went back to the spade.
 
@@ -156,29 +156,29 @@ Hector ate standing up beside his truck. Gerald sat at the bench they had just b
 
 They were packing up when Tamara clapped her hands twice, the call she used at the top of every block meeting.
 
-"Before everyone scatters. We're taking a picture, for the newsletter." She already had her phone up. "By the bench. Everybody. The bench is the whole point of the day."
+“Before everyone scatters. We're taking a picture, for the newsletter.” She already had her phone up. “By the bench. Everybody. The bench is the whole point of the day.”
 
 People groaned and got up anyway. Sandra herded. Mrs. Chen nudged the empty pansy flats out of frame with her foot. Gerald gave up his seat, and Ms. Yuen was installed in the middle of the bench, which she accepted as her due. The rest of them filled in behind, Marcus in front with his painted face, Lina with one hand on the back rail.
 
-Aldric took the phone out of Tamara's hand. "Allow me. You organized the day. You should be in it."
+Aldric took the phone out of Tamara's hand. “Allow me. You organized the day. You should be in it.”
 
-"Nice try." She took it back. "You cut the boards. You're in the picture."
+“Nice try.” She took it back. “You cut the boards. You're in the picture.”
 
 For a second Dave thought he might actually argue it. There was a small pause, the kind most people filled without noticing, the one Aldric always seemed to have to work through while everyone else just moved. Then he smiled, stepped in at the end of the back row beside Hector, and let himself be photographed.
 
 Tamara took four pictures. Somebody always blinks or moves about. In this case, it was Dave who blinked and Marcus who moved. Sandra was making a face on the third and Tamara was almost tempted to keep it, but the last was good. She turned the phone around so the front row could see. There they all were, the whole street, the low afternoon sun in their backs, in front of a bench that had not been there that morning.
 
-"I'll send it round," she said. "And I'll print a few, for those of us who don't live on our phones." She said it in Gerald's direction, but she was looking at Ms. Yuen.
+“I'll send it round,” she said. “And I'll print a few, for those of us who don't live on our phones.” She said it in Gerald's direction, but she was looking at Ms. Yuen.
 
 Dave found himself sitting on the grass next to Rosa. She had taken her shoes off. The sun was on her face. The brown along the lawns was, from down here, mostly green underneath.
 
-"Good day," Rosa said.
+“Good day,” Rosa said.
 
-"Good day."
+“Good day.”
 
-"It's going to rain tomorrow."
+“It's going to rain tomorrow.”
 
-"That's fine. The beds need it."
+“That's fine. The beds need it.”
 
 She leaned against him. He let her. The street was quiet in the way of a street that had something to show for itself. The bench held Gerald's weight. The paint was drying. The pansies were where they were supposed to be.
 
@@ -186,9 +186,9 @@ Aldric paused at the corner of the playground on his way back to his house. He s
 
 Dave watched him go.
 
-"What?" Rosa said.
+“What?” Rosa said.
 
-"Nothing."
+“Nothing.”
 
 She made the small sound she made when she did not believe him. She did not press. She rarely did. She knew how to let him think about things until he was ready to talk about them, and how to be there when he was ready.
 

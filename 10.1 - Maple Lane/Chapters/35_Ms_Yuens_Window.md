@@ -36,17 +36,17 @@ Aldric was on his porch with a mug.
 
 He saw her before she saw him. By the time she had lifted her head, his hand was already raised. *Good morning, Ms. Yuen. How is the knee?* Same words, same warmth, every time. She had stopped finding it formulaic. Some people repeated themselves because they had nothing else. He repeated himself because the question still mattered to him on the seventh asking as it had on the first.
 
-"It is tolerable, thank you. The salt on the slab is appreciated."
+“It is tolerable, thank you. The salt on the slab is appreciated.”
 
-"It looked like it wanted attention."
+“It looked like it wanted attention.”
 
-"It has wanted attention since the second year I lived here. No one had noticed before."
+“It has wanted attention since the second year I lived here. No one had noticed before.”
 
-"It was visible in the snow. The other slabs held a flatter coat."
+“It was visible in the snow. The other slabs held a flatter coat.”
 
-"You read concrete now."
+“You read concrete now.”
 
-He almost smiled. "I read what is in front of me."
+He almost smiled. “I read what is in front of me.”
 
 She nodded and walked on.
 
@@ -56,13 +56,13 @@ She finished her loop.
 
 At eleven the doorbell rang. It was Maria Alvarez, with a plate.
 
-"For you," Maria said. "Bizcocho. I made too much. Aldric got one too."
+“For you,” Maria said. “Bizcocho. I made too much. Aldric got one too.”
 
-"Thank you, Maria. That's good. He cleared my walk."
+“Thank you, Maria. That's good. He cleared my walk.”
 
-"He did mine, too. Before I was even awake."
+“He did mine, too. Before I was even awake.”
 
-"He works early."
+“He works early.”
 
 Maria looked at her for a small extra moment. The two women understood the look. They had not exchanged it before, but they had each held it on their own at different windows on different mornings, and to recognize it on another face was a relief, even if neither said so. Maria left. Ms. Yuen put the plate on the kitchen counter.
 
@@ -88,7 +88,7 @@ He was on the porch with the phone to his ear. He was not talking. He was listen
 
 She did not slow. She did not turn her head. The walk past his lawn was twenty-four strides at her pace, and in the ninth one his voice came across the cold air, low and short.
 
-"I understand. Thank you. No, that is sufficient."
+“I understand. Thank you. No, that is sufficient.”
 
 That was all. He lowered his phone and was looking at the screen and put it in his pocket. When she looked at him out of the side of her eye, the small careful arrangement of his face was already gone, the porch face back in its place. She would not have known a phone call had happened if she had arrived three seconds later.
 

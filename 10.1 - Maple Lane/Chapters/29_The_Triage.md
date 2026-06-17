@@ -44,9 +44,9 @@ That was the thing. Not the generator. Anyone could buy a generator. Not the sup
 
 How long had he been collecting this?
 
-Sandra called from downstairs. "Gerald? I made tea. Do you want some?"
+Sandra called from downstairs. “Gerald? I made tea. Do you want some?”
 
-"In a minute."
+“In a minute.”
 
 He stayed at the window. Aldric was back now, coming up his own driveway. He went into the garage. Gerald could see the door go up, the warm light of the generator inside, something organized on shelves that he couldn't make out from this distance. Aldric came back out carrying a large pot with both hands, a stack of bowls balanced on top, and a bag over his shoulder. He walked the length of the street to Mrs. Henderson's. Stayed two minutes. Walked back. Second trip: smaller pot, two thermoses, walked to Ms. Yuen's. Two minutes. Back.
 
@@ -54,11 +54,11 @@ Soup. Gerald could almost laugh. The man had a generator, and two pots of soup r
 
 Who has soup ready? Gerald thought. Who has *all of this* ready?
 
-Sandra appeared at the study door. "Gerald, come downstairs. It's cold up here. Good thing, we have a gas stove. The kitchen will be warmer than the living room."
+Sandra appeared at the study door. “Gerald, come downstairs. It's cold up here. Good thing, we have a gas stove. The kitchen will be warmer than the living room.”
 
-"One moment."
+“One moment.”
 
-"You're watching him again?"
+“You're watching him again?”
 
 Gerald didn't answer. Sandra sighed and went back down. He heard her footsteps on the stairs, the creak of the fifth step, the kitchen door.
 
@@ -66,35 +66,35 @@ At seven-thirty, there was a knock on their front door. Gerald went down. Sandra
 
 Aldric stood on the porch with a propane heater in one hand and a small bag in the other. No lantern this time, just the heater and the bag and that face. Calm. Present. Snow melting on his shoulders.
 
-"Good evening, Sandra. Gerald. I have a spare heater. May I bring it in?"
+“Good evening, Sandra. Gerald. I have a spare heater. May I bring it in?”
 
-Sandra stepped aside before Gerald could say anything. "Aldric, you're a saint. Of course."
+Sandra stepped aside before Gerald could say anything. “Aldric, you're a saint. Of course.”
 
 He came in. He set the heater down in the hallway and pulled the door closed behind him in one practiced motion, faster than the cold could chase him.
 
-"I'll set this up wherever you sleep tonight. The fuel will last fourteen hours on low. That's enough to get past sunrise." He opened the bag. "Spare D batteries for the radio. A small thermos of soup. If you've already eaten, save it for breakfast."
+“I'll set this up wherever you sleep tonight. The fuel will last fourteen hours on low. That's enough to get past sunrise.” He opened the bag. “Spare D batteries for the radio. A small thermos of soup. If you've already eaten, save it for breakfast.”
 
-"How did you have all this ready?" Gerald said. He hadn't meant to ask. It came out before he could choose otherwise.
+“How did you have all this ready?” Gerald said. He hadn't meant to ask. It came out before he could choose otherwise.
 
 Aldric looked at him. Not defensive. Not amused. Just present.
 
-"I keep a few supplies for situations like this."
+“I keep a few supplies for situations like this.”
 
-"Why? I mean, how did you know?" Gerald was fumbling for words.
+“Why? I mean, how did you know?” Gerald was fumbling for words.
 
-Sandra took the bag. "Gerald, let him work."
+Sandra took the bag. “Gerald, let him work.”
 
 Aldric set up the heater in the upstairs hall, where the warmth would reach the connecting rooms. He adjusted the output without looking at the dial. He checked the clearance from the wall. He showed Gerald where the shutoff valve was, twice, slowly.
 
-At the door, putting his hat back on, he said: "The storm should pass by two or three AM. Power restoration is likely by morning. They're working on the substation on Birch."
+At the door, putting his hat back on, he said: “The storm should pass by two or three AM. Power restoration is likely by morning. They're working on the substation on Birch.”
 
-"How do you know that?" Gerald said.
+“How do you know that?” Gerald said.
 
-Aldric smiled. "I called them. The automated line gives a conservative estimation of times, but if you wait for an operator and ask for the dispatch supervisor, they'll give you the actual repair timeline. It's public information. They just don't volunteer it."
+Aldric smiled. “I called them. The automated line gives a conservative estimation of times, but if you wait for an operator and ask for the dispatch supervisor, they'll give you the actual repair timeline. It's public information. They just don't volunteer it.”
 
 He said good night and went home.
 
-Sandra closed the door. "Stop staring, Gerald. The man brought us a heater in a blizzard."
+Sandra closed the door. “Stop staring, Gerald. The man brought us a heater in a blizzard.”
 
 Gerald stood in the hallway with the bag in his hand.
 

@@ -20,31 +20,31 @@ Aldric's house at number four had a single strand of warm white lights along the
 
 There was a candle in his front window. Just the one. Real flame, by the way it moved.
 
-"Mama." Marcus appeared at her elbow. "Is it Christmas now?"
+“Mama.” Marcus appeared at her elbow. “Is it Christmas now?”
 
-"Tomorrow."
+“Tomorrow.”
 
-"How many sleeps?"
+“How many sleeps?”
 
-"One."
+“One.”
 
-"One sleep is not a lot."
+“One sleep is not a lot.”
 
-"No, it isn't."
+“No, it isn't.”
 
 He thought about that, decided it was acceptable, and ran back to his truck.
 
 The front door opened. Cold air accompanied Dave as he came in, stamping snow off his boots, the second string of icicle lights bunched in one hand, the plug end dangling.
 
-"Third of it's dead."
+“Third of it's dead.”
 
-"Out of the box?"
+“Out of the box?”
 
-"Out of the box. I'm driving to the hardware store before they close. Forty minutes, tops."
+“Out of the box. I'm driving to the hardware store before they close. Forty minutes, tops.”
 
-"It's Christmas Eve, Dave."
+“It's Christmas Eve, Dave.”
 
-"That's why I'm going now and not at six." He kissed the side of her head in passing, grabbed his keys off the hook, and was back out the door.
+“That's why I'm going now and not at six.” He kissed the side of her head in passing, grabbed his keys off the hook, and was back out the door.
 
 Five minutes later, the doorbell rang.
 
@@ -54,25 +54,25 @@ She opened the door.
 
 Aldric was on the mat with a stack of three flat white boxes in his arms, tied together with a single length of red baker's twine. There was a smaller box on top, a square one, wrapped in brown paper with a hand-cut paper snowflake taped to it. He was wearing the wool coat with the leather gloves, and his cheeks had the pink the cold gave him in about ninety seconds.
 
-"Rosa. I'm sorry to interrupt. I wanted to bring these by before the evening got away from me."
+“Rosa. I'm sorry to interrupt. I wanted to bring these by before the evening got away from me.”
 
-"You're not interrupting. Come in. It's freezing."
+“You're not interrupting. Come in. It's freezing.”
 
-"I won't stay. You have a house to run." He stepped onto the threshold, no further. He held out the stack. "For the family. There are four. They're labeled on the bottom. The smallest is Marcus's. I'd suggest keeping that one out of his reach until tomorrow, or it will not last the night."
+“I won't stay. You have a house to run.” He stepped onto the threshold, no further. He held out the stack. “For the family. There are four. They're labeled on the bottom. The smallest is Marcus's. I'd suggest keeping that one out of his reach until tomorrow, or it will not last the night.”
 
 She took the stack. It was heavier than she'd expected. The boxes were the kind a real bakery used, not the supermarket kind. White, sturdy, the corners crisp.
 
-"Aldric. This is too much."
+“Aldric. This is too much.”
 
-"It isn't. It's four things from four different places. The driving did most of the work." He smiled. "And it's Christmas."
+“It isn't. It's four things from four different places. The driving did most of the work.” He smiled. “And it's Christmas.”
 
 She brought the stack to the kitchen island and set it down carefully. He followed as far as the doorway, no further. He kept his coat buttoned. The signal was clear. He was not staying.
 
-"Would you open them now? Marcus's stays wrapped, of course — that one is for tomorrow. But the other three." He paused. "If I got something wrong, I'd like to know while the bakeries are still open. There's an hour of daylight left."
+“Would you open them now? Marcus's stays wrapped, of course — that one is for tomorrow. But the other three.” He paused. “If I got something wrong, I'd like to know while the bakeries are still open. There's an hour of daylight left.”
 
-"On Christmas Eve."
+“On Christmas Eve.”
 
-"Call it quality control. The gifts are still for tomorrow. Tonight is for catching my mistakes."
+“Call it quality control. The gifts are still for tomorrow. Tonight is for catching my mistakes.”
 
 She undid the twine.
 
@@ -84,13 +84,13 @@ It was a tres leches. A real one. The cake itself was the color of pale honey, t
 
 She stared at it.
 
-"I asked a friend in the city," Aldric said. "She told me about a Cuban bakery in Yonkers, third generation, the grandmother still does the recipe. I called them on Monday and described what you'd said at the housewarming. They said *evaporated and condensed, never cream, and the cinnamon is for the smell, not the tongue*. I told them that sounded right." He paused. "If it isn't, I'll drive back and tell them."
+“I asked a friend in the city,” Aldric said. “She told me about a Cuban bakery in Yonkers, third generation, the grandmother still does the recipe. I called them on Monday and described what you'd said at the housewarming. They said *evaporated and condensed, never cream, and the cinnamon is for the smell, not the tongue*. I told them that sounded right.” He paused. “If it isn't, I'll drive back and tell them.”
 
 Rosa did not look up from the cake. She did not trust her face for a second.
 
-"It's right," she said. "From the look of it, it's right."
+“It's right,” she said. “From the look of it, it's right.”
 
-"I'm glad."
+“I'm glad.”
 
 She closed the box. She opened Dave's.
 
@@ -98,13 +98,13 @@ Buñuelos. Eight of them, golden brown, dusted with cinnamon sugar, arranged in 
 
 She knew where these were from before he said it. She just knew. She'd heard Dave talk about that panadería for fifteen years.
 
-"Route 9," she said.
+“Route 9,” she said.
 
-"Route 9. I drove out this morning. They fry them to order. I asked the woman behind the counter if they remembered a man who used to come in before his second child was born and ordered six at a time. She laughed and said *honey, that's most of our customers.* But she fried me a fresh batch." A beat. "He'll know. Please tell him I'm sorry I couldn't bring them warm. I drove with the box on the passenger seat and the heater on, but they cool fast."
+“Route 9. I drove out this morning. They fry them to order. I asked the woman behind the counter if they remembered a man who used to come in before his second child was born and ordered six at a time. She laughed and said *honey, that's most of our customers.* But she fried me a fresh batch.” A beat. “He'll know. Please tell him I'm sorry I couldn't bring them warm. I drove with the box on the passenger seat and the heater on, but they cool fast.”
 
-"He'll cry." She said it flat, because it was a fact and not a feeling. "Don't tell him I said that."
+“He'll cry.” She said it flat, because it was a fact and not a feeling. “Don't tell him I said that.”
 
-"I won't."
+“I won't.”
 
 She opened Lina's.
 
@@ -116,55 +116,55 @@ She had not told him about the library book. She had not told anyone. Dave had n
 
 Rosa swallowed.
 
-"Aldric."
+“Aldric.”
 
-"I saw it open on your kitchen table in November," he said. "The recipe. Lina's bookmark holding the page. I asked her what she was reading at school last week, in passing. She told me. I made the connection on the drive home." He was speaking quietly. "If it's too much, you don't have to give it to her. I won't be offended."
+“I saw it open on your kitchen table in November,” he said. “The recipe. Lina's bookmark holding the page. I asked her what she was reading at school last week, in passing. She told me. I made the connection on the drive home.” He was speaking quietly. “If it's too much, you don't have to give it to her. I won't be offended.”
 
-"It's not too much."
+“It's not too much.”
 
-"It's only a cake and a book."
+“It's only a cake and a book.”
 
-"It's not." She set the lid back on the box. Carefully. She did not look at him. "It's a great deal more than a cake and a book."
+“It's not.” She set the lid back on the box. Carefully. She did not look at him. “It's a great deal more than a cake and a book.”
 
 He didn't answer that. He didn't try to soften it. He stood in her kitchen doorway with his hands behind his back and let her have the moment.
 
 She picked up Marcus's last, because she suspected and wanted to be sure. A hexagonal shape wrapped in brown paper, folded along each of the six edges with surgical precision, taped on the inside corner so the tape didn't show, the lopsided paper snowflake on the front. She turned it once in her hands. The paper was too good to open and rewrap.
 
-"It's a tube of Smarties," Aldric said quietly. "He still loves them?"
+“It's a tube of Smarties,” Aldric said quietly. “He still loves them?”
 
-"He's six. He'd marry them if he could."
+“He's six. He'd marry them if he could.”
 
-"Good. I wasn't certain. Tastes shift at six. I checked with the boy who delivers the newspaper, who is eight and has a brother of six. He confirmed."
+“Good. I wasn't certain. Tastes shift at six. I checked with the boy who delivers the newspaper, who is eight and has a brother of six. He confirmed.”
 
 She laughed. It came out wetter than she'd meant.
 
-"You asked the paper boy."
+“You asked the paper boy.”
 
-"I did. He took it very seriously."
+“I did. He took it very seriously.”
 
 She wiped her eye with the heel of her hand and tried to look like she was just brushing hair back.
 
-"Stay for coffee."
+“Stay for coffee.”
 
-"I can't. Thank you. There are a few more stops, and I'd like to finish before dark."
+“I can't. Thank you. There are a few more stops, and I'd like to finish before dark.”
 
-"How many stops?"
+“How many stops?”
 
-"A few." He didn't elaborate. "Merry Christmas, Rosa."
+“A few.” He didn't elaborate. “Merry Christmas, Rosa.”
 
-"You'll come tomorrow."
+“You'll come tomorrow.”
 
 He hesitated.
 
-"I have a quiet couple of days planned. Thank you, though. Truly."
+“I have a quiet couple of days planned. Thank you, though. Truly.”
 
-"You'll have them alone."
+“You'll have them alone.”
 
-"Yes."
+“Yes.”
 
-"Aldric—"
+“Aldric—”
 
-"It's how I prefer these days. It isn't sadness. It's a choice."
+“It's how I prefer these days. It isn't sadness. It's a choice.”
 
 She didn't believe him entirely. She didn't disbelieve him either. She nodded, because what else.
 
@@ -174,61 +174,61 @@ She stood at the island with four bakery boxes and a tube of Smarties and the ra
 
 When Dave came back, he placed the final string of lights before he went in, his fingers red and a roll of electrical tape in one hand.
 
-"Bakery boxes?"
+“Bakery boxes?”
 
-"Aldric's."
+“Aldric's.”
 
-"Aldric brought us bakery boxes."
+“Aldric brought us bakery boxes.”
 
-"Four of them. One each."
+“Four of them. One each.”
 
 Dave lifted the lid of his and stopped moving.
 
-"Rosa."
+“Rosa.”
 
-"I know."
+“I know.”
 
-"Rosa, these are—"
+“Rosa, these are—”
 
-"I know, Dave."
+“I know, Dave.”
 
 He picked one up. He smelled it. He set it down. He stood there at the island with his coat still on and his cheeks still red from outside. His face did the thing, when he was trying to be a grown man about something. He cleared his throat and picked up the buñuelo again. 
 
 He took a bite.
 
-"Christ," he said quietly. With his mouth full. "Christ, Rosa."
+“Christ,” he said quietly. With his mouth full. “Christ, Rosa.”
 
-"Don't eat them all. They're for tomorrow."
+“Don't eat them all. They're for tomorrow.”
 
-"I'm eating one. I'm calibrating."
+“I'm eating one. I'm calibrating.”
 
-"You're calibrating."
+“You're calibrating.”
 
-"How did he—"
+“How did he—”
 
-"Route 9. He drove out this morning."
+“Route 9. He drove out this morning.”
 
 Dave looked at her.
 
-"He drove to Route 9. On Christmas Eve. For me."
+“He drove to Route 9. On Christmas Eve. For me.”
 
-"Apparently."
+“Apparently.”
 
 Dave put the buñuelo down. He took his coat off, finally, and hung it on the hook with care, which was not how he usually hung his coat. He came back to the island and stood with both hands flat on the counter, looking at the boxes.
 
-"What did he get the kids."
+“What did he get the kids.”
 
 She showed him.
 
 He looked at the book for a long time without picking it up. He looked at the Smarties. He looked at his wife.
 
-"He— " Dave said.
+“He— ” Dave said.
 
-"Yes."
+“Yes.”
 
-"Everything."
+“Everything.”
 
-"Yes."
+“Yes.”
 
 Dave nodded slowly. He took the buñuelo and finished it standing up.
 
@@ -266,29 +266,29 @@ Then the bakery boxes.
 
 Marcus saw the Smarties tube and made a noise that did not have a vowel. He held it up to Rosa with both hands like he was presenting a sword.
 
-"From Mr. Aldric," Rosa said.
+“From Mr. Aldric,” Rosa said.
 
-"Can I have one?"
+“Can I have one?”
 
-"After breakfast."
+“After breakfast.”
 
-"But after breakfast is forever."
+“But after breakfast is forever.”
 
 Lina lifted the lid of her box and went still.
 
 She picked up *A Tangle of Knots* first. She turned it over in her hands. She opened it to the title page and read the inscription, and her face did something Rosa had not seen it do in maybe a year. It softened. The ten-year-old armor came off for about three seconds. She looked up at Rosa.
 
-"Where did he get this?"
+“Where did he get this?”
 
-"I don't know."
+“I don't know.”
 
-"It's a hardcover."
+“It's a hardcover.”
 
-"I see."
+“I see.”
 
-"How did he know?"
+“How did he know?”
 
-"He pays attention, Lina."
+“He pays attention, Lina.”
 
 Lina set the book down with both hands, very carefully. She did not eat the fudge cake. She put the lid back on the box. She wanted to keep it intact for a few minutes longer.
 
@@ -308,19 +308,19 @@ Rosa crossed the street.
 
 Inside, the house smelled of coffee and pine. Sandra had the watering can still in one hand.
 
-"Meyer," Sandra said. She was beaming. Her face was pink from the warm kitchen and from something else. "He sent me a *Meyer lemon tree*. The card said *for the casserole*."
+“Meyer,” Sandra said. She was beaming. Her face was pink from the warm kitchen and from something else. “He sent me a *Meyer lemon tree*. The card said *for the casserole*.”
 
 Sandra was almost crying. 
 
-"Gerald is furious," Sandra added, brightening further. "He says it's manipulation. He says nobody remembers a casserole comment for half a year. He says it proves something. I told him to shut up and bring me the watering can."
+“Gerald is furious,” Sandra added, brightening further. “He says it's manipulation. He says nobody remembers a casserole comment for half a year. He says it proves something. I told him to shut up and bring me the watering can.”
 
-"What did Gerald get?"
+“What did Gerald get?”
 
-"A book." Sandra rolled her eyes. "Some boring book about the township water system. From 1962. Hardcover. Aldric stuck a Post-it on page eighty-something. Gerald has been in his study for an hour. Hasn't come out. Hasn't slammed any drawers either, which is the suspicious part." She paused. "I think he's reading it."
+“A book.” Sandra rolled her eyes. “Some boring book about the township water system. From 1962. Hardcover. Aldric stuck a Post-it on page eighty-something. Gerald has been in his study for an hour. Hasn't come out. Hasn't slammed any drawers either, which is the suspicious part.” She paused. “I think he's reading it.”
 
-"Of course he's reading it."
+“Of course he's reading it.”
 
-"He's furious *while* reading it."
+“He's furious *while* reading it.”
 
 Rosa laughed. She squeezed Sandra's arm. She walked on.
 
@@ -330,29 +330,29 @@ Inside the box was a roll-up canvas pouch with a row of paintbrushes in graduate
 
 Maria came to her door before Rosa had decided whether to knock.
 
-"Rosa."
+“Rosa.”
 
-"Merry Christmas, Maria."
+“Merry Christmas, Maria.”
 
-"He left this on my porch this morning."
+“He left this on my porch this morning.”
 
 Maria looked at the box. She did not pick it up. She had not picked it up yet, Rosa understood. She had been standing in her doorway looking at it for a while.
 
-"The card says *for the next thing you decide to fix.*" Maria's voice was even. "He chose them for me."
+“The card says *for the next thing you decide to fix.*” Maria's voice was even. “He chose them for me.”
 
 Rosa held out the tin of polvorones.
 
 Maria took it without looking. She was still looking at the box.
 
-"Rosa. What do you do with this?"
+“Rosa. What do you do with this?”
 
-"You fix something."
+“You fix something.”
 
-"That's not what I meant."
+“That's not what I meant.”
 
 Rosa knew it wasn't.
 
-"I don't know, Maria. I really don't."
+“I don't know, Maria. I really don't.”
 
 They stood there for a moment in the cold. Then Maria reached down and picked up the box and carried it inside, and Rosa went back to the street.
 
@@ -372,19 +372,19 @@ One plate. One glass. One man.
 
 Rosa stood at her sink with her husband at her side and did not look away.
 
-"He didn't get a single gift back, did he?" Dave said quietly.
+“He didn't get a single gift back, did he?” Dave said quietly.
 
-"No."
+“No.”
 
-"Not one."
+“Not one.”
 
-"No."
+“No.”
 
 Dave drank his coffee.
 
-"He didn't expect one," he said.
+“He didn't expect one,” he said.
 
-"No," Rosa said. "He didn't."
+“No,” Rosa said. “He didn't.”
 
 Outside, the candle in Aldric's window kept burning, very slow, the way a real flame did.
 

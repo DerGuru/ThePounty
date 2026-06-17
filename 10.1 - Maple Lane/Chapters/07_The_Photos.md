@@ -8,7 +8,7 @@ The kitchen table was covered in her work. Yarn, pattern printout, her laptop op
 
 She put the hook down and checked her phone again. USPS tracking. She'd been refreshing it since Tuesday, every few hours. It was a box. Cardboard, tape, a label printed at the post office on Route 4 because Carlos couldn't figure out the self-service kiosk. He'd texted her a photo of the receipt. No message. Just the receipt.
 
-She'd stared at that photo for a long time. The date, the weight and the tracking number. His handwriting on the customs form in the "contents" field: *Personal items. Photos.*
+She'd stared at that photo for a long time. The date, the weight and the tracking number. His handwriting on the customs form in the “contents” field: *Personal items. Photos.*
 
 Twenty-three years of marriage and the man still wrote like he was filling out a tax return.
 
@@ -28,61 +28,61 @@ She typed fifty dollars and submitted the form.
 
 Friday she told Rosa. Rosa had come over with tomatoes from her garden, wrapped in paper. Maria thanked her and Rosa asked how she was doing. Maria said fine. Rosa looked at her and waited. Maria told her.
 
-"The photos," Rosa said. She was holding the empty paper in both hands, folding and unfolding it.
+“The photos,” Rosa said. She was holding the empty paper in both hands, folding and unfolding it.
 
-"They're just photos." Maria heard herself say it and hated how it sounded. Thin. Like she was trying to convince someone.
+“They're just photos.” Maria heard herself say it and hated how it sounded. Thin. Like she was trying to convince someone.
 
-"They're not just photos."
+“They're not just photos.”
 
-"No." Maria leaned against the counter. "They're not."
+“No.” Maria leaned against the counter. “They're not.”
 
 Rosa stayed for twenty minutes. She didn't offer solutions, didn't say *maybe it'll turn up* or *have you asked the neighbors*. She sat at the kitchen table and drank the coffee Maria made and talked about her petunias and let the silence hold what needed holding. Maria was grateful for that.
 
 Saturday she filed the police report. Gerald Hooper was on her porch when she got back, a notebook in hand.
 
-"Thursday," he said. "Two forty-seven. USPS. I saw it get delivered."
+“Thursday,” he said. “Two forty-seven. USPS. I saw it get delivered.”
 
-Maria stared at him. "You saw it."
+Maria stared at him. “You saw it.”
 
-"I see all of them." He tapped the pen against the page. "Yours is the fourth. Same window, same pattern. Gone within half an hour, in your case." He looked at her. Not unkindly, but without softness. Gerald didn't do softness. He did data. "I filed a report two weeks ago. I wanted you to know it's documented."
+“I see all of them.” He tapped the pen against the page. “Yours is the fourth. Same window, same pattern. Gone within half an hour, in your case.” He looked at her. Not unkindly, but without softness. Gerald didn't do softness. He did data. “I filed a report two weeks ago. I wanted you to know it's documented.”
 
-"OK," Maria said. She didn't know what else to say. Gerald's documentation wasn't going to bring back Jesús at the county fair.
+“OK,” Maria said. She didn't know what else to say. Gerald's documentation wasn't going to bring back Jesús at the county fair.
 
-"I'll let you know if anything comes of it," Gerald said. He closed the notebook and walked back toward his house. Maria went inside and made tea she didn't drink.
+“I'll let you know if anything comes of it,” Gerald said. He closed the notebook and walked back toward his house. Maria went inside and made tea she didn't drink.
 
 Sunday Jesús came to mow the lawn. He came most Sundays, unless work got in the way. She heard the truck pull up at ten, the tailgate drop, the mower rattle down the ramp. By the time she brought him water he was already halfway done, headphones in, moving in the straight lines Carlos had taught him when he was twelve.
 
 She waited on the porch until he finished. He killed the engine, pulled the headphones down around his neck and took the glass from her hand.
 
-"Thanks, Ma."
+“Thanks, Ma.”
 
 He drank. She watched him. Twenty-one and already built like his father, the same wide shoulders, the same way of standing with his weight on one leg. He'd gotten her eyes, though. Dark, quick. He noticed things.
 
-"You OK?" he said.
+“You OK?” he said.
 
-"The package from your father got stolen."
+“The package from your father got stolen.”
 
-Jesús lowered the glass. "The photos?"
+Jesús lowered the glass. “The photos?”
 
-"Yes."
+“Yes.”
 
-"Shit." He wiped his forehead with the back of his hand. "When?"
+“Shit.” He wiped his forehead with the back of his hand. “When?”
 
-"Thursday."
+“Thursday.”
 
-He was quiet for a moment. Then he sat down on the porch step next to her. Close enough that their shoulders almost touched. "I'm sorry, Ma. That sucks."
+He was quiet for a moment. Then he sat down on the porch step next to her. Close enough that their shoulders almost touched. “I'm sorry, Ma. That sucks.”
 
-"It does."
+“It does.”
 
-"But they're just—" He stopped. Started again. "I mean. You have me. You had all that time with me. The actual time. That's what matters, right? Not pictures of it."
+“But they're just—” He stopped. Started again. “I mean. You have me. You had all that time with me. The actual time. That's what matters, right? Not pictures of it.”
 
 Maria looked at the lawn. Freshly cut.
 
-"You're right," she said. "Of course you're right."
+“You're right,” she said. “Of course you're right.”
 
-He bumped her shoulder with his. "So?"
+He bumped her shoulder with his. “So?”
 
-"So nothing. You're twenty-one. When you're my age and your kid is gone, you'll understand why a box of photos feels like—" She stopped. She didn't have the end of that sentence. "You'll understand."
+“So nothing. You're twenty-one. When you're my age and your kid is gone, you'll understand why a box of photos feels like—” She stopped. She didn't have the end of that sentence. “You'll understand.”
 
 Jesús didn't argue. He finished the water, put the glass on the step and went to edge the walkway. Maria stayed on the porch. The fresh-cut grass smelled like every Sunday since he was old enough to push the mower. That was something. That was real and present and hers.
 
@@ -94,32 +94,32 @@ Tuesday evening someone knocked on her door.
 
 Aldric was on the porch. He was holding a box. Medium-sized, brown cardboard, battered at the corners. Tape half peeled off one side. The shipping label was still attached, smudged but legible: her name, her address and Carlos's return address in Phoenix.
 
-"Maria," he said. "I believe this belongs to you."
+“Maria,” he said. “I believe this belongs to you.”
 
 She looked at the box. She looked at him. Gray linen shirt, dark pants, posture straight. He stood on her porch with the same quiet stillness he brought to everything. His expression was calm. Patient.
 
-"Where did you find it?" she said.
+“Where did you find it?” she said.
 
-"I recovered it." He held it out to her with both hands. Careful. Steady. It was a cardboard box, but his grip said he knew what was inside.
+“I recovered it.” He held it out to her with both hands. Careful. Steady. It was a cardboard box, but his grip said he knew what was inside.
 
 She took it. It was lighter than she expected. Or maybe she'd been imagining it heavier. Five days of imagining it would do that.
 
-"How?" she said.
+“How?” she said.
 
-He smiled. Not the wide one he used at neighborhood events. A smaller one. Private. "I spoke with the person responsible. He won't be troubling the street again."
+He smiled. Not the wide one he used at neighborhood events. A smaller one. Private. “I spoke with the person responsible. He won't be troubling the street again.”
 
 Maria looked at the box in her hands. The tape was different. Someone had opened it and retaped it. Not well. She could see the seam where the new tape overlapped the old.
 
-"You opened it," she said. Not an accusation. A statement.
+“You opened it,” she said. Not an accusation. A statement.
 
-"No." Aldric's expression didn't change. "It was already open when I found it. He'd gone through the contents. He promised that nothing is missing. I believe him."
+“No.” Aldric's expression didn't change. “It was already open when I found it. He'd gone through the contents. He promised that nothing is missing. I believe him.”
 
 Her photos. Jesús at five. Jesús at twelve. The one from the hospital the day he was born, where she was sweat-soaked, exhausted, holding him with both hands. Aldric brought them to her door.
 
 
-"Thank you," she said. The words came out smaller than she intended.
+“Thank you,” she said. The words came out smaller than she intended.
 
-"You're welcome." He stepped back, the usual smile returning to his face. One step, then another. Giving her space. Giving the moment space. "I'm sorry it happened. Some things shouldn't be taken."
+“You're welcome.” He stepped back, the usual smile returning to his face. One step, then another. Giving her space. Giving the moment space. “I'm sorry it happened. Some things shouldn't be taken.”
 
 He turned to go. She watched him walk down her porch steps, down the path, through the gate. No backward glance. No waiting to be thanked again. No explanation of how he'd found the thief, how he'd gotten the box back, what he'd said or done. He walked back toward number four with his hands at his sides, the porch light catching the gray in his hair.
 

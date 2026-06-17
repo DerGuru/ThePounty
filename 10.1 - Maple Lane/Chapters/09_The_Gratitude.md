@@ -4,55 +4,55 @@
 
 The truck pulled up at ten, like most Sundays. The tailgate dropped, the mower rattled down the ramp and Jesús was halfway across the lawn before Maria made it to the porch with his water.
 
-"Morning, Ma."
+“Morning, Ma.”
 
-"Morning." She held the glass out. He took it, drank half in one go and set it on the porch railing. He was wearing the faded Dodgers shirt she'd bought him three Christmases ago, the one with the bleach spot on the hem. No longer good for everyday wear, but good enough for today. He looked good. Tanned from the landscaping jobs, shoulders wider than last year. 
+“Morning.” She held the glass out. He took it, drank half in one go and set it on the porch railing. He was wearing the faded Dodgers shirt she'd bought him three Christmases ago, the one with the bleach spot on the hem. No longer good for everyday wear, but good enough for today. He looked good. Tanned from the landscaping jobs, shoulders wider than last year. 
 
-"Sorry about last week," he said. "Job ran over. The Petersons' backyard took all day. Irrigation line was busted under the patio."
+“Sorry about last week,” he said. “Job ran over. The Petersons' backyard took all day. Irrigation line was busted under the patio.”
 
-"It's fine. Dave did it."
+“It's fine. Dave did it.”
 
 He put his headphones in and started the mower. Maria went back inside. The sound filled the house, the steady back-and-forth rhythm that meant Sunday. She made coffee, checked her email and listened to the pattern of it. The turns at the fence line. The pause at the flower bed where he was extra careful. 
 
 Twenty minutes went by and he knocked on the back door. His headphones around his neck, grass clippings on his sneakers.
 
-"Done." He kissed her cheek. Quick, casual. He'd started that after Carlos left, like he'd decided it was part of his job now too. "Looks good out there."
+“Done.” He kissed her cheek. Quick, casual. He'd started that after Carlos left, like he'd decided it was part of his job now too. “Looks good out there.”
 
-"Thank you, mijo."
+“Thank you, mijo.”
 
 He came inside and got more water from the fridge. He leaned against the counter where Carlos used to stand. She pushed that thought away. It wasn't useful.
 
-"Hey." He nodded at the kitchen table. "The photos. You got them back."
+“Hey.” He nodded at the kitchen table. “The photos. You got them back.”
 
 The Ziploc bag was still on the table, some of the photos spread out from where she'd been looking at them yesterday. Jesús at five. Jesús and his grandmother. The hospital one she couldn't stop touching.
 
-"Aldric brought them back." 
+“Aldric brought them back.” 
 
-"The new guy? How'd he manage that?"
+“The new guy? How'd he manage that?”
 
-"I don't know. He just did."
+“I don't know. He just did.”
 
-Jesús picked up the one from the county fair, looked at it and smiled that half-smile he did when he was embarrassed by how young he used to be. "Cotton candy hair."
+Jesús picked up the one from the county fair, looked at it and smiled that half-smile he did when he was embarrassed by how young he used to be. “Cotton candy hair.”
 
-"You wouldn't let me wash it out. You slept with it like that."
+“You wouldn't let me wash it out. You slept with it like that.”
 
-"Gross." He put it back down carefully, the right way up. "Glad they're back, Ma."
+“Gross.” He put it back down carefully, the right way up. “Glad they're back, Ma.”
 
-"Me too."
+“Me too.”
 
-He stretched, looked around the kitchen. His eyes landed on the tissue-paper bag by the hallway door. "What's that?"
+He stretched, looked around the kitchen. His eyes landed on the tissue-paper bag by the hallway door. “What's that?”
 
-"A cardigan. For Aldric. As a thank-you."
+“A cardigan. For Aldric. As a thank-you.”
 
-Jesús raised his eyebrows. "You knit him a whole cardigan?"
+Jesús raised his eyebrows. “You knit him a whole cardigan?”
 
-"It only took eleven days."
+“It only took eleven days.”
 
-"Only." He shook his head, smiling. "You're something else." He drained the glass, put it in the sink and kissed her temple. "I gotta go. Got the Reeves' place at one."
+“Only.” He shook his head, smiling. “You're something else.” He drained the glass, put it in the sink and kissed her temple. “I gotta go. Got the Reeves' place at one.”
 
-"Drive safe."
+“Drive safe.”
 
-"Always do."
+“Always do.”
 
 The screen door slapped shut. The truck started. She listened to it pull away, the rattle of the mower on the ramp fading at the end of the street. The house was quiet again. The lawn was done. The grass smell came through the open window, thick, green, and warm.
 
@@ -70,45 +70,45 @@ It was early evening, still warm, the kind of late-summer warmth that held the s
 
 He looked up before she reached the steps. He always did that. He always knew you were there before you announced it.
 
-"Maria." He slid a bookmark between the pages, closed the book and set it on the side table. He stood. "Good evening."
+“Maria.” He slid a bookmark between the pages, closed the book and set it on the side table. He stood. “Good evening.”
 
-"Hi." She held up the bag. It felt too light in her hand. "I made you something. For—" She stopped and started again. "For the photos. I never properly thanked you."
+“Hi.” She held up the bag. It felt too light in her hand. “I made you something. For—” She stopped and started again. “For the photos. I never properly thanked you.”
 
-"You did thank me."
+“You did thank me.”
 
-"I said thank you. That's not the same thing."
+“I said thank you. That's not the same thing.”
 
 He looked at her. His smile widened. Then he took the bag from her with both hands and opened it on the porch railing.
 
 He unfolded the tissue paper, looking for the seams and opening them. The cardigan lay there, the slate blue catching the porch light. He lifted it up and held it at arm's length for a moment. His fingers found the ribbing at the cuff, ran along the edge. He turned it and looked at the back, the shoulders, the way the pattern aligned at the seams.
 
-"You made this?" He asked.
+“You made this?” He asked.
 
-"Yes."
+“Yes.”
 
-"The color." He held it up against the light and tilted his head. "This is Malabrigo, isn't it? The Rios line. Colorway — " He paused. "Azul Profundo?"
+“The color.” He held it up against the light and tilted his head. “This is Malabrigo, isn't it? The Rios line. Colorway — ” He paused. “Azul Profundo?”
 
-Maria stared at him. "How do you know that?"
+Maria stared at him. “How do you know that?”
 
-"I pay attention." He held it closer to the porch light. "Extremely well-chosen."
+“I pay attention.” He held it closer to the porch light. “Extremely well-chosen.”
 
 It hadn't been accidental. She'd spent forty minutes on the yarn website comparing swatches. But she hadn't expected anyone to notice. Carlos had never noticed. Jesús wouldn't know a colorway from a paint chip.
 
 Aldric put it on. Right there, on the porch, over his shirt. He shrugged it onto his shoulders, adjusted the collar, and buttoned the middle button. It fit. The shoulders were slightly wide because she'd measured by eye, not by tape. But it fit the way a hand-knit was supposed to fit. Loose. Comfortable. Worn.
 
-"Maria." He looked at her. The full smile. The one that used the whole face. "This is one of the most thoughtful gifts I have ever received. Thank you."
+“Maria.” He looked at her. The full smile. The one that used the whole face. “This is one of the most thoughtful gifts I have ever received. Thank you.”
 
-She didn't know what to do with that sentence. It was too much and exactly right at the same time. "It's just a cardigan," she said.
+She didn't know what to do with that sentence. It was too much and exactly right at the same time. “It's just a cardigan,” she said.
 
-"No. A cardigan like this doesn't happen overnight. That's your time, given to me voluntarily, shaped into something useful and beautiful. That is not *just* anything." He ran his hand along the sleeve. "I will wear it. Often."
+“No. A cardigan like this doesn't happen overnight. That's your time, given to me voluntarily, shaped into something useful and beautiful. That is not *just* anything.” He ran his hand along the sleeve. “I will wear it. Often.”
 
-"You don't have to."
+“You don't have to.”
 
-"I know. That's why it matters." He sat back down in the rocking chair. Still wearing it. He picked up the book. "Would you like to stay for tea? The kettle is still warm."
+“I know. That's why it matters.” He sat back down in the rocking chair. Still wearing it. He picked up the book. “Would you like to stay for tea? The kettle is still warm.”
 
-"No. Thank you. I should—" She gestured vaguely toward her house. Toward nothing specific. "I have orders to finish."
+“No. Thank you. I should—” She gestured vaguely toward her house. Toward nothing specific. “I have orders to finish.”
 
-"Of course. Good evening, Maria. And truly — thank you."
+“Of course. Good evening, Maria. And truly — thank you.”
 
 She walked home. Past number six with its overgrown lawn, through her gate and up her porch. The porch light was off because she'd forgotten to set the timer again. She went inside and put the kettle on. Habit. The kitchen was clean. The crochet basket was on the table, the half-finished blanket for the woman in Portland draped over the arm of the couch. Her laptop was open to the Etsy dashboard. Three orders pending. One review to respond to. The same things that had been there this morning.
 

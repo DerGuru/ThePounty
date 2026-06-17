@@ -26,13 +26,13 @@ He stepped aside. The man went in. The door closed.
 
 Dave picked up the pressure washer wand. He didn't turn it on. The moss stain was still there, half-dissolved, the green edge feathering into clean concrete. Behind him, Marcus came around the side of the house.
 
-"Dad, can I have a popsicle?"
+“Dad, can I have a popsicle?”
 
-"Ask your mom."
+“Ask your mom.”
 
-"She said to ask you."
+“She said to ask you.”
 
-"Then yes. One. Not the blue ones, those stain everything."
+“Then yes. One. Not the blue ones, those stain everything.”
 
 Marcus ran back inside. The screen door slapped shut behind him. Dave looked at the moss stain. Then at Aldric's closed front door.
 
@@ -52,65 +52,65 @@ Aldric stood on the porch. His hands were at his sides. He was looking at the st
 
 Then Aldric turned his head. Saw Dave standing there with the pressure washer wand dripping onto his shoes. The smile came back. Instant, full, warm.
 
-"Dave. Good afternoon. The driveway looks excellent."
+“Dave. Good afternoon. The driveway looks excellent.”
 
-"Thanks." Dave coiled the hose, doing something with his hands because standing still felt wrong. "Everything OK?"
+“Thanks.” Dave coiled the hose, doing something with his hands because standing still felt wrong. “Everything OK?”
 
-"Perfectly fine. Old acquaintance." Aldric lifted one hand. A wave and a closing of a subject, both at once. "Enjoy your evening."
+“Perfectly fine. Old acquaintance.” Aldric lifted one hand. A wave and a closing of a subject, both at once. “Enjoy your evening.”
 
 He went inside. The door closed. The porch was empty.
 
 Dave finished the driveway. He put the pressure washer back in the garage, wiped it down, and wrapped the cord how the rental place wanted. He found the lost earbud in the grass by the spigot, went inside and showered. He came downstairs to the smell of Rosa's sofrito and the sound of Marcus explaining why his dinosaur had seven legs.
 
-"More legs, more speed," Marcus said to his drawing.
+“More legs, more speed,” Marcus said to his drawing.
 
-"That's not how it works," Lina said from the couch without looking up from her phone.
+“That's not how it works,” Lina said from the couch without looking up from her phone.
 
-"How would you know? You've never seen a dinosaur."
+“How would you know? You've never seen a dinosaur.”
 
-"Neither have you."
+“Neither have you.”
 
-"I've seen bones."
+“I've seen bones.”
 
-Dave kissed Rosa's temple on his way to the fridge. She was stirring the pot one-handed, her other arm braced against the counter, which meant her back was bothering her. He made a mental note and asked with his hand on her hip, quiet: "You OK?"
+Dave kissed Rosa's temple on his way to the fridge. She was stirring the pot one-handed, her other arm braced against the counter, which meant her back was bothering her. He made a mental note and asked with his hand on her hip, quiet: “You OK?”
 
-"Fine. Just stood too long at the market." She tilted her head toward the stove. "Taste."
+“Fine. Just stood too long at the market.” She tilted her head toward the stove. “Taste.”
 
-He took the wooden spoon. Tomato, garlic, and cumin. Perfect. "Good."
+He took the wooden spoon. Tomato, garlic, and cumin. Perfect. “Good.”
 
-"I know." She smiled. "Beer's in the door." Then, without turning: "Why did you let Marcus have a popsicle? Dinner's in twenty minutes."
+“I know.” She smiled. “Beer's in the door.” Then, without turning: “Why did you let Marcus have a popsicle? Dinner's in twenty minutes.”
 
-"He said you told him to ask me."
+“He said you told him to ask me.”
 
-Rosa turned around. "I told him no."
+Rosa turned around. “I told him no.”
 
-"That little— " 
+“That little— ” 
 
 He got the beer, opened it and leaned against the counter next to her.
 
-"Aldric had a visitor today," he said.
+“Aldric had a visitor today,” he said.
 
-Rosa looked up. "Oh? Who?"
+Rosa looked up. “Oh? Who?”
 
-"Don't know. Guy in a suit. Silver rental car." He took a sip. "Something felt off about it."
+“Don't know. Guy in a suit. Silver rental car.” He took a sip. “Something felt off about it.”
 
-"Off how?"
+“Off how?”
 
-Dave peeled at the label on the bottle, trying to find the word. "Smooth," he said. "Too smooth. Like everything about the guy was deliberate."
+Dave peeled at the label on the bottle, trying to find the word. “Smooth,” he said. “Too smooth. Like everything about the guy was deliberate.”
 
-Rosa's spoon paused in the pot. "Isn't everything about Aldric deliberate?"
+Rosa's spoon paused in the pot. “Isn't everything about Aldric deliberate?”
 
-"Yeah, but—" He took another sip. "Aldric does it warm. This guy did it cold." He looked at the label and kept peeling. "Like someone who practices looking normal. But hasn't gotten to the part where it stops looking like practice."
+“Yeah, but—” He took another sip. “Aldric does it warm. This guy did it cold.” He looked at the label and kept peeling. “Like someone who practices looking normal. But hasn't gotten to the part where it stops looking like practice.”
 
 Rosa went back to stirring. The sofrito bubbled. Marcus had moved on to giving his dinosaur wings. Lina had disappeared upstairs. Outside, the evening was settling in. Dave could hear someone's wind chimes and the faint bass of the Greens' daughter's music three houses down across the street.
 
-"He's not on the porch," Rosa said.
+“He's not on the porch,” Rosa said.
 
 Dave turned and looked through the kitchen window. Aldric's porch. The lamp was on, same as every evening. But the chair was empty. At seven-thirty on a Wednesday evening in early September, when the heat finally broke and the street smelled like barbecue and cut grass, Aldric wasn't out there.
 
 In all the time, Aldric had been there, Dave had never seen that chair empty on a warm evening. Not once.
 
-"No," he said. "He's not."
+“No,” he said. “He's not.”
 
 Rosa didn't say anything else. She turned the heat down under the sofrito. Marcus asked if dinosaurs could fly and answered his own question before anyone else could.
 

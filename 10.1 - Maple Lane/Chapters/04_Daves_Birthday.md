@@ -4,37 +4,37 @@
 
 Rosa had started the tradition three years ago. Dave's birthday fell on a Saturday this year, which meant the full production: grill, yard, neighbors, the clipboard.
 
-The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers' kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called "Contingencies" which meant things that would go wrong and whose fault it would be.
+The clipboard had a list. The list had columns. There was a column for who was bringing what, a column for allergies — the Parkers' kid was allergic to everything that tasted good — a column for setup volunteers, and a column Rosa called “Contingencies” which meant things that would go wrong and whose fault it would be.
 
 Dave's job was the grill. He was good at the grill. He understood the grill. The grill did not have columns. He'd told Rosa he didn't need a party. That had been a week ago and it had not gone anywhere.
 
 He was outside at three, scraping the grate with a wire brush. Rosa came down the back steps with a tray of marinated chicken and set it on the side table.
 
-"You know what would've been easier," Dave said. He didn't look up from the grate. "Drive out to that panadería off Route 9. The one with the buñuelos."
+“You know what would've been easier,” Dave said. He didn't look up from the grate. “Drive out to that panadería off Route 9. The one with the buñuelos.”
 
-"Dave."
+“Dave.”
 
-"Fried to order. Sugar still warm on them. Best I've ever had."
+“Fried to order. Sugar still warm on them. Best I've ever had.”
 
-"So you've said."
+“So you've said.”
 
-"Haven't been back since before Marcus was born."
+“Haven't been back since before Marcus was born.”
 
-"You've said that too."
+“You've said that too.”
 
-"If it were up to me, that's where I'd be tonight. Just me, a paper bag, and six of those things."
+“If it were up to me, that's where I'd be tonight. Just me, a paper bag, and six of those things.”
 
-"It's a cookout, Dave. It's your birthday."
+“It's a cookout, Dave. It's your birthday.”
 
-"With a guest list."
+“With a guest list.”
 
-"It's your *birthday*."
+“It's your *birthday*.”
 
 Aldric appeared at the fence between their yards. He was carrying a wooden board the size of a small table. It was covered in things Dave couldn’t identify.
 
-"Good afternoon, Dave. Am I early?" He glanced at the grill setup. "And happy birthday."
+“Good afternoon, Dave. Am I early?” He glanced at the grill setup. “And happy birthday.”
 
-"Thanks. People start showing up around four." Dave looked at the board. "What is that?"
+“Thanks. People start showing up around four.” Dave looked at the board. “What is that?”
 
 Aldric looked down at it like he’d forgotten he was holding it. “A charcuterie board. I hope it’s not too much. I wasn’t sure what everyone liked, so I tried to cover a range.”
 
@@ -46,11 +46,11 @@ Dave walked over to look. The board had meats arranged in folded rosettes. Chees
 
 Dave looked back at his grill. His grill had hot dogs from Costco. A pack of forty-eight. He’d also bought buns, ketchup, and that yellow mustard that came in a squeeze bottle.
 
-“That’s— " Dave struggled for words. "—impressive".
+“That’s— ” Dave struggled for words. “—impressive”.
 
 “I hope it’s appropriate. I wasn’t sure of the formality level.” Aldric said without irony. He genuinely wasn’t sure if a neighborhood cookout in a cul-de-sac was a formal or informal event.
 
-"We're eating hot dogs on paper plates, man. It's not even a real party. Rosa calls it a cookout."
+“We're eating hot dogs on paper plates, man. It's not even a real party. Rosa calls it a cookout.”
 
 Aldric smiled. “Then I may have overcalibrated. But better too much than too little.”
 
@@ -76,7 +76,7 @@ Aldric took the tongs. He spread the coals with precision into even layers. He w
 
 “I believe you.” He put the tongs down. The coals were perfectly even.
 
-People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda, his own chair, and a card he handed to Dave without ceremony. "Happy birthday. Don't open it now, it's just money." Then Sandra, who came out her front door already talking, carrying a potato salad and her loud opinions about something he couldn't quite get from her short burst of words. Gerald followed, hands in pockets, scanning the gathering.
+People arrived in waves. The Muñozes first, because Bob was always early to everything. He was carrying a case of soda, his own chair, and a card he handed to Dave without ceremony. “Happy birthday. Don't open it now, it's just money.” Then Sandra, who came out her front door already talking, carrying a potato salad and her loud opinions about something he couldn't quite get from her short burst of words. Gerald followed, hands in pockets, scanning the gathering.
 
 The Parkers brought their allergic kid and a case of sparkling water. Their kid immediately ran to the swing set across the street. The neighborhood had blocked the road for the afternoon, so it was fine. Mrs. Alvarez arrived with two trays of empanadas covered in foil. The neighbors from fourteen whose names Dave could never quite hold onto brought a fruit salad and a six-pack. Ms. Yuen came last, walking slowly, carrying nothing, watching everything — as usual. She sat in the lawn chair at the edge of the circle and accepted a plate when Rosa brought her one.
 
@@ -110,7 +110,7 @@ Dave flipped a burger. “That’s nice.”
 
 She went back to the food table. Dave stayed at the grill. He didn’t know what to do with that last sentence. He stared a moment, shrugged, and continued flipping burgers.
 
-An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his third beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who'd charged her two hundred dollars to tighten a pipe. The story involved hand gestures. Mrs. Alvarez laughed at the right moments, but when Sandra paused for breath, she said something about her own week — her lawyer hadn't returned her calls, the paperwork was sitting somewhere between two offices, and nobody seemed to think it was important. Sandra squeezed her arm. "Men," she said, which covered approximately none of the actual problem but all of the sentiment. 
+An hour in, the charcuterie board was gone. The empanadas were half gone. The hot dogs were holding steady. Gerald was on his third beer, sitting in a lawn chair, watching. Sandra was telling a story to Mrs. Alvarez about a plumber who'd charged her two hundred dollars to tighten a pipe. The story involved hand gestures. Mrs. Alvarez laughed at the right moments, but when Sandra paused for breath, she said something about her own week — her lawyer hadn't returned her calls, the paperwork was sitting somewhere between two offices, and nobody seemed to think it was important. Sandra squeezed her arm. “Men,” she said, which covered approximately none of the actual problem but all of the sentiment. 
 
 Aldric had gone to the playground and was crouching in the grass near the swing set now. Dave’s youngest was showing him something. Dave walked over with a plate of burgers for the table and caught the tail end.
 
@@ -172,7 +172,7 @@ A bird was singing. Dave could hear it now. He’d been hearing it all along, pr
 
 Ms. Yuen, from her chair at the edge, said nothing. But she was watching Aldric. She’d been watching him all evening. Her eyes moved from his hands to his face and back. She didn’t look away when he noticed. He tilted his head toward her. A small acknowledgment. She nodded. That was it.
 
-The party wound down slowly. Nobody wanted to be the first to leave, which was always how good parties ended. Bob left first because he had a dog to let out. Then the Parkers, carrying their sleeping kid. Mrs. Alvarez. The neighbors from the north end — Aldric shook their hands at the gate and said, "Good night, Mr. and Mrs. Miller. Thank you for the fruit salad." Dave heard the name and immediately forgot it again.
+The party wound down slowly. Nobody wanted to be the first to leave, which was always how good parties ended. Bob left first because he had a dog to let out. Then the Parkers, carrying their sleeping kid. Mrs. Alvarez. The neighbors from the north end — Aldric shook their hands at the gate and said, “Good night, Mr. and Mrs. Miller. Thank you for the fruit salad.” Dave heard the name and immediately forgot it again.
 
 Sandra started collecting plates. Gerald stood up, stretched, and began folding chairs without being asked, which surprised Dave. Aldric was already stacking. He’d been at it for five minutes before Dave noticed. Quietly, systematically. Paper plates in the trash bag. Recyclables in a separate bag. Bottles rinsed at the outdoor spigot and set in a row.
 
@@ -188,7 +188,7 @@ Gerald snorted. It might have been a laugh. Hard to tell with Gerald.
 
 They cleaned in twenty minutes. Four people working. The yard went from party to normal. Aldric washed his cutting board by hand at Dave’s outdoor sink, dried it with a cloth he’d brought from his house, and carried it back. He returned for the now empty cooler. Then he came back one more time and shook Dave’s hand.
 
-"Thank you for including me. Truly. And happy birthday, Dave."
+“Thank you for including me. Truly. And happy birthday, Dave.”
 
 “You brought the best thing on the table, man. We should be thanking you.”
 
@@ -196,7 +196,7 @@ They cleaned in twenty minutes. Four people working. The yard went from party to
 
 Dave laughed. Nobody had ever complimented his hot dogs with that kind of conviction. “Thanks. They’re from Costco.”
 
-"The quality of ingredients matters less than the quality of attention." Aldric nodded once. "Thirty-six suits you. Good night, Dave. Good night, Rosa."
+“The quality of ingredients matters less than the quality of attention.” Aldric nodded once. “Thirty-six suits you. Good night, Dave. Good night, Rosa.”
 
 He walked across the lawn. Clean shoes in the damp grass. Straight posture. His porch light was on. He’d left it on before coming over. As if he knew he’d come home in the dark.
 
@@ -204,11 +204,11 @@ Rosa appeared at Dave’s elbow. They stood in the yard together. The string lig
 
 “Good party,” she said.
 
-"Not a party. A cookout."
+“Not a party. A cookout.”
 
-"Happy birthday, Dave."
+“Happy birthday, Dave.”
 
-He smiled. Watched Aldric's door close. "He knew the bird."
+He smiled. Watched Aldric's door close. “He knew the bird.”
 
 “He knew my flower palette.”
 

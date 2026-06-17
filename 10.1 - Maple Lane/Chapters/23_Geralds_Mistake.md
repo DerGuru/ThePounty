@@ -10,7 +10,7 @@ He'd seen Venn leave his house at 2:15. On foot, which was unusual. Venn drove a
 
 Three blocks. The library was three blocks south.
 
-Gerald stayed on the opposite side of the street. He wore the gray jacket, not the blue one. The blue one was memorable. Sandra had said so once. "You look like a retired mailman in that thing." The gray one blended. Gray blended with everything.
+Gerald stayed on the opposite side of the street. He wore the gray jacket, not the blue one. The blue one was memorable. Sandra had said so once. “You look like a retired mailman in that thing.” The gray one blended. Gray blended with everything.
 
 The library was a single-story brick building from the seventies, flat roof, narrow windows, the kind of architecture that said *municipal budget* in every line. Gerald had lived in this neighborhood for thirty-one years. He'd been inside maybe forty times. Sandra more. Sandra read a book a week, minimum, but she used the digital loans now. He couldn't remember the last time either of them had physically walked in.
 
@@ -46,21 +46,21 @@ He drank from the fountain. Cold, metallic water. He straightened up and wiped h
 
 Venn looked up.
 
-"Gerald. Good afternoon." No surprise in his voice. None at all. Like finding your neighbor in the library on a Thursday was the most natural thing in the world. "I didn't know you came here."
+“Gerald. Good afternoon.” No surprise in his voice. None at all. Like finding your neighbor in the library on a Thursday was the most natural thing in the world. “I didn't know you came here.”
 
-"Sandra has books on hold." The lie came easily. He'd prepared it.
+“Sandra has books on hold.” The lie came easily. He'd prepared it.
 
-"Please give her my regards." Venn smiled. The polite one. The one that covered everything and revealed nothing. "Have you seen this?" He turned the book toward Gerald. The aerial photograph. "This is Maple Lane in 1962. Before the cul-de-sac was built. It used to go straight through from Birch. Fascinating how much the topology changed."
+“Please give her my regards.” Venn smiled. The polite one. The one that covered everything and revealed nothing. “Have you seen this?” He turned the book toward Gerald. The aerial photograph. “This is Maple Lane in 1962. Before the cul-de-sac was built. It used to go straight through from Birch. Fascinating how much the topology changed.”
 
 Gerald looked at the photograph. He could see it. The road, straight and narrow, cutting through what was now the park at the end. No houses past number seven. Fields beyond that. A barn where the Weavers' house stood now.
 
-"I didn't know that," Gerald said. Which was true.
+“I didn't know that,” Gerald said. Which was true.
 
-"The soil composition is different on the west end. That's why the lots there are larger. The original developer couldn't build as dense because of the clay layer." Venn tapped a section of the photograph. "Your house is built on the original farmhouse foundation. Did you know that?"
+“The soil composition is different on the west end. That's why the lots there are larger. The original developer couldn't build as dense because of the clay layer.” Venn tapped a section of the photograph. “Your house is built on the original farmhouse foundation. Did you know that?”
 
 Gerald did not know that.
 
-"The records are in the township archive. If you're ever curious." Venn turned the book back and continued reading. Dismissed. Politely, warmly, but dismissed.
+“The records are in the township archive. If you're ever curious.” Venn turned the book back and continued reading. Dismissed. Politely, warmly, but dismissed.
 
 Gerald walked to the front desk. He asked about Sandra's holds. There were none. He said thank you and left.
 
@@ -82,25 +82,25 @@ Gerald picked up the notebook. Held it for a moment.
 
 He put it in the drawer. Closed the drawer.
 
-Sandra came in from the kitchen. "Did they have my books?"
+Sandra came in from the kitchen. “Did they have my books?”
 
-"Nothing on hold."
+“Nothing on hold.”
 
-"Hmm. Maybe next week." She looked at him. That look she had when she was about to say something and then didn't. Then she said it anyway. "You okay? You look like you've been thinking."
+“Hmm. Maybe next week.” She looked at him. That look she had when she was about to say something and then didn't. Then she said it anyway. “You okay? You look like you've been thinking.”
 
-"I ran into Aldric at the library."
+“I ran into Aldric at the library.”
 
-"Oh?" Her eyes lit up. That meant she'd want details. Every detail.
+“Oh?” Her eyes lit up. That meant she'd want details. Every detail.
 
-"He was reading about local history. The street. Old photographs."
+“He was reading about local history. The street. Old photographs.”
 
-Sandra's face did something complicated. Disappointment, mostly. "That's it?"
+Sandra's face did something complicated. Disappointment, mostly. “That's it?”
 
-"That's it."
+“That's it.”
 
-"He's a history nerd." She said it like it was an accusation against the universe. Like the universe owed her something more interesting.
+“He's a history nerd.” She said it like it was an accusation against the universe. Like the universe owed her something more interesting.
 
-"Apparently."
+“Apparently.”
 
 She went back to the kitchen. Gerald heard the kettle click on. He sat in his chair and looked at the closed drawer.
 

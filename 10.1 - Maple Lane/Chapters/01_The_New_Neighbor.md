@@ -18,7 +18,7 @@ The man turned. Smiled. Not the polite kind people did at the grocery store. The
 
 “Aldric Venn.” He extended his hand. “It is a genuine pleasure to meet you, Dave. Thank you for coming over. That was very kind of you.”
 
-The handshake was perfect. Not too hard, not too soft. Dry palm. Dave had a thought he couldn’t quite place — that this man had practiced this. Then the thought was gone.
+The handshake was perfect. Not too hard, not too soft. Dry palm. Dave had a thought he couldn’t quite place. This man had practiced this. Then the thought was gone.
 
 “Just being neighborly,” Dave said.
 
@@ -149,9 +149,9 @@ He asked Rosa about the spices in the salsa. Cumin, yes. Chipotle. But something
 
 He asked Dave about the neighborhood. How long they’d been here. Eleven years, Dave told him. What the winters were like. Mild. One ice storm in 2019 that took out power for two days. Whether the mailman was reliable. Mostly. He skips Saturdays sometimes.
 
-"And children?" Aldric asked. "Are there children on the street?"
+“And children?” Aldric asked. “Are there children on the street?”
 
-Rosa answered that one. "Ours. Lina is ten and Marcus turns six in October. The Hoopers' son is grown. He visits sometimes, brings the grandkids. Maria at number eight has a son, but he just moved out. The Chens are too young for kids. Or too smart." She almost smiled again. "Nadine Solis at twelve has twins, about Marcus's age. Kenny Park at eleven is eighteen, lives alone, technically still a teenager if anyone asks. The Greens have a daughter, fifteen, and the dog. That counts, according to them. And the Parkers up in the cul-de-sac have a boy, seven or eight, allergic to everything that tastes good."
+Rosa answered that one. “Ours. Lina is ten and Marcus turns six in October. The Hoopers' son is grown. He visits sometimes, brings the grandkids. Maria at number eight has a son, but he just moved out. The Chens are too young for kids. Or too smart.” She almost smiled again. “Nadine Solis at twelve has twins, about Marcus's age. Kenny Park at eleven is eighteen, lives alone, technically still a teenager if anyone asks. The Greens have a daughter, fifteen, and the dog. That counts, according to them. And the Parkers up in the cul-de-sac have a boy, seven or eight, allergic to everything that tastes good.”
 
 Aldric nodded. He made a note.
 
@@ -229,7 +229,7 @@ Sandra beamed. Her whole face changed. Gerald, for the first time all evening, p
 
 Ms. Yuen nodded once. She said nothing. She turned and walked away down the sidewalk. Her back straight. Her steps even.
 
-By nine, everyone was gone. The street was quiet. Lightning bugs starting up in the yards. The heat loosening. Dave’s was the last to go and Aldric shook his hand again. The same perfect handshake. He said he hoped they’d allow him to return the hospitality soon. Dave believed him. He didn’t know why he believed him, but he did.
+By nine, everyone was gone. The street was quiet. Lightning bugs starting up in the yards. The heat loosening. Dave was the last to leave and Aldric shook his hand again. The same perfect handshake. He said he hoped they’d allow him to return the hospitality soon. Dave believed him. He didn’t know why he believed him, but he did.
 
 He walked back across the lawn with Rosa. The grass was damp already. The kids were asleep. Or faking it. Close enough.
 

@@ -8,7 +8,7 @@ The house was a one-story with brown trim and a chain-link fence set back from t
 
 She rang the bell. She waited. She rang again.
 
-"Greenfield Police. Welfare check. Please come to the door."
+“Greenfield Police. Welfare check. Please come to the door.”
 
 Nothing. No movement behind the blinds. A television was on somewhere inside, low, a sports announcer talking through what sounded like a basketball game.
 
@@ -20,39 +20,39 @@ He was in the kitchen on his back. The television was in the living room and she
 
 She holstered. She knelt.
 
-"Sir. I'm Officer Kim, Greenfield Police. Can you hear me?"
+“Sir. I'm Officer Kim, Greenfield Police. Can you hear me?”
 
-"Yes."
+“Yes.”
 
-"Are you injured anywhere besides your hands?"
+“Are you injured anywhere besides your hands?”
 
-A small pause. "No."
+A small pause. “No.”
 
-"What's your name?"
+“What's your name?”
 
-"Brian Lasko."
+“Brian Lasko.”
 
-"Brian, I'm calling EMS now. Don't move. Can you tell me what happened?"
+“Brian, I'm calling EMS now. Don't move. Can you tell me what happened?”
 
-"I fell."
+“I fell.”
 
 She looked at his hands. Then at the kitchen floor — clean linoleum, no scuff, no overturned chair, no thing to fall onto. Then back at his hands.
 
-"All right," she said. She keyed her shoulder mic.
+“All right,” she said. She keyed her shoulder mic.
 
-"Dispatch, twelve."
+“Dispatch, twelve.”
 
-"Go ahead, twelve."
+“Go ahead, twelve.”
 
-"Welfare check at the Birch Street address is a medical. Adult male, conscious, bilateral hand injuries, no other visible trauma. Need EMS code two. No suspect on scene. I'll be securing the residence."
+“Welfare check at the Birch Street address is a medical. Adult male, conscious, bilateral hand injuries, no other visible trauma. Need EMS code two. No suspect on scene. I'll be securing the residence.”
 
-"Copy, twelve. EMS rolling. Do you need backup?"
+“Copy, twelve. EMS rolling. Do you need backup?”
 
 She looked at Lasko on the floor. At his face. At the clean linoleum around him.
 
-"Negative on backup. Send a second unit when one's free. I want photos."
+“Negative on backup. Send a second unit when one's free. I want photos.”
 
-"Copy. Second unit when available."
+“Copy. Second unit when available.”
 
 She let go of the mic.
 
@@ -64,63 +64,63 @@ Nora Lasko got out. She was thirty-two, dark brown hair pulled back, gray sweate
 
 She walked up the front walk without hurrying. She did not run.
 
-"Mrs. Lasko?"
+“Mrs. Lasko?”
 
-"Yes."
+“Yes.”
 
-"I'm Officer Kim, Greenfield Police. Your husband has been taken to Mercy Regional. He has injuries to both hands. He is stable. He was conscious when EMS took him."
+“I'm Officer Kim, Greenfield Police. Your husband has been taken to Mercy Regional. He has injuries to both hands. He is stable. He was conscious when EMS took him.”
 
 Nora did not say anything. She looked at the door behind Kim, then at the door.
 
-"Can I go in?"
+“Can I go in?”
 
-"Yes. I'd like to ask you some questions inside, if that's all right."
+“Yes. I'd like to ask you some questions inside, if that's all right.”
 
-"Of course."
+“Of course.”
 
 They went in. Nora stopped in the kitchen. There was a small dark spot, possibly coffee, near the leg of the table.
 
-Kim said: "Was the door locked when you left the house this afternoon?"
+Kim said: “Was the door locked when you left the house this afternoon?”
 
-"Yes."
+“Yes.”
 
-"What time did you leave?"
+“What time did you leave?”
 
-"A little before two. I picked up Lily from school at two and dropped her at the community center on Pine. She has a program there on Tuesdays and Thursdays."
+“A little before two. I picked up Lily from school at two and dropped her at the community center on Pine. She has a program there on Tuesdays and Thursdays.”
 
-"What time are you due to pick her up?"
+“What time are you due to pick her up?”
 
-"Four-thirty. They close at five."
+“Four-thirty. They close at five.”
 
 Kim looked at the clock on the wall. It was three-forty-five.
 
-"Mrs. Lasko, do you know of anyone who would have reason to harm your husband?"
+“Mrs. Lasko, do you know of anyone who would have reason to harm your husband?”
 
-A pause. "No."
+A pause. “No.”
 
-"Does your husband owe anyone money?"
+“Does your husband owe anyone money?”
 
-"I don't know."
+“I don't know.”
 
-"Has anyone come to the house this week who shouldn't have?"
+“Has anyone come to the house this week who shouldn't have?”
 
-"No."
+“No.”
 
-"Has your husband been afraid of anyone?"
+“Has your husband been afraid of anyone?”
 
-A longer pause. "No."
+A longer pause. “No.”
 
 Kim watched her face. Nora was not crying. She was not still. She was somewhere in between, in a place Kim had seen before in women in kitchens and in others — the place where the body has not decided which way the news goes.
 
-"Mrs. Lasko, I want you to go get your daughter. Don't be late. I'll stay here and finish what I need to finish. Do you have a key, that I can use to lock the door when I leave. If anything in the house looks out of place to you tomorrow, you can call me." She wrote a number on the back of a card and gave it to Nora.
+“Mrs. Lasko, I want you to go get your daughter. Don't be late. I'll stay here and finish what I need to finish. Do you have a key, that I can use to lock the door when I leave. If anything in the house looks out of place to you tomorrow, you can call me.” She wrote a number on the back of a card and gave it to Nora.
 
-Nora took the card. She held it for a moment without looking at it. Then she said: "Is he — am I supposed to go to the hospital?"
+Nora took the card. She held it for a moment without looking at it. Then she said: “Is he — am I supposed to go to the hospital?”
 
-"He's at Mercy. You can go anytime. He's not under arrest. He's a victim."
+“He's at Mercy. You can go anytime. He's not under arrest. He's a victim.”
 
 The word *victim* landed somewhere on Nora's face and did not move.
 
-"Okay," she said.
+“Okay,” she said.
 
 She picked up her keys from the counter, put the card in her coat pocket without folding it, and went out to the Corolla.
 
@@ -134,13 +134,13 @@ She finished her walk-through of the house. No signs of forced entry. No signs o
 
 She keyed her mic at the cruiser.
 
-"Dispatch, twelve."
+“Dispatch, twelve.”
 
-"Go ahead, twelve."
+“Go ahead, twelve.”
 
-"Scene at Birch Street is clear. I have the photos. Cancel the second unit."
+“Scene at Birch Street is clear. I have the photos. Cancel the second unit.”
 
-"Copy, twelve. Second unit canceled."
+“Copy, twelve. Second unit canceled.”
 
 She drove home. She did not sleep much.
 
@@ -162,57 +162,57 @@ She closed the chart and went into the room.
 
 Brian Lasko was on the bed bandaged from both elbows down. Both wrists in casts. Three fingers on the right hand splinted. One on the left. The left thumb was wrapped separately. His face was untouched. His eyes were wet but not from pain. The pain was managed. The eyes were something else.
 
-"Mr. Lasko. We didn't finish yesterday."
+“Mr. Lasko. We didn't finish yesterday.”
 
-"I don't want to make a statement."
+“I don't want to make a statement.”
 
-"All right." Kim sat in the chair. She did not open her notebook. "Can you tell me anything about what happened?"
+“All right.” Kim sat in the chair. She did not open her notebook. “Can you tell me anything about what happened?”
 
-"I told you yesterday. I fell."
+“I told you yesterday. I fell.”
 
-"All right."
+“All right.”
 
 She waited.
 
-"Did you see who did it?"
+“Did you see who did it?”
 
-"No."
+“No.”
 
-"Was anyone else home when it happened?"
+“Was anyone else home when it happened?”
 
-A pause. "No."
+A pause. “No.”
 
 That was the answer that mattered. A man does not fall and break only both hands in his own kitchen with no one else there. Kim let the answer sit.
 
-"Mr. Lasko." She kept her voice flat. "I'm not going to push. You don't have to talk to me. But I'm going to tell you what I see, because what I see is going to be in my report whether you talk to me or not."
+“Mr. Lasko.” She kept her voice flat. “I'm not going to push. You don't have to talk to me. But I'm going to tell you what I see, because what I see is going to be in my report whether you talk to me or not.”
 
 He looked at the ceiling.
 
-"What I see is a person who was held down by one person while a second person did the breaking. There aren't any defensive marks on your forearms, so you weren't fighting back when it happened. The breaks are on both hands in the same places, which means whoever did it knew how to do it. Your face is fine, your ribs are fine, your legs are fine. Whoever did this had a very specific reason to leave the rest of you alone."
+“What I see is a person who was held down by one person while a second person did the breaking. There aren't any defensive marks on your forearms, so you weren't fighting back when it happened. The breaks are on both hands in the same places, which means whoever did it knew how to do it. Your face is fine, your ribs are fine, your legs are fine. Whoever did this had a very specific reason to leave the rest of you alone.”
 
 She let that sit.
 
-"You're going to heal," she said. "The orthopedic surgeon says nine to twelve weeks for full function. You will not be able to grip anything for that time. You will not be able to make a fist."
+“You're going to heal,” she said. “The orthopedic surgeon says nine to twelve weeks for full function. You will not be able to grip anything for that time. You will not be able to make a fist.”
 
 He did not look at her.
 
-"If you want to tell me anything, even off the record, I'll listen. If you don't, that's your right. I'll come back next week."
+“If you want to tell me anything, even off the record, I'll listen. If you don't, that's your right. I'll come back next week.”
 
 She stood up. She was at the door when he said it.
 
-"He asked me."
+“He asked me.”
 
 She turned.
 
-"What?"
+“What?”
 
-"The one who did it. Before. He asked me." His voice was small. "If I will to stop. He said it like he meant it."
+“The one who did it. Before. He asked me.” His voice was small. “If I will to stop. He said it like he meant it.”
 
-"Stop what?"
+“Stop what?”
 
 He did not answer.
 
-"Mr. Lasko. Stop what?"
+“Mr. Lasko. Stop what?”
 
 He closed his eyes. A tear went sideways into his hair.
 

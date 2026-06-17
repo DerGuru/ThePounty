@@ -138,25 +138,25 @@ Gerald stood there for a long moment with his hand on the window frame.
 
 Then he went downstairs. Sandra was at the table with the paper. She looked up.
 
-"You were up early."
+“You were up early.”
 
-"Couldn't sleep."
+“Couldn't sleep.”
 
-"You should have come down. I'd have made you something."
+“You should have come down. I'd have made you something.”
 
-"It's fine."
+“It's fine.”
 
 She looked at him a beat longer and went back to the paper.
 
 Gerald poured himself a fresh cup. He sat opposite her, picked up the section she had finished with and held it up. He read none of it.
 
-After a while Sandra said, without looking up, "Everything all right?"
+After a while Sandra said, without looking up, “Everything all right?”
 
-"Fine."
+“Fine.”
 
-"You sure?"
+“You sure?”
 
-"Sure."
+“Sure.”
 
 She turned a page. She did not ask again.
 

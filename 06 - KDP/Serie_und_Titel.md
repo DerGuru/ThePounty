@@ -5,6 +5,7 @@
 
 ## Serie
 - **Serientitel:** Uncommon Courtesy
+- **Autor:** Andreas Jakof
 - **Reihenfolge / Nummerierung:** Band 1, Band 2, …
 - **Konzept-Klammer:** Höflichkeit als Disziplin und Waffe; pro Band ein Schauplatz/eine Gemeinschaft.
 

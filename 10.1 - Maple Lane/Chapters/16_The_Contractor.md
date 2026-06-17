@@ -8,19 +8,19 @@ It had been nine days.
 
 Gerald hadn't said anything. That was worse than saying something. He drank his coffee at the kitchen window every morning, looking out at the wreckage, and he didn't say a word. He didn't have to. His silence had a shape. It was the shape of *I told you Jesús Alvarez does this for a living*.
 
-She hadn't wanted Jesús. That was the thing. Jesús was Maria's son and he was good — everyone said he was good — but he was expensive. His company had a name with "design" in it and a website with portfolio photos and a consultation fee. Sandra didn't need a consultation. She needed someone to rip out the old layout and put in new gravel paths, a raised bed, and maybe a water feature if the budget allowed. It was a garden, not the Hanging Gardens of Babylon.
+She hadn't wanted Jesús. That was the thing. Jesús was Maria's son and he was good — everyone said he was good — but he was expensive. His company had a name with “design” in it and a website with portfolio photos and a consultation fee. Sandra didn't need a consultation. She needed someone to rip out the old layout and put in new gravel paths, a raised bed, and maybe a water feature if the budget allowed. It was a garden, not the Hanging Gardens of Babylon.
 
 So she'd posted on Thumbtack. Clear description, photos, budget range. Three responses within a day. Two were booked out for six weeks. The third was available immediately. New profile, no reviews yet, but his message was professional and he'd attached a photo of a previous job that looked clean. She'd called him. He was polite, quick, knew the terminology. He could start Monday.
 
 His name was Kyle Brewer. He drove a white truck with no logo, which Sandra noticed but didn't think about. Lots of independent contractors didn't brand their vehicles. He walked the garden, nodded at the right moments, and quoted twenty-two hundred for the full job. Materials included.
 
-Gerald, from behind his newspaper: "Get three quotes."
+Gerald, from behind his newspaper: “Get three quotes.”
 
-"I have three quotes. The other two can't start until November."
+“I have three quotes. The other two can't start until November.”
 
-"Then wait until November."
+“Then wait until November.”
 
-"Gerald. The HOA fall social is in three weeks."
+“Gerald. The HOA fall social is in three weeks.”
 
 He'd turned a page and said nothing else. Sandra had paid Kyle Brewer eleven hundred dollars via the app and shown him where the outdoor faucet was.
 
@@ -42,7 +42,7 @@ Sandra sat at the kitchen table with her phone in her hand and her face hot. Ele
 
 She filed a dispute through the app. She left a review. She looked up Kyle Brewer and found nothing — no business registration, no contractor's license, no address. Just the Thumbtack profile and a phone that didn't ring anymore.
 
-She told Gerald on Saturday. He looked at her over his reading glasses, nodded once, and said, "I'm sorry, Sandra."
+She told Gerald on Saturday. He looked at her over his reading glasses, nodded once, and said, “I'm sorry, Sandra.”
 
 That was it. No *I told you*. No lecture. Just *I'm sorry*.
 
@@ -54,35 +54,35 @@ On Sunday — six days after Kyle Brewer had driven away — Aldric came over.
 
 He didn't come over often. When he did, it was with purpose.
 
-"Sandra." He smiled from the porch. "I hope I'm not interrupting. I noticed the garden — it looks like a project that's stalled. Is everything all right? Can I help with anything?"
+“Sandra.” He smiled from the porch. “I hope I'm not interrupting. I noticed the garden — it looks like a project that's stalled. Is everything all right? Can I help with anything?”
 
 Sandra looked at him. He was being polite. He knew. Of course he knew. Everyone on the street knew. Dolores Marsh had asked about it yesterday and she wasn't even living on the street.
 
-"There was a project," Sandra said. "The contractor disappeared."
+“There was a project,” Sandra said. “The contractor disappeared.”
 
-"Disappeared."
+“Disappeared.”
 
-"He took the deposit. Did one day of work and never came back." She heard herself say it and hated how it sounded. Naive. Foolish. The kind of thing that happened to people who didn't do their research.
+“He took the deposit. Did one day of work and never came back.” She heard herself say it and hated how it sounded. Naive. Foolish. The kind of thing that happened to people who didn't do their research.
 
 Aldric stood on her porch with his hands at his sides. His expression didn't change. No pity. No surprise. No *you should have gotten three quotes*.
 
-"How much?" he said.
+“How much?” he said.
 
-"Eleven hundred."
+“Eleven hundred.”
 
-"And the work?
+“And the work?
 
-Sandra gestured at the demolished garden. "He removed everything but built nothing."
+Sandra gestured at the demolished garden. “He removed everything but built nothing.”
 
-Aldric nodded. He looked past her, toward the backyard, though from this angle he couldn't possibly see much. "Do you have his name? The platform he used?"
+Aldric nodded. He looked past her, toward the backyard, though from this angle he couldn't possibly see much. “Do you have his name? The platform he used?”
 
-"Kyle Brewer. Thumbtack. But the profile is—"
+“Kyle Brewer. Thumbtack. But the profile is—”
 
-"May I look into it?"
+“May I look into it?”
 
-Sandra stared at him. "Look into it how?"
+Sandra stared at him. “Look into it how?”
 
-"I'd like to see if there's a pattern," he said. "If it helps, I won't involve anyone you don't want involved."
+“I'd like to see if there's a pattern,” he said. “If it helps, I won't involve anyone you don't want involved.”
 
 She didn't know what that meant. She said yes anyway.
 
@@ -90,35 +90,35 @@ Three days passed. Sandra heard nothing. She didn't ask. She watered the tarp-co
 
 On Wednesday, Aldric knocked again.
 
-"There are four other profiles," he said. "All created within the last three months. Different names. Same deposit-and-disappear structure. Same type of work — demolition without construction. The photos attached to each profile are from a landscaping company in Delaware that closed in 2019."
+“There are four other profiles,” he said. “All created within the last three months. Different names. Same deposit-and-disappear structure. Same type of work — demolition without construction. The photos attached to each profile are from a landscaping company in Delaware that closed in 2019.”
 
-Sandra's stomach turned. "So it's a scam?"
+Sandra's stomach turned. “So it's a scam?”
 
-"It's theft," Aldric said. His tone didn't change. The word came out the same temperature as everything else he said. "He takes payment for work he doesn't intend to complete. That's not a scam in the colloquial sense. It's theft."
+“It's theft,” Aldric said. His tone didn't change. The word came out the same temperature as everything else he said. “He takes payment for work he doesn't intend to complete. That's not a scam in the colloquial sense. It's theft.”
 
-"Can we go to the police?"
+“Can we go to the police?”
 
-"You can. The amount is likely below the threshold for active investigation in this jurisdiction. Multiple reports might change that over time." He paused. "I found him."
+“You can. The amount is likely below the threshold for active investigation in this jurisdiction. Multiple reports might change that over time.” He paused. “I found him.”
 
-"You — what?"
+“You — what?”
 
-"The profiles share an IP signature. He responded to one review from a device that was also logged into another platform with verifiable identity information." Aldric said this the way other people said *I picked up milk*. "His name isn't Kyle Brewer."
+“The profiles share an IP signature. He responded to one review from a device that was also logged into another platform with verifiable identity information.” Aldric said this the way other people said *I picked up milk*. “His name isn't Kyle Brewer.”
 
-Sandra laughed. It came out higher than she'd intended. "I figured that much."
+Sandra laughed. It came out higher than she'd intended. “I figured that much.”
 
-"I spoke with him," Aldric said.
+“I spoke with him,” Aldric said.
 
-"You spoke with him?"
+“You spoke with him?”
 
-"Yes. I explained that he had taken money from my neighbor for work he didn't complete. I gave him two options. He could return the money. Or he could finish the work." Aldric smiled. "He chose the work."
+“Yes. I explained that he had taken money from my neighbor for work he didn't complete. I gave him two options. He could return the money. Or he could finish the work.” Aldric smiled. “He chose the work.”
 
-"He — how — Aldric, what did you *say* to him?"
+“He — how — Aldric, what did you *say* to him?”
 
-"I told him the truth. That I knew who he was, that I knew of his work ethics, and that I was giving him the opportunity to correct it. It was a pleasant conversation."
+“I told him the truth. That I knew who he was, that I knew of his work ethics, and that I was giving him the opportunity to correct it. It was a pleasant conversation.”
 
 Sandra believed him. That was the unsettling part. She believed he'd been polite. She believed every word had been measured and civil and offered with the warmth of a good neighbor. And she believed that the man on the other end of that conversation had understood something that Sandra couldn't quite name.
 
-"He'll be here tomorrow," Aldric said. "Eight o'clock."
+“He'll be here tomorrow,” Aldric said. “Eight o'clock.”
 
 He was there at seven fifty.
 
@@ -142,88 +142,88 @@ The man did not get into the truck. He stood a moment, then came up the walk and
 
 Sandra opened the door.
 
-He turned his cap once in his hands. "The paths drain away from the foundation, ma'am. The bed's cedar, it'll outlast the fence. The grass will fill in by June." He stopped. "Are you happy with it? Is it what you wanted?"
+He turned his cap once in his hands. “The paths drain away from the foundation, ma'am. The bed's cedar, it'll outlast the fence. The grass will fill in by June.” He stopped. “Are you happy with it? Is it what you wanted?”
 
-"It's lovely," Sandra said. "More than I asked for."
+“It's lovely,” Sandra said. “More than I asked for.”
 
-"Good." Something let go in his shoulders. "Good." Then, with a care that did not fit a man loading a truck: "Would you tell your neighbor that? That you're happy. That I did it right."
+“Good.” Something let go in his shoulders. “Good.” Then, with a care that did not fit a man loading a truck: “Would you tell your neighbor that? That you're happy. That I did it right.”
 
-"I will," Sandra said.
+“I will,” Sandra said.
 
-"Thank you." He relaxed, turned, and went back to the truck. He closed the tailgate, and drove slowly, careful on a street where children lived.
+“Thank you.” He relaxed, turned, and went back to the truck. He closed the tailgate, and drove slowly, careful on a street where children lived.
 
 Sandra stood at the kitchen window and looked at the garden. Gerald came up behind her and looked too.
 
-"Huh," he said.
+“Huh,” he said.
 
 The garden was done. The HOA social was in two weeks and the garden would be ready.
 
 She walked across the street that evening and rang Aldric's bell.
 
-"Hello Sandra," he greeted her with a smile. "I was just about to come over and check in on you."
+“Hello Sandra,” he greeted her with a smile. “I was just about to come over and check in on you.”
 
-"Thank you," she said. "Whatever you said to him — thank you."
+“Thank you,” she said. “Whatever you said to him — thank you.”
 
-"You're welcome. But I wanted to ask — are you satisfied with the work?"
+“You're welcome. But I wanted to ask — are you satisfied with the work?”
 
 Sandra looked out the window. The gravel paths were level. The raised bed was solid, the edges clean. The marigolds were planted in rows.
 
-"It's beautiful," she said.
+“It's beautiful,” she said.
 
-"Good." A pause. "If anything isn't to your standard, I'm happy to call him again."
+“Good.” A pause. “If anything isn't to your standard, I'm happy to call him again.”
 
 The sentence was light. Conversational. But somewhere underneath the politeness was a door she didn't want to open.
 
-"No," she said. "It's perfect. Really."
+“No,” she said. “It's perfect. Really.”
 
-"I'm glad. The ornamental grass was a good choice."
+“I'm glad. The ornamental grass was a good choice.”
 
-"He picked that himself."
+“He picked that himself.”
 
-"Did he." A pause. "Perhaps he felt he owed more than the original scope."
+“Did he.” A pause. “Perhaps he felt he owed more than the original scope.”
 
 Sandra did not ask what Aldric had said to the man. She had seen his face at her door. She had heard how carefully he asked her to carry the message back across the street. She had the shape of it now, even without the words. The words she did not want.
 
-"Gerald wants to know if you'd like to come for dinner Saturday," she said instead.
+“Gerald wants to know if you'd like to come for dinner Saturday,” she said instead.
 
-"I'd be delighted. Shall I bring anything?"
+“I'd be delighted. Shall I bring anything?”
 
-"Just yourself."
+“Just yourself.”
 
-"Then I will bring myself and perhaps a bottle of something."
+“Then I will bring myself and perhaps a bottle of something.”
 
 Sandra walked back across the street. Gerald was behind his paper.
 
-"He's coming for dinner Saturday," she said.
+“He's coming for dinner Saturday,” she said.
 
-Gerald looked up. "Good."
+Gerald looked up. “Good.”
 
-"I thanked him. For the garden."
+“I thanked him. For the garden.”
 
-"And?"
+“And?”
 
-"He asked if I was satisfied with the work. Said he'd call the man again if anything wasn't to my standard." She sat down. "He said it like it was nothing."
+“He asked if I was satisfied with the work. Said he'd call the man again if anything wasn't to my standard.” She sat down. “He said it like it was nothing.”
 
-Gerald folded the corner of his page. "Huh."
+Gerald folded the corner of his page. “Huh.”
 
 Sandra sat down. The garden was green and gray and ordered through the window. The marigolds were orange against the gravel. The sage was silver. The new fence section where the hydrangea had been was still bare, but that was a spring project. She could wait.
 
-"Gerald."
+“Gerald.”
 
-"Hm."
+“Hm.”
 
-"What do you think he said to that man?"
+“What do you think he said to that man?”
 
 Gerald folded his paper. He took off his glasses, cleaned them on his shirt, and put them back on. It was his thinking gesture — Sandra had seen it ten thousand times.
 
-"I think," Gerald said, "that he said exactly what he told you he said."
+“I think,” Gerald said, “that he said exactly what he told you he said.”
 
-"And?"
+“And?”
 
-"And I think how he said it mattered more than what he said."
+“And I think how he said it mattered more than what he said.”
 
 Sandra looked at the garden. At the marigolds the contractor had planted. At the ornamental grass she hadn't asked for.
 
-"That's not a satisfying answer, Gerald."
+“That's not a satisfying answer, Gerald.”
 
-"No," Gerald said. He picked up his paper. "I guess not."
+“No,” Gerald said. He picked up his paper. “I guess not.”

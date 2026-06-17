@@ -6,19 +6,19 @@ Dave almost forgot about the mail.
 
 It was Thursday evening, and Marcus was screaming because Lina had taken the remote, and Lina was screaming because Marcus had bitten her hand, and Rosa was in the kitchen saying something about consequences that neither of them were hearing. Dave was standing in the hallway with his work bag still over his shoulder, keys still in his hand, shoes still on. He had not moved past the threshold. The noise had caught him like a net.
 
-"Lina, give him the remote."
+“Lina, give him the remote.”
 
-"He *bit* me!"
+“He *bit* me!”
 
-"Marcus, we don't bite."
+“Marcus, we don't bite.”
 
-"She took it!"
+“She took it!”
 
-"I know she took it. Lina, give it back. Marcus, apologize."
+“I know she took it. Lina, give it back. Marcus, apologize.”
 
-"But—"
+“But—”
 
-"Now."
+“Now.”
 
 The remote changed hands. Marcus mumbled something that was technically an apology. Lina held up her hand to show teeth marks that were barely visible. 
 
@@ -34,13 +34,13 @@ It was strange how quiet the house looked. Not abandoned — nothing was wrong, 
 
 Dave went back inside. He put Aldric's mail on the kitchen counter, next to yesterday's stack.
 
-"What's that?" Rosa said. She was chopping onions with a speed that suggested she was still angry about the biting.
+“What's that?” Rosa said. She was chopping onions with a speed that suggested she was still angry about the biting.
 
-"Aldric's mail. He asked me to grab it while he's gone."
+“Aldric's mail. He asked me to grab it while he's gone.”
 
-"Right." The knife kept moving. "When does he get back?"
+“Right.” The knife kept moving. “When does he get back?”
 
-"Saturday, he said."
+“Saturday, he said.”
 
 Rosa nodded. The onions went into the pan. Oil hissed.
 
@@ -96,17 +96,17 @@ Within the hour, she knew, someone would walk past his house. Not on purpose. Ju
 
 She took the laundry downstairs. Marcus was playing with blocks in the living room. The evening light came through the front window, low and golden.
 
-"Marcus, you want to go say hi to Mr. Venn? We should bring his mail over."
+“Marcus, you want to go say hi to Mr. Venn? We should bring his mail over.”
 
-Marcus looked up. "Can I ring the doorbell?"
+Marcus looked up. “Can I ring the doorbell?”
 
-"Yes."
+“Yes.”
 
-"Two times?"
+“Two times?”
 
-"One time."
+“One time.”
 
-"Okay." He was already on his feet.
+“Okay.” He was already on his feet.
 
 Rosa gathered the stack of envelopes from the counter. Three days of mail. She carried them to the door and held them against her hip while Marcus put his shoes on. Left foot, right foot. Velcro, not laces. He was getting faster at it.
 

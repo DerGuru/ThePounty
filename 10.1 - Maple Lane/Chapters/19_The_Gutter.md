@@ -14,17 +14,17 @@ She thought about it Thursday evening while she crocheted. She thought about it 
 
 She called Jesús on Saturday afternoon.
 
-"Hey, Ma. Everything okay?"
+“Hey, Ma. Everything okay?”
 
-"The gutter's clogged. Above the kitchen window. It's pulling away from the house."
+“The gutter's clogged. Above the kitchen window. It's pulling away from the house.”
 
-"I'll look at it tomorrow. I'll bring the tall ladder."
+“I'll look at it tomorrow. I'll bring the tall ladder.”
 
-"Thank you."
+“Thank you.”
 
-"Don't try anything."
+“Don't try anything.”
 
-"I wasn't going to."
+“I wasn't going to.”
 
 He showed up at nine-thirty. The mower came down first, then the extension ladder, a bucket, and gloves. He leaned the ladder against the siding, climbed it, and was at the gutter before Maria had finished tying her robe.
 
@@ -32,21 +32,21 @@ She stood in the driveway with coffee and watched him work. He scooped the muck 
 
 Five minutes. Maybe six.
 
-He came down the ladder with the bucket in one hand. "All good. The bracket was loose, too. I tightened it, but you might want to replace it eventually. The screw's stripped."
+He came down the ladder with the bucket in one hand. “All good. The bracket was loose, too. I tightened it, but you might want to replace it eventually. The screw's stripped.”
 
-"Thank you."
+“Thank you.”
 
-"No problem." He set the bucket down and pulled off the gloves. His hands were dark with decomposed leaves. He rinsed them with the garden hose and shook them dry. "You want me to check the other side too?"
+“No problem.” He set the bucket down and pulled off the gloves. His hands were dark with decomposed leaves. He rinsed them with the garden hose and shook them dry. “You want me to check the other side too?”
 
-"No, it's fine. That side's fine."
+“No, it's fine. That side's fine.”
 
-"You sure? While I'm here—"
+“You sure? While I'm here—”
 
-"It's fine, Jesús."
+“It's fine, Jesús.”
 
 He looked at her. Not worried. Just checking. The look he'd started giving her after Carlos left. The look that meant: *Are you okay, or are you saying you're okay?*
 
-"It's really fine," she said. "Really. Thank you."
+“It's really fine,” she said. “Really. Thank you.”
 
 He nodded. Started folding the ladder.
 
@@ -54,27 +54,27 @@ Aldric came around the corner from his house. He was wearing the cardigan over a
 
 He saw them and adjusted his path toward the driveway.
 
-"Good morning, Maria." He looked at Jesús, then back at her. Pleasant, open, waiting to be introduced.
+“Good morning, Maria.” He looked at Jesús, then back at her. Pleasant, open, waiting to be introduced.
 
-"Morning, Aldric. This is my son, Jesús. Jesús, this is Aldric Venn. From next door." She gestured vaguely down the street toward his house.
+“Morning, Aldric. This is my son, Jesús. Jesús, this is Aldric Venn. From next door.” She gestured vaguely down the street toward his house.
 
-Aldric extended his hand. "A pleasure. I've heard good things."
+Aldric extended his hand. “A pleasure. I've heard good things.”
 
-Jesús wiped his hand on his jeans before shaking. "Likewise. You're the one who got her photos back."
+Jesús wiped his hand on his jeans before shaking. “Likewise. You're the one who got her photos back.”
 
-"I had a conversation with the right person at the right time." Aldric smiled. "She tells me you do landscape architecture. That's a field I respect enormously. The intersection of utility and beauty."
+“I had a conversation with the right person at the right time.” Aldric smiled. “She tells me you do landscape architecture. That's a field I respect enormously. The intersection of utility and beauty.”
 
-"Thanks." Jesús glanced at the bucket. "Today's more utility than beauty."
+“Thanks.” Jesús glanced at the bucket. “Today's more utility than beauty.”
 
-"Both have their place." Aldric nodded at Maria. "Enjoy the morning." He walked on, same pace, toward the park.
+“Both have their place.” Aldric nodded at Maria. “Enjoy the morning.” He walked on, same pace, toward the park.
 
-Jesús watched him go. "Seems nice."
+Jesús watched him go. “Seems nice.”
 
-"He is."
+“He is.”
 
-"Formal, though."
+“Formal, though.”
 
-She lifted one shoulder. "That's just how he is."
+She lifted one shoulder. “That's just how he is.”
 
 Jesús loaded the ladder onto the truck. Then he got the mower down, put in his headphones, and did the lawn. Twenty minutes, same pattern as always. The turns at the fence line. The pause at the flower bed. Maria went inside and listened to the rhythm of it through the open window.
 

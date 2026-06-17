@@ -46,15 +46,15 @@ He wrote: *Response time: <3 min on all observed deliveries. He knows they're co
 
 That evening, Gerald and Sandra ate dinner in front of the news. Meatloaf, Sandra's recipe, with the ketchup glaze she'd been making for forty years. Gerald kept looking past the television, through the living room window, at the street.
 
-"Penny for your thoughts," Sandra said.
+“Penny for your thoughts,” Sandra said.
 
-"Nothing. Thinking about the Henderson fence." A lie. The Henderson fence had been repaired two weeks ago.
+“Nothing. Thinking about the Henderson fence.” A lie. The Henderson fence had been repaired two weeks ago.
 
-Sandra followed his gaze. "He's not outside."
+Sandra followed his gaze. “He's not outside.”
 
 Gerald looked. She was right. The porch lamp was on, same as always — it came on at dusk every evening whether Aldric sat out or not. But the chair was empty. No coffee cup on the railing. At seven-forty on a Saturday evening in mid-September, and Aldric wasn't there. In nearly three months, Gerald had never seen that chair empty on a warm evening. Aldric sat out there every night like it was contractual. When had he stopped? And why?
 
-"Hm," Gerald said. He ate his meatloaf.
+“Hm,” Gerald said. He ate his meatloaf.
 
 After dinner he went to the study. He opened the notebook and wrote: *Sept 14, ~7:40 PM — Porch dark. First observed absence.*
 
@@ -70,31 +70,31 @@ He checked the clock. 9:17 PM. He wrote it down.
 
 He watched. The light stayed on. At eleven he made himself a cup of decaf and brought it back. Still on. At eleven-forty Sandra called from the bedroom that he was being ridiculous and she was turning off his bedside lamp. He wrote: *Still on at 11:40 PM. Duration: minimum 2h23m.* Then he went to bed, lay in the dark and listened to Sandra breathe. What does a man do in a basement at midnight.
 
-The next Thursday, Sandra brought it up at breakfast. She was buttering toast, and Gerald was working on the crossword. Seven across: "Surveillance tool." Eight letters. He'd already written BINOCULAR and had to erase it. Too many letters.
+The next Thursday, Sandra brought it up at breakfast. She was buttering toast, and Gerald was working on the crossword. Seven across: “Surveillance tool.” Eight letters. He'd already written BINOCULAR and had to erase it. Too many letters.
 
-"Aldric's been quiet lately," Sandra said.
+“Aldric's been quiet lately,” Sandra said.
 
-Gerald filled in STAKEOUT. It didn't fit either. "How do you mean?"
+Gerald filled in STAKEOUT. It didn't fit either. “How do you mean?”
 
-"He hasn't been on the porch. Haven't seen him at the mailbox. Usually he waves when I'm in the garden." She paused, knife suspended over the toast. "You think he's alright?"
+“He hasn't been on the porch. Haven't seen him at the mailbox. Usually he waves when I'm in the garden.” She paused, knife suspended over the toast. “You think he's alright?”
 
-"He's fine. People get busy."
+“He's fine. People get busy.”
 
-"You've been watching."
+“You've been watching.”
 
-"I watch the street, Sandra."
+“I watch the street, Sandra.”
 
-"You watch *him*." She bit into the toast. Chewed. Swallowed. "Should I bring something over? A casserole? That's what you do when someone goes quiet."
+“You watch *him*.” She bit into the toast. Chewed. Swallowed. “Should I bring something over? A casserole? That's what you do when someone goes quiet.”
 
-"He hasn't gone quiet. He's busy. There's a difference."
+“He hasn't gone quiet. He's busy. There's a difference.”
 
-"What's he busy with?"
+“What's he busy with?”
 
 Gerald looked at her over his reading glasses. Sandra looked back with her toast and her coffee and that expression she'd perfected over forty-two years of marriage, the one that said *I know you're wrong, but I'll let you find out on your own.*
 
-"I don't know," he said. "That's the point."
+“I don't know,” he said. “That's the point.”
 
-"That's not a point, Gerald. That's a question without a question mark." She took her coffee to the living room. The morning show came on. Subject dropped.
+“That's not a point, Gerald. That's a question without a question mark.” She took her coffee to the living room. The morning show came on. Subject dropped.
 
 Gerald stared at seven across. Wrote OBSERVER. That fit. He put the paper down and went to the study.
 

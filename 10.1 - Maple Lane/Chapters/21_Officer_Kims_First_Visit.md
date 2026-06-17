@@ -4,7 +4,7 @@
 
 The file was thin. Two pages, a supplement, and a withdrawal form. Kim had it open on the passenger seat while she finished her coffee in the station parking lot, engine idling, heater on. November mornings in this part of the state started at forty-two degrees and didn't commit to warming up until noon.
 
-Case number 24-4471. Theft by deception. Complainant: Sandra Hooper, 3 Maple Lane. Amount: $1,100. Suspect: unknown male using the alias "Kyle Brewer," operating through the Thumbtack platform under fraudulent credentials. Method: deposit collected for landscaping services, partial demolition completed, contractor absconded with funds.
+Case number 24-4471. Theft by deception. Complainant: Sandra Hooper, 3 Maple Lane. Amount: $1,100. Suspect: unknown male using the alias “Kyle Brewer,” operating through the Thumbtack platform under fraudulent credentials. Method: deposit collected for landscaping services, partial demolition completed, contractor absconded with funds.
 
 Standard. She'd seen twelve of these in the last quarter alone. The gig economy had made it easier to steal from people who wanted their hedges trimmed.
 
@@ -50,133 +50,133 @@ The door opened within ten seconds. Not rushed, not delayed. The man standing in
 
 He smiled.
 
-"Good morning," he said. The voice was measured. Pleasant. Not warm the way people got warm when they were nervous around police. Warm the way a host greeted someone expected. "How can I help you?"
+“Good morning,” he said. The voice was measured. Pleasant. Not warm the way people got warm when they were nervous around police. Warm the way a host greeted someone expected. “How can I help you?”
 
-"Mr. Venn?"
+“Mr. Venn?”
 
-"Yes."
+“Yes.”
 
-Kim produced her badge wallet, though the uniform made it redundant. "Officer Kim, Greenfield PD. I'm following up on a complaint filed by your neighbor, Mrs. Hooper. Do you have a few minutes?"
+Kim produced her badge wallet, though the uniform made it redundant. “Officer Kim, Greenfield PD. I'm following up on a complaint filed by your neighbor, Mrs. Hooper. Do you have a few minutes?”
 
-"Of course. Would you like to come in, or would you prefer to speak here?"
+“Of course. Would you like to come in, or would you prefer to speak here?”
 
 Kim glanced past him. A hallway. Clean hardwood floor. A coat rack with one jacket. A framed photo on a side table near the entrance, too far to see clearly.
 
-"Here is fine," she said.
+“Here is fine,” she said.
 
-"May I offer you something? Coffee, tea, water?"
+“May I offer you something? Coffee, tea, water?”
 
-"I'm all right, thank you."
+“I'm all right, thank you.”
 
-He nodded and stepped forward onto the porch, pulling the door mostly closed behind him. Not all the way. Just enough that the interior was no longer visible. He gestured toward one of the chairs. "Please, sit."
+He nodded and stepped forward onto the porch, pulling the door mostly closed behind him. Not all the way. Just enough that the interior was no longer visible. He gestured toward one of the chairs. “Please, sit.”
 
-"I'm fine standing."
+“I'm fine standing.”
 
-"Of course." He settled against the porch railing with his arms loose at his sides. "How can I help, Officer?" Open posture. No crossing. No fidgeting. He looked at her with the patient attention of someone who had nowhere else to be and nothing else to think about.
+“Of course.” He settled against the porch railing with his arms loose at his sides. “How can I help, Officer?” Open posture. No crossing. No fidgeting. He looked at her with the patient attention of someone who had nowhere else to be and nothing else to think about.
 
 Kim took out her notebook. Not because she needed it for a two-minute follow-up. Because it gave her something to look at other than his face.
 
-"Mrs. Hooper filed a theft complaint on October eighteenth regarding a contractor who took payment and didn't complete the work. She withdrew the complaint eleven days later, stating the work was completed. She mentioned you assisted in resolving the situation."
+“Mrs. Hooper filed a theft complaint on October eighteenth regarding a contractor who took payment and didn't complete the work. She withdrew the complaint eleven days later, stating the work was completed. She mentioned you assisted in resolving the situation.”
 
-"That's correct."
+“That's correct.”
 
-"Can you tell me what happened?"
+“Can you tell me what happened?”
 
-"Certainly." He didn't shift his weight. Didn't look away. Didn't take a breath that suggested gathering thoughts. He was already there. "Sandra told me that a man had taken her deposit and disappeared. She was distressed. I offered to look into it."
+“Certainly.” He didn't shift his weight. Didn't look away. Didn't take a breath that suggested gathering thoughts. He was already there. “Sandra told me that a man had taken her deposit and disappeared. She was distressed. I offered to look into it.”
 
-"How did you look into it?"
+“How did you look into it?”
 
-"The man operated through the Thumbtack platform under an alias. I examined the platform for similar profiles with matching behavioral patterns: same service category, same pricing structure and same deposit-and-disappear model. I found four additional profiles, all created within a three-month window."
+“The man operated through the Thumbtack platform under an alias. I examined the platform for similar profiles with matching behavioral patterns: same service category, same pricing structure and same deposit-and-disappear model. I found four additional profiles, all created within a three-month window.”
 
-Kim wrote. She didn't need to write. She remembered everything. But the pen moved and it kept her face neutral. "How did you identify him?"
+Kim wrote. She didn't need to write. She remembered everything. But the pen moved and it kept her face neutral. “How did you identify him?”
 
-"One of the reviews on a secondary profile received a response from the account holder. The response was posted from a device that was also logged into another service with identity-verified credentials. Cross-referencing the platforms gave me his actual name."
+“One of the reviews on a secondary profile received a response from the account holder. The response was posted from a device that was also logged into another service with identity-verified credentials. Cross-referencing the platforms gave me his actual name.”
 
 He said this the way someone else might describe finding a lost dog. Matter-of-fact. Unhurried. As though the technical steps involved were obvious.
 
-"And then?"
+“And then?”
 
-"I visited him. I explained that he had taken money from my neighbor and that I was giving him the choice to return the funds or complete the work."
+“I visited him. I explained that he had taken money from my neighbor and that I was giving him the choice to return the funds or complete the work.”
 
-"You visited him."
+“You visited him.”
 
-"Yes."
+“Yes.”
 
-"At his home?"
+“At his home?”
 
-"At his place of work. He has a part-time job unrelated to contracting."
+“At his place of work. He has a part-time job unrelated to contracting.”
 
 Kim looked up from her notebook. His expression hadn't changed. Still pleasant. Still open. Still looking at her with that attentive patience.
 
-"What did he say?"
+“What did he say?”
 
-"He asked who I was. I told him I was Sandra's neighbor. He asked how I found him. I told him. We had a pleasant conversation. He chose to complete the work."
+“He asked who I was. I told him I was Sandra's neighbor. He asked how I found him. I told him. We had a pleasant conversation. He chose to complete the work.”
 
-"Just like that."
+“Just like that.”
 
-"Yes."
+“Yes.”
 
 Kim waited. In her experience, people filled silence. They added context, justification, self-congratulatory detail. They told you how scared the guy was, how satisfying the confrontation felt, how they'd really shown him. That was the part where the story revealed its true shape.
 
 Aldric Venn didn't fill the silence. He stood on his porch in his socks with his hands at his sides and looked at her. The quiet settled between them like a third person on the porch. Comfortable, on his end. Less comfortable on hers.
 
-"Did you threaten him?" Kim asked.
+“Did you threaten him?” Kim asked.
 
-"No."
+“No.”
 
-"Did you raise your voice?"
+“Did you raise your voice?”
 
-"No."
+“No.”
 
-"Did you mention police involvement, legal action, or any consequence for non-compliance?"
+“Did you mention police involvement, legal action, or any consequence for non-compliance?”
 
-"I did not. I presented his options. He made his choice."
+“I did not. I presented his options. He made his choice.”
 
-"And he showed up the next morning."
+“And he showed up the next morning.”
 
-"At seven-fifty, yes." A small smile. "Early. I appreciated that."
+“At seven-fifty, yes.” A small smile. “Early. I appreciated that.”
 
 Kim noted the smile. It was genuine. Precise. The kind of smile that came from something internal, not performed for her benefit. He was pleased by the man's punctuality. Not pleased about the power he'd exercised. Pleased about the *punctuality*.
 
-"Mr. Venn, do you have any prior experience in investigative work? Law enforcement, private investigation?"
+“Mr. Venn, do you have any prior experience in investigative work? Law enforcement, private investigation?”
 
-"I have never worked in law enforcement," he said. "Nor as a private investigator."
+“I have never worked in law enforcement,” he said. “Nor as a private investigator.”
 
 Kim noted the phrasing. He'd answered her categories. Not her question.
 
-"You located a man using cross-platform digital forensics within three days."
+“You located a man using cross-platform digital forensics within three days.”
 
-"The information was available publicly. I was motivated and had time."
+“The information was available publicly. I was motivated and had time.”
 
 Kim closed her notebook. She needed to look at him without the prop. She needed to see his face without the distraction of writing.
 
 He met her gaze. His eyes were steady. No microexpression she could read. No tension in the jaw, no subtle narrowing, no defiance. People who lied looked like something. People who told the truth looked like something else. Aldric Venn looked like neither. He looked like a man standing on his porch having a pleasant conversation about gardening.
 
-"The contractor," she said. "Kyle Brewer. Or whatever his name is. He has a record. Minor stuff. Misdemeanor theft and failure to appear. He knows the system well enough to stay below felony thresholds."
+“The contractor,” she said. “Kyle Brewer. Or whatever his name is. He has a record. Minor stuff. Misdemeanor theft and failure to appear. He knows the system well enough to stay below felony thresholds.”
 
-"I see."
+“I see.”
 
-"A man like that doesn't come back and work for free because a stranger asks politely."
+“A man like that doesn't come back and work for free because a stranger asks politely.”
 
-Aldric tilted his head. A fraction. Not a challenge. An acknowledgment. "I can only speak to what I said and did, Officer. I was polite. I was honest. I gave him a choice. People often surprise us when given a clear choice."
+Aldric tilted his head. A fraction. Not a challenge. An acknowledgment. “I can only speak to what I said and did, Officer. I was polite. I was honest. I gave him a choice. People often surprise us when given a clear choice.”
 
 Kim held his gaze for another second. Then she put the notebook in her breast pocket and nodded.
 
-"Mrs. Hooper is satisfied," she said. "The complaint is withdrawn. There's no ongoing investigation."
+“Mrs. Hooper is satisfied,” she said. “The complaint is withdrawn. There's no ongoing investigation.”
 
-"I'm glad to hear it. Sandra's garden looks wonderful now. The contractor did good work, in the end."
+“I'm glad to hear it. Sandra's garden looks wonderful now. The contractor did good work, in the end.”
 
-"He did more than the original scope."
+“He did more than the original scope.”
 
-"I wasn't familiar with the original scope. Sandra seemed happy."
+“I wasn't familiar with the original scope. Sandra seemed happy.”
 
 Not familiar. A man who'd cross-referenced four digital platforms to find a con artist hadn't familiarized himself with the job the con artist was supposed to do. Kim let it pass. But she filed it.
 
-"Thank you for your time, Mr. Venn."
+“Thank you for your time, Mr. Venn.”
 
-"Of course. If there's anything else I can help with, please don't hesitate."
+“Of course. If there's anything else I can help with, please don't hesitate.”
 
-"I won't."
+“I won't.”
 
 She turned and walked back down the flagstone path. Behind her, she heard nothing. No door closing. No retreat. She could feel him watching her. The same way she observed.
 

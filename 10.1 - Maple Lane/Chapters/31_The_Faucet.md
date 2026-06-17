@@ -56,27 +56,27 @@ The hardware store on a Saturday morning in early January was almost empty. An o
 
 A man in a green apron came around the end of the aisle. He was maybe thirty. He had the patient look of a man whose job involved explaining things to people who did not know what they needed.
 
-"You looking for something specific?"
+“You looking for something specific?”
 
-"A gasket." She said it the way the woman in the video had said it. "For the base of a kitchen faucet spout. Two-handle, bridge type, fixed spout. There's a slip nut with notches around the rim, and a flat rubber gasket inside. The gasket is — " she paused, "— probably original to the house."
+“A gasket.” She said it the way the woman in the video had said it. “For the base of a kitchen faucet spout. Two-handle, bridge type, fixed spout. There's a slip nut with notches around the rim, and a flat rubber gasket inside. The gasket is — ” she paused, “— probably original to the house.”
 
-He nodded slowly, a nod that said the description had done most of his work for him. "You take it out yet?"
+He nodded slowly, a nod that said the description had done most of his work for him. “You take it out yet?”
 
-"No. I couldn't get the nut loose. I only had pliers."
+“No. I couldn't get the nut loose. I only had pliers.”
 
-"Yeah, don't do that. You'd wreck the chrome." He turned and walked two aisles over and she followed. "You want channel locks. Ten-inch'll do — that's the household size. Wrap the jaws in a rag and you can get a grip on those notches without marking anything up." He took a pair off a peg. They were larger than she expected and heavier than they looked. The jaws opened wide enough to swallow her wrist.
+“Yeah, don't do that. You'd wreck the chrome.” He turned and walked two aisles over and she followed. “You want channel locks. Ten-inch'll do — that's the household size. Wrap the jaws in a rag and you can get a grip on those notches without marking anything up.” He took a pair off a peg. They were larger than she expected and heavier than they looked. The jaws opened wide enough to swallow her wrist.
 
-"And the gasket?"
+“And the gasket?”
 
-"Won't know the size till you've got it out. They're not all the same." He thought for a second. "Take the assortment pack. Six gaskets, a couple different thicknesses. Two-fifty. One of them'll fit and you have a replacement ready, if you need another one somewhere else."
+“Won't know the size till you've got it out. They're not all the same.” He thought for a second. “Take the assortment pack. Six gaskets, a couple different thicknesses. Two-fifty. One of them'll fit and you have a replacement ready, if you need another one somewhere else.”
 
 He led her back to the plumbing wall and took down a small clamshell with flat black rubber rings in different sizes. He handed it to her and took down a roll of white tape from the next shelf.
 
-"Teflon tape," he said. "For the threads when you put it back. Three wraps, clockwise."
+“Teflon tape,” he said. “For the threads when you put it back. Three wraps, clockwise.”
 
-"I saw that in the video."
+“I saw that in the video.”
 
-"Then you know." He nodded at her at the register the same way the older man had nodded when she'd come in.
+“Then you know.” He nodded at her at the register the same way the older man had nodded when she'd come in.
 
 She paid and drove home.
 

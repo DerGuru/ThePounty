@@ -83,7 +83,7 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Dave Ortega | 20. Juli | 1988 | 36 | Block Party = sein Geburtstag (Sa). Keine Geschenke, alle bringen was für den Abend mit. |
 | Rosa Ortega | 8. März | 1990 | 34 | |
 | Lina Ortega | 4. Mai | 2014 | 10 | |
-| Marcus Ortega | 16. Oktober | 2019 | 5 | Kindergeburtstag-Kapitel im Herbst. |
+| Marcus Ortega | 16. Oktober | 2018 | 6 | Kindergeburtstag-Kapitel im Herbst. |
 | Gerald Robert Hooper | 3. November | 1961 | 63 | |
 | Sandra Hooper | 19. Juni | 1963 | 61 | Zwei Tage vor Aldrics Ankunft (21. Juni). Feier im Buch-Jahr 2025 = Ch 48. |
 | Maria Alvarez | 14. Januar | 1982 | 42 | |
@@ -102,7 +102,6 @@ Sobald zwei Charaktere dasselbe sehen — ist einer überflüssig.
 | Mateo Solis | 11. März | 2018 | 6 | #12. Zwilling. |
 | Mia Solis | 11. März | 2018 | 6 | #12. Zwilling. |
 | Indigo Parker | 24. August | 2017 | 7 | #20 (Cul-de-sac). Zahlreiche Essensallergien. |
-| Aldric Venn | unbekannt | 1981 | 43 | Wird nie erwähnt. Niemand auf der Straße kennt sein Geburtsdatum. |
 
 ---
 
