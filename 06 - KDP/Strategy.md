@@ -76,7 +76,7 @@ Zwei Dinge gehören **dir** (nicht Amazon) und tragen jeden künftigen Launch: d
 - [ ] **Newsletter + Lead-Magnet.** Mailanbieter [ENTSCHEIDEN: z. B. MailerLite (kostenlos bis ~1.000) / EmailOctopus]. Lead-Magnet-Idee: **der Prolog** (Aldrics interner POV) oder eine exklusive Bonus-Szene gegen E-Mail. Landingpage simpel.
 - [ ] **ARC-/Review-Team aufbauen.** Ziel: 15–30 Leser, die am Launch-Tag ehrlich reviewen. Quellen: Genre-Gruppen (FB/Reddit r/suggestmeabook-Umfeld, Booksprout/StoryOrigin), wachsende Newsletter-Liste.
 - [ ] **Bestehende RoyalRoad-Leserschaft als Launch-Seed nutzen** (OHNE Maple Lane auf RR zu stellen): Autorenprofil + Autorennotizen der laufenden 7-teiligen Serie *Until The End* auf das KU-Buch + Newsletter verweisen. ⚠️ **Wichtig: kein Genre-Transfer.** *Until The End* = **Xianxia-basierte, dark-toned Progression Fantasy** — anderes Genre, anderer Store, anderes Format als Maple Lane (suburban-realistisch, kein Progression-Wrapper). Übertragbar ist NICHT das Genre, sondern (a) der **Autor-/Sensibilitäts-Follow** (dark-toned, character-driven, *tired-OP-Protagonist-der-Ruhe-will* — der MC von *Until The End* will, dass es endlich aufhört; Aldric will ein normales Leben: derselbe thematische Faden) und (b) Leser, die **dem Autor** folgen, nicht der Cultivation-Mechanik. Realistisch springt ein **Bruchteil** mit → warmer Seed, **kein** genre-passendes Massenpublikum.
-- [ ] **Kategorien & Keywords recherchieren.** Ziel-Kategorien (Vorschlag): *Crime Thriller, Psychological Thriller, Vigilante Justice, Small Town & Rural, Dark Humor/Satire*. 7 Keyword-Slots auf konkrete Suchphrasen ausrichten (s. Abschnitt 9).
+- [ ] **Kategorien & Keywords festlegen.** Konkrete Auswahl (3 Kategorien + 7 Keywords, mit Begründung, Backups & Policy-Regeln) in `Keywords_Kategorien.md`. Kern: **Small Town & Rural + Crime Fiction + Black Humor**; Action-lastige Kategorien bewusst meiden (slow burn).
 - [ ] **Editorial-Politur der ersten 10 %.** Das ist das Look-Inside-Sample = der „Prosa-muss-halten"-Test. Gnadenlos sauber.
 
 ---
@@ -130,8 +130,8 @@ Zwei Dinge gehören **dir** (nicht Amazon) und tragen jeden künftigen Launch: d
 | **Standardpreis** | [ENTSCHEIDEN] 3,99–4,99 | 70%-Zone (2,99–9,99) |
 | **Free-Days** | 5 / 90 Tage, gezielt nach Woche 1 | zum Wiederanschieben / vor Band-2-Launch |
 | **Countdown Deals** | Alternative zu Free-Days | behält Royalty bei reduziertem Preis |
-| **Keywords (7 Slots)** | konkrete Suchphrasen statt Genre-Wörter | z. B. „slow burn suspense", „cozy menace", „polite dangerous neighbor", „suburban suspense slow burn", „character driven thriller", „competent man thriller", „small town crime slow burn" — danach via Suche/Rank verfeinern |
-| **Kategorien** | bis zu 3 wählbar + via KDP-Support Zusatzkategorien anfragen | Nischen-Kategorien = leichter „#1 New Release"-Badge |
+| **Keywords (7 Slots)** | konkrete Suchphrasen statt Genre-Wörter | Voller Vorschlag + Regeln in `Keywords_Kategorien.md`. KEINE fremden Autorennamen in den Slots (Policy); Comp-Autoren nur für **Ads**. |
+| **Kategorien** | **genau 3** (direkt im Setup) | ⚠️ Alter „Support für bis zu 10 Kategorien"-Trick ABGESCHAFFT — 3 ist die harte Grenze. Auswahl + Backups in `Keywords_Kategorien.md`. Nischen = leichter „#1 New Release"-Badge. |
 
 ---
 
