@@ -26,39 +26,62 @@ Die Spannung, die jede Auswahl steuert (aus `Strategy.md`):
 
 ---
 
-## 2. Empfohlene 3 Kategorien (eBook) — die tatsächliche Auswahl
+## 2. Empfohlene 3 Kategorien — **eBook (Kindle Store)**
 
-| Slot | Kategorie-Pfad (US Kindle Store) | Warum |
+> Live verifiziert am 18. Juni 2026 (US Kindle Store Browse-Baum).
+
+| Slot | Kategorie-Pfad (US Kindle eBooks) | Warum |
 |---|---|---|
-| **1** | Literature & Fiction › Genre Fiction › **Small Town & Rural** | Präzisester Fit (Vorstadt-Ensemble, „die Straße ist der Protagonist"). Weniger überfüllt → realistische **#1-New-Release-Badge**-Chance. |
-| **2** | Mystery, Thriller & Suspense › **Crime Fiction** | Fängt den Suspense-/Operative-Strang dort, wo competent-man-Käufer browsen, OHNE „Action" zu schreien. |
-| **3** | Literature & Fiction › Humor & Satire › **Black Humor** *(alt: Satire)* | Die Dark-Comedy-DNA. Differenziert vom reinen Thriller und trifft den „cozy menace"-Ton. |
+| **1** | Literature & Fiction › **Suburban** | **Präzisester Fit überhaupt** (Vorstadtstraße, Ensemble). Junge, kleine Kategorie → beste **#1-New-Release-Badge**-Chance. |
+| **2** | Literature & Fiction › **Small Town & Rural** | Zweiter warmer Discovery-Shelf, zweite Badge-Chance; dort browsen Ove-/Backman-Leser. |
+| **3** | Mystery, Thriller & Suspense › Thrillers › **Crime** | Der Suspense-/Operative-Strang dort, wo competent-man-Käufer suchen, OHNE „Action" zu schreien. |
 
-> Diese drei tragen zusammen das ganze Profil: **Setting (Small Town) + Spannung (Crime) + Ton (Black Humor)**. Reihenfolge im Setup egal; die erste zählt als „primär" fürs Detailseiten-Label.
-
----
-
-## 3. Backup-/Test-Kategorien (falls ein Slot nicht verfügbar oder zum A/B-Test)
-
-Verfügbarkeit schwankt je Format/Marketplace. Wenn ein Pfad oben fehlt, nächstbeste aus dieser Rangliste:
-
-1. Mystery, Thriller & Suspense › Thrillers & Suspense › **Psychological** — der schleichende Dread, der unlesbare Mann. *(Achtung: „Thriller" kann Tempo-Erwartung wecken — bewusst testen.)*
-2. Literature & Fiction › Genre Fiction › **Literary Fiction** — die charaktergetriebene, präzise Prosa. Sehr groß/umkämpft → eher sekundär.
-3. Mystery, Thriller & Suspense › Mystery › **Cozy** — trifft „cozy", aber Cozy-Mystery-Leser erwarten klassische Whodunit-Struktur. *Nur testen, Review-Risiko beachten.*
-4. ⚠️ **Crime › Vigilante Justice** — „kompetenter Mann schützt Gemeinschaft" passt thematisch, aber weckt Selbstjustiz-/Action-Erwartung. **Nicht primär.** Höchstens als bewusster A/B-Test mit Blick auf Reviews.
+> ⚠️ **Wichtig zum Kindle-Baum:** „Suburban" und „Small Town & Rural" hängen im eBook **direkt unter Literature & Fiction** (nicht unter Genre Fiction). „Crime" ist ein Kind von **Thrillers** (es gibt kein eigenes „Crime Fiction").
+>
+> **Tausch-Hebel Slot 2/3:** Willst du die **Dark-Comedy-DNA** statt einer zweiten Ortskategorie betonen, ersetze Small Town & Rural durch **Literature & Fiction › Humor & Satire › Black Humor**. Dann: Setting + Spannung + Ton statt zwei Settings.
 
 ---
 
-## 4. Print (Paperback) — separat wählen
+## 3. Empfohlene 3 Kategorien — **Print (Paperback / Books Store)**
 
-Print nutzt denselben 3-Kategorie-Flow, aber andere Verfügbarkeiten. Nächste BISAC-Entsprechungen (Labels verlässlich, Codes im Dropdown gegenprüfen):
-- **FICTION / Small Town & Rural**
-- **FICTION / Crime**
-- **FICTION / Humorous / Dark Humor** *(alt: FICTION / Literary)*
+> Live verifiziert am 18. Juni 2026 (US Books Store Browse-Baum). **Andere Struktur als eBook!**
+
+| Slot | Kategorie-Pfad (US Books) | Warum |
+|---|---|---|
+| **1** | Literature & Fiction › Genre Fiction › **Suburban** | Gleiche präzise Platzierung wie eBook — aber **eine Ebene tiefer**, unter Genre Fiction. |
+| **2** | Literature & Fiction › Genre Fiction › **Small Town & Rural** | Zweiter warmer Shelf, ebenfalls unter Genre Fiction. |
+| **3** | Mystery, Thriller & Suspense › Thrillers & Suspense › **Crime** | Suspense-Anker (Label im Print „Thrillers & Suspense"). |
+
+> **Tausch-Hebel (Print):** Für die Dark-Comedy-Note: Genre Fiction › **Satire** *oder* Literature & Fiction › **Humor & Satire**. Für den Dread: Genre Fiction › **Psychological**.
 
 ---
 
-## 5. Die 7 Keywords (eBook-Setup) — Vorschlag
+## 4. Der eBook-vs-Print-Unterschied auf einen Blick
+
+| Kategorie | eBook-Pfad (Kindle) | Print-Pfad (Books) |
+|---|---|---|
+| **Suburban** | Literature & Fiction › Suburban | Literature & Fiction › **Genre Fiction** › Suburban |
+| **Small Town & Rural** | Literature & Fiction › Small Town & Rural | Literature & Fiction › **Genre Fiction** › Small Town & Rural |
+| **Crime** | Mystery, Thriller & Suspense › Thrillers › Crime | Mystery, Thriller & Suspense › Thrillers & Suspense › Crime |
+| **Dark Comedy** | Literature & Fiction › Humor & Satire › Black Humor | Literature & Fiction › Genre Fiction › Satire *(oder* Humor & Satire*)* |
+| **Psychological** | Mystery, Thriller & Suspense › Thrillers › Psychological | Literature & Fiction › Genre Fiction › Psychological |
+
+> Kernregel: **eBook = flacher** (viele Sub-Genres direkt unter Literature & Fiction). **Print = tiefer** (dieselben Sub-Genres meist unter Genre Fiction). Im KDP-Setup jeweils den *nächstpassenden* Eintrag im Dropdown wählen — die Labels stimmen, die Verschachtelung unterscheidet sich.
+
+---
+
+## 5. Backup-/Test-Kategorien (beide Formate)
+
+Wenn ein Slot nicht verfügbar ist oder zum A/B-Test:
+
+1. **Psychological** (eBook: Thrillers › Psychological / Print: Genre Fiction › Psychological) — schleichender Dread. *Achtung: „Thriller" kann Tempo-Erwartung wecken.*
+2. **Domestic** (eBook: Thrillers › Domestic) — Vorstadt/Nachbarn/Geheimnisse, aktuell sehr nachgefragt. *Aber: erwartet eher Ehe-/Familien-Psychothriller — Review-Risiko.*
+3. **Literary Fiction** (eBook: Literature & Fiction › Literary Fiction / Print: Genre Fiction › Literary) — die präzise Prosa. Sehr groß/umkämpft → sekundär.
+4. ⚠️ **Vigilante Justice / Assassinations** (eBook: Thrillers-Umfeld) — thematisch nah, aber weckt Selbstjustiz-/Action-Erwartung. **Nicht primär**, nur bewusster A/B-Test.
+
+---
+
+## 6. Die 7 Keywords (eBook-Setup) — Vorschlag
 
 Regel: Begriffe, die **Titel + Kategorien NICHT schon abdecken** (Titel „Uncommon Courtesy / Maple Lane" ist bereits indexiert; Small Town / Crime / Humor ebenso). Keywords sollen **neue** Such-Einstiege öffnen: Mood, Trope, Prämisse.
 
@@ -80,7 +103,7 @@ Regel: Begriffe, die **Titel + Kategorien NICHT schon abdecken** (Titel „Uncom
 
 ---
 
-## 6. Iteration nach Launch (Daten-getrieben)
+## 7. Iteration nach Launch (Daten-getrieben)
 
 - **Kategorie-Rank beobachten:** Steht das Buch in einer der 3 Kategorien dauerhaft auf S. 1, ist sie zu klein (gut für Badge) oder zu groß (unsichtbar)? Ggf. einen Slot tauschen.
 - **Keywords A/B:** Einzelne der 7 Phrasen nach ~4–6 Wochen gegen Alternativen tauschen, die aus den **Amazon-Such-Autosuggest** + den real funktionierenden **Ad-Suchbegriffen** stammen.
@@ -88,9 +111,10 @@ Regel: Begriffe, die **Titel + Kategorien NICHT schon abdecken** (Titel „Uncom
 
 ---
 
-## 7. Offen `[ENTSCHEIDEN]`
+## 8. Offen `[ENTSCHEIDEN]`
 
-- [ ] Slot 3: **Black Humor** vs. **Satire** vs. **Literary Fiction** (im Live-Dropdown vergleichen, was verfügbar + wie groß).
+- [ ] **eBook Slot 2:** Small Town & Rural (zweite Ortskategorie, zweite Badge-Chance) **vs.** Black Humor (Dark-Comedy-Differenzierung)?
+- [ ] **Suburban verfügbar?** Im KDP-Picker prüfen, ob „Suburban" wählbar ist (junge Kategorie). Falls nicht: Small Town & Rural als Slot 1.
 - [ ] Psychological **Thriller** testen ja/nein (Tempo-Erwartungs-Risiko).
-- [ ] Vigilante Justice als bewussten A/B-Test wagen ja/nein.
+- [ ] Vigilante Justice / Assassinations als bewussten A/B-Test wagen ja/nein.
 - [ ] Keyword #3 (`assassin living a quiet life`) — passt der Ton, oder lieber neutraler (`hitman wants a normal life`)?

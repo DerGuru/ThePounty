@@ -32,7 +32,7 @@ Für einen unbekannten Autor in einem schwer einsortierbaren Genre ist der härt
 
 ```mermaid
 flowchart LR
-    A[Look-Inside Sample<br/>~10% gratis] --> B[Band 1<br/>KU/0,99]
+    A[Look-Inside Sample<br/>~10 Prozent gratis] --> B[Band 1<br/>KU/0,99]
     B -->|Read-Through| C[Band 2<br/>Vollpreis]
     C -->|Read-Through| D[Band 3<br/>Vollpreis]
     N[Newsletter-Liste<br/>= dein Asset] -.Launch-Schub.-> B
@@ -76,7 +76,7 @@ Zwei Dinge gehören **dir** (nicht Amazon) und tragen jeden künftigen Launch: d
 - [ ] **Newsletter + Lead-Magnet.** Mailanbieter [ENTSCHEIDEN: z. B. MailerLite (kostenlos bis ~1.000) / EmailOctopus]. Lead-Magnet-Idee: **der Prolog** (Aldrics interner POV) oder eine exklusive Bonus-Szene gegen E-Mail. Landingpage simpel.
 - [ ] **ARC-/Review-Team aufbauen.** Ziel: 15–30 Leser, die am Launch-Tag ehrlich reviewen. Quellen: Genre-Gruppen (FB/Reddit r/suggestmeabook-Umfeld, Booksprout/StoryOrigin), wachsende Newsletter-Liste.
 - [ ] **Bestehende RoyalRoad-Leserschaft als Launch-Seed nutzen** (OHNE Maple Lane auf RR zu stellen): Autorenprofil + Autorennotizen der laufenden 7-teiligen Serie *Until The End* auf das KU-Buch + Newsletter verweisen. ⚠️ **Wichtig: kein Genre-Transfer.** *Until The End* = **Xianxia-basierte, dark-toned Progression Fantasy** — anderes Genre, anderer Store, anderes Format als Maple Lane (suburban-realistisch, kein Progression-Wrapper). Übertragbar ist NICHT das Genre, sondern (a) der **Autor-/Sensibilitäts-Follow** (dark-toned, character-driven, *tired-OP-Protagonist-der-Ruhe-will* — der MC von *Until The End* will, dass es endlich aufhört; Aldric will ein normales Leben: derselbe thematische Faden) und (b) Leser, die **dem Autor** folgen, nicht der Cultivation-Mechanik. Realistisch springt ein **Bruchteil** mit → warmer Seed, **kein** genre-passendes Massenpublikum.
-- [ ] **Kategorien & Keywords festlegen.** Konkrete Auswahl (3 Kategorien + 7 Keywords, mit Begründung, Backups & Policy-Regeln) in `Keywords_Kategorien.md`. Kern: **Small Town & Rural + Crime Fiction + Black Humor**; Action-lastige Kategorien bewusst meiden (slow burn).
+- [ ] **Kategorien & Keywords festlegen.** Konkrete Auswahl je Format (3 Kategorien eBook + Print getrennt, 7 Keywords, Begründung, Backups & Policy-Regeln) in `Keywords_Kategorien.md`. Kern: **Suburban + Small Town & Rural + Crime**; Action-lastige Kategorien bewusst meiden (slow burn).
 - [ ] **Editorial-Politur der ersten 10 %.** Das ist das Look-Inside-Sample = der „Prosa-muss-halten"-Test. Gnadenlos sauber.
 
 ---

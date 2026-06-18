@@ -57,12 +57,38 @@ Die Straße weiß nach Buch 2 um Aldrics andere Seite. Die Leitfrage kippt von *
 
 ---
 
-## Das Syndikat — der gesichtslose Rest
+## Das Syndikat — der dritte Akt (aus Buch 2 nach Buch 3 verschoben, Jun 2026)
 
-In Buch 2 bleibt das Geldwäsche-Syndikat bewusst **gesichtslos** (Struktur, kein Schurke); der überlebende Eigentümer (Buch-1-Auftrag) bleibt off-page.
-- Band 3 könnte ihm ein **Gesicht** geben (der Drahtzieher tritt hervor).
-- Oder die Drohung verlagert sich: nicht mehr Geldwäsche-Rache, sondern **Intelligence**, das Miranda entdeckt (s. Kernmysterium).
-- Calvey bleibt als Faden verfügbar (lebt, Allianz mit Aldric aus Buch 2, eigene Regel).
+> **Verschiebe-Entscheid (18. Jun 2026):** Der Syndikats-Überfall war ursprünglich Buch-2-Phase-D. Verschoben nach Buch 3, weil (a) er mit „Indulging Courtesy" (Aldrics Genuss/innere Gefahr) tonal konkurriert, (b) Buch 2 auf dem *verdienten* Höhepunkt enden soll (Mirandas Ausbruch + dessen Vertuschung), nicht auf einem Schießgefecht, und (c) die Serien-Eskalation sauberer wird: **Buch 1 ein Mann (Calvey) → Buch 2 der Feind von innen (Miranda + Aldrics Hochmut) → Buch 3 die Armee von außen (Syndikat) + die Allianz wird *durch* sie geschmiedet.** In Buch 2 bleibt nur ein **Samen** (ein ominöses Zeichen am Ende). Das volle Material steht ab hier bereit.
+
+**Kern:** Das Geldwäsche-Syndikat, dessen digitale Struktur Aldric im Sept. 2024 zerstörte (Buch-1-Auftrag B). Der **Eigentümer überlebte** = die Saat. Calvey (April 2025) war nur **Sondierung**; sein Bericht (*Ziel zu hart*) kaufte Zeit. Jetzt eskaliert es ernster/persönlicher. Aldrics Verwundbarkeit: echter Name, privat, nicht im Cover → auffindbar. Bleibt **gesichtslos** (Struktur, kein benannter Schurke; Eigentümer off-page — Band 3 kann ihm ein Gesicht geben oder die Drohung zu **Intelligence**/Miranda verlagern, s. Kernmysterium).
+
+**Die Allianz (Duell → Zweckallianz):**
+- **Miranda unterstützt — als Watcher, nicht als Kämpferin.** Anders als Aldric (Intelligence) und Calvey (Royal Marines) ist sie **nicht kampfausgebildet**; ihre Waffe ist Lesen/Beobachten. Erste echte Anwendung ihrer Verdrahtung *mit* statt *gegen* Aldric.
+- **Calvey kehrt zurück — auf Aldrics Seite.** Konto ausgeglichen (K45 Buch 1, Arm ~3 Monate wieder brauchbar); Respekt unter Regel-Menschen (Calveys *„a man who finishes"*). Calveys Motiv: Aldrics absurd-höfliches K45-Verhalten ging ihm nicht aus dem Kopf; es gibt schlimmere „Herren"; und er **wird bezahlt** (bleibt ein Job). Kein „Syndikat verbrennt Calvey" (verworfen).
+
+**Der Angriff (Klimax):**
+- **Team von sechs Profis**, drei Zweiergruppen: vier schlagen gleichzeitig aus mehreren Richtungen zu, zwei sichern draußen den Perimeter. Operativ nur **Aldric + Calvey**; **Miranda Watcher**.
+- **Schauplatz: Aldrics Haus #4** (Gerald-Sichtlinie von #3, dieselbe schräge Achse wie Buch-1-K45/K47; „dunkle Tür" = Wohnzimmer/Flur). **Geografie beim Schreiben verifizieren.**
+- **Reden zuerst:** Aldric gibt den Eindringlingen eine letzte friedliche Chance (Codex; Miranda + Calvey verstehen nicht, was er tut — Subtext-Komik in der Anspannung). **Gewalt gedeckt:** Die Eindringlinge eröffnen selbst das Feuer.
+- **Verletzungen:** Miranda **unverletzt** (Calvey dreht sie aus der Schusslinie und kassiert dabei **Beinschuss** + Streifschuss Oberarm + Kopfplatzwunde = Pech beim Schutzreflex, NICHT Unfähigkeit). Aldric unverletzt. Das **Angreifer**-Team ist schlampiger als bestellt (ungezielt, laut) → Kollateralgefahr für die Straße.
+- **Die zwei draußen — Aldric allein:** Er sagt Calvey an, dass er den Perimeter übernimmt, geht in die Dunkelheit. Was draußen passiert, sieht der Leser nur durch **Gerald (#3):** zwei Wachen, dann aus der dunklen Tür ein Blitz-Paar mit Pause (Zielwechsel) → beide fallen; dann zwei schnelle + zwei (Triplet je Ziel). **Callback Buch-1-K47:** damals der eine fehlgedeutete „Flash"; jetzt das volle Muster → Geralds Vindikation, er ruft die Polizei.
+- **Strickjacke & Foto:** Vor dem Blut legt Aldric **Marias gehäkelte Jacke** (Geschenk Buch-2-K9, abendliche Lese-/Akten-Jacke) in den Schrank — *kein Blut auf ein Geschenk*; eine verirrte Kugel ruiniert sie dort trotzdem. **Das gerahmte Gruppenfoto überlebt** (alte Bindung stirbt, Gemeinschaft bleibt). After-Climax: Aldric gesteht Maria den „Unfall", bestellt eine neue (voller Etsy-Preis). *(Dieser Objekt-Bogen wandert mit dem Syndikat nach Buch 3.)*
+
+**Die Polizei (durch Gerald):**
+- Gerald sieht den Überfall, **ruft die Polizei**; **Officer Kim** übernimmt (Maple Lane = ihr Revier), ist Minuten später da — alles vorbei, sie organisiert (CSI, Absperrung, bittet die drei in den Wagen, schickt weitere Streifen weg; Aldrics Haus gesperrt bis Spurensicherung durch).
+- **Die Kampfanzüge stellen die Fragen:** Szene nicht aufgeräumt; Angreifer in taktischer Ausrüstung (Einbrecher tragen das nicht). Offizielle Aussage aller drei: **Einbrecher, Notwehr** — wahr, aber unvollständig. Aldric-Deadpan: „I don't know why they were here. That baffles me as much as it does you, Officer Kim." Kim: „And you only defended yourselves? How did the three of you—" (Blick zu Miranda) „—the two of you fend off six men?" Aldric: „A fortunate turn of fate, you might say." Kim weiß, die Story ist zu dünn, kann nichts beweisen.
+
+**Tragische Ironie:** Geralds Anruf (eigentlich Misstrauen gegen Aldric) bringt die eine Polizistin, die Aldric deckt.
+
+**Der volle Wissens-Wandel gehört jetzt hierher:** Erst *dieser* Klimax bricht die dramatische Ironie öffentlich (Gerald sieht das Mündungsfeuer; die Straße kann nicht länger ganz ahnungslos bleiben). In Buch 2 findet nur ein **Teil**-Wandel statt (Kim/Gerald/Ms. Yuen ahnen mehr; die Straße bleibt weitgehend ahnungslos). Siehe Buch-2-`Storyline.md` → „Der Wissens-Wandel".
+
+---
+
+## Das Syndikat — Restnotizen
+
+- Calvey bleibt als Faden verfügbar (lebt, eigene Regel; Allianz wird in Buch 3 *geschmiedet*, nicht aus Buch 2 vorausgesetzt).
+- Alternativ/zusätzlich: die Drohung verlagert sich von Geldwäsche-Rache zu **Intelligence**, das Miranda entdeckt (s. Kernmysterium).
 
 ---
 

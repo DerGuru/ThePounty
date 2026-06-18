@@ -32,8 +32,8 @@
 ### Tamara Flynn (#19) — Das Frühlingsfest (wieder) ✓
 - **Kern:** Tamara organisiert **wieder das Frühlingsfest** (Echo Buch 1 K39). Anmeldelisten, WhatsApp-Gruppe, Newsletter, Clipboard-Rivalität mit Sandra (K39: „four feet apart, not quite facing each other").
 - **Rolle:** der **Comedy-Chor** der ahnungslosen Straße; ihre Fotos (sie druckte das Gruppenfoto K39 → K49-Rahmen) — ein möglicher Kanal auch in Buch 2.
-- **Dunkle Ironie (Empfehlung):** Die Festplanung **summt fröhlich weiter, genau während sich das Syndikat sammelt** (Phase D) — ahnungslose Normalität gegen Bedrohung (SoL-als-Kontrast, wie in Buch-1-Eskalation).
-- **⏳ Timing-Frage (s. u.):** Frühlingsfest = Frühling (Mär/Apr) — kollidiert mit der Konfrontations-Phase (K33–K35). Entweder bewusst als Kontrast dorthin, ODER das End-Community-Event (K47, Jul) ist ein **Sommer-Straßenfest** und das Frühlingsfest läuft separat im Frühling. **Zu bestätigen.**
+- **Dunkle Ironie (Empfehlung):** Die Festplanung **summt fröhlich weiter, genau während im Hintergrund der Fallout reift** (Phase D: Mirandas Ausbruch + dessen Vertuschung; das Syndikat selbst ist nach Buch 3 verschoben) — ahnungslose Normalität gegen Bedrohung (SoL-als-Kontrast, wie in Buch-1-Eskalation).
+- **✅ Timing geklärt:** Frühlingsfest = eigenes Kapitel **K34** (Sandra-POV, Ende März, direkt vor dem Test K35) — bewusst die Ruhe vor dem Sturm. Das **End-Community-Event = Sommer-Straßenfest K45** (Jul) läuft separat. (Frühling Mär/Apr; Park-Test/Konfrontation K35/36.)
 
 ---
 
@@ -46,8 +46,8 @@
 | **Sommer Jul–Aug 25** | Rasenmäher um 9:00 (Aldric-Uhrwerk), Citronella, Grillrauch, String-Lights | Miranda kommt an; Kenny job-sucht; Green-Hecke wächst; Markt/Kirche-Bühnen etabliert |
 | **Herbst Sep–Nov 25** | **Laub** (offener Aldric-SoL-Beat!), Kürbis/Halloween, früh dunkel | **Marcus Einschulung (K9, GANZES Kapitel)**; Halloween + Marcus wird 7 (K16); **Nadine-Spätschichten beginnen** (KH unterbesetzt); Kenny startet Job; Ms. Yuen erkennt das zweite Raubtier |
 | **Winter Dez–Feb 26** | Schnee schaufeln vor sechs, Kerze im Fenster, Rauch aus Kaminen | Weihnachten + Aldrics 2. Audit; Nadine-Schichten laufen; **Nr. 6 Kauf (K27)**; Poker (K30) |
-| **Frühling Mär–Apr 26** | nasse Erde, erste Triebe, Daffodils | **Tamara Frühlingsfest-Planung**; **Green/Chen-Hecke flammt auf**; Einbruch (K33); Park-Konfrontation (K34/35) |
-| **Sommer Mai–Jul 26** | Hochsommer, Hitze, lange Abende | Syndikat-Phase (D); End-Straßenfest (K47); Arcs landen |
+| **Frühling Mär–Apr 26** | nasse Erde, erste Triebe, Daffodils | **Tamara Frühlingsfest (K34, eigenes Kapitel)**; **Green/Chen-Hecke flammt auf**; Einbruch (K33); Park-Test/Konfrontation (K35/36) |
+| **Sommer Mai–Jul 26** | Hochsommer, Hitze, lange Abende | Fallout-Phase (D): Polizei/Kim/Vertuschung/Revier; End-Straßenfest (K45); Arcs landen; Syndikat-Samen |
 
 ---
 

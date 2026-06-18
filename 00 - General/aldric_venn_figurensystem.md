@@ -205,6 +205,8 @@ Gerald und Sandra sind seit 42 Jahren verheiratet. Hochzeitstag im Frühling.
 
 Gerald und Sandra reden zu Hause über Aldric — aber auf entgegengesetzte Weisen. Er wittert Gefahr, sie wittert Geheimnis. Szenen aus Sandras POV, in denen Gerald seine Theorien erklärt und sie die Augen verdreht, sind gleichzeitig Komik UND Geralds Charakterisierung durch eine andere Linse. Umgekehrt: Geralds POV zeigt Sandra als naiv — was der Leser besser weiß.
 
+**Buch 2 (Fortführung):** Sandra bekommt eine **zweite Dimension neben der Komik**: Maria bittet sie, einen Teil ihrer gewachsenen Häkelarbeit zu übernehmen (K34) — Sandras **erste echte, gewürdigte Aufgabe** (statt Geheimnis-Schnüffelei, die immer ins Leere lief). Sie braucht das Geld nicht; sie will **gebraucht** werden. **Hooper-Spiegel:** Während Gerald sich in **Angst** vergräbt (er *hat* gesehen, was nebenan wohnt), findet Sandra **Frieden im Häkeln** mit Maria — sie hat das Geheimnis **nie** gefunden und ist gerade dadurch die Glücklichere. Wissen vs. Nicht-Wissen, Furcht vs. Wärme.
+
 ---
 
 ### Maria Alvarez
@@ -266,6 +268,8 @@ Aldric bietet nicht an, den Zaun für sie zu streichen. Er bietet an, es zusamme
 8. **Marias Fenster** (Frühling): Sie sieht das fremde Auto. Sie sieht Aldric. Sie kennt ihn anders als die anderen — durch geteilte Arbeit, nicht Beobachtung. Sie bemerkt: er bewegt sich anders. Nicht nervös. Bereit. Sie weiß nicht wofür, aber sie weiß, dass es etwas ist. Und sie weiß, dass sie nicht die Person ist, die helfen kann. Das ist neu: zu wissen, was man nicht kann, ohne sich dafür zu hassen.
 
 9. **Danach** (Resolution): Sie streicht die Fensterrahmen. Allein. Ohne zu fragen. Die Scheidung ist durch — irgendwann im Frühling, leise, fast antiklimaktisch. Das Haus gehört ihr. Juristisch und praktisch. Sie hat Farbe an den Händen. Die richtige Farbe, die richtige Technik. Aldric hat ihr das nicht gezeigt. Aldric hat ihr gezeigt, dass sie es sich selbst zeigen kann.
+
+**Buch 2 (Fortführung):** Aus der Selbstwirksamkeit wird **Selbstbesitz im Tun**. Maria nimmt ihr **Crochet/Etsy** ernst; das Geschäft wächst über ihre Kapazität. Umkehr ihres Buch-1-Arcs: von der **Geholfenen zur Helfenden** — sie bittet **Sandra**, einen Teil der Häkelarbeit zu übernehmen (Frühlingsfest, K34). **Keine neuen Renovierungen** (Achse abgeschlossen); ihr Annäherungsversuch an Aldric läuft ins Leere, aber **nicht** schmerzhaft — sie hat etwas Eigenes. Sie macht weiter, soweit sie sich zutraut, wird aber nicht darauf reduziert. Details: `Storyline.md` → „Maria“.
 
 ---
 
