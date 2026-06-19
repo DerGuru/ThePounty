@@ -18,7 +18,7 @@ The trailer behind him was rented, standard size and conspicuously underfilled. 
 
 Number four. That was his.
 
-He pulled to the curb in a single motion and turned off the engine. The silence that followed was full of sprinklers, distant lawnmowers and a dog barking somewhere with the steady rhythm of an animal that barked at everything and had long stopped expecting results. He liked the dog already. He hoped it was large and poorly trained and belonged to someone who’d tell him its whole life story without being asked. He would introduce himself to the dog first. That was protocol. You always greeted the animal before the owner. It showed respect for the household.
+He pulled into the driveway in a single motion and turned off the engine. The silence that followed was full of sprinklers, distant lawnmowers and a dog barking somewhere with the steady rhythm of an animal that barked at everything and had long stopped expecting results. He liked the dog already. He hoped it was large and poorly trained and belonged to someone who’d tell him its whole life story without being asked. He would introduce himself to the dog first. That was protocol. You always greeted the animal before the owner. It showed respect for the household.
 
 He sat for a moment. Hands on the wheel. The leather warm from the drive.
 

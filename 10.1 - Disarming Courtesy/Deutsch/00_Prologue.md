@@ -2,13 +2,13 @@
 
 *Freitag, der 21. Juni 2024*
 
-Die letzten Meilen waren die besten. Flaches Land, das sich öffnete. Häuser, die kleiner wurden, weiter auseinanderrückten, dann wieder zu Siedlungen mit Namen zusammenfanden. Oak Ridge. Birchwood Estates. Maple Lane lag zwischen den beiden, was ihn amüsierte. Eine ganze Baumkunde im Umkreis von drei Meilen. Jemandem hatte es an Fantasie gefehlt. Oder jemand hatte Bäume sehr geliebt und entsprechend benannt. Die zweite Lesart gefiel ihm besser. Er bevorzugte immer die großzügige Lesart. Das war eine Regel.
+Die letzten Meilen waren die besten. Flaches Land, das sich öffnete. Häuser, die kleiner wurden, weiter auseinanderrückten und dann wieder zu Siedlungen mit Namen zusammenfanden. Oak Ridge. Birchwood Estates. Maple Lane lag zwischen den beiden, was ihn amüsierte. Eine ganze Baumkunde im Umkreis von drei Meilen. Jemandem hatte es an Fantasie gefehlt. Oder jemand hatte Bäume sehr geliebt und entsprechend benannt. Die zweite Lesart gefiel ihm besser. Er bevorzugte immer die großzügige Lesart. Das war eine Regel.
 
 Elfhundert Meilen hatten vierzehn Stunden gedauert. Er hätte es in zwölf geschafft, aber Tempolimits hatten ihren Grund, und der Grund war, dass andere Menschen unterwegs waren und es verdienten, heil anzukommen. Er hatte das Limit kein einziges Mal überschritten. Er hielt das für eine kleine Leistung. Nicht weil es schwer war — der Volvo lud nicht zum Rasen ein —, sondern weil Geduld, beständig geübt, eine Form von Respekt vor dem System war, in dem man sich bewegte.
 
 Seit der Tankstelle hinter Johnsonburg hatte er nichts gegessen. Ein Müsliriegel, nichts Besonderes, im Stehen neben dem Wagen verzehrt, während die Pumpe lief. Danach hatte er sich die Hände gesäubert. Zweimal. Einmal mit der Serviette aus der Verpackung. Einmal mit dem kleinen Fläschchen Desinfektionsmittel, das er im Handschuhfach aufbewahrte. Nicht wegen Keimen. Weil die Textur von verarbeitetem Zucker auf den Fingerspitzen ablenkte, und Ablenkung am Steuer war eine Unhöflichkeit gegenüber allen, die sich die Straße teilten.
 
-Aldric Venn bog an einem Freitagnachmittag Ende Juni um vierzehn Minuten nach zwei auf die Maple Lane ein. Das Erste, was ihm auffiel, war, dass jemand Ringelblumen in eine Reifenfelge gepflanzt hatte. Leuchtend orange, fast aggressiv vor dem weißen Zaun dahinter. Bewusst gesetzt. Er fand es gut. Er wollte wissen, wer. Heute würde er nicht fragen.
+Aldric Venn bog an einem Freitagnachmittag Ende Juni um vierzehn Minuten nach zwei auf die Maple Lane ein. Das Erste, was ihm auffiel, war, dass jemand Ringelblumen in einen alten Autoreifen gepflanzt hatte. Leuchtend orange, fast aggressiv vor dem weißen Zaun dahinter. Bewusst gesetzt. Er fand es gut. Er wollte wissen, wer. Heute würde er nicht fragen.
 
 Die Straße hatte Symmetrie. Weiße Zäune, alle gleich hoch. Einfahrten, alle gleich breit. Briefkästen in gleichmäßigen Abständen, aufrecht, frisch gestrichen. Die Rasenflächen waren grün auf jene bestimmte Weise, die Hingabe verlangte. Jemand in dieser Straße hatte Ansprüche. Mehrere vermutlich, die sie ohne Ausschuss durchsetzten. Das rechnete er ihnen an. Eine Nachbarschaft, die sich durch gegenseitige Erwartung statt durch Regeln auf Papier in Form hielt, war seiner Erfahrung nach die stärkste Sorte.
 
@@ -18,7 +18,7 @@ Der Anhänger hinter ihm war gemietet, Standardgröße und auffällig zu leer be
 
 Nummer vier. Das war seine.
 
-Er hielt in einer einzigen Bewegung am Bordstein und stellte den Motor ab. Die Stille, die folgte, war voll von Rasensprengern, fernen Rasenmähern und einem Hund, der irgendwo bellte, im gleichmäßigen Rhythmus eines Tiers, das alles anbellte und längst aufgehört hatte, sich davon etwas zu versprechen. Der Hund gefiel ihm schon jetzt. Er hoffte, er war groß und schlecht erzogen und gehörte jemandem, der ihm ungefragt seine ganze Lebensgeschichte erzählen würde. Dem Hund würde er sich zuerst vorstellen. So war das Protokoll. Man begrüßte immer das Tier vor dem Besitzer. Das zeigte Respekt vor dem Haushalt.
+Er hielt in einer einzigen Bewegung auf der Einfacht und stellte den Motor ab. Die Stille, die folgte, war voll von Rasensprengern, fernen Rasenmähern und einem Hund, der irgendwo bellte, im gleichmäßigen Rhythmus eines Tiers, das alles anbellte und längst aufgehört hatte, sich davon etwas zu versprechen. Der Hund gefiel ihm schon jetzt. Er hoffte, er war groß und schlecht erzogen und gehörte jemandem, der ihm ungefragt seine ganze Lebensgeschichte erzählen würde. Dem Hund würde er sich zuerst vorstellen. So war das Protokoll. Man begrüßte immer das Tier vor dem Besitzer. Das zeigte Respekt vor dem Haushalt.
 
 Er saß einen Moment. Hände am Lenkrad. Das Leder warm von der Fahrt.
 
