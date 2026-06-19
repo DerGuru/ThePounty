@@ -1,0 +1,65 @@
+# Epilog: Das Gruppenfoto
+
+*Samstag, der 21. Juni 2025*
+
+Der Abzug war bald nach dem Frühjahrsputz gekommen. Tamara Flynn hatte einen Umschlag durch seinen Briefschlitz geschoben, mit einem Notizzettel vorn, auf dem stand: *einer auch für Sie, weil Sie die Bretter geschnitten haben.* Er hatte ihn in die Schublade des Flurtisches gelegt und ihn dort mit Absicht gelassen. Ein Foto vom März, im März gerahmt, wäre ein Schnappschuss gewesen, und er wollte, dass es mehr als das war. Er hatte ein Datum im Sinn, wie er für die meisten Dinge ein Datum im Sinn hatte, und er hatte den Abzug in der Schublade warten lassen, bis das Datum kam, denn Geduld, die auf ein richtiges Ziel hin geübt wurde, war nicht dasselbe wie Aufschub, so ähnlich die beiden von außen auch aussahen.
+
+Das Datum war heute. Der Morgen des längsten Tages, auf den Tag genau ein Jahr, seit er den Volvo auf die Maple Lane gebogen hatte. Also trug er den Umschlag zum Kaminsims und öffnete ihn.
+
+Es war ein gutes Foto, für das, was es war. Tamara hatte vier gemacht und gut gewählt. Die ganze Straße stand im Mittagslicht eines Samstags im späten März vor der neuen Bank, die Sonne tief hinter ihnen. Keiner von ihnen war angeordnet, wie ein Fotograf sie anordnen würde, und alle waren angeordnet, wie eine Straße tatsächlich steht. Ms. Yuen in der Mitte der Bank, weil das ihr Platz war und alle es ohne ein Wort gewusst hatten. Marcus vorn mit seinem bemalten Gesicht. Sandra mitten im Satz, weil Sandra immer mitten im Satz war. Gerald am Ende der hinteren Reihe mit der Miene eines Mannes, der gegen sein besseres Urteil fotografiert wird. Dave, den Arm halb um Rosa. Maria, die in jenem Jahr gelernt hatte, einen Zaun zu streichen, stand im Foto, als hätte sie so viel Anrecht auf den Tag wie jeder andere, was sie hatte.
+
+Und am Ende der hinteren Reihe, neben Hector, ein Mann in einer grauen Strickjacke, der sich hatte dorthin stellen lassen.
+
+Er sah diesen Mann eine Weile an. Das Lächeln war eine halbe Sekunde zu spät gekommen, wie immer, und die Kamera hatte die halbe Sekunde eingefangen, sodass er unter ihnen stand und nicht ganz fertig aussah, ein Mann, der einen Ausdruck zusammensetzte, den er noch nicht vollendet hatte. Niemand sonst würde es bemerken. Er bemerkte es. Er hatte dieses Lächeln über zwanzig Jahre gebaut, und es kam immer noch einen Schlag hinter den anderen, und ein Foto war eine ehrliche Sache, und da war es.
+
+Er setzte den Abzug in den Rahmen.
+
+Er hatte den Rahmen gekauft, ehe er ein einziges Foto besaß, das er hineinstellen konnte, in der Woche seiner Ankunft, und ihn leer auf den Kaminsims gestellt, weil ein leerer Rahmen auf einem Kaminsims die Art Detail war, die ein vorsichtiger Mann anderen überließ, es sich selbst zu erklären. Sie hatten es sich das ganze Jahr selbst erklärt. Maria hatte an jemanden gedacht, den er verloren hatte. Gerald hatte es als Beweis für etwas betrachtet und aufgeschrieben. Sandra hatte es negativen Raum genannt. Rosa hatte einmal gesagt, er sei vielleicht für ein Foto, das er hier machen wollte, von etwas, das noch nicht geschehen war.
+
+Rosa hatte recht gehabt. Er hatte das, als sie es sagte, mit einer kleinen, stillen Anerkennung abgelegt, dass sie von allen am meisten sah und am wenigsten ahnte, was eine eigene Art von Klugheit war.
+
+*Ich habe das Richtige noch nicht gefunden.* Das hatte er auf der Einzugsparty zu Maria gesagt, vor allen, und es genau so gemeint, und es ihnen als Trauer durchgehen lassen. Es war keine Trauer gewesen. Es war eine Tatsachenfeststellung über ein Foto gewesen, das nicht existierte, weil die Straße, die es enthalten würde, noch nicht existierte, nicht als ein Ding, in dem er drin war. Man konnte keinen Ort fotografieren, in dem man gerade erst angekommen war. Man musste warten, bis er sich um einen geschlossen hatte, bis man eine der Gestalten im Mittagslicht war und nicht der Mann, der die Kamera hielt. Das dauerte ein Jahr.
+
+Er rückte den Rahmen mittig auf den Kaminsims. Er trat zurück und prüfte ihn aus dem Winkel, den der Raum einem bot, der zur Vordertür hereinkam. Er richtete ihn aus. Besser.
+
+Die Straße war jetzt im Rahmen. Alles davon. Er stand einen Moment länger in seinem Wohnzimmer, als die Aufgabe verlangte, und erlaubte sich, das fertige Ding anzusehen, was eine Erlaubnis war, die er sich nicht oft gewährte, denn fertige Dinge anzusehen war der Weg, auf dem Männer zu glauben kamen, sie seien fertig. Er war nicht fertig. Aber der Rahmen war voll, und er war voll mit dem richtigen Foto, und er hatte nicht erwartet, elfhundert Meilen zuvor, dass das richtige Foto ihn darin haben würde. Er hatte nicht erwartet, auf dem Bild zu sein. Er hatte nicht erwartet, es zu mögen.
+
+Er hatte es gemocht. Das war der Teil, den er jetzt hin- und herwendete, sorgfältig, wie er alles hin- und herwendete. Er war hergekommen, um eine Sache zu tun, was verlangte, dass er ein Nachbar war. Er war ein Nachbar mit seiner ganzen Aufmerksamkeit gewesen, weil halbe Aufmerksamkeit unhöflich war und er keine unhöflichen Dinge tat. Aber irgendwo im vergangenen Jahr hatten die Rolle und der Mann aufgehört, sich trennen zu lassen. Das Lächeln kam immer noch spät. Aber es kam.
+
+Das war es wert, über sich selbst zu wissen. Er legte es ab. Er würde es im Dezember ordentlich untersuchen, wenn er alles untersuchte.
+
+Dann ging er und holte das andere Ding.
+
+Es war oben, im Schrank, hinter der Decke, die nach Lavendel roch, in dem flachen Koffer, den er am Tag seiner Ankunft zuerst hereingetragen und seither vor niemandem geöffnet hatte. Er öffnete ihn jetzt nicht. Er nahm von obenauf eine einzelne Mappe, schmal, ohne Beschriftung, die Art schlichter Bindung, die ein Mensch abends auf einer Veranda flüchtig ansehen und für ein Bibliotheksbuch halten könnte. Er hatte sie an vielen Abenden auf der Veranda gelesen, in Marias Strickjacke, während die Straße sich erzählte, er sei ein Mann, der gern im Freien las. Er kannte sie fast auswendig. Er nahm sie trotzdem heraus. Manche Dinge sah ein Mann sich direkt an, ehe er begann, selbst wenn er sie im Gedächtnis hatte, denn das Gedächtnis glättete die Kanten, die ein Anfang scharf gehalten haben wollte.
+
+Er stand im vorderen Raum, die Mappe in der Hand und das Foto auf dem Kaminsims, und ließ die beiden zusammen im Raum sein, denn sie waren die zwei Hälften des Jahres, und es war ehrlich, sie in demselben Blick zu halten. Die Straße, gerahmt. Der Name, in der Mappe. Eines fertig. Eines nicht begonnen.
+
+Er hatte den Namen elfhundert Meilen getragen. Ein sterbender Mann hatte ihn ihm gegeben, in einem Raum, den er nicht einmal in Gedanken wieder aufsuchte, weil Wiederaufsuchen keine Funktion erfüllte, und der sterbende Mann hatte gesagt *sieh sie dir an*, und dann hatte er gesagt *tu, was du für richtig hältst*, und Aldric hatte gesagt *Ich tue es*, was ein Versprechen war, und ein gegebenes Versprechen war endgültig. Das war die älteste Regel. Sie ging allen anderen voraus. Die anderen waren Architektur. Diese war Fundament.
+
+Er hatte sie im Mai gefunden, obwohl er seit dem Winter fast sicher gewesen war, seit ein Priester zwei Straßen weiter eine junge Frau hinten in seiner Kirche erwähnt hatte, die höflich und aufmerksam war und sehr wenig sagte und ihn, hatte der Priester gesagt, ein wenig an Aldric selbst erinnerte. Aldric hatte es ohne eine Veränderung im Gesicht abgelegt und das Gespräch über einen Heizkessel zu Ende geführt und war am folgenden Sonntag zum Gottesdienst gegangen. Nicht für den Gottesdienst — für sie. Er hatte sie gesehen und war fast sicher gewesen. Die Monate seither waren Bestätigung gewesen. Bestätigung war langsame Arbeit, und er hatte sie nicht überstürzt. Man überstürzte keine Sache, die man richtig machen wollte, und er wollte diese richtig machen, was richtig auch sein mochte.
+
+Er legte alles zurück, wohin es gehörte, und nahm die Autoschlüssel.
+
+Draußen war der Morgen von der Art, die der Juni gelegentlich hervorbrachte und an die die Leute den ganzen Winter dachten, klares Licht und ein Himmel ohne Klage. Er ging zum Volvo. Geralds Jalousie stand in ihrem Winkel auf der anderen Straßenseite, und Aldric hob ihr eine Hand, ohne hinzusehen, denn ein Mann, der von einem Fenster aus beobachtete, verdiente Anerkennung so sehr wie ein Mann, dem man auf einem Weg begegnete, und Gerald verdiente sie mehr als die meisten für seine Hartnäckigkeit, die Aldric achtete, wie er alles achtete, das gründlich und ohne Belohnung getan wurde. Die Jalousie bewegte sich nicht. Das war in Ordnung. Das Winken war nicht für eine Antwort.
+
+Er fuhr unter dem Limit hinaus. Am Spielplatz am Ende vorbei, zwei Schaukeln und eine Rutsche und ein Klettergerüst, die Straße endete in einer Einladung, wie sie es am Tag seiner Ankunft getan hatte. Links an der Ecke. Dann die paar Minuten gewöhnlicher Straßen, die seine Straße von ihrer trennten, die nicht viele waren, denn die Spule des ganzen langen Fadens hatte sich am Ende auf eine Entfernung abgewickelt, die ein Mann zurücklegen konnte, ehe sein Kaffee kalt wurde.
+
+Er parkte gut zurück, wo ein grauer Volvo kein Ereignis war, und ging den Rest des Wegs zu dem kleinen Park, wo samstagmorgens der Bauernmarkt abgehalten wurde, frühe Tomaten und Salat auf Holzböcken, ein Mann, der Brot aus dem Heck eines Lieferwagens verkaufte. Er kaufte nichts. Er stand nahe dem Brotwagen, was einem Mann einen Grund zum Stehen gab, und er sah über die Stände, und er fand sie ohne Mühe, weil er seit einem Monat wusste, wo er sie finden würde.
+
+Sie war am Gemüsestand. Mitte dreißig. Unauffällig, was bei ihr eine eigene Art Auffälligkeit war, gekleidet, um nicht gesehen zu werden, und es schaffend, für jeden außer ihm. Sie kaufte Tomaten. Sie nahm sie eine nach der anderen in die Hand, und sie wählte sie, sah er, nicht auf die Weise, wie die Frau neben ihr sie wählte, nach Farbe, nach Nachgiebigkeit. Sie beobachtete den Mann hinter dem Stand. Sie hatte ihn dabei ertappt, wie er der Kundin vor ihr zu wenig auswog, und sie entschied, was sie dagegen tun würde, und sie hatte sich noch nicht entschieden, und nichts in ihrem Gesicht zeigte etwas davon.
+
+Er kannte diese Stille. Er hatte sie selbst an einem Marktstand getragen, im Herbst, wegen fünfundzwanzig Cent und eines Mannes namens Ray. Er hatte eine Regel dafür. Sie, vermutete er, hatte keine. Sie hatte die Veranlagung und die Verdrahtung und das Auge und keine Architektur um irgendetwas davon, nichts, das ihr sagte, wo die Linie verlief, nur dieselbe Maschine, mit der er geboren worden war, die ohne einen Zaun darum lief.
+
+*Sieh sie dir an.*
+
+Er sah hin. Er hatte ein Jahr lang hingesehen. Der sterbende Mann hatte nicht gesagt, was er sehen sollte, und Aldric sah jetzt, was es zu sehen gab, was ein Mensch war, gebaut, wie er gebaut war, der am Rand einer kleinen Entscheidung stand, ohne eine Regel, die sie auffing, und hinter dieser kleinen Entscheidung ein Leben voller größerer, die auf sie zukamen, wie sie auf jeden zukamen, nur dass sie ihnen mit seiner Ausrüstung begegnen würde und nicht mit ihrer.
+
+Sie bezahlte die Tomaten. Sie sagte etwas zum Standbesitzer, leise, freundlich, und das Gesicht des Mannes tat etwas Kompliziertes, und sie ging weiter die Wiese hinunter zum Obststand, wo die ersten Kirschen neben den letzten Erdbeeren eingetroffen waren. Er folgte am Rand der Wiese, ein langsames Treiben, das sie in Sicht hielt, ohne ihr je näher zu kommen. Er sah zu, wie sie die Kirschen mit derselben Sorgfalt umwendete, die sie der Waage gegeben hatte, nichts kaufend, die Hände beschäftigt, damit der Rest von ihr still sein konnte. Er würde nicht herantreten. Heute war nicht zum Herantreten, nur zum Hinsehen. Er hatte keine Eile. Eile war, wie man Dinge falsch machte.
+
+Er hatte sie gefunden. Die Suche war vorbei. Das war eine Sache geschlossen, und er erlaubte sich, sie als geschlossen zu vermerken, wie er sich erlaubt hatte, das Foto anzusehen, kurz, und dann abzulegen.
+
+Die andere Sache hatte nicht begonnen. Er konnte ihre Größe spüren, so, wie man das Gewicht eines Koffers spürt, ehe man ihn hebt, und er wusste noch nicht, was er tun würde. Er wusste noch nicht genug, und eine Entscheidung, vor dem Wissen getroffen, war nur eine Vorliebe im Mantel einer Entscheidung.
+
+Er würde sie lernen. Er würde sie verstehen. Und dann würde er tun, was er für richtig hielt, was immer sich das als erweisen würde, und er würde das Versprechen halten, wie er sie alle hielt, vollständig, denn ein gegebenes Wort war endgültig, und dieses war dem einzigen Mann gegeben worden, der ihn je klar gesehen und nichts dagegen gehabt hatte, was er sah.
+
+Er ging zurück zum Volvo und fuhr nach Hause. Er machte Tee. Er saß im Stuhl am Südfenster, zur Straße gewinkelt, aber ihr nicht zugewandt, sichtbar, aber nicht zur Schau gestellt, ein Mann zu Hause an einem Samstag. Auf der anderen Straßenseite bewegte sich ein Vorhang und war still. Die Straße hinunter sprang ein Rasensprenger an. Irgendwo bellte ein Hund, der ein Jahr lang alles angebellt hatte, jetzt etwas an, ohne viel Hoffnung auf ein Ergebnis, und er merkte, dass er den Hund immer noch mochte.
