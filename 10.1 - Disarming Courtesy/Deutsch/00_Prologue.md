@@ -2,7 +2,7 @@
 
 *Freitag, der 21. Juni 2024*
 
-Die letzten Meilen waren die besten. Flaches Land, das sich öffnete. Häuser, die kleiner wurden, weiter auseinanderrückten und dann wieder zu Siedlungen mit Namen zusammenfanden. Oak Ridge. Birchwood Estates. Maple Lane lag zwischen den beiden, was ihn amüsierte. Eine ganze Baumkunde im Umkreis von drei Meilen. Jemandem hatte es an Fantasie gefehlt. Oder jemand hatte Bäume sehr geliebt und entsprechend benannt. Die zweite Lesart gefiel ihm besser. Er bevorzugte immer die großzügige Lesart. Das war eine Regel.
+Die letzten Meilen waren die besten. Flaches Land, das sich öffnete. Häuser, die kleiner wurden, weiter auseinanderrückten und dann wieder zu Siedlungen mit Namen zusammenfanden. Oak Ridge. Birchwood. Maple Lane lag dazwischen. Er lächelte. Eine ganze Baumkunde im Umkreis von drei Meilen. Jemandem hatte es an Fantasie gefehlt. Oder jemand hatte Bäume sehr geliebt und entsprechend benannt. Die zweite Lesart gefiel ihm besser. Er bevorzugte immer die großzügige Lesart. Das war eine Regel.
 
 Elfhundert Meilen hatten vierzehn Stunden gedauert. Er hätte es in zwölf geschafft, aber Tempolimits hatten ihren Grund, und der Grund war, dass andere Menschen unterwegs waren und es verdienten, heil anzukommen. Er hatte das Limit kein einziges Mal überschritten. Er hielt das für eine kleine Leistung. Nicht weil es schwer war — der Volvo lud nicht zum Rasen ein —, sondern weil Geduld, beständig geübt, eine Form von Respekt vor dem System war, in dem man sich bewegte.
 
