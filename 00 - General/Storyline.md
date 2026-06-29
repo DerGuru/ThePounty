@@ -1,6 +1,6 @@
-# Storyline — Buch 2 *(Arbeitstitel: „Cat and Mouse")*
+# Storyline — Buch 2 *(„Indulging Courtesy")*
 
-> **Serie:** Uncommon Courtesy · **Buch 2** — Arbeitstitel **„Cat and Mouse"** *(de: „Katz und Maus"; gängige Phrase, finaler Titel TBD)*
+> **Serie:** Uncommon Courtesy · **Buch 2** — Titel **„Indulging Courtesy"** *(final, Juni 2026; s. `06 - KDP/Serie_und_Titel.md`)*
 > *Buch-1-Storyline liegt archiviert unter `10.1 - Maple Lane/Background/Storyline.md`.*
 >
 > **STATUS: Volles Gerüst (Juni 2026).** Eröffnungsbogen (Prolog–K3) fest + datumsverifiziert; Mittelteil/Ende als ausgearbeitetes Skelett (Funktionen fest, Einzeldaten/Wochentage werden beim Schreiben jedes Kapitels verifiziert).
@@ -338,4 +338,4 @@ Sie liest ihn auch — nicht vollständig (er ist zwanzig Jahre geübter), aber 
 - **Wie viel erfährt Miranda** über den Anderen / das „Buch" bis Buchende? (Vorerst Kanon: nur *dass* es ein Versprechen gibt + Empfänger tot.)
 - **Exakte Datierung** aller Kapitel ab K4 (Wochentage beim Schreiben verifizieren; Monatsanker stehen).
 - **Mittelteil-Feindetails** (K4–K34): einzelne SoL-/Spiel-Beats, Pokerabende, Markt/Kirche, #6-Vorbereitung.
-- **Finaler Titel Buch 2** (Arbeitstitel „Cat and Mouse").
+- ✅ **Titel Buch 2 = „Indulging Courtesy"** (final, Juni 2026; s. `06 - KDP/Serie_und_Titel.md`).

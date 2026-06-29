@@ -98,7 +98,7 @@ Miranda **[KANON-Tendenz]**: *Sie hat nie ein Regelwerk gebraucht. Das ist nicht
 *Aldric reist mit drei Kisten, leerem Rahmen und Metallkiste. Mirandas „Inventar" ist bewusst leichter / unbestimmter — sie hat kein Versprechen mitgebracht, keine Akte, kein System.*
 - **[KANON] Die leere Wohnung (Linden St 15, on-page in K15, Gerald-POV):** Ihre Mietwohnung ist fast kahl — **so leer wie Aldrics drei Kisten beim Einzug** (bewusster Buch-1-Reim). Der Unterschied: **sie hat die bessere, harmlose Erklärung.** Sie reist ständig für Marrick (Interviews vor Ort, Zahlen sind digital), reist deshalb mit dem Nötigsten und **mietet möbliert**. Gerald nimmt die Erklärung an (er mag sie) — und erklärt bei ihr genau das Signal weg, über das er sich bei Aldric den Kopf zerbricht (dramatische Ironie, Spiegel K32). Für den Leser bleibt das Unbehagen.
 - **[KANON] Der Hauskauf (Nr. 6) ist für sie auch eine *Investition*** — nicht nur Nähe zur Beute. **Finanziert aus dem Poker** (ihre Nebenquelle; s. Beruf). Die Nomadin, die nie auspackt, legt zum ersten Mal Geld in Wände — das macht den Turn doppelt bedeutsam (emotional *und* finanziell bricht sie ihr Muster).
-- **[OFFEN]** Hat sie zusätzlich ein Äquivalent zum leeren Rahmen (ein unbeantwortetes Objekt) / eine eigene „Metallkiste"? Siehe Abschnitt 16.
+- **[KANON, 29. Jun 2026] KEIN Äquivalent zum leeren Rahmen.** Miranda hat **kein** unbeantwortetes Symbol-Objekt und **keine** „Metallkiste". Sie ist ein anderer Typ Mensch als Aldric: kein Ritual, kein gehütetes Zeichen, kein mitgeschlepptes Versprechen. Ihre Leere zeigt sich **nicht** in einem Gegenstand, sondern im Zustand — der halb gepackte Koffer, die kahle Mietwohnung, das Weiterziehen. (Abschnitt 16 entsprechend geschlossen.)
 
 -----
 

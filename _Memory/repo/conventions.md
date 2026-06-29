@@ -1,4 +1,4 @@
-# ThePounty — Manuskript-Konventionen (Serie "Uncommon Courtesy")
+1# ThePounty — Manuskript-Konventionen (Serie "Uncommon Courtesy")
 
 ## ⚠️ Projektstruktur (geändert Juni 2026 — Buch 1 abgeschlossen & archiviert)
 - **Serie** = "Uncommon Courtesy" (Dach). **Buch 1 = "Maple Lane"** (Titel durch Ordnerbenennung bestätigt; finale Schreibweise s. `/memories/repo/open_questions.md`).

@@ -21,6 +21,7 @@
 - **Aldric-Winkel (sparsam):** ein präziser, angemessener Beitrag — z. B. er fährt die Zwillinge einmal mit zur Schule / repariert beiläufig Nadines Auto, damit sie nicht zu spät zur Schicht kommt. Mounty, ohne sich aufzudrängen.
 - **Miranda-Winkel (ENTSCHIEDEN):** Sie **sagt zu und hilft** — gezeigt nur **von außen** (sie hat keinen POV): Rosa/Sandra/Nadine sehen, wie die Zwillinge zu Miranda gebracht werden oder Miranda zu Nadines Haus geht. **Liegt nach dem #6-Kauf** (ab K27/Winter; u. a. K34-Frühlingsfest, wo sie die Zwillinge dabei hat). **Voraussetzung (Setup Herbst/Winter):** Miranda hat vorher **sichtbar mit den Zwillingen interagiert**, sie **mögen sie** — sonst trägt der Beat nicht. Doppelbödig: warm und einnehmend, und doch die Frau, deren Leine Wochen später reißt (K35).
 - **Funktion:** warme Gegenseitigkeits-Textur; zeigt die Straße als Organismus; low stakes.
+- **✅ Darstellung (29. Jun): Embedding** (gezeigt, nicht erzählt) — der Arc läuft über eingestreute Beats in mehreren Kapiteln. **Im Zweifel ein eigenes Kapitel mit passendem POV** (Nadine selbst oder Rosa), falls der Strang sonst zu verstreut bliebe, um zu tragen.
 
 ### Mr. Green (#7) vs. Chens (#5) — Die Hecke über dem Zaun ✓
 - **Konflikt:** Green beschwert sich, dass die **Büsche der Chens über den gemeinsamen Zaun** auf sein Grundstück ragen. (#5 und #7 = beide Südseite, direkt benachbart, geteilte Grundstücksgrenze.)
@@ -34,6 +35,7 @@
 - **Rolle:** der **Comedy-Chor** der ahnungslosen Straße; ihre Fotos (sie druckte das Gruppenfoto K39 → K49-Rahmen) — ein möglicher Kanal auch in Buch 2.
 - **Dunkle Ironie (Empfehlung):** Die Festplanung **summt fröhlich weiter, genau während im Hintergrund der Fallout reift** (Phase D: Mirandas Ausbruch + dessen Vertuschung; das Syndikat selbst ist nach Buch 3 verschoben) — ahnungslose Normalität gegen Bedrohung (SoL-als-Kontrast, wie in Buch-1-Eskalation).
 - **✅ Timing geklärt:** Frühlingsfest = eigenes Kapitel **K34** (Sandra-POV, Ende März, direkt vor dem Test K35) — bewusst die Ruhe vor dem Sturm. Das **End-Community-Event = Sommer-Straßenfest K45** (Jul) läuft separat. (Frühling Mär/Apr; Park-Test/Konfrontation K35/36.)
+- **✅ Vorlauf (29. Jun):** Tamaras Organisations-Aufbau (Anmeldelisten, WhatsApp-Gruppe, Clipboard-Rivalität) wird **nicht als eigener Strang** aufgebaut, sondern als **eingestreute Absätze / Gesprächsgegenstand** in anderen Kapiteln vor K34 verteilt (Hintergrund-Summen, kein Bühnenstrang).
 
 ---
 
