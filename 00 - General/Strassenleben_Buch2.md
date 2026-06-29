@@ -66,7 +66,7 @@
 
 ## Kinder werden älter (ehrliche POV-Linsen)
 
-- **Lina Ortega (10 → 11):** kritischer, eigener Kopf. Nachhilfe durch Miranda (K10) → Bindung → Bully-Ziel (K34). Bleibt unverletzt, sieht den Ausbruch nicht.
+- **Lina Ortega (10 → 11):** kritischer, eigener Kopf. Nachhilfe durch Miranda (K10) → Bindung → Bully-Ziel (K35). Bleibt unverletzt, sieht den Ausbruch nicht.
 - **Marcus Ortega (6 → 7):** **Einschulung = GANZES Kapitel (K9, Rosa-POV)** — der erste Schultag, das Loslassen der Mutter, das Kind, das bisher nur spielen durfte. Wird **7** am 16. Okt (K16, Halloween-nah). Findet im Frühjahr seinen Platz (K32). *(Geboren 16. Okt 2018 — s. Hinweis unten.)*
 - **Solis-Zwillinge (~6):** Nadine-Arc; **mögen Miranda** (sie performt Wärme) — Voraussetzung für die Babysitter-Hilfe (K34). Nur Tiere misstrauen ihr, Kinder nicht.
 - **Green-Tochter (15 → 16):** schwieriger Teenager, Bassmusik bis spät — Hintergrund-Reibung.
@@ -82,5 +82,5 @@
 
 ---
 
-## ⚠️ Kanon-Hinweis (zu bestätigen)
-- **Marcus' Geburtsjahr:** Manuskript Buch 1, Kap. 18 „Marcus Turns Six" (*Sa, 19. Okt 2024*) → Marcus **geboren 16. Okt 2018**, nicht 2019. `aldric_venn_figurensystem.md` (Geburtstagstabelle: „2019, Alter 2024 = 5") ist **fehlerhaft** und sollte auf **2018 / Alter 6** korrigiert werden. Folge stimmt dann: Okt 2025 → wird **7** (Buch-2-K16 korrekt). **Noch nicht geändert — Freigabe abwarten.**
+## ✅ Kanon-Hinweis (erledigt)
+- **Marcus' Geburtsjahr:** Manuskript Buch 1, Kap. 18 „Marcus Turns Six" (*Sa, 19. Okt 2024*) → Marcus **geboren 16. Okt 2018**, nicht 2019. `aldric_venn_figurensystem.md` (Geburtstagstabelle: „2019, Alter 2024 = 5") ist **fehlerhaft** und sollte auf **2018 / Alter 6** korrigiert werden. Folge stimmt dann: Okt 2025 → wird **7** (Buch-2-K16 korrekt). **✅ Erledigt (Juni 2026): `aldric_venn_figurensystem.md` auf 2018 / Alter 6 korrigiert.**

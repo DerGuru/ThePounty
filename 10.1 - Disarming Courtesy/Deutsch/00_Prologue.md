@@ -22,7 +22,7 @@ Er hielt in einer einzigen Bewegung auf der Einfacht und stellte den Motor ab. D
 
 Er saß einen Moment. Hände am Lenkrad. Das Leder warm von der Fahrt.
 
-Das Nachbarhaus hatte eine Flagge. Etwas mit einem Vogel darauf. Eine persönliche Wahl, öffentlich zur Schau gestellt. Beim übernächsten ein Windspiel aus Löffeln. Jemand hatte es gebastelt und dort aufgehängt, wo die ganze Straße es hören konnte. Das verlangte Selbstvertrauen. Das imponierte ihm ungemein.
+Das Nachbarhaus hatte eine Flagge. Etwas mit einem Vogel darauf. Eine persönliche Wahl, öffentlich zur Schau gestellt. Beim übernächsten ein Windspiel aus Löffeln. Jemand hatte es gebastelt und dort aufgehängt, wo die ganze Straße es hören konnte. Das verlangte Selbstvertrauen und verdiente Respekt.
 
 Sein Haus war bescheiden, beige, mit einer Veranda, die sich vorn halb herumzog. Die Vormieter hatten einen Schaukelstuhl zurückgelassen. Das war eine freundliche Geste, einem Fremden etwas dazulassen. Er würde herausfinden, wer sie waren. Er würde ihnen ein paar Zeilen schreiben. Richtige, auf Papier, mit seinem Namen und einer Erwähnung des Schaukelstuhls, damit sie wussten, dass es keine Floskel war. Menschen hatten ein Recht zu erfahren, wenn sie etwas Freundliches getan hatten. Allgemeiner Dank war schlimmer als gar keiner.
 

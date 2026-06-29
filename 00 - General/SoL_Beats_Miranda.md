@@ -33,7 +33,7 @@
 
 | Beat | Was die Nachbarn sehen | Was es verrät | Wer bemerkt es |
 |------|------------------------|---------------|----------------|
-| **Muay-Thai / Schattenboxen** | Frühmorgens oder spätabends bewegt sich in der kahlen Wohnung (später #6) eine Frau im Halbdunkel — schnelle, exakte Kombinationen, kein Ton, keine Musik. Saubere Handwraps. | Trainierte, kalte Gewalt als eigenes Uhrwerk (Spiegel zu Aldrics 9-Uhr-Garten). Setup für K34. | Gerald (von #3 auf #6, nach Kauf); Joggerin Tamara einmal im Vorbeigehen |
+| **Muay-Thai / Schattenboxen** | Frühmorgens oder spätabends bewegt sich in der kahlen Wohnung (später #6) eine Frau im Halbdunkel — schnelle, exakte Kombinationen, kein Ton, keine Musik. Saubere Handwraps. | Trainierte, kalte Gewalt als eigenes Uhrwerk (Spiegel zu Aldrics 9-Uhr-Garten). Setup für K35. | Gerald (von #3 auf #6, nach Kauf); Joggerin Tamara einmal im Vorbeigehen |
 | **Kocht nicht / Takeout / Markt** | Pappschachteln im Müll, isst am Markt im Stehen, Kühlschrank leer bis auf Getränke. | Sie performt keine Häuslichkeit. Das Gegenteil von Aldrics Küche. | Rosa (lädt sie zum Essen — „du musst ja *mal* warm essen"); Maria |
 | **Poker** | Spätnachts Licht; einmal die Woche fährt sie weg („Kartenabend"). Zählt Wechselgeld blind, rechnet im Kopf mit. | Liest Menschen für Geld; Nomaden-Motor; finanziert #6. | Dave (sieht sie spät zurückkommen); Gerald |
 | **Halb gepackter Koffer** | Eine Reisetasche steht immer griffbereit; sie packt nie ganz aus. | „Ich bleibe nicht." Bricht erst mit dem #6-Kauf — und selbst dann zögernd. | Gerald (K15, Linden St 15) |
@@ -49,7 +49,7 @@
 | Beat | Geplante Verortung | Kontext |
 |------|--------|---------|
 | **Der Hund (#7) weicht ihr aus** | früh (Sommer/Herbst), Ms.-Yuen-Kapitel (K5/K17) | Der Hund bellt alle an, **außer Aldric** (K5, lässt sich von ihm streicheln). **Miranda** bellt er nicht an — er **weicht ihr aktiv aus**, leises Knurren, lässt sich nicht anfassen. Der eine Tier-Tell, der *beide* Raubtiere markiert UND ihren Unterschied: Aldric performt Sicherheit gut genug, dass das Tier ihn annimmt; Miranda nicht. Ms. Yuen registriert beides. |
-| **Lina-Nachhilfe** | K10 (Sep 25) | Ihre „zu gut, aber messy"-Wärme. Hilft wirklich — aber zu erwachsen, zu direkt: *„Stop playing to the teacher. Be right. Then it doesn't matter what she thinks."* Effektiv, leicht daneben. **Bindung Miranda–Lina** entsteht (Zünder für K34). |
+| **Lina-Nachhilfe** | K10 (Sep 25) | Ihre „zu gut, aber messy"-Wärme. Hilft wirklich — aber zu erwachsen, zu direkt: *„Stop playing to the teacher. Be right. Then it doesn't matter what she thinks."* Effektiv, leicht daneben. **Bindung Miranda–Lina** entsteht (Zünder für K35). |
 | **Markt** | Prolog + wiederkehrend | Fängt den Marktmann beim Falsch-Wiegen (Ray-Echo). Legt einen leisen Boden in Höflichkeit: *„Fair scale today. I'll know next week."* Geteilter Schauplatz mit Aldric. |
 | **Kirche** | Prolog/K1 + sonntags | Kopiert die Liturgie **einen Takt zu spät** (K50-Kanon) — kniet/steht/findet das Lied nach allen. Tarnung, die fast auffällt. Ihr Beobachtungsposten (hintere Reihe → bricht in K1 das Muster, sitzt vorn bei den Ortegas). |
 | **Pokerabend in town** | vor K30 etabliert, dann K30 (Aldric kommt mit) | Eigene Spiele, bevor Aldric mitkommt. In K30 zwei Tell-Leser am selben Tisch. |
